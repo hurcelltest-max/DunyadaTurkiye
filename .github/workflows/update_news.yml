@@ -6,6 +6,9 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch: # Manuel olarak butona basarak da tetiklenebilir
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
