@@ -1,0 +1,35 @@
+name: Otomatik Haber Guncelleme
+
+on:
+  schedule:
+    # Her 2 saatte bir çalıştırır
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Manuel olarak butona basarak da tetiklenebilir
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Depoyu Klonla
+      uses: actions/checkout@v3
+
+    - name: Python Ortamini Kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Gerekli Kutuphaneleri Yukle
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser deep-translator
+
+    - name: Haber Motorunu Calistir
+      run: python haberleri_guncelle.py
+
+    - name: Yeni Degisiklikleri Githuba Gonder
+      run: |
+        git config --global user.name "DunyadaTurkiye Bot"
+        git config --global user.email "bot@dunyadaturkiye.com"
+        git add news_data.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🌐 Otomatik Haber Guncellemesi" && git push)

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- PWA Mobile Install Tags -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="DünyadaTR">
+    <link rel="apple-touch-icon" href="icon.png">
+    <title>DünyadaTürkiye</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="app-header">
+        <h1>Dünyada<span>Türkiye</span></h1>
+        <p>Yabancı basından özetler</p>
+        
+        <!-- Canlı Döviz Paneli -->
+        <div class="currency-bar" id="currency-bar">
+            <span>Döviz yükleniyor...</span>
+        </div>
+    </header>
+
+    <nav class="country-tabs" id="tabs-container">
+        <!-- Tabs injected by JS -->
+    </nav>
+
+    <main class="news-feed" id="news-container">
+        <!-- News Cards injected by JS -->
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
