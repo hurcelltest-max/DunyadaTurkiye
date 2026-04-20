@@ -1,5 +1,68 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İran Savaşı Asya'ya Yayılması Muhtemel Şok Dalgaları Gönderdi",
+    "summary": "Asya-Pasifik, İran'daki savaştan ve enerji darboğazlarından sert ve hızlı bir şekilde etkilendi. Buradaki kriz manzaraları sorunların çoğaldığını ve yayıldığını gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Türkiye'de Orta Güçler Haydut ABD ile Diplomasiyi Düşünüyor",
+    "summary": "ABD önemli bir oyuncu olmaya devam ediyor. Bir analist, sorunun \"aynı zamanda vazgeçilmez, zorlayıcı ve öngörülemez\" bir güçle etkili bir şekilde nasıl başa çıkılacağı olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/turkey-diplomacy-antalya.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ordu doğruladı: İsrail askeri Lübnan'da İsa figürüne zarar verdi",
+    "summary": "Fotoğrafta bir İsrail askerinin Hıristiyan sembolüne vurduğu görülüyor. Ordu, olayı ciddiye aldıklarını ve hasarı onaracaklarını söyledi. Şu anda güney Lübnan'da İsrail ile Hizbullah arasında ateşkes ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/suedlibanon-israelischer-soldat-beschaedigt-jesus-figur-accg-200747808.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump ve Papa: Dünya kilisesine karşı dünya gücü",
+    "summary": "Trump, İran'a karşı savaşını kınadığı için Papa'ya açıkça karşı çıkıyor. Büyük bir öfke var ama neden XIV. Leo Tahran'ı da kınamıyor?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-gegen-papst-leo-xiv-weltmacht-gegen-weltkirche-200741081.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Savaş, İran toplumunu daha fazla saldırıdan korkanlar ile tavizlere karşı çıkanlar arasında bölüyor",
+    "summary": "Belirsizlik, yalnızca istikrarsız ekonomik durumunun ihbar edilmesiyle birleşen bir nüfustan geçiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-20/la-guerra-fractura-la-sociedad-irani-entre-quienes-temen-mas-ataques-y-quienes-se-oponen-a-cualquier-concesion.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Lübnan'daki ateşkes, Netanyahu'nun tutulmayan sözleri nedeniyle Kuzey İsrail'i kızdırıyor",
+    "summary": "Bölgenin ana şehri ateşkesi protesto etmek için okulları kapatıyor. Hükümet onlara Hizbullah'a karşı tam bir zafer sattıktan sonra bunu bir teslimiyet olarak görüyorlar",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-20/la-tregua-en-libano-enciende-el-norte-de-israel-por-las-promesas-incumplidas-de-netanyahu.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Takaichi'nin reytingleri yüksek kalmayı sürdürüyor ve İran'ın etkisiyle bazı dalgalanmalar yaşanıyor",
+    "summary": "Mainichi Shimbun ve Yomiuri Shimbun tarafından yürütülen anketler, başbakana onay oranlarında 5 puanlık düşüş olduğunu gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/politics/takaichi-ratings-stay-high-as-public-weighs-impact-of-iran-war/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -835,68 +898,5 @@
     "summary": "Hong Kong'un Wang Fuk Mahkemesi'nde yaşayan yaklaşık 1.900 aile, 20 Nisan'dan itibaren gruplar halinde yangından zarar gören evlerine geri dönecek.\nTai Po'daki ölümcül yangının malikanedeki sekiz bina...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/hong-kong/society/article/3350618/returning-fire-ravaged-home-wang-fuk-court-what-prepare?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong'daki New York Met sergisi 'kültürel alışverişin öneminin altını çiziyor'",
-    "summary": "Organizatörler, ABD'nin Hong Kong'daki Metropolitan Sanat Müzesi'nin ilk sergisinin, belirsizlik zamanlarında kültürel alışverişler yoluyla ülkeler arasında halklar arası bağların ve güvenin öneminin ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3350576/new-york-met-exhibit-hong-kong-underscores-importance-cultural-exchanges?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong gözlemcisi şehrin en büyük 2 süpermarket zincirinin potansiyel birleşmesini izliyor",
-    "summary": "Hong Kong'un rekabet gözlemcisi, 2020'den bu yana market satışlarında devam eden düşüşün ortasında şehrin en büyük iki süpermarket zinciri arasındaki potansiyel büyük anlaşmayı yakından izliyor.\nRekab...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350589/hong-kong-watchdog-monitoring-potential-merger-citys-top-2-supermarket-chains?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong'un Mirror yıldızı Keung To, halkı sürüş hatalarından ders almaya çağırıyor",
-    "summary": "Hong Kong Cantopop şarkıcısı Keung To, dikkatsiz sürüş, kırmızı ışıkta geçme ve araba kullanırken arabasına deneme süresi işareti koymama nedeniyle 2.200 HK $ (280 ABD Doları) para cezasına çarptırılm...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350580/hong-kongs-mirror-star-keung-urges-public-learn-his-driving-mistakes?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong küresel bir altın kasası olmak istiyor. İran savaşı bir açılım yaratır mı?",
-    "summary": "ABD-İsrail'in İran'a karşı savaşı, küresel enerji ve finans piyasalarında keskin dalgalanmalara yol açarak güvenli liman varlıklarına olan talebi artırdı; Hong Kong altın, emlak ve sermaye piyasaların...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/economy/global-economy/article/3350511/hong-kong-wants-become-global-gold-vault-does-iran-war-create-opening?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "'Uzun vadeli bir bakış açısına sahip olun': Hong Kong bakanı Orta Doğu yatırımlarının etkilenmediğini söyledi",
-    "summary": "Ticaret bakanı, Hong Kong'un Orta Doğu'daki yatırımlarının devam eden çatışmalar nedeniyle raydan çıkmayacağını söyleyerek bölgenin ekonomik beklentilerine güvendiğini ifade etti ve işletmeleri uzun v...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350558/take-long-term-view-hong-kong-minister-says-middle-east-investment-unaffected?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Hürmüz hareketsiz durumda, ABD-İran barış anlaşması umutlarını zedeliyor",
-    "summary": "Bu soğukluk, enerji krizini derinleştirme ve ABD Başkanı Donald Trump'ın öne sürdüğü barış anlaşmasına ilişkin beklentileri baltalama tehdidinde bulunuyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/world/politics/hormuz-standstill-us-iran-peace-deal/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bulgaristan, Rusya yanlısı eski cumhurbaşkanının anketlerde önde olduğunu gösteriyor",
-    "summary": "Ukrayna'nın Moskova'ya karşı savaş çabalarına askeri destek verilmesine karşı çıkan bir Avrupa şüphecisi olan Radev, seçimlere katılmak üzere Ocak ayında başkanlıktan istifa etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/world/politics/bulgaria-election-pro-russian-polls/"
   }
 ]
