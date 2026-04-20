@@ -1,5 +1,176 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: ABD ordusu İran yük gemisine bindi - İran \"misilleme\" yapacağını duyurdu.",
+    "summary": "ABD ordusu İran'a ait bir yük gemisine bindi. İran medyası, rejimin ABD ile ikinci tur müzakereleri reddettiğini bildiriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-friedensverhandlungen-strasse-von-hormus-usa-trump-oeffnung-li.3465745"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da savaş: Orbán: Macaristan, AB'den Ukrayna'ya verilen krediyi serbest bırakmaya hazır",
+    "summary": "Macaristan, Kiev'in Rus petrolü arzını yeniden sağlamasının ardından AB'nin Ukrayna'ya verdiği 90 milyar euroluk krediyi serbest bırakmayı kabul etti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-ungarn-eu-kredit-orban-li.3470639"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Olası toplantıdan önce: ABD ordusu İran yük gemisine bindi",
+    "summary": "İlk olarak Trump, ateşkesin sona ermesinden kısa bir süre önce yeni müzakerelerin yapılacağını duyurdu. Ardından ABD Donanması bir İran gemisine saldırıyor. İran “korsanlıktan” söz ediyor ve petrol ye...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/us-militaer-entert-iranischen-frachter-accg-200747891.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Petrol pahalılaşıyor, ABD doları güçleniyor, altın ucuzluyor",
+    "summary": "Piyasalar yeni gerilimlere tepki veriyor +++ İran: “Korsanlığa” tepki gösterecek +++ Witkoff ve Kushner müzakereler için İslamabad'a gidiyor +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-oel-wird-teurer-us-dollar-staerker-gold-billiger-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Chalmers'ın bütçe tasarruflarının \"kolayca en önemli\" parçası olacağını belirtmesi nedeniyle eyaletler NDIS kesintileri konusunda gergin",
+    "summary": "Birçok eyaletteki hükümet kaynakları, değişikliklerin kapsamı ve olası maliyetler konusunda endişeli olduklarını söylüyor En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son daki...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/20/ndis-funding-cuts-labor-chalmers-budget-savings"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "'Karmaşık hissettiriyor': Wang Fuk Mahkemesi sakinleri son veda etmek için evlerine dönüyor",
+    "summary": "Hong Kong'daki yangının harap ettiği Wang Fuk Court'un yaklaşık 270 sakini, ölümcül yangından yaklaşık beş ay sonra Pazartesi günü eşyalarını toplamak için dairelerine dönüyor ve yetkililer onlara yar...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3350664/it-feels-complicated-wang-fuk-court-residents-return-home-bid-last-farewell?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong, Orta Doğu'daki çalkantıların ortasında küresel finansta güvenli liman rolünü yeniden öne sürüyor",
+    "summary": "ABD-İsrail'in İran'a karşı savaşı, küresel enerji ve finans piyasalarında keskin dalgalanmalara yol açarak güvenli liman varlıklarına olan talebi artırdı; Hong Kong altın, emlak ve sermaye piyasaların...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/business/china-business/article/3350634/hong-kong-reasserts-role-safe-haven-global-finance-amid-middle-east-turmoil?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Pakistan askeri şefi diplomatik saldırıda ABD-İran görüşmelerine liderlik ediyor",
+    "summary": "ABD Başkanı Donald Trump ile yakın ilişki kuran Mareşal Asım Münir, \"İranlıları anlaşmaya ikna edebilecek tek kişi\" olarak tanımlanıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/politics/pakistan-military-us-iran-talks/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Çin askeri savaş gemileri, MSDF Tayvan Boğazı geçişinden sonra Batı Pasifik'te eğitim görüyor",
+    "summary": "Çin, Batı Pasifik'te eğitim için Kagoshima Eyaleti açıklarındaki Amami Oshima yakınındaki bir su yolundan en gelişmiş savaş gemilerinden birinin liderliğindeki donanma gemilerini gönderdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/china-japan-pacific-naval-drills/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Ayı Sendai'de acil durum sistemi altında itlaf edildi",
+    "summary": "Yaklaşık 1,5 metre uzunluğundaki ayı, yaklaşık 10 saat boyunca şehrin Aoba Bölgesi'ndeki yerleşim bölgesinde bir apartman dairesinde kaldı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/society/japan-bear-sendai-residential-area-culled/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Macaristan, AB'nin Ukrayna'ya yaptığı yardımın engelini kaldırmak ve dondurulan fonlardan yararlanmak için harekete geçti",
+    "summary": "Macaristan, \"Brüksel'in arabuluculuğu yoluyla\" Ukrayna'dan, Druzhba boru hattı üzerinden Rus petrol akışının Pazartesi gününden itibaren yeniden başlayabileceği yönünde bilgi aldı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/hungary-eu-aid-ukraine/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran savaşından kaynaklanan alüminyum kıtlığından en çok Japon üreticiler zarar görüyor",
+    "summary": "Ülkenin önde gelen otomotiv lobisine göre, yerli otomobil üreticileri alüminyum ithalatlarının yaklaşık %70'ini Orta Doğu'dan sağlıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/04/20/companies/japan-aluminum-shortage-iran-war/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Müttefikler, aceleye getirilen ABD-İran çerçeve anlaşmasının geri teperek teknik çıkmaza yol açmasından korkuyor",
+    "summary": "Tahran'la ilgili geçmiş deneyimi olan diplomatlar, güvensizlik ve farklı müzakere tarzlarının her iki tarafın da siyasi olarak sürdüremeyeceği kırılgan bir çerçeve riskini artırdığını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/politics/rushed-us-iran-deal-backfire/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Carney, Kanada'nın ABD bağlarının zayıflık haline geldiğini söylüyor",
+    "summary": "ABD Başkanı Donald Trump, Kanada'nın çelik, alüminyum ve otomobil gibi ihracatına gümrük vergisi getirmenin yanı sıra, Kanada'yı ABD'nin 51. eyaleti haline getirme konusunu da düşündü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/politics/carney-canada-us-ties-weakness/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Küresel solcular aşırı sağa karşı yeniden dirilişi ateşlemek umuduyla İspanya'da toplandı",
+    "summary": "ABD Başkanı Donald Trump'ı eleştiren İspanya Sosyalist Başbakanı Pedro Sanchez'in öncülük ettiği zirve, aşırı sağdaki yükselişin zirveye ulaşmış olabileceği umutlarıyla hareketlendi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/politics/leftists-spain-resurgence-far-right/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İngiltere polisi İran'ın Yahudi hedeflerine yönelik kundaklama saldırılarıyla bağlantısını inceliyor",
+    "summary": "Avrupa çapında ABD, İsrail ve Yahudi hedeflerine yönelik bir dizi saldırının da arkasında olduğunu söyleyen İran yanlısı hükümet grubu, sorumluların kendilerinin olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/crime-legal/uk-iran-arson-jewish-targets/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Xi Trump'tan daha mı güçlü hissediyor?",
+    "summary": "ABD-Çin büyük güç rekabetinde, Amerikan başkanının İran savaşını ele alışı Pekin'e stratejik bir avantaj sağlamış olabilir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/04/20/world/xi-trump-iran-war/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Kuzey Kore 'yüksek hassasiyetli' balistik füze testleri gerçekleştiriyor",
+    "summary": "Lider Kim Jong Un'un gözetiminde Pazar günü yapılan fırlatmalar, balistik füzeler, savaş gemisi karşıtı seyir füzeleri ve misket bombaları da dahil olmak üzere yakın zamanda yapılan diğer silah testle...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/asia-pacific/north-korea-missile-tests-kcna/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İsrail, Lübnan'daki evleri yerle bir etme ve tehditlere 'tam güç' ile karşılık verme sözü verdi",
+    "summary": "Yerinden edilmiş sakinlerden bazıları güney Lübnan'daki evlerine geri dönerken, diğerleri tereddütlü ve 10 günlük ateşkesin kalıcılığı konusunda kararsızlar.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/world/israel-homes-lebanon-full-force/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -727,59 +898,5 @@
     "summary": "Ukrayna'nın Moskova'ya karşı savaş çabalarına askeri destek verilmesine karşı çıkan bir Avrupa şüphecisi olan Radev, seçimlere katılmak üzere Ocak ayında başkanlıktan istifa etti.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/news/2026/04/19/world/politics/bulgaria-election-pro-russian-polls/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İran savaşı Trump'ın ABD'siyle bağlarını gerginleştirirken İngiltere gözünü Avrupa'ya çeviriyor",
-    "summary": "ABD Başkanı Donald Trump'ın İngiltere'ye yönelik öngörülemezliği ve hakaretleri, Brexit'ten on yıl sonra AB ile bağları derinleştirme çabasına ivme kazandırıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/world/politics/iran-war-trump-us-uk-europe/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Ekonomik güvenlik neden ABD ulusal güvenliğinin merkezinde yer alıyor?",
-    "summary": "Daha önceki hiçbir ABD ulusal güvenlik stratejisi ekonomik güvenliği bu ölçüde kapsamamıştı. Peki neden Trump'ın ikinci döneminde bu kadar öne çıktı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/04/19/world/us-economic-security-central-to-national-security/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Takaichi, İran kriziyle ilgili zirve diplomasisine aktif olarak katılıyor",
-    "summary": "Japonya Başbakanı, Tokyo'nun İkinci Dünya Savaşı'nın sona ermesinden bu yana geliştirdiği uluslararası ilişkilerden yararlanarak benzersiz yaklaşımını sergilemeyi amaçlıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/japan/politics/takaichi-summit-diplomacy-iran-crisis/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya'nın turizm endüstrisi İran savaşının acısını hissetmeye başladı",
-    "summary": "İran savaşının devam etmesiyle birlikte Avrupa ile Japonya arasındaki seyahat masrafları, birçok Avrupalı ​​gezginin planlarını iptal etmesine neden olacak kadar arttı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/japan/society/iran-inbound/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Basra Körfezi'ndeki savaş Pakistan'ı karanlığa sürüklüyor",
-    "summary": "Geçtiğimiz hafta Muhammed Rizwan, Pakistan'ın kültür başkenti Lahor'daki evinde günlük elektrik kesintileriyle karşı karşıya kaldı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/world/middle-east-war-pakistan-darkness/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japon balıkçılar yüksek ham petrol fiyatlarından olumsuz etkilendi",
-    "summary": "Miyagi Eyaletindeki bir şirketin sahibi, yakalanan ton balığından elde edilen gelirin neredeyse yakıt maliyetleriyle dengelendiğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/19/japan/iran-war-impact-fishery/"
   }
 ]
