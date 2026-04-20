@@ -3,6 +3,69 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İran'ın Nükleer Olmayan Caydırıcılığı",
+    "summary": "Hürmüz Boğazı'nı bozmanın güçlü bir silah olduğu ortaya çıktı. Bu, İran'ın nükleer programı olmasa bile düşmanlarını uzak tutmasının yeni bir yolu olabilir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/iran-hormuz-talks-saudi.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İçeride Sert Tutumluluklarla ve Trump'ın Kabadayılığıyla Karşı Karşıya Olan İran, Barış Görüşmeleri Konusunda Karışık Sinyaller Gönderiyor",
+    "summary": "İranlı yetkililer, özel olarak katılmayı planladıklarını söyleseler bile, kamuoyu önünde ABD ile müzakerelerin ikinci turunu onaylamayı reddediyorlar.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da Savaş: “İranlılar zorlu müzakerecilerdir”",
+    "summary": "Kim daha fazla baskı altında: ABD mi yoksa İran mı? Eski CIA direktörü David Petraeus, savaşın sonucu ve İslamabad'daki barış görüşmelerinde neyin tehlikede olduğu hakkında.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/david-petraeus-usa-krieg-verhandlungen-iran-donald-trump-li.3470984"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Brüksel, Sánchez'in AB-İsrail anlaşmasını bozma önerisini durdurdu: \"Halihazırda masada olan\" önlemlerle \"ileriye gitmenin mümkün olup olmadığını değerlendirmeliyiz\"",
+    "summary": "Avrupa diplomasisinin başkanı, topyekûn bir kopuşun oybirliği gerektirdiğine, bunun başarılmasının çok zor olacağına, ticaret anlaşmasının askıya alınmasının ise nitelikli çoğunluk gerektirdiğine dikk...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/20/69e6354ce85ece4c498b459e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran ve ABD ateşkesin bitiminden önce maksimum baskıyı uyguladı",
+    "summary": "Trump, İran'ın müzakerelere katılımını henüz onaylamamasına rağmen, bir anlaşmaya \"nispeten hızlı\" bir şekilde ulaşılabileceğinin garantisini veriyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/20/69e66fbce9cf4aff1e8b4594.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong, Orta Doğu'daki çalkantıların ortasında küresel finansta güvenli liman rolünü yeniden öne sürüyor",
+    "summary": "ABD-İsrail'in İran'a karşı savaşı, küresel enerji ve finans piyasalarında keskin dalgalanmalara yol açarak güvenli liman varlıklarına olan talebi artırdı; Hong Kong altın, emlak ve sermaye piyasaların...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/business/china-business/article/3350634/hong-kong-reasserts-role-safe-haven-global-finance-amid-middle-east-turmoil?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Çin askeri savaş gemileri, MSDF Tayvan Boğazı geçişinden sonra Batı Pasifik'te eğitim görüyor",
+    "summary": "Çin, Batı Pasifik'te eğitim için Kagoshima Eyaleti açıklarındaki Amami Oshima yakınlarındaki bir su yolundan en gelişmiş savaş gemilerinden birinin liderliğindeki donanma gemilerini gönderdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/china-japan-pacific-naval-drills/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "ABD ve İran Barış Görüşmeleri Devam Etme Yolunda Görünüyor",
     "summary": "İki haftalık ateşkesin neredeyse sona ermesiyle birlikte Başkan Yardımcısı JD Vance'in müzakerelerin ikinci turu için Salı günü Pakistan'a gitmesi bekleniyordu.",
     "timeAgo": "En Guncel (API)",
@@ -835,68 +898,5 @@
     "summary": "Belirsizlik, yalnızca istikrarsız ekonomik durumunun ihbar edilmesiyle birleşen bir nüfustan geçiyor",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-04-20/la-guerra-fractura-la-sociedad-irani-entre-quienes-temen-mas-ataques-y-quienes-se-oponen-a-cualquier-concesion.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Lübnan'daki ateşkes, Netanyahu'nun tutulmayan sözleri nedeniyle Kuzey İsrail'i kızdırıyor",
-    "summary": "Bölgenin ana şehri ateşkesi protesto etmek için okulları kapatıyor. Hükümet onlara Hizbullah'a karşı tam bir zafer sattıktan sonra bunu bir teslimiyet olarak görüyorlar",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-20/la-tregua-en-libano-enciende-el-norte-de-israel-por-las-promesas-incumplidas-de-netanyahu.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Takaichi'nin reytingleri yüksek kalmayı sürdürüyor ve İran'ın etkisiyle bazı dalgalanmalar yaşanıyor",
-    "summary": "Mainichi Shimbun ve Yomiuri Shimbun tarafından yürütülen anketler, başbakana onay oranlarında 5 puanlık düşüş olduğunu gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/politics/takaichi-ratings-stay-high-as-public-weighs-impact-of-iran-war/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da savaş: ABD ordusu İran yük gemisine bindi - İran \"misilleme\" yapacağını duyurdu.",
-    "summary": "ABD ordusu İran'a ait bir yük gemisine bindi. İran medyası, rejimin ABD ile ikinci tur müzakereleri reddettiğini bildiriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-friedensverhandlungen-strasse-von-hormus-usa-trump-oeffnung-li.3465745"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da savaş: Orbán: Macaristan, AB'den Ukrayna'ya verilen krediyi serbest bırakmaya hazır",
-    "summary": "Macaristan, Kiev'in Rus petrolü arzını yeniden sağlamasının ardından AB'nin Ukrayna'ya verdiği 90 milyar euroluk krediyi serbest bırakmayı kabul etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-ungarn-eu-kredit-orban-li.3470639"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Olası toplantıdan önce: ABD ordusu İran yük gemisine bindi",
-    "summary": "İlk olarak Trump, ateşkesin sona ermesinden kısa bir süre önce yeni müzakerelerin yapılacağını duyurdu. Ardından ABD Donanması bir İran gemisine saldırıyor. İran “korsanlıktan” söz ediyor ve petrol ye...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/us-militaer-entert-iranischen-frachter-accg-200747891.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: Petrol pahalılaşıyor, ABD doları güçleniyor, altın ucuzluyor",
-    "summary": "Piyasalar yeni gerilimlere tepki veriyor +++ İran: “Korsanlığa” tepki gösterecek +++ Witkoff ve Kushner müzakereler için İslamabad'a gidiyor +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-oel-wird-teurer-us-dollar-staerker-gold-billiger-faz-200583539.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Chalmers'ın bütçe tasarruflarının \"kolayca en önemli\" parçası olacağını belirtmesi nedeniyle eyaletler NDIS kesintileri konusunda gergin",
-    "summary": "Birçok eyaletteki hükümet kaynakları, değişikliklerin kapsamı ve olası maliyetler konusunda endişeli olduklarını söylüyor En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son daki...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/20/ndis-funding-cuts-labor-chalmers-budget-savings"
   }
 ]
