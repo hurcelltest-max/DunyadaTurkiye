@@ -3,6 +3,159 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İran Savaşı Asya'ya Yayılması Muhtemel Şok Dalgaları Gönderdi",
+    "summary": "Asya-Pasifik, İran'daki savaştan ve enerji darboğazlarından sert ve hızlı bir şekilde etkilendi. Buradaki kriz manzaraları sorunların çoğaldığını ve yayıldığını gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Türkiye'de Orta Güçler Haydut ABD ile Diplomasiyi Düşünüyor",
+    "summary": "ABD önemli bir oyuncu olmaya devam ediyor. Bir analist, sorunun \"aynı zamanda vazgeçilmez, zorlayıcı ve öngörülemez\" bir güçle etkili bir şekilde nasıl başa çıkılacağı olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/turkey-diplomacy-antalya.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: Trump: İran'da ateşkesin uzatılması \"pek olası değil\"",
+    "summary": "ABD, müzakerelerin devam etmesi için İran'a baskıyı artırıyor. Beyaz Saray sözcüsüne göre anlaşma \"her zamankinden daha yakın\".",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-usa-trump-waffenruhe-li.3465745"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Japonya: Tokyo silah ihracatına ilişkin kuralları gevşetiyor",
+    "summary": "Japonya'nın İkinci Dünya Savaşı'ndan bu yana ilk kez yurt dışına \"ölümcül silahlar\" satmasına izin veriliyor. Diğer şeylerin yanı sıra bu, yerli silah endüstrisini güçlendirmeyi amaçlıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/japan-lockert-regeln-fuer-waffenexporte-accg-200751855.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: İran “savaş alanında yeni kozlarla” tehdit ediyor",
+    "summary": "Trump: Deniz ablukası ancak İran'la anlaşma yapıldıktan sonra kaldırılacak +++ İran dışişleri bakanı: Müzakerelerin devam etmesi önünde önemli engeller Trump: İran abluka nedeniyle günde 500 milyon do...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-iran-droht-mit-neuen-truempfen-auf-dem-schlachtfeld-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki Liveblog ABD: ABD Çalışma Bakanı Chavez-DeRemer istifa etti",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-us-arbeitsministerin-chavez-deremer-tritt-nach-vorwuerfen-von-fehlverhalten-zurueck-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "A-10 “Warthog”: ABD Hava Kuvvetleri elli yıllık savaş uçağının kullanımını genişletiyor",
+    "summary": "Çok eski, çok yavaş, çok pahalı: eleştirmenler yıllardır kara saldırı uçaklarının sona ermesini talep ediyor. Artık A-10 “Warthog”un çalışma süresi yeniden uzatılıyor. Makine İran Savaşı'nda da kullan...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/a-10-warthog-usa-nutzen-im-iran-krieg-50-jahre-altes-kampfflugzeug-accg-200751730.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump ve Papa: Dünya kilisesine karşı dünya gücü",
+    "summary": "Trump, İran'a karşı savaşını kınadığı için Papa'ya açıkça karşı çıkıyor. Büyük bir öfke var ama neden XIV. Leo Tahran'ı da kınamıyor?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-gegen-papst-leo-xiv-weltmacht-gegen-weltkirche-200741081.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Japonya'da kuzey kıyısı açıklarında meydana gelen güçlü depremin ardından tsunami uyarılarının notu düşürüldü",
+    "summary": "Japonya'daki Avustralyalı yetkililer, Honshu adasının kuzeydoğu kıyısındaki tsunami uyarısını acilen takip ediyor.Avustralya hükümeti şunları söyledi:Konsolosluk yardımı sağlamaya hazırız.Acil konsolo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Filistinliler savaşmadıkları savaşı kaybediyor: “Filistin devletinin geleceği yok ama topraklarımızı asla terk etmeyeceğiz”",
+    "summary": "Yerleşimcilerin saldırıları artarken ve Gazze'de her gün saldırılar meydana gelirken İsrail, Filistin Yönetimi'nin geniş bölgeleri üzerindeki kontrolünü genişletmek için İran'la yaşanan çatışmadan yar...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-21/los-palestinos-pierden-una-guerra-en-la-que-no-han-combatido-no-hay-futuro-para-un-estado-palestino-pero-nunca-dejaremos-nuestra-tierra.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Haritalar | Hürmüz ablukası nasıl işliyor ve neden bazı gemiler geçip bazıları geçmiyor?",
+    "summary": "Boğazı kontrol etmek için İran ve ABD, birbirinden 500 kilometre uzakta iki stratejik nokta kurdu. Yine de bazı gemiler karşıya geçmeyi başarıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-21/mapas-como-funciona-el-bloqueo-de-ormuz-y-por-que-algunos-buques-pasan-y-otros-no.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Uluslararası bir rapora göre Gazze'de insani gelişme savaş nedeniyle 77 yıl geriye çekildi",
+    "summary": "AB, BM ve Dünya Bankası, Şerid'in kurtarılması ve yeniden inşasının maliyetinin 71,4 milyar dolar olduğunu tahmin ediyor. AB, iki devletli çözümün istikrarlı ve kalıcı bir barışa giden tek yol olduğu ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-21/el-desarrollo-humano-en-gaza-ha-retrocedido-77-anos-por-la-guerra-segun-un-informe-internacional.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Savaş, İran toplumunu daha fazla saldırıdan korkanlar ile tavizlere karşı çıkanlar arasında bölüyor",
+    "summary": "Belirsizlik, yalnızca istikrarsız ekonomik durumunun ihbar edilmesiyle birleşen bir nüfustan geçiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-20/la-guerra-fractura-la-sociedad-irani-entre-quienes-temen-mas-ataques-y-quienes-se-oponen-a-cualquier-concesion.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Lübnan'da bir askerin İsa heykeline çekiçle vurduğu fotoğrafın ardından İsrail'de tartışma çıktı",
+    "summary": "İsrail ordusu bu Pazartesi günü bunun \"son derece ciddi\" bir olay olduğunu ve \"askerin davranışının, birliklerinden beklediği değerlerle tamamen tutarsız olduğunu\" itiraf etti. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/20/69e5c47721efa0685f8b4581.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Çin hisse senetlerine ilişkin görünüm, sermaye akışları ve ev fiyatlarındaki toparlanmayla birlikte parlaklaşıyor",
+    "summary": "Fon yöneticileri ve yatırım bankalarına göre, yuan bağlantılı varlıklara yönelik liman talebi, emlak piyasasındaki yeşil artışlar ve teknoloji start-up'larının temel hisse senedi göstergelerine dahil ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/business/china-business/article/3350830/outlook-china-stocks-brightens-capital-flows-rebounding-home-prices?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong mülk kurtarma şüphecileri neden büyük resmi kaçırıyor?",
+    "summary": "Hong Kong'un emlak piyasası geçtiğimiz yıl uzun bir yol kat etti. Görünümün ne ölçüde iyileştiğini gösteren bir işaret için, bu yıl konut fiyatlarının büyümesine ilişkin beklentilerdeki hızlı değişimd...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3350677/why-hong-kong-property-recovery-sceptics-miss-bigger-picture?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Konglu aktris Kristal Tin için ikinci kanser şoku. Hastalık nasıl ortaya çıkıyor?",
+    "summary": "Hong Konglu sanatçı Kristal Tin Yui-lee, erken evre akciğer kanseri teşhisi konulduktan bir yıldan fazla bir süre sonra lenf düğümlerinde kanser hücrelerinin bulunduğunu sosyal medyada açıklayarak, ha...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3350692/second-cancer-shock-hong-kong-actress-kristal-tin-how-does-disease-strike?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Japonya, Savaş Sonrası Pasifizmi Kırarak Yurt Dışına Daha Fazla Silah Satacak",
     "summary": "Başbakan Sanae Takaichi, Japonya'nın Çin'den gelen tehditlerin artması ve ana müttefiki ABD'nin öngörülemezliğiyle karşı karşıya kalması nedeniyle silah ihracatına ilişkin sınırları tersine çevirdi.",
     "timeAgo": "En Guncel (API)",
@@ -745,158 +898,5 @@
     "summary": "Avrupa, Trump'ın kahramanı Orbán'ın devrilmesinin ardından popülist sistemi parçalayacak bir değişikliği desteklemeli",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/opinion/2026-04-17/hungria-tiene-la-oportunidad-de-una-transicion-unica.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Hürmüz ablukası kötüden (İran) daha da kötüye gidiyor (ABD)",
-    "summary": "Eğer hâlâ biraz rasyonellik kaldıysa, umalım ki, rakiplerden hiçbirine başarılı çözüm sunmayan bir dinamizm derinleşmesin.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-04-16/el-bloqueo-de-ormuz-va-de-mal-iran-en-peor-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Lübnan'da çarmıha gerilmiş İsa Mesih'i yıkan bir İsrail askerinin fotoğrafı, Netanyahu'nun alışılmadık bir ağıt yakmasına neden oldu",
-    "summary": "İsrail tarafından işgal edilen ülkenin güney kesimindeki bir köyde, bir asker heykelin kafasını baltayla kesmeye çalışırken bir diğeri onu filme alıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-20/la-imagen-de-un-soldado-israeli-que-derriba-un-jesucristo-crucificado-en-libano-provoca-unas-inusuales-disculpas-de-netanyahu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran'ın en güçlü donanmasını kontrol altına alan neredeyse görünmez silahı Hürmüz Boğazı'ndaki mayınlar",
-    "summary": "Tahran, savaştan önce dünya petrolünün yüzde 20'sinin dolaştığı deniz yoluna yerleştirilen basit ve ucuz cihazları kullanarak ABD'ye direniyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-19/minas-en-el-estrecho-de-ormuz-el-arma-casi-invisible-de-iran-que-ha-puesto-en-jaque-a-la-armada-mas-poderosa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran, Trump'a karşı propaganda savaşını kazandı",
-    "summary": "Viral videolar ve mizah, rejimin kötü itibarını gölgeliyor ve ona beklenmedik bir direniş silahı sağlıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-19/iran-se-impone-en-la-batalla-de-la-propaganda-frente-a-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İspanya, Brezilya ve Meksika ittifaklarını güçlendiriyor ve insani krizi hafifletmek için Küba'ya yardım göndermeyi taahhüt ediyor",
-    "summary": "Üç ülke, \"Küba halkının yaşadığı dramatik durumu\" kınıyor ve Trump'ın baskısına yanıt olarak adanın egemenliğine saygı gösterilmesi çağrısında bulunuyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-19/espana-brasil-y-mexico-afianzan-su-alianza-y-se-comprometen-a-enviar-ayuda-a-cuba-para-aliviar-la-crisis-humanitaria.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump, İspanyol ekonomisine ilişkin rakamları çarpıtıyor: \"Durumun ne kadar kötü olduğunu fark eden var mı? Üzücü\"",
-    "summary": "IMF, İspanya'yı bu yıl ve gelecek yıl en çok büyüyecek büyük Avrupa ekonomisi olarak gösteriyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/espana/2026-04-18/trump-tergiversa-las-cifras-sobre-la-economia-espanola-alguien-se-ha-fijado-en-lo-mal-que-le-va-da-pena.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, Hürmüz'ün tehdit ettiği bir ortamda İran'la yeni bir toplantı yapacağını duyurdu",
-    "summary": "Amerikan başkanı bunun barışı kabul etmek için \"son fırsat\" olduğunu garanti ediyor, ancak resmi İran medyası Tahran'ın İslamabad'daki görüşmelere katılmayacağının garantisini veriyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/19/69e5066321efa07b738b4579.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Binlerce kiraz çiçeği savaşın ortasında Ukraynalılara soluklanma fırsatı sunuyor",
-    "summary": "Bu ağaçların çiçeklenmesi, geçen Cuma ile bu Pazar arasında düzenlenen ve her yıl düzenlenen kiraz çiçeği festivali olan 'Sakura Festivali' ile aynı zamana denk geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/19/69e4c7bafc6c8357028b4586.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong gözlemcisi Marks and Spencer yoğurdunda beyan edilmemiş gluten konusunda uyardı",
-    "summary": "Hong Kong'un gıda güvenliği gözlemcisi, gluten alerjisi olan kişilere, alerjenin bulunmasına rağmen etikette belirtilmemesinin ardından Marks & Spencer yoğurt ürününü yememeleri konusunda çağrıda bulu...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350774/hong-kong-watchdog-warns-undeclared-gluten-marks-and-spencer-yoghurt?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Neon Gecenin Oğulları parlarken Ciao UFO, Hong Kong Film Ödülleri'nde büyük ödülleri aldı",
-    "summary": "Bir toplu konutun üzerindeki gizemli ışıkların yerel bir şehir efsanesinden esinlenen bir bilim kurgu draması olan Ciao UFO, Pazar gecesi 44. Hong Kong Film Ödülleri'nde Patrick Leung Pak‑kin ile en i...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/article/3350651/ciao-ufo-takes-top-prizes-hong-kong-film-awards-sons-neon-night-glows?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Savaşı Canlı Güncellemeleri: İran, ABD'nin Kargo Gemisine Saldırısına Misilleme Yemini Verdi",
-    "summary": "Başkan Trump, ABD Donanması'na ait bir destroyerin, ablukayı aşmaya çalışan İran bandıralı bir gemiye ateş açtığını söyledi. Ayrıca bir Amerikan heyetinin daha fazla barış görüşmesi için Pakistan'a gi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Pakistan Liderleri İran Savaşı Konusunda Artan Öfkeyi Kendi Ülkelerinde Kontrol Altına Almaya Çalışıyor",
-    "summary": "İran'la derin manevi bağları olan Pakistan'ın azınlık Şiileri, İran'ın üst düzey din adamlarının ABD-İsrail saldırılarında öldürülmesine öfkeli, bu da Pakistan'ın arabuluculuk rolünü karmaşık hale get...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/20/world/asia/pakistan-shiites-iran-diplomacy.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Açık Denizde Meydana Gelen Şiddetli Depremin Ardından Japonya'da Tsunami Uyarısı",
-    "summary": "7,5 büyüklüğündeki denizaltı depremi, Japonya'nın ana adası Honshu'nun kuzeydoğu kıyısındaki Iwate Eyaleti açıklarında meydana geldi. 10 feet'e kadar dalgalar bekleniyordu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Asker sıkıntısı çeken Ukrayna, savaş çabalarına yardımcı olmak için robotlara yöneliyor",
-    "summary": "Ukrayna, saldırıları gerçekleştirmek ve askerlerini tehlikeden uzak tutmak için bomba, silah veya roketlerle donatılmış insansız kara araçları kullanıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Rusya'da Almanlar tutuklandı",
-    "summary": "Suçlama: Terör saldırısı planlamak +++ İHA saldırısından sonra Rus petrol tesislerinde yangın +++ Slovakya, Rusya'ya yeni yaptırımları veto etme tehdidinde bulundu +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-deutsche-in-russland-festgenommen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ordu doğruladı: İsrail askeri Lübnan'da İsa figürüne zarar verdi",
-    "summary": "Fotoğrafta bir İsrail askerinin Hıristiyan sembolüne vurduğu görülüyor. Ordu, olayı ciddiye aldıklarını ve hasarı onaracaklarını söyledi. Şu anda güney Lübnan'da İsrail ile Hizbullah arasında ateşkes ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/suedlibanon-soldat-aus-israel-beschaedigt-jesus-figur-accg-200747808.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Olası toplantıdan önce: ABD ordusu İran yük gemisine bindi",
-    "summary": "İlk olarak Trump, ateşkesin sona ermesinden kısa bir süre önce yeni müzakerelerin yapılacağını duyurdu. Ardından ABD Donanması bir İran gemisine saldırıyor. İran “korsanlıktan” söz ediyor ve petrol ye...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/usa-entern-frachter-aus-iran-donald-trump-wiederholt-drohungen-accg-200747891.html"
   }
 ]
