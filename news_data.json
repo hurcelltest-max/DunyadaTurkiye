@@ -1,5 +1,50 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Hürmüz Boğazı: İran ABD ablukasını aşabilir mi?",
+    "summary": "İran'ın petrol ihraç edecek ve Amerika'nın deniz ablukasını aşacak bir boru hattı yok. İthalatın alternatifleri var. Ve: Tahran önlem aldı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/kann-iran-die-us-blockade-umgehen-200757694.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump yetkilileri ABD kuvvetlerine yardım eden 1.100 Afgan'ı Kongo'ya göndermeyi düşünüyor",
+    "summary": "Tartışmaların, Trump'ın, grubun ABD'ye yeniden yerleşmek için başvuruda bulunmasına izin veren girişimi durdurma kararının ardından geldiği bildiriliyor. Trump yönetimi, Afganistan'daki savaş sırasınd...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Dünyanın en büyük üreticisi Karex, İran savaşı nedeniyle prezervatif fiyatlarının yüzde 30 artabileceğini söyledi",
+    "summary": "Karex, yılda 5 milyardan fazla prezervatif üretiyor ve NHS'nin yanı sıra Durex ve Trojan gibi önde gelen markaların tedarikçisi konumunda. Dünyanın en büyük prezervatif üreticisi Malezya'daki Karex Bh...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail, Lübnan'da enkaz altında gazeteciyi arayan kurtarma görevlilerini vuruyor",
+    "summary": "İsrail ordusu, en az iki kişiyi öldürüp çok sayıda kişiyi yaraladıktan sonra sivil savunmanın Tiri belediyesine erişimini engelliyor. Beyrut, kurtarmayı güvence altına almak için uluslararası müttefik...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-22/israel-dispara-a-rescatistas-mientras-buscan-a-una-periodista-bajo-los-escombros-en-libano.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong, hapisteki Jimmy Lai'den 56,5 milyon HK$ ve 17 şirkete el koymak istiyor",
+    "summary": "Mahkeme belgelerine göre, Hong Kong hükümeti, eski medya patronu Jimmy Lai Chee-ying'in ulusal güvenlik yasası uyarınca 20 yıl hapis cezasına çarptırılmasının ardından banka hesaplarından ve 17 şirket...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350893/hong-kong-seeks-seize-hk565-million-17-companies-jailed-jimmy-lai?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -853,50 +898,5 @@
     "summary": "Aşırı sağ korkuyu o kadar kullandı ki terörü yaratan artık liderleri oldu",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/opinion/2026-04-18/trump-contamina-la-izquierda-revive.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Macaristan benzersiz bir geçiş fırsatına sahip",
-    "summary": "Avrupa, Trump'ın kahramanı Orbán'ın devrilmesinin ardından popülist sistemi parçalayacak bir değişikliği desteklemeli",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-04-17/hungria-tiene-la-oportunidad-de-una-transicion-unica.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Japonya, İkinci Dünya Savaşı'ndan bu yana ilk kez silah satışına izin verdi",
-    "summary": "Çin, duyuruyu militarist bir dönüş olarak değerlendiriyor ve \"ciddi endişesini\" gösteriyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-21/japon-autoriza-la-venta-de-armas-por-primera-vez-desde-la-ii-guerra-mundial.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Amerikalı yazar Jeff Sharlet: \"MAGA, Trump'ın ütopik projesidir, İtalyan faşizminde olduğu gibi idealize edilmiş bir geçmişin restorasyonudur\"",
-    "summary": "Gazeteci ve akademisyen, yeni kitabında, cumhurbaşkanını çevreleyen inanç retoriğini ve ABD'nin \"yavaş bir iç savaşa\" doğru sürüklenmesiyle ilişkilendirdiği MAGA hareketinin yükselişini inceliyor. Oku...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/22/69dcf32ae4d4d88b288b4581.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Sağlık yetkilisi, ilk yerel dang humması vakasının önümüzdeki aylarda salgına yol açabileceğini söyledi",
-    "summary": "Bir sağlık yetkilisi, Hong Kong'da bir yıldan fazla bir süredir ilk kez kaydedilen ilk yerel dang humması vakasının, teşhis edilemeyen ithal vakaların önümüzdeki aylarda bir salgına yol açabileceğini ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3350971/first-local-dengue-case-could-lead-outbreak-coming-months-health-official-says?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "SCMP'nin 'orijinal' finans raporlaması State Street Institutional Press Ödülleri'nde onurlandırıldı",
-    "summary": "South China Morning Post, Salı günü Asya-Pasifik 2025 State Street Kurumsal Basın Ödülleri'nde altı ödül aldı.\nAsya-Pasifik (APAC) genelinde kurumsal finansla ilgili olağanüstü haberlerin ödüllendiril...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/business/article/3350897/scmps-original-finance-reporting-honoured-state-street-institutional-press-awards?utm_source=rss_feed"
   }
 ]
