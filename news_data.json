@@ -1,5 +1,68 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İran, Hürmüz Boğazı yakınlarında iki gemiye el konulduğunu açıkladı",
+    "summary": "Bir İngiliz donanma teşkilatı, ABD'nin İran limanlarına yönelik ambargosunun devam etmesi nedeniyle iki geminin boğaz yakınında saldırıya uğradığını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Anti-Trumpizm Avrupa'yı Birleştiriyor",
+    "summary": "Trump'ın markası o kadar düştü ki muhafazakarlar artık ona karşı çıkmak için solcu politikacılara katılıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/22/world/anti-trumpism-europe-spain-italy-ukraine.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Macaristan benzersiz bir geçiş fırsatına sahip",
+    "summary": "Avrupa, Trump'ın kahramanı Orbán'ın devrilmesinin ardından popülist sistemi parçalayacak bir değişikliği desteklemeli",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-04-17/hungria-tiene-la-oportunidad-de-una-transicion-unica.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Amerikalı yazar Jeff Sharlet: \"MAGA, Trump'ın ütopik projesidir, İtalyan faşizminde olduğu gibi idealize edilmiş bir geçmişin restorasyonudur\"",
+    "summary": "Gazeteci ve akademisyen, yeni kitabında, cumhurbaşkanını çevreleyen inanç retoriğini ve ABD'nin \"yavaş bir iç savaşa\" doğru sürüklenmesiyle ilişkilendirdiği MAGA hareketinin yükselişini inceliyor. Oku...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/22/69dcf32ae4d4d88b288b4581.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "UAEK genel müdürü, İran'ın \"iki haftada on nükleer bomba\" üretme kapasitesine sahip olduğunu söyledi",
+    "summary": "\"Malzeme orada, yerinden oynatılmamış. Ve askeri sınıfa çok yakın\" Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/22/69e922abfdddff55048b4577.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Sağlık yetkilisi, ilk yerel dang humması vakasının önümüzdeki aylarda salgına yol açabileceğini söyledi",
+    "summary": "Bir sağlık yetkilisi, riskin önlenebilir olduğunu vurgulayarak, Hong Kong'da bir yıldan fazla bir süredir yerel olarak kaydedilen ilk dang humması vakasının, tanı konmamış ithal vakaların önümüzdeki a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3350971/first-local-dengue-case-could-lead-outbreak-coming-months-health-official-says?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "SCMP'nin 'orijinal' finans raporlaması State Street Institutional Press Ödülleri'nde onurlandırıldı",
+    "summary": "South China Morning Post, Salı günü Asya-Pasifik 2025 State Street Kurumsal Basın Ödülleri'nde altı ödül aldı.\nAsya-Pasifik (APAC) genelinde kurumsal finansla ilgili olağanüstü haberlerin ödüllendiril...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/business/article/3350897/scmps-original-finance-reporting-honoured-state-street-institutional-press-awards?utm_source=rss_feed"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -835,68 +898,5 @@
     "summary": "F.A.Z.'ye göre. Bilgiye göre, Rus petrolünün Ukrayna üzerinden yeniden Macaristan'a akabilmesi için tüm hazırlıklar yapıldı. Bu, Orbán'ın krediye karşı vetodan vazgeçmesinin şartıydı.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ausland/ungarn-soll-milliardenkredit-fuer-kiew-freigeben-accg-200755544.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: Askeri yetkililer Londra'daki Hürmüz Boğazı'nın güvenliğini tartışıyor",
-    "summary": "30 ülke katıldı +++ Trump: İran'la ateşkes uzatılacak +++ İran, Körfez bölgesindeki petrol üretimini sona erdirmekle tehdit ediyor +++ Vance'ten İslamabad'a gezi geçici olarak askıya alındı ​​+++ tüm ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-militaers-beraten-in-london-ueber-sicherung-der-strasse-von-hormus-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran Savaşı: Trump'ın ateşkesi uzatmasının ardından birçok belirsizlik",
-    "summary": "Donald Trump'ın son U dönüşünün ardından İran temkinli olmaya devam ediyor. ABD, İran limanlarını bloke etmeye devam etmek istiyor. Petrol pahalı olmaya devam ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/trump-verlaengert-waffenruhe-mit-iran-weiter-misstrauen-accg-200755502.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "El Salvador'da kötü şöhretli MS-13 çetesinin 486 üyesi olduğu iddia edilen kişi için toplu dava açıldı",
-    "summary": "İnsan hakları grupları, toplu kovuşturmaların yasal süreci ihlal ettiği ve sanıkların hukuki danışmanlara erişimini engellediği konusunda uyardı Salvador'daki bir mahkeme, Salı günü, başkan Nayib Buke...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İnceleme bulgularına göre, 'önemli başarısızlıklar' NSW'deki iki koruyucu çocuğun seri katilin yanına yerleştirilmesine yol açtı",
-    "summary": "Lanet olası inceleme sonucunda departmanın geçen Aralık ayında üçlü katil Regina Arthurell'in evde yaşadığına dair uyarıldığını tespit ettikten sonra iki personel açığa alındı ​​En son güncellemeler i...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/22/foster-children-placed-serial-killer-regina-arthurell-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İngiltere ve anakara Avrupa'daki polen mevsimi iklim değişikliği nedeniyle uzadı",
-    "summary": "Araştırma, küresel ısınmanın, sıcak hava dalgaları ve kuraklıkları kötüleştirmenin yanı sıra polen sezonunu da uzattığını ortaya koyuyor. Bir araştırma, fosil yakıt kirliliğinin yol açtığı zarara göz ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Sur kenti İsrail'le ateşkese güvenmiyor: \"Kalplerimizi terörle doldurmak istiyorlar\"",
-    "summary": "Güney Lübnan'ın en büyük şehrinin sakinleri, ateşkesin önümüzdeki Pazar sona ermesiyle birlikte İsrail güçleri ile Hizbullah arasındaki savaşa geri dönüşten korkuyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-22/la-ciudad-de-tiro-desconfia-de-la-tregua-con-israel-quieren-llenarnos-el-corazon-de-terror.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump kirletiyor, sol canlanıyor",
-    "summary": "Aşırı sağ korkuyu o kadar kullandı ki terörü yaratan artık liderleri oldu",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-04-18/trump-contamina-la-izquierda-revive.html"
   }
 ]
