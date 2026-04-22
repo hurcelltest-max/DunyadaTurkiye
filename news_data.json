@@ -3,6 +3,78 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İranlılar ister savaş lehine ister savaşa karşı olsun ekonomik acı hissettiklerini söylüyor.",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/iran-turkey-border"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Bağımsızlık Gününde İsrail, Gazze'yi 'Düzleştirmeye' Çağrıda Bulunan Hahamı Onurlandırdı",
+    "summary": "Avraham Zarbiv, İsrail'in Gazze'deki binaları yıkma hakkıyla tanındı. Salı akşamı ulusal bir törende meşale yaktı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Raporlar: Trump, İran'a yanıt vermesi için yalnızca birkaç gün vermek istiyor",
+    "summary": "Trump ateşkesi üç ila beş gün uzatmaya hazır +++ İran görünüşe göre birkaç yük gemisine saldırıyor +++ İngiliz yetkililer saldırıları bildirdi +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-berichte-trump-will-iran-nur-wenige-tage-fuer-antwort-geben-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Druzhba boru hattı: Orbán ayrılır ayrılmaz boru hattı onarılıyor",
+    "summary": "Macaristan'daki seçimlerin üzerinden bir haftadan fazla süre geçtikten sonra Rus petrolü yeniden akmaya başladı. Bütün bunlar Ukraynalıların Orbán'a karşı bir manevrası mıydı?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/druschba-pipeline-fast-drei-monate-stillstand-200757973.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Kremlin, Kazak petrolünün Berlin'in tedariğinin bağlı olduğu rafineriye sevkiyatını askıya alacak",
+    "summary": "Tesis, Ukrayna'nın işgalinden sonra Rus ham petrolünü almayı bıraktı, ancak tesisi besleyen boru hattı Avrasya ülkesinden geçiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-22/el-kremlin-suspendera-el-envio-de-petroleo-kazajo-a-la-refineria-de-la-que-depende-el-suministro-de-berlin.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, İran teklif sunana ve müzakereler sonuçlanana kadar ateşkesi uzattı",
+    "summary": "ABD Başkanı, Hürmüz'e yönelik deniz ablukasını sürdürmesine rağmen ateşkesin sona ermesine birkaç saat kala ateşkesi uzattı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-21/trump-prorroga-el-alto-el-fuego-hasta-que-iran-presente-una-propuesta-y-se-negocie-hasta-el-final.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Haritalar | Hürmüz ablukası nasıl işliyor ve neden bazı gemiler geçip bazıları geçmiyor?",
+    "summary": "Boğazı kontrol etmek için İran ve ABD, birbirinden 500 kilometre uzakta iki stratejik nokta kurdu. Yine de bazı gemiler karşıya geçmeyi başarıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-21/mapas-como-funciona-el-bloqueo-de-ormuz-y-por-que-algunos-buques-pasan-y-otros-no.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump, İran'daki ateşkesi uzattı ve müzakereler aksadıkça ablukayı sürdürüyor",
+    "summary": "Başkan, arabuluculuk yapan Pakistan'ın ABD'den yeni saldırıları ertelemesini istediğini söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/22/world/politics/trump-iran-truce-blockade-talks/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Trump'ın ABD Kuvvetlerine Yardım Eden Afganları Kongo'ya Göndermek İçin Görüşmelerde Olduğu Söyleniyor",
     "summary": "ABD'li bir yardım görevlisi, Katar'a tahliye edilen Afganların Demokratik Kongo Cumhuriyeti'ne taşınmakla Taliban yönetimi altında yaşamak arasında bir seçimle karşı karşıya kalacaklarını söyledi.",
     "timeAgo": "En Guncel (API)",
@@ -826,77 +898,5 @@
     "summary": "Karex, yılda 5 milyardan fazla prezervatif üretiyor ve NHS'nin yanı sıra Durex ve Trojan gibi önde gelen markaların tedarikçisi konumunda. Dünyanın en büyük prezervatif üreticisi Malezya'daki Karex Bh...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Yakıt ve yaşam maliyetlerinin Avustralya harcamalarını olumsuz etkilemesi nedeniyle paket kahve satışları düşüyor. Sırada ekonomi mi var?",
-    "summary": "Anketler, ABD-İsrail'in İran'a karşı savaşıyla hızlanarak haneleri ve kafe sahiplerini üzgün bıraktı. En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika haber e-postamızı...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İtalya ve Almanya, İspanya'nın talebi üzerine İsrail ile AB Ortaklık Anlaşmasını askıya alma olasılığını durdurdu",
-    "summary": "Her ne kadar İspanya, İrlanda ve Slovenya'nın önerileri hâlâ yeterli destekten yoksun olsa da girişim, Netanyahu Hükümeti'nin uluslararası hukuka saygı göstermesi için \"bir şeyler yapılması\" gerektiği...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-21/albares-la-ue-debe-enviar-una-senal-fuerte-a-israel.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İspanya, Brezilya ve Meksika ittifaklarını güçlendiriyor ve insani krizi hafifletmek için Küba'ya yardım göndermeyi taahhüt ediyor",
-    "summary": "Üç ülke, \"Küba halkının yaşadığı dramatik durumu\" kınıyor ve Trump'ın baskısına yanıt olarak adanın egemenliğine saygı gösterilmesi çağrısında bulunuyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-19/espana-brasil-y-mexico-afianzan-su-alianza-y-se-comprometen-a-enviar-ayuda-a-cuba-para-aliviar-la-crisis-humanitaria.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Dolandırıcılar, sahte kara para aklama soruşturmalarıyla yabancı öğrencileri kandırarak altınlarını alıyor",
-    "summary": "Dolandırıcılar, yurt dışında okuyan öğrencileri kara para aklamakla suçlayarak ve sahte kolluk soruşturmaları için altın satın almaları için Hong Kong'a çekerek, her biri 1,5 milyon HK $'a (191.531 AB...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350861/scammers-trick-overseas-students-out-gold-fake-money-laundering-probes?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Yük taşıtı ve yolcu otobüsünün karıştığı ayrı trafik kazalarında 2 kadın hayatını kaybetti",
-    "summary": "Hong Kong polisi Salı günü iki kadının ölümüyle sonuçlanan iki ayrı trafik kazasını araştırıyor.\nİlk vakada polis, sabah 8.51 sularında, Cha Kwo Ling Yolu boyunca Yau Tong'a doğru giden 36 yaşındaki b...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3350863/2-women-killed-separate-traffic-accidents-involving-goods-vehicle-and-coach?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Yakıt maliyetlerindeki artış nedeniyle Hong Kong-Makao feribot ücretleri %11'e kadar artırılacak",
-    "summary": "Hong Kong ve Makao arasında günlük sefer yapan iki ana feribot operatörü, artan yakıt fiyatları nedeniyle ücretlere yüzde 11'e kadar zam yapacak. Öte yandan bir sendika, otobüs şoförlerinin, şirketler...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3350862/hong-kong-macau-ferry-fares-increase-11-amid-fuel-costs-surge?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Yapay zekayı eğitmek için ABD'li çalışanların fare hareketlerini ve tuş vuruşlarını yakalayacak meta",
-    "summary": "Dahili bir nota göre, yeni izleme yazılımı işle ilgili uygulamalar ve web sitelerinde çalışacak ve ayrıca çalışanların ekranlarındaki içeriğin ara sıra anlık görüntülerini alacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/04/22/tech/meta-employee-ai-training-data/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İngiltere, İran ve Çin'in düzenli olarak önemli siber saldırılara öncülük ettiğini söylüyor",
-    "summary": "Ülkenin üst düzey siber güvenlik yetkilisi, başlıca düşmanları Çin, İran ve Rusya ile yapacağı konuşmada, İngiltere'nin her hafta birbirini takip eden dört siber saldırıyla karşı karşıya olduğunu ifad...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/22/world/politics/uk-iran-china-cyberattacks/"
   }
 ]
