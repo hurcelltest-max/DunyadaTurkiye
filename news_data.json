@@ -1,5 +1,158 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Kuveyt'te İran Savaşına İlişkin Paylaşımından Sonra Gözaltına Alınan Gazeteci Beraat Edildi",
+    "summary": "Aile üyelerinden ikisinin avukatı, Kuveytli Amerikalı gazeteci Ahmed Shihab-Eldin'in 52 gün tutuklu kaldıktan sonra yakında serbest bırakılmasının beklendiğini söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrail Saldırısında Öldürülen Lübnanlı Gazeteci Cesur Olarak Biliniyordu",
+    "summary": "Yas tutanlar, acil sağlık ekipleri cesedini çıkarana kadar saatlerce enkaz altında kalan Amal Khalil'e saygılarını sundu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump-Xi Zirvesi Hakkında Hangi Sorularınız Var?",
+    "summary": "“Bir Muhabire Sorun”, sorularınızı The Times için Çin'in dış politikasını ele alan David Pierson'a götürecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/23/world/trump-xi-china-reader-callout.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Barış görüşmeleri: İran'ın dünyaya mesajı: Bekleyebiliriz",
+    "summary": "İran'a karşı savaşta ABD Başkanı Trump baskı ve tehditlerle bir yere varamıyor. İslamabad'da İran rejiminin stratejik avantajını sonuna kadar kullandığına dair bir algı var.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-iran-friedensgespraeche-islamabad-verhandlungsstrategie-li.3472289"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Yakıt tedariği: Moskova petrol musluğunu yeniden açıyor",
+    "summary": "Federal Meclis yakıt indirimine karar verir vermez Almanlar bir sonraki sorunla tehdit ediliyor: Bir hafta içinde Rusya, Kazak petrolünün Schwedt'e geçişine son vermek istiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/raffinerie-schwedt-oel-kasachstan-russland-li.3472823"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Çernobil'den 40 yıl sonra: Felaket hâlâ etkisini sürdürüyor",
+    "summary": "26 Nisan 1986'da tarihin en büyük nükleer kazası meydana geldi. Bunun sonuçları bugün hâlâ hissediliyor: baskıcı Belarus'ta, Ukrayna'daki savaşta ve Almanya'daki yardım kuruluşları arasında. Vladimir ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/tschernobyl-atomkatastrophe-atomunglueck-jahrestag-ukraine-krieg-belarus-e227080/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İran'da savaş: Hizbullah: Lübnan'da ateşkesin uzatılması anlamsız",
+    "summary": "Şii milislere göre İsrail'in saldırıları ABD Başkanı'nın ilan ettiği ateşkese rağmen devam ediyor. Bu nedenle tepki verme hakkına sahip olduğunu düşünüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-nahost-libanon-waffenruhe-israel-hisbollah-donald-trump-li.3472459"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: İran Dışişleri Bakanı'nın Cuma akşamı İslamabad'da olması bekleniyor",
+    "summary": "Pakistan'dan gelen bilgiye göre Araghchi küçük bir müzakere ekibiyle geliyor +++ Trump: İsrail ile Lübnan arasındaki ateşkes üç hafta uzatıldı +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-irans-aussenminister-am-freitagabend-in-islamabad-erwartet-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Başkan Zelenskyj Suudi Arabistan'a geldi",
+    "summary": "Ukrayna güvenlik işbirliği görüşmelerine devam etmek istiyor +++ Odessa'ya Rus insansız hava aracı saldırısında iki ölü +++ Ukrayna AB'den 90 milyar kredi aldı +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-in-saudi-arabien-eingetroffen-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Pentagon'un sızdırılan notunun ardından No 10, İngiltere'nin Falkland'a ilişkin pozisyonunun değişmeyeceğini söylüyor",
+    "summary": "Dahili e-posta, ABD'nin İran savaşına destek eksikliği nedeniyle Birleşik Krallık'ın adalar üzerindeki iddiasına verdiği desteği yeniden değerlendirmesi gerektiğini öne sürüyor Birleşik Krallık siyase...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kaliforniya'daki baskında düzinelerce Meksikalı mafya üyesi tutuklandı",
+    "summary": "Savcılar, 43 kişinin cinayet, adam kaçırma, gasp ve uyuşturucu kaçakçılığı gibi suçlamalarla suçlandığını söyledi Federal yetkililer Perşembe günü yaptığı açıklamada, Meksika mafyasının iki düzineden ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tokyo işçileri enerji maliyetlerini azaltmak ve serin kalmak için şort giymeye teşvik edildi",
+    "summary": "Yetkililer, yaz sıcağı yaklaşırken kamu görevlileri için daha rahat kıyafetlerin İran savaşı sırasında elektrik tasarrufu sağlayacağını umuyor Tokyo metropol hükümeti için çalışan kamu görevlileri, bu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "AB liderleri, Trump'ın \"çok hayal kırıklığı yaratan NATO\" eleştirisinin ortasında karşılıklı yardım anlaşması taslağını kabul etti",
+    "summary": "NATO tarihinin en kötü kriziyle karşı karşıyayken üyeler, bir saldırı durumunda birbirlerinin yardımına nasıl koşacaklarını planlayacak Donald Trump'ın NATO'ya yönelik eleştirileri yoğunlaşırken Brüks...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump kirletiyor, sol canlanıyor",
+    "summary": "Aşırı sağ korkuyu o kadar kullandı ki terörü yaratan artık liderleri oldu",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-04-18/trump-contamina-la-izquierda-revive.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran savaşı prezervatif fiyatlarındaki küresel artışı tehdit ediyor",
+    "summary": "Dünyadaki beş prezervatiften birini üreten Malezya şirketi Karex'in yöneticisi \"Durum çok hassas\" diyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-04-24/la-guerra-de-iran-amenaza-con-una-subida-global-del-precio-de-los-condones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "NATO, Pentagon'un İspanya planına yanıt verdi: \"Kurucu anlaşma, bir üyenin sınır dışı edilmesine yönelik herhangi bir mekanizma öngörmüyor\"",
+    "summary": "Bir İttifak yetkilisi EL MUNDO'ya ABD Savaş Bakanlığı tarafından ele alınan olası askıya alma işleminin mümkün olmadığını doğruladı. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/04/24/69eb5ed6e4d4d898278b45a8.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "BM, ısınan El Nino'nun 2026 ortasında geri döneceğini söylüyor",
+    "summary": "Birleşmiş Milletler'in hava ve iklim kurumu, El Nino koşullarının muhtemelen Mayıs'tan Temmuz'a kadar olan üç aylık pencere kadar erken olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/environment/2026/04/24/el-nino-warming-return/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -745,158 +898,5 @@
     "summary": "Geçici bir ateşkesin ardından müzakerelerin askıya alınmasıyla Trump yönetimi, piyasaları karıştıran ve eleştirilere yol açan popüler olmayan bir savaşı yeniden başlatmak için bir alternatif bulmaya h...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/news/2026/04/24/world/politics/iran-weak-nuclear-deal-risk/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Lübnan-İsrail ateşkesi Oval Ofis toplantısının ardından üç hafta uzatıldı",
-    "summary": "Lübnan ile İsrail'in Washington büyükelçileri arasında geçen hafta yapılan görüşmelerin ardından varılan ateşkesin Pazar günü sona ermesi planlanıyordu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/24/world/israel-lebanon-truce-extend/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran'daki Savaş Avustralya'daki Vergi Tartışmasına Yeni Yakıt Veriyor",
-    "summary": "Ülkedeki pek çok kişi, dünyanın üçüncü büyük doğal gaz ihracatçısı olan Avustralya'nın, kârlı gaz ihracatını vergilendirmede çok yumuşak davrandığını ileri sürüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Hindistan'da Kayıp Bir Kabile İsrail'e Göç Ediyor",
-    "summary": "B'nei Menashe, yaklaşık 2.800 yıl önce sürgüne gönderilen Yahuda kralı Manasseh'nin çocukları olduklarına inanıyor. Kanıt zayıf ama İsrail onları “evlerinde” ağırlıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Carney, Kanada ve ABD Ticaret Anlaşması Konusunda Kavga ederken Trump Yetkililerine Cevap Verdi",
-    "summary": "Başbakan Mark Carney, Kanada'nın \"ABD'den talimat almadığını\" söyleyerek Trump yönetimi yetkililerine sert karşılık verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/canada/carney-trump-canada-us-trade.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump İran'ın 'Nükleer Tozu'ndan Bahsetmeye Devam Ediyor. Nedir?",
-    "summary": "Öncelikle toz değil. Bu, İran'ın bomba derecesine yakın uranyum stoğudur ve tüplü dalış tankları büyüklüğündeki büyük kutularda depolanmaktadır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-iran-nuclear-dust-uranium.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran'ı Generaller Yönetiyor",
-    "summary": "Savaş, Devrim Muhafızlarını güçlendirdi ve teokratik cumhuriyeti daha çok askeri rejime benzeyen bir şeye doğru kaydırıyor gibi görünüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/iran-guards-military-israel-lebanon.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İran'da savaş: Trump: İsrail ile Lübnan arasındaki ateşkes üç hafta uzatıldı",
-    "summary": "ABD Başkanı Donald Trump'a göre, Lübnan'daki İran yanlısı Hizbullah milisleri ile İsrail arasındaki mevcut ateşkes üç hafta uzatılacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-nahost-libanon-waffenruhe-donald-trump-usa-li.3472459"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Canlı blog İran savaşı: Trump: İsrail ile Lübnan arasındaki ateşkes üç hafta uzatıldı",
-    "summary": "ABD, Lübnan'ı Hizbullah'tan koruma konusunda desteklemek istiyor +++ Devlet medyası: Tahran'da hava savunma sistemleri etkinleştirildi - İsrail: Şu anda saldırmıyor +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-waffenruhe-zwischen-israel-und-libanon-um-drei-wochen-verlaengert-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Canlı blog ABD Trump yönetiminde: Virginia'daki seçim bölgelerinin yeniden çizilmesine ilişkin anlaşmazlık tırmanıyor",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-trump-nennt-gerrymandering-referendum-in-virginia-manipuliert-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Druzhba boru hattı: Petrol neden şimdi akıyor?",
-    "summary": "Ukrayna'nın Rusya'dan petrol boru hattı döşemesi açıkça siyasi bir takvim izledi. Kiev, Budapeşte'yi baskı altına aldı. Tek başına mı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/druschba-pipeline-warum-wieder-oel-nach-ungarn-fliesst-200757877.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump'ın İran'a yönelik yerine getirilmemiş son tehdidi ABD'deki iç krizi derinleştiriyor",
-    "summary": "Çatışmanın sonlandırılmasının istikrarsız yönetimi, başkanın yurttaşları arasındaki popülerliğini artırıyor. Son geri çekilmesi, gözdağı diplomasisinin sorgulanmasına neden oluyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-23/la-ultima-amenaza-no-cumplida-de-trump-en-iran-ahonda-su-crisis-interna-en-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Evs ve Cihad için ölüm Batı Şeria'daki bir tepeden geldi: \"Yerleşimci hareket eden her şeye ateş etti\"",
-    "summary": "Al Mugayer, uzaktan ateş açan İsrailli bir yerleşimci askerin aralarında bir ergenin de bulunduğu iki ölümcül kurbanını acı ve teslimiyet arasında gömüyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-23/vi-al-colono-disparaba-a-todo-lo-que-se-movia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran'ın 'sivrisinek filosu' Hürmüz Boğazı'na gerilla savaşını taşıyor",
-    "summary": "İki büyük geminin Devrim Muhafızları'na ait sürat tekneleri tarafından ele geçirilmesi, bu gemilerin bu deniz ana arterinin ablukasındaki hayati rolünü hatırlatıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-23/la-flota-mosquito-de-iran-lleva-al-estrecho-de-ormuz-la-guerra-de-guerrillas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ukrayna yıpratma savaşını Rusya'ya çevirmeyi başardı",
-    "summary": "Toprağı toparlayıp Moskova'yı rezervleri taşımaya zorluyorlar ama çatışma devam ediyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/23/69ea6a1a21efa069338b45c1.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD Deniz Kuvvetleri Bakanı, Pentagon'da aylardır süren anlaşmazlıkların ardından görevden alındı",
-    "summary": "'New York Times', John Phelan'ın Savaş Bakanı Pete Hegseth ve Savunma Bakan Yardımcısı Stephen Feinberg ile karşı karşıya geldiğini bildirmişti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/23/69e9b3ece9cf4a59098b4570.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, sekiz İranlı kadının idamını askıya aldığını öne sürdü, Tahran ise bunu yalanladı",
-    "summary": "İran, Trump'ın versiyonunu yalanladı ve \"bir kez daha sahte haberlerle aldatıldığına\" dair güvence verdi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/23/69e9ad5cfc6c834f108b4596.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "UAEK genel müdürü, İran'ın \"iki haftada on nükleer bomba\" üretme kapasitesine sahip olduğunu söyledi",
-    "summary": "\"Malzeme orada, yerinden oynatılmamış. Ve askeri sınıfa çok yakın\" Read",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/22/69e922abfdddff55048b4577.html"
   }
 ]
