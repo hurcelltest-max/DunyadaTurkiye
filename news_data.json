@@ -1,5 +1,122 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İran'da savaş: Pistorius mayın tarama gemilerini Akdeniz'e taşımak istiyor",
+    "summary": "Savunma bakanı bir mayın tarama gemisi ve iki eskort gemisi göndererek olası bir Hürmüz misyonuna hazır olmak istiyor. Ancak bunun gerçekleşebilmesi için öncelikle çatışmaların sona ermesi gerekiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-nahost-pistorius-minensucher-li.3472459"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da Savaş: Witkoff ve Kushner'la, Vance'siz",
+    "summary": "Donald Trump Cumartesi günü müzakerecileri İslamabad'a gönderirken, başkan yardımcısı şimdilik Washington'da kalacak. İran'la doğrudan bir görüşmenin yapılıp yapılmayacağı ise henüz belli değil.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-donald-trump-iran-krieg-verhandlungen-waffenruhe-j-d-vance-pakistan-li.3473587"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Bundeswehr tedbir olarak Akdeniz'e mayın tarama gemisi gönderiyor",
+    "summary": "Pistorius: Hürmüz Boğazı'nda olası bir operasyona hazırlanıyor +++ Witkoff ve Kushner Pakistan'a gidiyor +++ Lübnan: Ateşkese rağmen İsrail hava saldırılarında ölüler +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-bundeswehr-entsendet-minensucher-vorsorglich-ins-mittelmeer-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya canlı blogu: Rapor: Federal Bakanlar Prien ve Hubertz de sinyal saldırılarından etkilendi",
+    "summary": "\"Spiegel\" raporuna göre iki siyasetçinin Signal hesaplarının ele geçirildiği söyleniyor +++ Miersch: En kötü durumda, İran savaşı nedeniyle yeni borçlar +++ Signal hacklenmesinin ardından Federal Savc...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bericht-auch-bundesministerinnen-prien-und-hubertz-von-signal-hacks-betroffen-faz-110093143.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Rusya, Ukrayna şehirlerine füzeler ve insansız hava araçlarıyla saldırıyor",
+    "summary": "Kiev, Kharkiv, Dnipro ve diğer şehirlere saldırılar +++ Başkan Zelenskyj Suudi Arabistan'a geldi +++ Rus drone saldırısında Odessa'da iki ölü +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-fliegt-neue-angriffswelle-gegen-ukraine-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Pakistan'daki görüşmeler: İran savaşıyla ilgili müzakerelerde belirsiz durum",
+    "summary": "İran Dışişleri Bakanı Araghchi İslamabad'a geldi; ABD elçileri Witkoff ve Kushner Cumartesi günü onları takip etmeyi planlıyor. Doğrudan görüşmelerin olup olmayacağı belirsizliğini koruyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/unklare-lage-bei-verhandlungen-um-irankrieg-accg-200767412.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Pentagon'un sızdırılan notunun ardından No 10, İngiltere'nin Falkland'a ilişkin pozisyonunun değişmeyeceğini söylüyor",
+    "summary": "Dahili e-posta, ABD'nin, İran savaşına destek eksikliği nedeniyle Birleşik Krallık'ın adalar üzerindeki iddiasına verdiği desteği yeniden değerlendirmesi gerektiğini öne sürüyor Birleşik Krallık siyas...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tokyo işçileri enerji maliyetlerini azaltmak ve serin kalmak için şort giymeye teşvik edildi",
+    "summary": "Yetkililer, yaz sıcağı yaklaşırken kamu görevlileri için daha rahat kıyafetlerin İran savaşı sırasında elektrik tasarrufu sağlayacağını umuyor Tokyo metropol hükümeti için çalışan kamu görevlileri, bu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Çernobil'in İçinde: Felaketten 40 yıl sonra, nükleer tesis Rusya'nın savaşında hâlâ risk altında",
+    "summary": "Şubat 2025'te ucuz bir Rus insansız hava aracı Çernobil'deki sığınağı parçaladı. İşçiler, dünyanın en kötü nükleer kazasının yaşandığı bölgenin henüz güvenli olmadığı konusunda uyarıyor. Göğsünüze tak...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "AB liderleri, Trump'ın NATO tartışmaları arasında az bilinen karşılıklı yardım anlaşmasına bakıyor",
+    "summary": "Transatlantik ittifak tarihinin en kötü kriziyle karşı karşıyayken üyeler, saldırı durumunda birbirlerine nasıl yardım edeceklerini planlayacak Donald Trump'ın NATO'ya yönelik eleştirileri yoğunlaşırk...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump kirletiyor, sol canlanıyor",
+    "summary": "Aşırı sağ korkuyu o kadar kullandı ki terörü yaratan artık liderleri oldu",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-04-18/trump-contamina-la-izquierda-revive.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Uzmanlar, 'doğal' doğum kontrolünün istenmeyen hamileliği riske atabileceği konusunda uyarıyor",
+    "summary": "Kadınların kendilerini hapın hormonal etkilerinden \"kurtarmalarının\" bir yolu olarak doğal doğum kontrolünü sıklıkla teşvik eden etkileyiciler, bu eğilimin desteklenmesine yardımcı oluyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/04/25/world/science-health/natural-birth-control-unwanted-pregnancy/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "ABD, Powell soruşturmasını düşürerek Warsh'un Fed'e liderlik etmesini kolaylaştırdı",
+    "summary": "Başkan Jerome Powell'a yönelik soruşturmanın etkileri, Fed'in beklenen liderlik geçişini kaosa sürüklemişti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/04/25/economy/doj-powell-probe-warsh-fed/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -781,122 +898,5 @@
     "summary": "Donald Trump ve Cumhuriyetçiler anketlerde kötü performans sergiliyor; Demokratlar Kasım ayında yapılacak kongre seçimlerini kazanabilir. Ancak bu ara sınavlara zaten güvensizlik de eşlik ediyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/us-zwischenwahlen-republikaner-trump-demokraten-kongress-li.3473051"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Mühimmat kıtlığı: ABD artık acil bir durumda Tayvan'ı savunamaz mı?",
-    "summary": "İran'da kullanılan mühimmatın yenilenmesi altı yıl alabilir. Bu durum Tayvan konusunda olası bir çatışmada ABD için sorun teşkil edebilir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/koennen-die-usa-taiwan-im-ernstfall-nicht-mehr-verteidigen-200764172.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Devrim Muhafızlarının Rolü: Tahran'daki rejim ne kadar bölünmüş?",
-    "summary": "Trump, İran'da kamp çatışmalarının yaşandığını iddia ediyor. Şu anda ülkeyi kimin yönettiği belli değil. Rejim tepki gösteriyor ve kesinlikle kabul ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/verhandlungen-mit-den-usa-ist-irans-regime-gespalten-200764613.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran'la görüşmeler: Körfez ülkeleri Trump'ın müzakerelerinin zayıf olmasından korkuyor",
-    "summary": "ABD İran'a çok fazla taviz verecek mi? Körfez ülkeleri görüşmelere şüpheyle bakıyor ve şimdiden kendi savunma yeteneklerini güçlendiriyorlar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/donald-trump-golfstaaten-sorgen-sich-vor-einem-schlechten-iran-deal-200766089.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Druzhba boru hattı: Petrol neden şimdi akıyor?",
-    "summary": "Ukrayna'nın Rusya'dan petrol boru hattı döşemesi açıkça siyasi bir takvim izledi. Kiev, Budapeşte'yi baskı altına aldı. Tek başına mı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/druschba-pipeline-warum-wieder-oel-nach-ungarn-fliesst-200757877.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Florida yetkilileri, depoda 31 tembel hayvanın ölmesinin ardından planlanan 'Tembel Hayvan Dünyası' cazibesini araştırıyor",
-    "summary": "Guyana ve Peru'daki baygın ağaç sakinleri, elektriğin veya akan suyun olmadığı bir depoda 'soğuk sersemlemesinden' öldü Son Dakika Haberleri için kaydolun ABD bülten e-postası Florida'daki yaban hayat...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "ABD neden İspanya'yı NATO'dan çıkaramıyor?",
-    "summary": "Trump Yönetiminin, İspanyol komutanların atanmasını engelleme kapasitesine sahip olmasına rağmen, İttifakın herhangi bir üyesini ihraç etme yetkisi bulunmuyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-24/por-que-estados-unidos-no-puede-suspender-a-espana-de-la-otan.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Netanyahu prostat kanseri nedeniyle radyoterapi gördü ve tedaviyi sakladı",
-    "summary": "Başbakan, İran'ın \"İsrail'e karşı yalan propaganda\" yapmasını önlemek amacıyla sağlık raporunun yayımlanmasının ertelenmesini istedi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-24/netanyahu-se-sometio-a-radioterapia-por-cancer-de-prostata-y-oculto-el-tratamiento.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump'ın İran'a yönelik yerine getirilmemiş son tehdidi ABD'deki iç krizi derinleştiriyor",
-    "summary": "Çatışmanın sonlandırılmasının istikrarsız yönetimi, başkanın yurttaşları arasındaki popülerliğini artırıyor. Son geri çekilmesi, gözdağı diplomasisinin sorgulanmasına neden oluyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-04-23/la-ultima-amenaza-no-cumplida-de-trump-en-iran-ahonda-su-crisis-interna-en-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Lübnan, istikrarsız ateşkesi uzatarak İran'ın belirsizliğine katılıyor",
-    "summary": "Trump'ın açıklamasına rağmen Tel Aviv ordusu ve Hizbullah sınır bölgesinde karşılıklı roket atışlarına ve saldırılara devam ediyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/24/69eb6b8921efa0661b8b458c.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ukrayna yıpratma savaşını Rusya'ya çevirmeyi başardı",
-    "summary": "Toprağı toparlayıp Moskova'yı rezervleri taşımaya zorluyorlar ama çatışma devam ediyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/23/69ea6a1a21efa069338b45c1.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kuveyt'te İran Savaşına İlişkin Paylaşımından Sonra Gözaltına Alınan Gazeteci Beraat Edildi",
-    "summary": "Aile üyelerinden ikisinin avukatı, Kuveytli Amerikalı gazeteci Ahmed Shihab-Eldin'in 52 gün tutuklu kaldıktan sonra yakında serbest bırakılmasının beklendiğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İsrail Saldırısında Öldürülen Lübnanlı Gazeteci Cesur Olarak Biliniyordu",
-    "summary": "Yas tutanlar, acil sağlık ekipleri cesedini çıkarana kadar saatlerce enkaz altında kalan Amal Khalil'e saygılarını sundu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump-Xi Zirvesi Hakkında Hangi Sorularınız Var?",
-    "summary": "“Bir Muhabire Sorun”, sorularınızı The Times için Çin'in dış politikasını ele alan David Pierson'a götürecek.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/04/23/world/trump-xi-china-reader-callout.html"
   }
 ]
