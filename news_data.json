@@ -3,6 +3,42 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Avustralya'daki Savaşta Ölenlerin Anma Törenlerinde Yerli Konuşmacılar Yuhalanıyor",
+    "summary": "Anzak Günü kutlamaları üç şehirde kesintiye uğradı. Düzenbazlar, bölgenin asıl sakinlerini tanımayı amaçlayan yaygın bir Aborijin geleneğini hedef alıyor gibi görünüyordu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
+    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İran'da savaş: Trump, müzakerecilerin Pakistan gezisini iptal etti",
+    "summary": "Aslında ABD Başkanı'nın damadı Jared Kushner ve özel elçi Steve Witkoff'un İran savaşıyla ilgili görüşmek üzere ülkeye gitmesi bekleniyordu. Ama hiçbir şey çıkmıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-trump-vermittler-witkoff-li.3472459"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Trump, müzakerecilerin İran görüşmelerine yönelik gezisini iptal etti",
+    "summary": "ABD Başkanı: İran her an arayabilir +++ İran Dışişleri Bakanı Pakistanlı temsilcilerle görüştükten sonra İslamabad'dan ayrılıyor +++ Alman mayın tarama gemisi Akdeniz'e gidiyor +++ tüm gelişmeler canl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-sagt-reise-von-unterhaendlern-zu-iran-gespraechen-ab-faz-200583539.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Putin Ekonominin Düzeltilmesini Emrederken, Rusya Çözümlere Kavuşuyor",
     "summary": "Bir başka faiz oranı indirimi, savaş dönemindeki yoğun harcamaların yarattığı baskının ortasında ülkenin merkez bankasının önündeki yolun daralmasına dikkat çekiyor.",
     "timeAgo": "En Guncel (API)",
@@ -862,41 +898,5 @@
     "summary": "Pakistan'ın başkenti, ABD ile İran arasındaki belirsiz ikinci tur barış görüşmelerini beklerken, salgının tipik sahnelerini canlandıran bir güvenlik konuşlandırmasıyla bir hafta boyunca korundu. Komşu...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/04/25/69e9ecd0e4d4d881738b457d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Afrika'da kolera geriliyor ama savaş onu yeniden canlandırmakla tehdit ediyor: \"Güvenlik eksikliği nedeniyle kaynakların ulaşamadığı izole alanlar var\"",
-    "summary": "Enfeksiyonlar yarı yarıya düşüyor ancak çatışmalar aşıları, yardımı ve en savunmasız bölgelere erişimi engelliyor&nbsp;Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/25/69eba40ee4d4d89c348b45ac.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran ve ABD, müzakerelerin başarısızlıkla sonuçlanmasının ardından Hürmüz Boğazı üzerinde egemenliklerini ilan etti",
-    "summary": "Saldırıların artması kırılgan ateşkesi tehlikeye atıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/23/69ea61f0e85eceab218b45a1.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran petrol tankerleri ABD ablukasını böyle deldi",
-    "summary": "Bayrak değişiklikleri, sinyal kesintileri ve açık deniz transferleri Tahran'ın petrolünü taşımasına olanak tanıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/24/69ebb9ace4d4d83f298b4594.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Panelde Hokkaido Shinkansen projesinin karlılığı sorgulanıyor",
-    "summary": "Proje maliyetindeki artışın nedenlerinden biri olan yükselen fiyatlar da ücret ve gayrimenkul gelirlerindeki artış yoluyla karlılığı yukarı doğru itebilir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/04/24/japan/hokkaido-shinkansen-profitability/"
   }
 ]
