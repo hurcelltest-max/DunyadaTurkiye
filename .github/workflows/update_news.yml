@@ -2,8 +2,8 @@ name: Otomatik Haber Guncelleme
 
 on:
   schedule:
-    # Her 2 saatte bir çalıştırır
-    - cron: '0 */2 * * *'
+    # Her 6 saatte bir çalıştırır (Günde 4 kez, kota koruması için)
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Manuel olarak butona basarak da tetiklenebilir
 
 permissions:
