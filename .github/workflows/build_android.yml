@@ -59,7 +59,7 @@ jobs:
               "alias": "android"
             }
           }
-          EOF  
+          EOF
 
       - name: Generate Keystore
         run: |
@@ -67,14 +67,24 @@ jobs:
 
       - name: Build APK/AAB
         run: |
-          mkdir -p ~/.bubblewrap
-          cat << EOF > ~/.bubblewrap/config.json
-          {
-            "jdkPath": "${JAVA_HOME}",
-            "androidSdkPath": "${ANDROID_HOME}"
+          sudo apt-get update && sudo apt-get install -y expect
+          rm -rf ~/.bubblewrap
+          cat << 'EOF' > build.exp
+          set timeout -1
+          spawn bubblewrap update
+          expect {
+            "download and install it" { send "Y\r"; exp_continue }
+            eof
+          }
+          spawn bubblewrap build
+          expect {
+            "download and install it" { send "Y\r"; exp_continue }
+            "Key store password:" { send "password123\r"; exp_continue }
+            "Key password:" { send "password123\r"; exp_continue }
+            eof
           }
           EOF
-          yes "password123" | bubblewrap build
+          expect build.exp
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
