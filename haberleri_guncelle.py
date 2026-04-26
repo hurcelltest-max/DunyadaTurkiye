@@ -2,8 +2,8 @@ import feedparser
 import json
 import re
 import os
+import urllib.request
 from deep_translator import GoogleTranslator
-
 # Taranacak Haber Kaynakları (Seçtiğiniz Ülkelerden ve Gazetelerden RSS'i aktif olanlar)
 SOURCES = [
     # ABD
@@ -135,5 +135,21 @@ def fetch_and_process():
     except Exception as e:
         print(f"Dosya kaydetme hatasi: {e}")
 
+def fetch_currency():
+    print("Doviz kurlari cekiliyor...")
+    try:
+        url = "https://finans.truncgil.com/today.json"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode())
+            
+        output_path = os.path.join(os.path.dirname(__file__), 'currency_data.json')
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print("Doviz kurlari basariyla kaydedildi.")
+    except Exception as e:
+        print(f"Doviz kurlari cekilirken hata: {e}")
+
 if __name__ == "__main__":
+    fetch_currency()
     fetch_and_process()

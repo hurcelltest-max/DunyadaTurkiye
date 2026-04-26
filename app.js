@@ -155,9 +155,9 @@ function renderNews() {
 async function fetchCurrency() {
   const bar = document.getElementById('currency-bar');
   try {
-    // Netlify proxy (_redirects) sayesinde CORS engelini atlayarak API verisini çekiyoruz
-    const response = await fetch('/api/doviz');
-    if (!response.ok) throw new Error('API Hatası');
+    // Python botunun arka planda çektiği statik JSON dosyasını okuyoruz
+    const response = await fetch('./currency_data.json');
+    if (!response.ok) throw new Error('Döviz dosyası bulunamadı');
     
     const data = await response.json();
     
