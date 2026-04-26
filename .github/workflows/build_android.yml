@@ -1,0 +1,86 @@
+name: Build Android TWA
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: '11'
+
+      - name: Install Bubblewrap
+        run: npm i -g @bubblewrap/cli
+
+      - name: Generate TWA Manifest
+        run: |
+          cat << 'EOF' > twa-manifest.json
+          {
+            "packageId": "com.dunyadaturkiye.app",
+            "host": "dunyadaturkiye.com",
+            "name": "DünyadaTürkiye",
+            "launcherName": "DünyadaTR",
+            "display": "standalone",
+            "themeColor": "#0f172a",
+            "navigationColor": "#0f172a",
+            "navigationColorDark": "#0f172a",
+            "navigationDividerColor": "#000000",
+            "navigationDividerColorDark": "#000000",
+            "backgroundColor": "#0f172a",
+            "enableNotifications": false,
+            "startUrl": "/",
+            "iconUrl": "https://hurcelltest-max.github.io/DunyadaTurkiye/icon512.png",
+            "maskableIconUrl": "https://hurcelltest-max.github.io/DunyadaTurkiye/icon512.png",
+            "splashScreenColors": {
+              "default": "#0f172a",
+              "dark": "#0f172a"
+            },
+            "appVersionName": "1.0.0",
+            "appVersionCode": 1,
+            "shortcuts": [],
+            "generatorApp": "Custom Action",
+            "fallbackType": "customtabs",
+            "features": {},
+            "alphaDependencies": {
+              "enabled": false
+            },
+            "signingKey": {
+              "path": "android.keystore",
+              "alias": "android"
+            }
+          }
+          EOF
+
+      - name: Generate Keystore
+        run: |
+          keytool -genkey -v -keystore android.keystore -alias android -keyalg RSA -keysize 2048 -validity 10000 -storepass password123 -keypass password123 -dname "CN=DunyadaTurkiye, OU=App, O=DunyadaTurkiye, L=City, S=State, C=TR"
+
+      - name: Build APK/AAB
+        run: |
+          mkdir -p ~/.bubblewrap
+          cat << EOF > ~/.bubblewrap/config.json
+          {
+            "jdkPath": "${JAVA_HOME}",
+            "androidSdkPath": "${ANDROID_HOME}"
+          }
+          EOF
+          yes "password123" | bubblewrap build
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: DunyadaTurkiye-Android-App
+          path: |
+            app-release-bundle.aab
+            app-release-signed.apk
+            android.keystore
