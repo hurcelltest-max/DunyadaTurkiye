@@ -161,11 +161,12 @@ async function fetchCurrency() {
     
     const data = await response.json();
     
-    const usd = parseFloat(data['USD']['Alış'].replace(',', '.')).toFixed(2);
-    const eur = parseFloat(data['EUR']['Alış'].replace(',', '.')).toFixed(2);
-    const gbp = parseFloat(data['GBP']['Alış'].replace(',', '.')).toFixed(2);
-    const gold = parseFloat(data['gram-altin']['Alış'].replace(',', '.')).toFixed(1);
-
+        const parseCurrency = (val) => parseFloat(val.replace(/\./g, '').replace(',', '.'));
+    
+    const usd = parseCurrency(data['USD']['Alış']).toFixed(2);
+    const eur = parseCurrency(data['EUR']['Alış']).toFixed(2);
+    const gbp = parseCurrency(data['GBP']['Alış']).toFixed(2);
+    const gold = parseCurrency(data['gram-altin']['Alış']).toFixed(1);
     bar.innerHTML = `
       <span>💵 USD: <strong>${usd}</strong></span>
       <span>💶 EUR: <strong>${eur}</strong></span>
