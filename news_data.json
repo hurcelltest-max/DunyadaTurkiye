@@ -3,6 +3,60 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Ticaret Görüşmelerine Doğru İlerlerken Kanada'nın Karşılaştığı Zorluklar",
+    "summary": "Washington'daki bir uluslararası ticaret ekonomisti, müzakerelerin \"inanılmaz derecede zor\" bir ortamda gerçekleşeceği konusunda uyarıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Lübnan'ın Geleceği: İşgal ile İç Savaş Arasındaki Seçim",
+    "summary": "Netanyahu ve Hizbullah, Lübnan devletinin otoritesini ortaklaşa baltalıyor. Beyrut'taki hükümet bir ikilem içinde.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/beirut-hat-die-wahl-zwischen-israelischer-besatzung-und-buergerkrieg-200765852.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Yaptırımların hafifletilmesi mi?: İran için bir teşvik",
+    "summary": "Federal hükümet İran ihtilafında yeniden devreye girmek istiyor. Ancak Trump, Tahran'daki eski-yeni liderlik açısından hayati önem taşıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/berlin-will-im-irankonflikt-wieder-ins-spiel-kommen-200766131.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Druzhba boru hattı: Petrol neden şimdi akıyor?",
+    "summary": "Ukrayna'nın Rusya'dan petrol boru hattı döşemesi açıkça siyasi bir takvim izledi. Kiev, Budapeşte'yi baskı altına aldı. Tek başına mı?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/druschba-pipeline-warum-wieder-oel-nach-ungarn-fliesst-200757877.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Florida yetkilileri, depoda 31 tembel hayvanın ölmesinin ardından planlanan 'Tembel Hayvan Dünyası' cazibesini araştırıyor",
+    "summary": "Guyana ve Peru'daki baygın ağaç sakinleri, elektriğin veya akan suyun olmadığı bir depoda 'soğuk sersemlemesinden' öldü Son Dakika Haberleri için kaydolun ABD bülten e-postası Florida'daki yaban hayat...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "SCMP, tasarım yarışmasında Hong Kong eskrim infografikinin öncülüğünde 74 ödül aldı",
+    "summary": "South China Morning Post, Haber Tasarımı Derneği'nin Yaratıcı Yarışması'nın 47. edisyonunda üç gümüş ve 11 bronz madalya dahil 74 ödül kazandı.\nHong Kong'un eskrim patlamasına ilişkin bir infografik, ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3351415/scmp-scoops-74-awards-led-hong-kong-fencing-infographic-design-competition?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Netanyahu için af kararını erteleyen İsrail Cumhurbaşkanı, savunma anlaşması için baskı yapacak",
     "summary": "Yetkililer, İsrail Devlet Başkanı Isaac Herzog'un, yolsuzluk davasında Başbakan Binyamin Netanyahu'yu şimdilik affetmemeye karar verdiğini, bunun yerine arabuluculuk arayacağını söyledi.",
     "timeAgo": "En Guncel (API)",
@@ -844,59 +898,5 @@
     "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İran'da savaş: İran, ABD ile olası müzakere taleplerini sundu",
-    "summary": "SZ'nin edindiği bilgiye göre İran tarafı, başlangıçta ABD'li müzakerecilerle doğrudan masaya oturmak istemediğini ileri sürüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-nahost-verhandlungen-usa-li.3472459"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki Liveblog USA: ABD Adalet Bakanlığı daha fazla infaz yöntemi çağrısında bulundu",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-us-justizministerium-fordert-weitere-hinrichtungsmethoden-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran Savaşı: 47 yıllık düşmanlık",
-    "summary": "Onlarca yıldır süren güvensizlik, ABD ile İran arasındaki müzakereleri çok zorlaştırıyor. 1979'daki rehine dramı bugün hâlâ Amerika'nın Tahran'a bakışını şekillendiriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/die-geschichte-der-feindschaft-zwischen-den-usa-und-iran-accg-200762580.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ortadoğu'ya Donanma mı?: Manda ve İrade",
-    "summary": "Eğer gerçekten Alman askerlerini bir operasyona göndermek istiyorsanız, bunun manda nedeniyle başarısızlığa uğramaması gerekir. Alman Donanmasından ayrılma sinyali zamanı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/deutsche-marine-in-die-strasse-von-hormus-jetzt-ein-aufbruchsignal-200761538.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Başkan dibe vurdu: Eski dostlar bile Trump'ın deli olduğunu düşünüyor",
-    "summary": "MAGA kampında bile şu soru giderek artıyor: Başkan hâlâ aklı başında mı? Ancak Trump vites değiştirmeyi düşünmüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/debatte-um-absetzung-selbst-alte-weggefaehrten-halten-trump-fuer-wahnsinnig-accg-200761991.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İşçi Partisi yeni ihracat vergisini reddetmeye hazırlanırken Anthony Albanese 'gaz şirketlerine boyun eğmekle' suçlandı",
-    "summary": "David Pocock, yakıt tedarikini desteklemeye çalışan başbakanın endüstrinin konuşma konularını tekrarladığını söylüyor En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika h...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/24/labor-albanese-gas-tax-caving-david-pocock-fuel-supply"
   }
 ]
