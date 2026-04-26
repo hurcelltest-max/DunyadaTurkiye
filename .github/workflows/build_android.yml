@@ -70,17 +70,16 @@ jobs:
           sudo apt-get update && sudo apt-get install -y expect
           rm -rf ~/.bubblewrap
           cat << 'EOF' > build.exp
-          set timeout -1
+          set timeout 20
           spawn bubblewrap update
           expect {
-            "download and install it" { send "Y\r"; exp_continue }
+            -re "(?i)(download|install|agreement|license|agree).*\\?" { send "y\r"; exp_continue }
             eof
           }
           spawn bubblewrap build
           expect {
-            "download and install it" { send "Y\r"; exp_continue }
-            "Key store password:" { send "password123\r"; exp_continue }
-            "Key password:" { send "password123\r"; exp_continue }
+            -re "(?i)(download|install|agreement|license|agree).*\\?" { send "y\r"; exp_continue }
+            -re "(?i)password.*:" { send "password123\r"; exp_continue }
             eof
           }
           EOF
