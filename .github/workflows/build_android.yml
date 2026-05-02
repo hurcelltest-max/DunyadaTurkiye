@@ -19,64 +19,40 @@ jobs:
           distribution: 'zulu'
           java-version: '11'
 
-      - name: Install Bubblewrap
-        run: npm i -g @bubblewrap/cli
-
-      - name: Generate TWA Manifest
-        run: |
-          cat << 'EOF' > twa-manifest.json
-          {
-            "packageId": "com.dunyadaturkiye.app",
-            "host": "dunyadaturkiye.com",
-            "name": "DünyadaTürkiye",
-            "launcherName": "DünyadaTR",
-            "display": "standalone",
-            "themeColor": "#0f172a",
-            "navigationColor": "#0f172a",
-            "navigationColorDark": "#0f172a",
-            "navigationDividerColor": "#000000",
-            "navigationDividerColorDark": "#000000",
-            "backgroundColor": "#0f172a",
-            "enableNotifications": false,
-            "startUrl": "/",
-            "iconUrl": "https://hurcelltest-max.github.io/DunyadaTurkiye/icon512.png",
-            "maskableIconUrl": "https://hurcelltest-max.github.io/DunyadaTurkiye/icon512.png",
-            "splashScreenColors": {
-              "default": "#0f172a",
-              "dark": "#0f172a"
-            },
-            "appVersionName": "1.0.0",
-            "appVersionCode": 1,
-            "shortcuts": [],
-            "generatorApp": "Custom Action",
-            "fallbackType": "customtabs",
-            "features": {},
-            "alphaDependencies": {
-              "enabled": false
-            },
-            "signingKey": {
-              "path": "android.keystore",
-              "alias": "android"
-            }
-          }
-          EOF
-
-      - name: Generate Keystore
-        run: |
-          keytool -genkey -v -keystore android.keystore -alias android -keyalg RSA -keysize 2048 -validity 10000 -storepass password123 -keypass password123 -dname "CN=DunyadaTurkiye, OU=App, O=DunyadaTurkiye, L=City, S=State, C=TR"
-
       - name: Build APK/AAB
         run: |
           sudo apt-get update && sudo apt-get install -y expect
           rm -rf ~/.bubblewrap
           cat << 'EOF' > build.exp
-          set timeout 20
-          spawn bubblewrap update
+          set timeout -1
+          
+          spawn npx @bubblewrap/cli init --manifest=https://dunyadaturkiye.com/manifest.json
           expect {
             -re "(?i)(download|install|agreement|license|agree).*\\?" { send "y\r"; exp_continue }
+            -re "(?i)Web application URL.*:" { send "\r"; exp_continue }
+            -re "(?i)Application name.*:" { send "\r"; exp_continue }
+            -re "(?i)Short name.*:" { send "\r"; exp_continue }
+            -re "(?i)Application ID.*:" { send "com.dunyadaturkiye.app\r"; exp_continue }
+            -re "(?i)Starting version.*:" { send "\r"; exp_continue }
+            -re "(?i)Theme color.*:" { send "\r"; exp_continue }
+            -re "(?i)Background color.*:" { send "\r"; exp_continue }
+            -re "(?i)Launcher icon.*:" { send "\r"; exp_continue }
+            -re "(?i)Maskable icon.*:" { send "\r"; exp_continue }
+            -re "(?i)Include source code.*:" { send "y\r"; exp_continue }
+            -re "(?i)Key store location.*:" { send "\r"; exp_continue }
+            -re "(?i)Key name.*:" { send "\r"; exp_continue }
+            -re "(?i)password.*:" { send "password123\r"; exp_continue }
+            -re "(?i)First and Last names.*:" { send "DunyadaTurkiye\r"; exp_continue }
+            -re "(?i)Organizational unit.*:" { send "App\r"; exp_continue }
+            -re "(?i)Organization.*:" { send "DunyadaTurkiye\r"; exp_continue }
+            -re "(?i)City or Locality.*:" { send "City\r"; exp_continue }
+            -re "(?i)State or Province.*:" { send "State\r"; exp_continue }
+            -re "(?i)Two-letter country code.*:" { send "TR\r"; exp_continue }
+            -re ".*:" { send "\r"; exp_continue }
             eof
           }
-          spawn bubblewrap build
+
+          spawn npx @bubblewrap/cli build
           expect {
             -re "(?i)(download|install|agreement|license|agree).*\\?" { send "y\r"; exp_continue }
             -re "(?i)password.*:" { send "password123\r"; exp_continue }
