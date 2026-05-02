@@ -81,25 +81,20 @@ jobs:
         run: |
           set -e
           
-          # Bos bir klasor olusturup icine giriyoruz ki hata vermesin
-          mkdir android-app
-          cp android.keystore android-app/
-          cd android-app
+          # Manifest dosyasini okuyup Android projesini sessizce yaratir
+          bubblewrap update < /dev/null
           
-          # Android projesini SIFIRDAN yaratir
-          yes | bubblewrap init --manifest=../twa-manifest.json
-          
-          # Sifre vb. sormamasi icin doğrudan Gradle ile paketliyoruz
+          # Sifre sorma olayini tamamen atlamak icin dogrudan Android derleyicisine emrediyoruz!
           chmod +x gradlew
           ./gradlew bundleRelease assembleRelease \
-            -Pandroid.injected.signing.store.file=./android.keystore \
+            -Pandroid.injected.signing.store.file=$GITHUB_WORKSPACE/android.keystore \
             -Pandroid.injected.signing.store.password=password123 \
             -Pandroid.injected.signing.key.alias=android \
             -Pandroid.injected.signing.key.password=password123
             
-          # Üretilen dosyalari disariya (ana dizine) aliyoruz
-          cp app/build/outputs/bundle/release/*.aab ../app-release-bundle.aab || true
-          cp app/build/outputs/apk/release/*.apk ../app-release-signed.apk || true
+          # Üretilen dosyalari kolay bulunmasi icin ana dizine kopyala
+          cp app/build/outputs/bundle/release/*.aab ./app-release-bundle.aab || true
+          cp app/build/outputs/apk/release/*.apk ./app-release-signed.apk || true
 
       - name: Upload Artifacts
         if: always()
