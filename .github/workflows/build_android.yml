@@ -71,4 +71,40 @@ jobs:
           }
           EOF
 
-      - name
+      - name: Generate Keystore
+        run: |
+          keytool -genkey -v -keystore android.keystore -alias android -keyalg RSA -keysize 2048 -validity 10000 -storepass password123 -keypass password123 -dname "CN=DunyadaTurkiye, OU=App, O=DunyadaTurkiye, L=City, S=State, C=TR"
+
+      - name: Build APK/AAB
+        env:
+          BUBBLEWRAP_ACCEPT_AGREEMENTS: true
+        run: |
+          sudo apt-get update && sudo apt-get install -y expect
+          cat << 'EOF' > build.exp
+          set timeout 600
+          spawn bubblewrap update
+          expect {
+            -re "(?i)password" { send "password123\r"; exp_continue }
+            -re "(?i)(path|location).*:" { send "\r"; exp_continue }
+            -re "(?i)\\(\\[y/n\\]\\)" { send "y\r"; exp_continue }
+            eof
+          }
+          spawn bubblewrap build
+          expect {
+            -re "(?i)password" { send "password123\r"; exp_continue }
+            -re "(?i)\\(\\[y/n\\]\\)" { send "y\r"; exp_continue }
+            eof
+          }
+          EOF
+          expect build.exp | tee build_log.txt
+
+      - name: Upload Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: DunyadaTurkiye-Android-App
+          path: |
+            app-release-bundle.aab
+            app-release-signed.apk
+            android.keystore
+            build_log.txt
