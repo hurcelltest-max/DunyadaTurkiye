@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'zulu'
-          java-version: '11'
+          java-version: '17'
 
       - name: Install Bubblewrap
         run: npm i -g @bubblewrap/cli
@@ -81,20 +81,25 @@ jobs:
         run: |
           set -e
           
-          # Android projesini SIFIRDAN yaratir (update degil, init). Klasör dolu uyarilarini gecmek icin yes.
-          yes | bubblewrap init --manifest=twa-manifest.json
+          # Bos bir klasor olusturup icine giriyoruz ki hata vermesin
+          mkdir android-app
+          cp android.keystore android-app/
+          cd android-app
           
-          # Manuel müdahale veya sifre sorma sorunlarini yok etmek icin dogrudan Gradle kullaniyoruz!
+          # Android projesini SIFIRDAN yaratir
+          yes | bubblewrap init --manifest=../twa-manifest.json
+          
+          # Sifre vb. sormamasi icin doğrudan Gradle ile paketliyoruz
           chmod +x gradlew
           ./gradlew bundleRelease assembleRelease \
-            -Pandroid.injected.signing.store.file=$GITHUB_WORKSPACE/android.keystore \
+            -Pandroid.injected.signing.store.file=./android.keystore \
             -Pandroid.injected.signing.store.password=password123 \
             -Pandroid.injected.signing.key.alias=android \
             -Pandroid.injected.signing.key.password=password123
             
-          # Üretilen dosyalari kolay bulunmasi icin disari tasi
-          cp app/build/outputs/bundle/release/*.aab ./app-release-bundle.aab || true
-          cp app/build/outputs/apk/release/*.apk ./app-release-signed.apk || true
+          # Üretilen dosyalari disariya (ana dizine) aliyoruz
+          cp app/build/outputs/bundle/release/*.aab ../app-release-bundle.aab || true
+          cp app/build/outputs/apk/release/*.apk ../app-release-signed.apk || true
 
       - name: Upload Artifacts
         if: always()
