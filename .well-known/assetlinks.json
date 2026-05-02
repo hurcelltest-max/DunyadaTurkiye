@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dunyadaturkiye.app",
+    "sha256_cert_fingerprints": [
+      "4A:70:8C:AF:EA:AE:C9:F1:8C:B8:42:20:CB:5F:E1:15:67:88:E3:2C:05:E7:54:46:D6:6C:F9:23:29:6C:3D:CA"
+    ]
+  }
+}]
