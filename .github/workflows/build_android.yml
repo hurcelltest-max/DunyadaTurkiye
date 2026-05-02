@@ -22,6 +22,16 @@ jobs:
       - name: Install Bubblewrap
         run: npm i -g @bubblewrap/cli
 
+      - name: Configure Bubblewrap Paths
+        run: |
+          mkdir -p ~/.bubblewrap
+          cat << EOF > ~/.bubblewrap/config.json
+          {
+            "jdkPath": "$JAVA_HOME",
+            "androidSdkPath": "$ANDROID_HOME"
+          }
+          EOF
+
       - name: Generate TWA Manifest
         run: |
           cat << 'EOF' > twa-manifest.json
@@ -67,19 +77,16 @@ jobs:
 
       - name: Build APK/AAB
         run: |
+          # Yollari bildigi icin soru sormadan gunceller
+          bubblewrap update
+          
+          # Sifreleri otomatik girmek icin expect
           sudo apt-get update && sudo apt-get install -y expect
-          rm -rf ~/.bubblewrap
           cat << 'EOF' > build.exp
           set timeout 600
-          spawn bubblewrap update
-          expect {
-            -re "\\?" { send "y\r"; exp_continue }
-            eof
-          }
           spawn bubblewrap build
           expect {
             -re "(?i)password.*:" { send "password123\r"; exp_continue }
-            -re "\\?" { send "y\r"; exp_continue }
             eof
           }
           EOF
