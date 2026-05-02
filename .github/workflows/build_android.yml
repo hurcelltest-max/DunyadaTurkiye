@@ -55,53 +55,8 @@ jobs:
               "default": "#0f172a",
               "dark": "#0f172a"
             },
+            "splashScreenFadeOutDuration": 300,
             "appVersionName": "1.0.0",
             "appVersionCode": 1,
             "shortcuts": [],
-            "generatorApp": "Custom Action",
-            "fallbackType": "customtabs",
-            "features": {},
-            "alphaDependencies": {
-              "enabled": false
-            },
-            "signingKey": {
-              "path": "android.keystore",
-              "alias": "android"
-            }
-          }
-          EOF
-
-      - name: Generate Keystore
-        run: |
-          keytool -genkey -v -keystore android.keystore -alias android -keyalg RSA -keysize 2048 -validity 10000 -storepass password123 -keypass password123 -dname "CN=DunyadaTurkiye, OU=App, O=DunyadaTurkiye, L=City, S=State, C=TR"
-
-      - name: Build APK/AAB
-        env:
-          BUBBLEWRAP_ACCEPT_AGREEMENTS: true
-        run: |
-          set -e
-          
-          # Manifest dosyasini okuyup projeyi dogal haliyle yaratir (susturucu iptal)
-          echo "y" | bubblewrap update
-          
-          # Sifre sorma isini tamamen devredisi birakip dogrudan Gradle'a emrediyoruz!
-          chmod +x gradlew
-          ./gradlew bundleRelease assembleRelease \
-            -Pandroid.injected.signing.store.file=$GITHUB_WORKSPACE/android.keystore \
-            -Pandroid.injected.signing.store.password=password123 \
-            -Pandroid.injected.signing.key.alias=android \
-            -Pandroid.injected.signing.key.password=password123
-            
-          # Üretilen dosyalari kolay bulunmasi icin ana dizine kopyala
-          cp app/build/outputs/bundle/release/*.aab ./app-release-bundle.aab || true
-          cp app/build/outputs/apk/release/*.apk ./app-release-signed.apk || true
-
-      - name: Upload Artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: DunyadaTurkiye-Android-App
-          path: |
-            app-release-bundle.aab
-            app-release-signed.apk
-            android.keystore
+            "generatorApp": "Custom Action
