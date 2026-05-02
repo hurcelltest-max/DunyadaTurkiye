@@ -79,24 +79,22 @@ jobs:
         env:
           BUBBLEWRAP_ACCEPT_AGREEMENTS: true
         run: |
-          sudo apt-get update && sudo apt-get install -y expect
-          cat << 'EOF' > build.exp
-          set timeout 600
-          spawn bubblewrap update
-          expect {
-            -re "(?i)password" { send "password123\r"; exp_continue }
-            -re "(?i)(path|location).*:" { send "\r"; exp_continue }
-            -re "(?i)\\(\\[y/n\\]\\)" { send "y\r"; exp_continue }
-            eof
-          }
-          spawn bubblewrap build
-          expect {
-            -re "(?i)password" { send "password123\r"; exp_continue }
-            -re "(?i)\\(\\[y/n\\]\\)" { send "y\r"; exp_continue }
-            eof
-          }
-          EOF
-          expect build.exp | tee build_log.txt
+          set -e
+          
+          # Android projesini SIFIRDAN yaratir (update degil, init). Klasör dolu uyarilarini gecmek icin yes.
+          yes | bubblewrap init --manifest=twa-manifest.json
+          
+          # Manuel müdahale veya sifre sorma sorunlarini yok etmek icin dogrudan Gradle kullaniyoruz!
+          chmod +x gradlew
+          ./gradlew bundleRelease assembleRelease \
+            -Pandroid.injected.signing.store.file=$GITHUB_WORKSPACE/android.keystore \
+            -Pandroid.injected.signing.store.password=password123 \
+            -Pandroid.injected.signing.key.alias=android \
+            -Pandroid.injected.signing.key.password=password123
+            
+          # Üretilen dosyalari kolay bulunmasi icin disari tasi
+          cp app/build/outputs/bundle/release/*.aab ./app-release-bundle.aab || true
+          cp app/build/outputs/apk/release/*.apk ./app-release-signed.apk || true
 
       - name: Upload Artifacts
         if: always()
@@ -107,4 +105,3 @@ jobs:
             app-release-bundle.aab
             app-release-signed.apk
             android.keystore
-            build_log.txt
