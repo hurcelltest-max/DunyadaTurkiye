@@ -81,10 +81,10 @@ jobs:
         run: |
           set -e
           
-          # Manifest dosyasini okuyup Android projesini sessizce yaratir
-          bubblewrap update < /dev/null
+          # Manifest dosyasini okuyup projeyi dogal haliyle yaratir (susturucu iptal)
+          echo "y" | bubblewrap update
           
-          # Sifre sorma olayini tamamen atlamak icin dogrudan Android derleyicisine emrediyoruz!
+          # Sifre sorma isini tamamen devredisi birakip dogrudan Gradle'a emrediyoruz!
           chmod +x gradlew
           ./gradlew bundleRelease assembleRelease \
             -Pandroid.injected.signing.store.file=$GITHUB_WORKSPACE/android.keystore \
