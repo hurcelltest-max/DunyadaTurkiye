@@ -1,5 +1,140 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu'da Savaş: Trump İran'ın teklifini inceliyor ve yeni saldırılarla tehdit ediyor",
+    "summary": "ABD Başkanı, Tahran'ın son önerisini muhtemelen reddedeceğini açıkladı. Her halükarda, rejimin eylemlerinin karşılığını henüz yüksek bir bedel ödemediğine inanıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-usa-krieg-waffenruhe-trump-verhandlungen-li.3477450"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Yetişkin eğitimi: “Bir belediyenin para biriktirmesi gerekiyorsa, yetişkin eğitim merkezinin de bunu yapması gerekir”",
+    "summary": "Yetişkin eğitiminde patlama yaşanıyor ancak aynı zamanda birçok kurs daha pahalı hale geliyor. Stuttgart VHS direktörü bunun nüfus gruplarını hariç tutacağı konusunda uyarıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/volkshochschulen-sparkurs-kommunen-li.3472340"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD birliklerinin Almanya'dan çekilmesi: Ah, bu boşluk, bu korkunç yetenek açığı",
+    "summary": "Binlerce askerin geri çekilmesine ek olarak, federal hükümet öncelikle ABD füzelerinin konuşlandırılmamasını sağlıyor. Ancak konu Donald Trump olduğunda Almanya tamamen güçsüz değil.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/deutschland-usa-militaerkooperation-sicherheitsstrategie-li.3477445"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Kent-kır yanlış anlamalarını anlatan kitap: Ne geri kalmış, ne geride kalmış",
+    "summary": "Andreas Möller, şehir sakinlerinin kırsal nüfus hakkındaki klişelerini sorguluyor ve özellikle Doğu Almanya'da yaklaşan seçimler göz önüne alındığında kırsal alanların neden güçlendirilmesi gerektiğin...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/stadt-land-deutschland-politik-wirtschaft-gesellschaft-andreas-moeller-die-unterschaetzten-li.3471316"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İsrail: Gadi Eizenkot: Başbakan Netanyahu için tehlikeli olabilecek adam",
+    "summary": "İki İsrailli muhalefet partisi Ekim ayında Netanyahu'ya karşı güçlerini birleştirmişti. Popüler eski genelkurmay başkanı Gadi Eizenkot, haklı sebeplerden dolayı hala tereddütlü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-wahlkampf-eisenkot-netanjahu-gaza-libanon-li.3476592"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Çatışmalar: Küba Trump tehdidini reddetti",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/konflikte-kuba-weist-trump-drohung-zurueck-li.3477578"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD üssü Ramstein: “Bu çok büyük bir kesinti olurdu”",
+    "summary": "ABD Başkanı Trump ciddileşip en az 5.000 askerini Almanya'dan çekmek istiyor. Amerikan birliklerinin konuşlandığı haberlere nasıl bakıyorsunuz?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/us-truppenabzug-deutschland-trump-ramstein-li.3477136"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "ABD birliklerinin çekilmesi: Putin NATO'nun aşınmasını izleyebilir",
+    "summary": "Trump'ın Almanya'dan çekilmesi iyi bir haber değil. Daha da kötüsü, ABD'nin artık orta menzilli füzeleri olmayacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/putin-kann-zusehen-wie-die-nato-erodiert-200793133.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya canlı blogu: Stegner, Trump'ın kararını memnuniyetle karşıladı",
+    "summary": "SPD'li siyasetçi Amerikan füzelerinin konuşlandırılmamasından memnun +++ Ifo Başkanı Fuest, ABD'nin cezai tarifeleri nedeniyle Almanya'da durgunluk konusunda uyardı +++ Askerlik hizmetiyle ilgili nere...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-stegner-begruesst-trumps-entscheidung-us-raketen-nicht-in-deutschland-zu-stationieren-faz-110093143.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Komplo teorileri: Artık küfür edenler de Trump'a güvenmiyor",
+    "summary": "Donald Trump her zaman komplo teorisyenlerinin yaramazlıklarını körükledi. Şimdi onun da aleyhine dönüyorlar. Yalan söylemek sadece intikam alır.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/kommentar-verschwoerungstheoretiker-wenden-sich-gegen-trump-200786597.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "İspanya ve Brezilya'dan Gazze filosu aktivistleri İsrail mahkemesine çıktı",
+    "summary": "Mahkeme Perşembe günü Akdeniz'de yakalanan 175 kişi arasında yer alan iki kişinin tutukluluğunu uzattı Gazze'ye gitmekte olan bir filodan sorgulanmak üzere İsrail'e getirilen iki yabancı aktivist, ken...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "'Bu bir kedi fare oyunu gibi': Belçika'nın uyuşturucu kaçakçılarına karşı mücadelesinin ön saflarında",
+    "summary": "Antwerp limanı, ülkenin narko-devlete dönüşme riskiyle karşı karşıya olduğu yönündeki uyarılar nedeniyle malların taranmasını hızlandırıyor Sara Van Cotthem bir emniyet bıçağı alıyor ve içindekileri a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/03/belgium-drug-smugglers-antwerp-port"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail mahkemesi İspanyol filo aktivisti Sumud'un tutukluluk süresini iki gün uzattı",
+    "summary": "Filistin kökenli ve İspanyol ve İsveç çifte vatandaşlığına sahip Saif Abukeshek, Cumartesi günü Brezilyalı Thiago Ávila ile birlikte İsrail'de sorguya çekilmek üzere gözaltına alındı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/03/69f71632fdddff48238b457c.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran'ın savaşı sona erdirme önerisi: Deniz ablukasının kaldırılması, Hürmüz için yeni bir mekanizma, müteakip müzakerelerde nükleer program...",
+    "summary": "Amerika'nın dokuz maddelik önerisine yanıt olarak hazırlanan plan, çatışmayla bağlantılı sorunları 30 gün içinde çözmeyi amaçlıyor ve \"savaşın sona ermesine\" öncelik veriyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/03/69f70e32e4d4d8e2598b4575.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong sübvansiyonları neden yakıta değil gıdaya gitmeli?",
+    "summary": "Hong Kong, haziran ayı sonunda sona erecek litre dizel başına 3 HK$ tutarındaki sübvansiyonu yenilememelidir. Bunun yerine, minibüs filosundan başlayarak toplu taşımanın elektrifikasyonunu hızlandırac...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351844/why-hong-kong-subsidies-should-go-towards-food-not-fuel?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -763,140 +898,5 @@
     "summary": "İsrail ile İran yanlısı Hizbullah milisleri arasında resmi olarak ateşkes sağlandı. Yenilenen hava saldırılarının ardından müzakerelerin temeli ortadan kalkma tehlikesiyle karşı karşıya.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/iran-liveblog-news-libanon-angriff-israel-tote-li.3457961"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: “Doğru Noktaya”: Hıristiyan Milliyetçiliği: Trump'ın Dini Dönüşümü",
-    "summary": "Trump, Tanrı tarafından seçildiğini ve Evanjelikler tarafından desteklendiğini düşünüyor. Gazeteci ve ilahiyatçı Arnd Henze gündemlerini açıklıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-trump-attentat-christen-religion-evangelikale-nationalismus-li.3475237"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD: ABD, Almanya'dan 5.000 askerinin çekileceğini duyurdu",
-    "summary": "Pentagon sözcüsü Parnell, geri çekilmenin altı ila on iki ay içinde tamamlanması gerektiğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-abzug-5000-soldaten-deutschland-li.3471210"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Yeni gümrük anlaşmazlığı: Trump AB'den gelen otomobillere uygulanan tarifeleri artırmak istiyor - AB iddialarını reddediyor",
-    "summary": "ABD Başkanı bir kez daha tercih ettiği tehdit ve cezalandırma aracına başvuruyor. AB'den gelen otomobillere uygulanan tarifeleri artırmak istiyor. Yavaş süreçten mi hayal kırıklığına uğradı, yoksa İra...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/trump-zoelle-eu-autos-25-prozent-li.3477026"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetiminde canlı blog ABD: AB, yeni ABD tarifelerine karşı önlemlerle tehdit ediyor",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-eu-droht-mit-gegenmassnahmen-auf-neue-us-zoelle-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Pentagon: ABD, Almanya'dan 5 bin askerinin çekileceğini duyurdu",
-    "summary": "Trump, görevdeki ilk döneminde binlerce askeri Almanya'dan çekmek istedi ancak halefi Biden bu planları durdurdu. Şimdi hükümeti ciddileşmek istiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/pentagon-usa-kuendigen-abzug-von-5000-soldaten-aus-deutschland-an-200790434.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Küba, Trump'ın ekonomisine yönelik yeni yaptırımlarının 'toplu cezalandırma' anlamına geldiğini söyledi",
-    "summary": "ABD yaptırımları enerji, savunma ve madencilik de dahil olmak üzere Küba ekonomisinin geniş alanlarında faaliyet gösteren insanları hedef alıyorKüba hükümeti, Havana'daki Amerikan büyükelçiliği önünde...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Papa, eski belgesiz göçmeni Batı Virginia'ya piskopos olarak atadı",
-    "summary": "Trump'ın katı göç politikasını eleştiren Leo, eyaletin yeni piskoposu olarak Evelio Menjivar-Ayala'yı seçti Bülten uyarılarını gelen kutunuza almak için Son Dakika Haberleri ABD e-postasına kaydolunPa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/may/01/pope-former-undocumented-immigrant-bishop-west-virginia"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Kumanjayi Küçük Bebek'in akrabaları, NT başbakanının suçlamaların habercisi olması nedeniyle \"çocuğun parçalanmasından\" duyduğu üzüntüyü paylaşıyor",
-    "summary": "Gurindji aileleri \"çok değerli, çok çabuk yok olan bir hayatın\" yasını tutuyor Uyarı: Bu makale, ölen Avustralyalı Yerlilerin resimlerini ve referanslarını içeriyor Kumanjayi Küçük Bebek'in akrabaları...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/may/02/kumanjayi-baby-girls-relatives-share-grief-at-child-ripped-away-as-nt-chief-minister-foreshadows-charges"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "60 gün süren çatışma: Trump'ın İran'daki savaşı şimdiden Vietnam kadar sevilmiyor",
-    "summary": "Bu Cuma Tahran'ın üçüncü barış teklifini reddeden Amerikan başkanı, kongre vetosunu önlemek için düşmanlıkların sona erdiğini ilan etti",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-01/60-dias-de-conflicto-la-guerra-de-trump-en-iran-ya-es-tan-impopular-como-la-de-vietnam.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump, ABD'nin \"Küba'yı hemen ele geçireceğini\" söyledi",
-    "summary": "ABD Başkanı, Havana'ya yönelik yaptırımların iki katına çıkarılmasının ardından adaya yönelik tehditlerinin tonunu yükseltti",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-05-02/trump-dice-que-estados-unidos-tomara-cuba-casi-inmediatamente.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Avrupa'nın İran'a ilgisi",
-    "summary": "Belirsizlik, belirli bir eşit mesafe, sağduyu değil, iktidarsızlıktır; Emirlik'in hamlesi, bölgenin halihazırda yeni ortamdan sonuçlar çıkarmaya başladığını ortaya koyuyor&nbsp;Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/02/69f33d5afc6c83f0658b45c5.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran'ın petrol yatakları tükendi",
-    "summary": "Washington'un ablukası, Tahran'ı ham petrol depolamak için eski emekli petrol tankerlerini kullanmaya ve üretimi durdurmak zorunda bırakmamaya zorluyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/30/69f3944be85ecec1718b458b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, İran'a yönelik tutumu nedeniyle İspanya ve İtalya'daki askerlerini çekebileceğini söyledi: \"Neden çekmeyeyim?\"",
-    "summary": "ABD başkanının bu tutumu, Almanya'da zaten bunu yapma tehdidinde bulunduktan sonra geldi. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/04/30/69f3b0b821efa0eb218b4572.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "TACO'dan NACHO'ya: Dünya ticaretinin boynundaki ilmikler daralıyor",
-    "summary": "İran, kilit rotaları bloke etmenin beklenenden daha kolay olduğunu gösterirken, ABD saldırılara ve siyasi kararlara daha açık bir sistemde deniz ve hava güvenliğini garanti etme yeteneğini kaybediyor....",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/02/69f4b9cee4d4d857578b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, Şansölye Merz'in meydan okumasının ardından Almanya'dan 5.000 askerin çekilmesi emrini verdi",
-    "summary": "İlk döneminde, Hint Okyanusu'na odaklanan kuvvetlerin yeniden dağıtımının ortasında ülkedeki 12.000 askerin azaltılmasına karar verdi, ancak bugünkü karar, Almanya'nın İran'daki askeri operasyona yöne...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/02/69f52b5421efa08d778b456f.html"
   }
 ]
