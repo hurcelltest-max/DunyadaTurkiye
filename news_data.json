@@ -1,5 +1,86 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya'dan satın alma teklifi: Pistorius muhtemelen Washington'da tomahawk aramak istiyor",
+    "summary": "Bir rapora göre Trump artık seyir füzelerini Almanya'ya yerleştirmek istemediğinden Pistorius Washington'a bir gezi planlıyor. Buna göre ABD'yi silahları satmaya ikna etmek istiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/deutschland-soll-kauf-von-tomahawk-raketen-in-usa-planen-accg-200816997.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Yük gemisi Katar açıklarında mermiyle vuruldu",
+    "summary": "İngiliz Denizcilik Otoritesi: Küçük bir yangın çıktı +++ Londra, Hürmüz Boğazı'na destroyer gönderdi +++ İsrail, Lübnan'daki Hizbullah hedeflerine 85 saldırı bildirdi +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-frachter-vor-qatar-von-projektil-getroffen-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tahran, Tayvan, ticaret... Xi zirvesinde Trump'ın karşı karşıya olduğu tehlikeler neler?",
+    "summary": "ABD lideri süper güç rakibiyle savunmasız bir konumdan görüşmelere başlıyor ancak çalkantılı bir ortamda ekonomik kazanımlar elde etmeyi umuyor. Önümüzdeki birkaç gün içinde her şey planlandığı gibi g...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Malzeme fiyatlarının artması ve satışların düşmesi nedeniyle İran savaşı Toyota'ya 3 milyar sterline mal oldu",
+    "summary": "Otomobil üreticisi, çatışmanın işletmeler üzerindeki etkisi konusunda şimdiye kadarki en büyük uyarılardan birini verirken, Trump'ın tarifeleri de olumsuz etkiliyor Toyota, parça ve malzeme fiyatların...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Prag derbisi, taraftarların şampiyonluğa saniyeler kala Slavia ile sahaya hücum etmesiyle yarıda kaldı",
+    "summary": "Sparta kalecisi Surovcik yasal yollara başvuracağını söyledi Slavia başkanı Tvrdik derbideki olayı 'rezalet' olarak nitelendirdi Slavia Prag ile Sparta Prag arasındaki derbi, Slavia'nın Fortuna Stadı'...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-abandoned-fans-storm-pitch-title"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Alman askeri gücü Avrupa'ya sağlam bir şekilde entegre edilmeli",
+    "summary": "İkinci Dünya Savaşı'nın sona ermesinden bu yana 81. yılı kutlarken, soru şu: Hepimiz tarihten ders alıp alamayız?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-05-07/el-poderio-militar-aleman-debe-estar-firmemente-integrado-en-europa.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Albares, Gazze'ye giden filodaki İspanyol aktivist Saif Abukeshek'in \"artık özgürce İspanya'ya uçtuğunu\" doğruladı",
+    "summary": "İsrail topraklarındaki her iki aktivisti de temsil eden hukuk merkezi, şu anda onların hapishaneden serbest bırakıldığına dair resmi bir onaya sahip değil. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/10/6a001c9121efa088508b457a.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "İngiltere, Hong Kong bağlantılı casusluk mahkumiyetleri nedeniyle 'yabancı gözdağı'na karşı uyardı",
+    "summary": "İngiltere, Hong Kong'un Londra ticaret ofisiyle bağlantılı iki adamın aktivistler hakkında casusluk yapmaktan suçlu bulunmasının ardından Çin'in büyükelçisini çağırırken, yabancı devletlerin kendi top...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/politics/article/3353026/uk-warns-against-foreign-intimidation-over-hong-kong-linked-spying-convictions?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "'Kyoto Hipokrat': Japonya'da tıbbın ilk günlerine samimi bir bakış",
+    "summary": "Akira Ogata'nın sıcak kalpli draması tıp tarihini, kültür çatışmasını ve nazik mizahı modern tıbbın başlangıcına aydınlatıcı bir bakışla birleştiriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/culture/2026/05/08/film/kyoto-hippocrates/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -817,86 +898,5 @@
     "summary": "Hong Kong, Kuzey Metropolü'nü ve düşük karbonlu dönüşüm projelerini finanse etmek için yeşil ve altyapı tahvil satışı yoluyla 27,6 milyar HK $ (3,5 milyar ABD Doları) topladı.\nHong Kong Para Otoritesi...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/business/banking-finance/article/3352956/hong-kong-secures-us35-billion-fund-northern-metropolis-and-green-projects?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "SCMP, Infographic ödülü de dahil olmak üzere Global Medya Ödülleri'nden 3 ödül aldı",
-    "summary": "South China Morning Post, Uluslararası Haber Medyası Birliği'nin 2026 Küresel Medya Ödülleri'nde, Hong Kong'un ölümcül Tai Po yangınına ilişkin görsel gazeteciliğin en iyi kullanımında birinciliği kaz...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3352955/scmp-takes-home-3-honours-global-media-awards-including-win-infographic?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Savaşı Canlı Güncellemeleri: Tahran, ABD'yi Boğazdaki Ateş Karşılığından Sonra 'Pervasız' Saldırılarla Suçluyor",
-    "summary": "İran dışişleri bakanı, İranlı yetkililerin Washington ve Tahran'ın bir barış önerisini tartıştığını söylemesi nedeniyle ABD'nin diplomasiyi baltaladığını söyledi. Dışişleri Bakanı Marco Rubio, Cuma gü...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "BAE Pakistan'ın Barışı Sağlama Süreci Bir Çatlak Yarattığı İçin Pakistanlı İşçileri Sınır Dışı Ediyor",
-    "summary": "Pakistan, ABD ile İran arasında arabuluculuk yaparken Emirliklerle bağları kötüleşti. Pakistanlı işçiler artık toplu halde evlerine gönderildiklerini söylüyorlar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Emirates, İran Savaşı Sırasında ABD ve İsrail İlişkilerini İkiye Katlıyor",
-    "summary": "Birleşik Arap Emirlikleri, savaş boyunca İran'ın saldırılarının en ağır yükünü üstlendi ve hükümetin dost ve düşman listesini yeniden değerlendirme kararlılığını güçlendirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da Savaş: Kremlin'e göre Putin'in Avrupalılarla müzakereye hazır olduğu iddia ediliyor",
-    "summary": "Basında çıkan bir habere göre, AB Konseyi Başkanı Costa da uluslararası toplum ile Putin arasındaki müzakerelerin \"potansiyelini\" görüyor. AB'nin bu konuda Zelenskiy'in desteği var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-eu-verhandlungen-putin-selenskij-costa-li.3473071"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Filistin Toprakları: Yeni Hamas lideri kim olacak?",
-    "summary": "Terör örgütü Gazze'deki savaşla zayıfladı, liderleri öldü. Görünüşe göre Hamas şimdi yeni bir patron seçiyor ve İsrail'e bir sinyal gönderiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/hamas-fuehrung-wahl-palaestinenser-gaza-iran-katar-geheim-li.3475791"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Suudi Arabistan ile anlaşmazlık: Trump bir müttefikini kaybetti",
-    "summary": "Suudi Arabistan'ın ABD'nin Hürmüz Boğazı'ndaki operasyonunu sonlandırmaya çalışması Trump'ın pervasız dış politikasının sınırlarını gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-verliert-den-saudischen-verbuendeten-200812983.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: Rubio: Bugün İran'dan bir cevap bekliyoruz",
-    "summary": "ABD Dışişleri Bakanı: Ciddi bir müzakere süreci umudu +++ ABD savaş gemisine ateş açıldıktan sonra: ABD İran hedeflerine saldırdı – Trump: Ateşkes hâlâ “yürürlükte” +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-erwarten-laut-marco-rubio-schnelle-antwort-aus-iran-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Canlı blog Ukrayna savaşı: Zelensky ABD'li müzakerecilerin ilk ziyaretini umuyor",
-    "summary": "Zelenskyj: Şu anda hedef plan üzerinde anlaşıyoruz +++ Rusya ve Ukrayna birbirlerini ateşkesi bozmakla suçluyor +++ Alman diplomatlar Rus tehditlerine rağmen Kiev'de kalıyor +++ tüm haberler canlı blo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-hofft-auf-ersten-besuch-der-us-unterhaendler-faz-110683325.html"
   }
 ]
