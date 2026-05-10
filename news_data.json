@@ -1,5 +1,149 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump, Maduro'yu ele geçirdikten sonra zaferi kutladı. Venezuelalıları Evlerine Getirdi mi?",
+    "summary": "Venezuela'daki zorlu koşullar göçe yol açtı. Üst düzey liderini deviren saldırının ardından soru, işlerin geri dönüşü cazip hale getirecek kadar değişip değişmediğidir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İşletmeler Savaş Zamanı Baskıları Altında Çökerken İran'da Toplu İşten Çıkarmalar",
+    "summary": "İran, 2026'nın yaygın istikrarsızlığı getirmesinden önce zaten ekonomik olarak mücadele ediyordu. Hükümetin uyguladığı internet kesintisi tüm sektörü felce uğrattı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Rusya'nın saldırganlık savaşı: Ukrayna ve Rusya birbirlerini ateşkesi ihlal etmekle suçluyor",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/russischer-angriffskrieg-ukraine-und-russland-werfen-sich-bruch-der-waffenruhe-vor-li.3481340"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu'da Savaş: İran: Dini Lider Hamaney, genelkurmay başkanıyla istişarede bulundu",
+    "summary": "İran Silahlı Kuvvetleri Merkez Komutanlığı komutanı, manevi lidere, ordunun Amerikan-İsrail düşmanlarının herhangi bir eylemine karşı koymaya hazır olduğunu bildirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-chamenei-gespraech-oberbefehlshaber-abdollahi-li.3457961"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İran savaşı: Kuveyt “düşman insansız hava araçlarının” saldırısını bildirdi",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-krieg-kuwait-meldet-beschuss-mit-feindlichen-drohnen-li.3481319"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Trump hataydı",
+    "summary": "Öğretmen Lilly Burrow, 2024'te Donald Trump'a oy verdi ve onun \"müthiş\" olduğunu düşünüyordu. Artık onun açgözlü, çılgın bir otokrat olduğunu düşünüyor. Halen \"sol liberal olmaktansa ölmeyi tercih ede...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/usa-donald-trump-maga-trump-waehler-enttaeuschung-e465631/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da Savaş: Schröder arabulucu mu olacak? Federal hükümet Putin'in teklifini reddetti",
+    "summary": "Berlin'den, Rusya'nın koşullarını değiştirmemesi nedeniyle müzakere seçeneğinin inandırıcı olmadığı belirtildi. Bu nedenle ilk güvenilirlik testi ateşkesin uzatılması olacaktır.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-moskau-schroeder-putin-russland-bundesregierung-rekation-li.3473071"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Gerhard Schröder arabulucu olarak mı? Putin'in teklifine farklı tepkiler",
+    "summary": "Haber ajanslarına göre federal hükümet, Putin'in önerisini \"sahte teklif\" olarak tanımlıyor - eski şansölye bu konuda yorum yapmak istemiyor - teklif için SPD dış politika uzmanı +++ tüm haberler canl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-gerhard-schroeder-als-vermittler-geteilte-reaktionen-auf-putins-vorschlag-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Suudi Arabistan ile anlaşmazlık: Trump bir müttefikini kaybetti",
+    "summary": "Suudi Arabistan'ın ABD'nin Hürmüz Boğazı'ndaki operasyonunu sonlandırmaya zorlaması Trump'ın pervasız dış politikasının sınırlarını gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-verliert-den-saudischen-verbuendeten-200812983.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "'Amazon of America': film, darbe sonrası Brezilya'nın yağmur ormanlarından vazgeçmesinin vizyonunu yansıtıyor",
+    "summary": "Vitória Régia, sağcı Bolsonaro planının ABD yardımıyla başarıya ulaştığını hayal ediyor ve Yerli halkların karşı karşıya olduğu tehditleri vurguluyor Yıl 2025 ve aşırı sağcı darbeciler Brezilya demokr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hantavirüsün vurduğu yolcu gemisindeki yolcuları taşıyan ilk uçak Tenerife'den ayrıldı",
+    "summary": "İspanyol yolcular, enfeksiyon taramasından sonra tehlikeli madde kıyafetleri giyen sağlık ekipleri tarafından MV Hondius'tan çıkarıldı. Yolcu gemisi hantavirüs salgını - son güncellemelerÖlümcül bir h...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hantavirüsün vurduğu yolcu gemisinden tahliye edilen yolcuları taşıyan ilk uçak Tenerife'den ayrılıyor - Avrupa canlı yayında",
+    "summary": "İspanya, Pazar günü Tenerife'ye gelen MV Hondius gemisinin ilk yolcularının tahliyesine başladı Yolcular hantavirüsün çarptığı yolcu gemisini tahliye etmeye başladıÖte yandan 9 Mayıs Cumartesi gününde...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran, ABD'nin son barış önerisine yanıtını gönderdi",
+    "summary": "Daha fazla ayrıntı vermeden, müzakerelerin ilk aşamasının bölgedeki çatışmanın sona ermesine odaklanılmasını öneriyor&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/10/6a0082cee4d4d8fd518b457c.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Rusya, Ukrayna'yı Kırım ve diğer beş bölgeye saldırarak Trump'ın ateşkesini ihlal etmekle suçluyor",
+    "summary": "Ukrayna'yı Kırım, Rostov, Kursk, Belgorod, Krasnodar ve Kaluga'ya saldırmakla suçluyorlar.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/10/6a006190fc6c836e2b8b456d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya, Orta Doğu petrolü için nakliye rotalarını çeşitlendiriyor",
+    "summary": "Japonya ayrıca Orta Doğu'daki durumun istikrarsız kalması nedeniyle ABD ve Rusya'yı göz önünde bulundurarak petrol tedarik kaynaklarını çeşitlendirmeye çalışıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/10/japan/japan-middle-east-oil-routes/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Ukrayna, ateşkese rağmen savaş alanında çatışmalar ve drone saldırıları bildirdi",
+    "summary": "ABD Başkanı Donald Trump Cuma günü yaptığı açıklamada, Rusya ve Ukrayna'nın 9 Mayıs'tan 11 Mayıs'a kadar üç günlük ateşkes konusunda anlaştığını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/10/world/ukraine-reports-battlefield-clashes/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -754,149 +898,5 @@
     "summary": "Çevreciler, Ammersee Gölü büyüklüğündeki kirliliğin petrol tabakasına benzediğini söylüyor. ABD güçleri adadaki askeri hedeflere saldırdıklarını söylüyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-insel-charg-oelteppich-li.3457961"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: “Doğru noktaya”: Rusya: Putin “Zafer Günü”nü nasıl istismar etti.",
-    "summary": "Moskova'da İkinci Dünya Savaşı'nın bitişini kutlayan geçit töreninin bu yıl daha küçük olması gerekecek. Ve bunun Ukrayna'ya karşı saldırganlık savaşıyla ilgisi var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-russland-putin-ukraine-zweiter-weltkrieg-li.3480416"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu: İsrail Güney Lübnan'ı nasıl yok ediyor?",
-    "summary": "İsrail ordusu kendisini Hizbullah'tan korumak için nüfusun boşaltıldığı bir bölge oluşturmak istiyor. Bunu yapmak için köylerin tamamını moloz ve kül haline getiriyor. Yapılan analiz yıkımın boyutunu ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/libanon-israel-zerstoerung-nahost-e228969/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İran savaşı: gerilimi tırmandırmak mı, yoksa yeni ateşkes mi?",
-    "summary": "İran, Hürmüz Boğazı'nda üç Amerikan destroyerine ateş açtı. ABD güçleri İran mevzilerine saldırıyor. Ancak Başkan Donald Trump olayları küçümsedi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-iran-krieg-atomgespraeche-golf-li.3480533"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: ABD: İran bayrağı taşıyan iki tanker saldırıya uğradı",
-    "summary": "Gemiler İran limanına uğramaya çalıştı +++ Rubio: İran'dan bugün bir yanıt bekliyoruz +++ İran'ın Kharg adasında olası petrol sızıntısı +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-zwei-tanker-unter-iranischer-flagge-angegriffen-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Trump: Rusya ve Ukrayna'nın her biri 1000'er mahkumu değiştirdi",
-    "summary": "ABD Başkanı üç günlük ateşkes duyurdu +++ Wadephul: “Daha fazla sorumluluk almaya hazırız” +++ Çernobil yakınlarında orman yangını +++ Ukrayna'da uçaksavar füzeleri tükeniyor +++ tüm haberler canlı bl...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-russland-und-ukraine-tauschen-je-1000-gefangene-aus-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran ücret talep ediyor: Hürmüz Boğazı için yetkili kurum",
-    "summary": "Tahran, boğazdan geçmek isteyen gemilere başvuru formları gönderiyor. ABD ile İran arasındaki ateşkes kırılgandır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-hat-eine-agentur-fuer-strasse-von-hormus-geschaffen-200812036.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump'ın Çin ziyareti öncesinde: Tayvan rekor silah bütçesini onayladı",
-    "summary": "Taipei'deki parlamento rekor düzeyde bir silah bütçesini kabul etti. Bütçe, Trump'ın Çin ziyaretinden önce bir sinyal olarak ABD silahlarının satın alınmasıyla bağlantılı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/taiwan-verabschiedet-ruestungsbudget-signal-vor-trump-reise-200813454.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump'la anlaşmazlık: Federal Şansölye editör değil",
-    "summary": "Trump ile yaşanan anlaşmazlık Alman çıkarlarına zarar veriyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/streit-von-merz-mit-trump-ein-bundeskanzler-ist-kein-leitartikler-200799114.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İran'dan bıkan Trump sonunda Venezuela'dan zenginleştirilmiş uranyum ele geçirdi",
-    "summary": "ABD enerji bakanlığı, Karakas'taki reaktörden 13,5 kg uranyumun alındığını açıkladı - Tahran Donald Trump'ın elindeki 408 kg'ın çok küçük bir kısmı, bu ülke İran olmasa da bir ülkenin yüksek derecede ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump, Rusya-Ukrayna arasında 9 Mayıs'tan itibaren üç günlük ateşkes ilan etti",
-    "summary": "ABD Başkanı Truth Social'da ateşkesin tüm 'kinetik faaliyetlerin' askıya alınmasını ve esir değişimini içereceğini söyledi Donald Trump, sosyal medyada Rusya ile Ukrayna arasındaki savaşta 9-11 Mayıs ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Rubio gergin ilişkilerin ortasında papayla buluştuğunda Vatikan barış ihtiyacını vurguladı",
-    "summary": "ABD dışişleri bakanı, Trump'ın İran savaşıyla ilgili saldırıları sonrasında yaşanan gerginliklerin ardından Leo ve yetkililerle görüştüVatikan, Donald Trump'ın Papa Leo'ya yönelik tekrarlanan eleştiri...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Hantavirüse yakalanan yolcu gemisinin tahliyesi, kötü hava koşulları nedeniyle gecikmelerle karşı karşıya kalabilir",
-    "summary": "Gemidekileri değerlendirmek ve ülkelerine geri göndermek için MV Hondius'u Tenerife açıklarında almak üzere 'benzeri görülmemiş bir operasyon' yapılıyor. Hantavirüs nedir?• Hantavirüs yolcu gemisi ner...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/08/spanish-authorities-prepare-arrival-hantavirus-cruise-ship-hondius"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Papa, Trump'ın Vatikan'a saldırısının ortasında Marco Rubio ile görüştü",
-    "summary": "Beyaz Saray Dışişleri Bakanı, ABD başkanının her ikisine de saldırmasının ardından Leo XIV ve Meloni ile ilişkileri yeniden kurmak için İtalya'ya geldi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-07/marco-rubio-llega-a-italia-para-rehacer-las-relaciones-con-el-papa-y-meloni-tras-los-ataques-de-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, Rusya ile Ukrayna arasında üç günlük ateşkes ilan etti",
-    "summary": "ABD başkanı sosyal ağında \"Bunun çok uzun, ölümcül ve zorlu bir savaşın sonunun başlangıcı olmasını umalım\" diye yazıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/08/69fe2a8ffc6c8363698b459c.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Pentagon, UFO'larla ilgili belgeler yayınlıyor: \"Eğlenin ve tadını çıkarın!\", Trump'ı cesaretlendiriyor",
-    "summary": "Pete Hegseth, \"Savunma gizliliğinin arkasına saklanan bu belgeler, uzun süredir haklı olarak spekülasyonları alevlendirdi ve artık Amerikan halkının bunlara doğrudan erişmesinin zamanı geldi\" diyor. O...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/08/69fdf374e9cf4a85188b4580.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, Kuzey Metropolü ve yeşil projeleri finanse etmek için 3,5 milyar ABD doları ayırdı",
-    "summary": "Hong Kong, Kuzey Metropolü'nü ve düşük karbonlu dönüşüm projelerini finanse etmek için yeşil ve altyapı tahvil satışı yoluyla 27,6 milyar HK $ (3,5 milyar ABD Doları) topladı.\nHong Kong Para Otoritesi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/business/banking-finance/article/3352956/hong-kong-secures-us35-billion-fund-northern-metropolis-and-green-projects?utm_source=rss_feed"
   }
 ]
