@@ -3,6 +3,132 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Hürmüz Boğazı, Denizdeki Çatışmalardan Sonra Etkin Bir Şekilde Engellenmiş durumda",
+    "summary": "ABD Donanması'nın ablukası, İran limanlarından ayrılmaya veya girmeye çalışan gemileri engellemeye devam ederken, İran saldırıları korkusu diğer gemilerin dar geçitlerden geçmeye çalışmasını engelledi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
+    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da Savaş: Putin konuşma teklifini yeniledi ve Schröder'i arabulucu olarak devreye soktu",
+    "summary": "Rusya'nın 2. Dünya Savaşı'nda Nazi Almanyası'na karşı kazandığı zafer kutlamalarının ardından Kremlin lideri, Ukrayna Devlet Başkanı Zelensky ile görüşme sözü verdi. Eski dostu Schröder'i arabulucu ol...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-moskau-schroeder-putin-russland-li.3473071"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Putin arabulucu olarak Gerhard Schröder'i önerdi",
+    "summary": "Rusya Devlet Başkanı Zelensky ile olası görüşmeye ilişkin: “Benimle görüşmek istiyorsan Moskova'ya gelmelisin” +++ Rusya ve Ukrayna birbirlerini ateşkesi bozmakla suçluyor +++ tüm haberler canlı blogd...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wladimir-putin-schlaegt-gerhard-schroeder-als-vermittler-vor-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avustralya haberleri canlı: altyapı için ekstra 2 milyar dolar eklenecek bütçe; Genç Queensland polis operasyonu sırasında düştükten sonra öldü",
+    "summary": "Queensland polisinin Etik Standartlar Komutanlığı Cumartesi akşamı Spring Hill'deki ölümü araştırıyor. Güncellemeleri canlı takip edinWilson, Koalisyonun göç konusunda 'çok net' olacağına söz veriyorW...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/may/10/politics-updates-farrer-byelection-one-nation-win-liberal-coalition-loss-reactions-pauline-hanson-angus-taylor-tim-wilson-insiders-anthony-albanese-labor-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Polis Sidney'deki çocukların netbol maçında Yahudi karşıtı taciz iddialarını araştırıyor",
+    "summary": "NSW polisi, 12 yaş altı maçlarında yapılan saldırgan yorum raporları üzerine Maroubra'daki olaya çağrıldı En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika haber e-posta...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/10/police-investigate-alleged-antisemitic-abuse-at-childrens-netball-game-in-sydney-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Vladimir Putin, Ukrayna savaşının 'sona yaklaştığını' söyledi",
+    "summary": "Rusya cumhurbaşkanı, Ukrayna'nın direnmesine izin veren Batı desteğini lanetledi ve azalan Zafer Bayramı geçit töreninin ardından yaptığı açıklamada Gerhard Schröder ile görüşme talebinde bulunduVladi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Xi, Trump'a nasıl üstünlük sağlıyor?",
+    "summary": "Çin, ABD ile önümüzdeki hafta yapılacak zirveye, güçlü yanları ve İran'la yıpranan Washington'un hataları sayesinde olumlu rüzgarlarla geliyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-10/como-xi-le-esta-ganando-el-pulso-a-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Xi Jinping, Trump'ın oturarak sessiz kalmasını bekliyor",
+    "summary": "Eğer kimse buna çare bulamazsa, ABD başkanı Pekin'e zaferler ve barış anlaşmaları yerine başarısızlıklar ve eksikliklerle dolu bir sırt çantasıyla gelecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-10/xi-jinping-espera-a-trump-sentado-y-en-silencio.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Jeopolitik analist Fareed Zakaria: “Dünya ABD'yi sorun olarak görmeye başladı”",
+    "summary": "Uzman, Trump'ın dış politikasını, liberal umudunu ve zamanımızın dramatik değişimlerini konu alan son kitabı 'Devrimler Çağı'nın yayımlanmasını değerlendiriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-10/fareed-zakaria-analista-geopolitico-el-mundo-ha-empezado-a-tratar-a-estados-unidos-como-el-problema.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran, \"düşmanla işbirliği yapmakla\" suçlanan İranlıların mal varlıklarına el koydu",
+    "summary": "Yetkililer kritik muhaliflerin, protestocuların ve sürgündekilerin banka hesaplarını ve mülklerini bloke ediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-10/iran-confisca-los-bienes-de-iranies-acusados-de-alinearse-con-el-enemigo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Amerika Birleşik Devletleri ticaret mahkemesi, Yüksek Mahkeme'nin başarısızlığının ardından Trump tarafından onaylanan %10'luk evrensel tarifeye karşı karar verdi",
+    "summary": "Beyaz Saray temyize gideceğini açıkladı ve cezayı tersine çevireceğinden emin",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-07/el-tribunal-comercial-falla-en-contra-del-arancel-universal-del-10-aprobado-por-trump-tras-el-reves-del-supremo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Lübnan ordusunun imkansız görevi: Hizbullah'ı silahsızlandırmak",
+    "summary": "Şii milisleri kontrol altına alması için Arap ülkesinin ordusu üzerindeki baskı yoğunlaşıyor; bu, gelişmiş silahlara yönelik fiili bir ambargoya tabiyken İsrail'in yapamadığı bir şey. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/09/69fcbf14fc6c838b6b8b45af.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Putin, Ukrayna ile savaşın \"sona yaklaştığını\" doğruladı",
+    "summary": "Avrupa'da İkinci Dünya Savaşı'ndan bu yana yaşanan en ölümcül çatışmanın yaşandığı dört yıl boyunca Rus kuvvetleri, Ukrayna'nın doğusundaki Donbas bölgesini tamamen ele geçirmeyi başaramadı. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/09/69ff8ac8e4d4d807738b457a.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "İsrail'in Ölümcül Saldırıları Lübnan'daki Ateşkesi Erteledi",
     "summary": "İsrail ile Hizbullah arasındaki çatışmanın azalmaya dair pek bir işareti yok; Hizbullah da İsrail birliklerine saldırmaya devam ediyor ve her iki taraf da diğerini ABD'nin aracılık ettiği ateşkesi ihl...",
     "timeAgo": "En Guncel (API)",
@@ -772,131 +898,5 @@
     "summary": "Zelenskyj: Şu anda hedef plan üzerinde anlaşıyoruz +++ Rusya ve Ukrayna birbirlerini ateşkesi bozmakla suçluyor +++ Alman diplomatlar Rus tehditlerine rağmen Kiev'de kalıyor +++ tüm haberler canlı blo...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-hofft-auf-ersten-besuch-der-us-unterhaendler-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Federal Konsey Girişimi: İsrail nefretine karşı ceza kanunu ile",
-    "summary": "Hesse, İsrail'in var olma hakkının inkarını suç haline getirmek istiyor. Federal Konsey'in bu hamlesi hukuki açıdan hassas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/hessen-will-leugnung-israels-strafbar-machen-accg-200803965.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Malzeme fiyatlarının artması ve satışların düşmesi nedeniyle İran savaşı Toyota'ya 3 milyar sterline mal oldu",
-    "summary": "Otomobil üreticisi, çatışmanın işletmeler üzerindeki etkisi konusunda şimdiye kadarki en büyük uyarılardan birini verirken, Trump'ın tarifeleri de olumsuz etkiliyor Toyota, parça ve malzeme fiyatların...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Meloni toplantısı sonrasında Rubio, NATO'nun ABD'nin üsleri kullanma iznini reddetmesinin 'bir sorun' olduğunu söyledi - Avrupa canlı",
-    "summary": "AFP'nin haberine göre, ABD dışişleri bakanı İtalyan liderle İran nedeniyle gergin gerginliklerin ortasında buluşuyor. Avrupa Komisyonu ayrıca, havacılık sektörünün Orta Doğu savaşı nedeniyle yüksek en...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Alman askeri gücü Avrupa'ya sağlam bir şekilde entegre edilmeli",
-    "summary": "İkinci Dünya Savaşı'nın sona ermesinden bu yana 81. yılı kutlarken, soru şu: Hepimiz tarihten ders alıp alamayız?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-05-07/el-poderio-militar-aleman-debe-estar-firmemente-integrado-en-europa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Askeri hedef: Donald'ın yüzünü kurtarmak",
-    "summary": "Trump, Vietnam, Irak ve Afganistan'da felakete yol açan hataların aynısını yapıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-03/objetivo-militar-salvar-la-cara-de-donald.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Filonun iki üyesi İsrail'de tutukluyken, filo Gazze'ye yolculuğuna devam ediyor",
-    "summary": "Küresel Sumud Filosu, bir hafta önce İsrail'in gemiye binmesi sırasında gözaltına alınan ve daha sonra serbest bırakılan aktivistlerin yeniden katıldığı yaklaşık 57 tekneyi bir araya getiriyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-08/la-flotilla-reanuda-su-viaje-a-gaza-mientras-dos-de-sus-integrantes-permanecen-presos-en-israel.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Emirates kendisini diğer petromonarşilerden uzaklaştırıyor ve Basra Körfezi'ndeki bölünmeyi derinleştiriyor",
-    "summary": "OPEC'ten ayrılma ve Abu Dabi yetkililerinin savaşın yönetimine yönelik eleştirileri, bölgenin uyumlu bir blok olarak hareket edemediğini yansıtıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-07/emiratos-se-desmarca-del-resto-de-petromonarquias-y-ahonda-la-division-en-el-golfo-persico.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Marco Rubio, \"ciddi\" barış müzakereleri için İran'dan \"bugün\" bir yanıt bekliyor",
-    "summary": "&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/08/69fddf0afc6c83c84b8b45c9.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İtalya, Trump'la yaşadığı anlaşmazlıkların ardından Marco Rubio'ya: \"ABD'nin de Avrupa'ya ihtiyacı var\"",
-    "summary": "İtalya başbakanı, Papa'yı savunması nedeniyle Avrupa Birliği'nin eski ayrıcalıklı bir müttefikiydi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/08/69fdbfc8fdddff364d8b4588.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Usta siyasetçi Jeffrey Lam, Hung Shui Kiu endüstri parkı işletmecisine liderlik edecek",
-    "summary": "Hong Kong yetkilileri, Kuzey Metropolis mega projesinin gelişimini hızlandırmak için kurulan ilk devlet mülkiyetindeki kuruluş olan Hung Shui Kiu Endüstri Parkı Şirketi'nin yönetim kurulu başkanlığına...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352895/veteran-politician-jeffrey-lam-lead-hung-shui-kiu-industrial-park-operator?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, sap kusuru ve haşlanma riski nedeniyle Zwilling elektrikli su ısıtıcısını geri çağırıyor",
-    "summary": "Hong Kong yetkilileri, sapın ayrılarak haşlanma riski oluşturabileceği endişesi nedeniyle halka Zwilling elektrikli su ısıtıcısının belirli bir modelini kullanmayı bırakma çağrısında bulundu.\nElektrik...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3352741/hong-kong-recalls-zwilling-electric-kettles-over-handle-defect-and-scalding-risk?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "'Kyoto Hipokrat': Japonya'da tıbbın ilk günlerine samimi bir bakış",
-    "summary": "Akira Ogata'nın sıcak kalpli draması tıp tarihini, kültür çatışmasını ve nazik mizahı modern tıbbın başlangıcına aydınlatıcı bir bakışla birleştiriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/05/08/film/kyoto-hippocrates/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya hisseleri teknoloji ve savaşın hissiyatı olumsuz etkilemesiyle tarihi zirvelere yakın seyrediyor",
-    "summary": "Nikkei 225 hisse senedi ortalaması, şirketlerin kazanç raporlarını yayınlamaya başlamasıyla birlikte günün ilerleyen saatlerindeki kaybın bir kısmını geri alarak Perşembe günü gördüğü rekor seviyeden ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/05/08/markets/market-may-8-2026/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Venedik Bienali'nde öfke sanatla ilgili değil",
-    "summary": "Bienal jürisinin İsrail ve Rusya'nın katılımı nedeniyle toplu istifasını protestolar izledi. Sanat tartışmaların içinde boğuluyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/05/08/art/venice-biennale-controversy/"
   }
 ]
