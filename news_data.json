@@ -3,6 +3,321 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Trump-Xi Zirvesi Sonrası Nvidia'nın Çin'deki Geleceği Belirsiz Kaldı",
+    "summary": "Bu durum, Çinli firmaların Çin'in Batı teknolojilerine bağımlılığını azaltmak amacıyla Huawei gibi yerli çip üreticilerine giderek daha fazla yönelmesiyle ortaya çıkıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Katil Robotlara Girin: Ukrayna Savaşın Geleceğini Şekillendiriyor",
+    "summary": "Ukrayna'nın 35 yaşındaki savunma bakanı Mykhailo Fedorov, fütürist askeri teknolojinin ülkesinin hayatta kalması için hayati önemde olduğunu düşünüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump'ın 15 ABD'li Göçmen'i Sınır Dışı Ettiği Kongolu Otelin İçinde",
+    "summary": "Trump yönetimi tarafından zincirlenip Kinşasa'ya gönderildiler. Şimdi tehlikeli bir seçimle karşı karşıyalar: Latin Amerika'ya geri dönmek ya da Afrika'da kalmak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump, Çin'den Boeing Jet Siparişini Açıkladı. Pekin Sessiz Kalıyor.",
+    "summary": "Anlaşma, gerçekleşmesi halinde, dünyanın en büyük havacılık pazarlarından birinde Airbus'a kaptıran Boeing için büyük bir kazanç olacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Fotoğraf ve Videoda: Başkan Trump Çin'e Gidiyor",
+    "summary": "Neredeyse on yıldır Çin'e yapılan ilk ABD başkanlık ziyareti olan Bay Trump'ın gezisi, ülkeler arasında bir ticaret ateşkesinin devam edip etmeyeceğine dair işaretler açısından yakından izlendi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İran, Gemilere Ele Geçirilmesinin Ardından Artan Gerilimin Ortasında Çin Gemilerinin Hürmüz Boğazı'ndan Geçmesine İzin Verdi",
+    "summary": "İran haber ajansları, Pekin'in İran'a yaptığı diplomatik yardımın ardından bazı Çin gemilerinin boğazdan geçmesine izin verildiğini söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/05/14/us/trump-news/iran-strait-hormuz-china-ships"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da savaş: Rusya'nın Kiev'deki konut binasına saldırısından sonra 24 kişi öldü",
+    "summary": "Dokuz katlı bina Perşembe günü tamamen yıkıldı. Kiev Belediye Başkanı Klitschko bugün Cuma gününü yas ilan etti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-kiew-wohnhaus-angriff-tote-li.3483341"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Trump Çin gezisi öncesinde Apple'a milyonlarca dolar yatırım yaptı",
+    "summary": "Bu, ABD Hükümeti Etik Ofisi'nin verilerinden ortaya çıkıyor. Başkana eyalet ziyaretinde büyük bir iş heyeti eşlik ediyor; Apple'ın patronu Cook da orada.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-china-trump-reise-apple-li.3478505"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Suudi Arabistan ve Emirliklerin İran'a saldırdığı söyleniyor",
+    "summary": "\"New York Times\": Saldırılar İran'ın saldırılarına misillemeydi +++ İran görünüşe göre Emirlik açıklarında bir gemiyi kaçırdı +++ ABD'li amiral: İran'ın kalan füzeleri hakkındaki raporlar yanlış +++ c...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-saudi-arabien-und-emirate-sollen-iran-angegriffen-haben-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya canlı blogu: Laumann: CDU'nun bazı kesimleri \"daha fazla empati kurabilir\"",
+    "summary": "NRW bakanı partisini uzlaşmaya istekli olmaya çağırdı +++ Steinmeier, Papa Leo'yu Trump eleştirilerine karşı savundu +++ Rehlinger, en çok kazananlar için daha yüksek vergi çağrısında bulundu +++ tüm ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-laumann-teile-der-cdu-koennten-mehr-empathie-ueben-faz-110093143.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Rusya, Ukrayna'nın büyük drone saldırısını bildirdi",
+    "summary": "Ülkenin üçüncü büyük rafinerisi vuruldu +++ Rusya'nın Kiev'e saldırılarından sonra ölenlerin sayısı 21'e yükseldi +++ Şansölye Frei ve BND patronu Jäger Kiev'de +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-meldet-massiven-ukrainischen-drohnenangriff-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki canlı blog ABD: CIA şefi Küba'da hükümet temsilcileriyle buluştu",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-cia-chef-trifft-sich-auf-kuba-mit-regierungsvertretern-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Pekin'e devlet ziyareti: Xi silahı Trump'ın göğsüne dayadı",
+    "summary": "Çin'in devlet başkanı Trump'ı tantanayla karşıladı. Ancak iş Tayvan'a gelince, Xi hemen başkana meydan okuyor ve şunu söylüyor: Eşit şartlardayız.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/xi-jinping-setzt-donald-trump-die-pistole-auf-die-brust-accg-200831643.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Pekin'e devlet ziyareti: Trump'ın çalışmaları ve Çin'in katkısı",
+    "summary": "Her iki ülke de sistemsel rakipler; ancak yine de Çin, Trump'ın politikalarından stratejik olarak faydalanıyor. Bunun böyle kalmasını sağlamak için Pekin'in temkinli ilerlemesi gerekiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wie-china-von-donald-trumps-politik-profitiert-200812745.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "'Haklara bariz saygısızlık': Gabon'un sosyal medya kısıtlamalarına ilişkin endişeler artıyor",
+    "summary": "Aktivistler, yasaların internet özgürlüklerini kısıtlamak için kullanıldığını iddia ediyor, muhalefeti bastırmaya yönelik iyi belgelenmiş tarihin bir parçası Gabon'un medya düzenleyicisi, hükümet karş...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Xi, Trump'ı Tayvan konusunda ABD ile \"çatışmalar ve hatta çatışmalar\" konusunda uyardı",
+    "summary": "Trump, liderler arasındaki iki saatlik görüşmenin ardından Çin başkanının İran'a silah göndermeyeceğine 'güçlü' söz verdiğini söyledi Trump Pekin'de - son güncellemeler Xi-Trump zirvesi için beş öneml...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/14/trump-xi-jinping-meet-beijing-ahead-of-summit-trade-iran-war-ai-talks"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Giggle for Girls uygulaması trans kadın Roxanne Tickle'a karşı ayrımcılığa uğradı, temyiz yargıcı tazminatın iki katına çıkarılmasına karar verdi",
+    "summary": "Federal mahkeme, Ağustos 2024'te Tickle'ın cinsiyet kimliği nedeniyle ayrımcılığa uğradığı yönündeki tespitini onayladı ve ona 20.000 ABD doları ödül verdi En son güncellemeler için Avustralya haber c...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/15/giggle-for-girls-app-discriminated-against-trans-woman-roxanne-tickle-appeal-case-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Sıkıcı bölmelerden haute couture sunucusuna: Sidney'in kentsel şaheseri nasıl kurtarıldı",
+    "summary": "Sidney Bridge Caddesi'ndeki eski Arazi Bakanlığı binasının yeniden geliştirilmesi National Trust miras ödülünü kazandı. Bir zamanlar geri dönen askerlerin mermer koridorlara tıkılıp hayatlarını değişt...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/culture/2026/may/15/from-drab-partitions-to-haute-couture-host-how-a-sydney-civic-masterpiece-was-rescued"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "ABD'li madenci, siyah kakadular, quokkalar ve keseli karıncaların Batı Avustralya'daki yaşam alanlarını yok ettikten sonra daha fazla soruşturma altında",
+    "summary": "Alcoa üzerinde, Perth'in su kaynağını da tehdit eden Batı Avustralya jarrah ormanında açık maden çıkarma çalışmaları nedeniyle baskı artıyor Son dakika haber e-postamızı, ücretsiz uygulamamızı veya gü...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/15/alcoa-investigated-destroying-australia-wa-habitat-black-cockatoos-quokkas-numbats"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Savaşın başlangıcından bu yana Rusya'nın en ölümcül saldırılarından birinde Kiev'de en az 24 kişi öldü - Avrupa canlı",
+    "summary": "Ukrayna Devlet Başkanı Volodymyr Zelenskyy, ölenlerin arasında üç çocuğun da bulunduğunu söyledi. Ukrayna Devlet Başkanı Volodymyr Zelenskyy, dün Rusya'nın Kiev'e düzenlediği saldırılarda üçü çocuk en...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, İran'daki savaşla ilgili Xi'ye: \"Biz de aynı düşünüyoruz, değil mi? Bunun bitmesini istiyoruz\"",
+    "summary": "Çin lideri, Washington ve Pekin'in ikili ilişkilerde \"yeni bir aşamaya\" ulaştığının garantisini verdi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-15/trump-a-xi-sobre-la-guerra-en-iran-sentimos-lo-mismo-verdad-queremos-que-esto-termine.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Tayvan, Xi ile Trump arasında krize yol açma tehdidinde bulunan ada",
+    "summary": "Pekin zirvesindeki dostane tonla Çin Devlet Başkanı, Amerikalı mevkidaşını, özyönetimli bölgenin büyük kırmızı çizgi olmaya devam ettiği konusunda uyardı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-15/taiwan-la-isla-que-amenaza-con-abrir-una-crisis-entre-xi-y-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Meksika, ABD'nin Trump'ın yeniden uygulamaya çalıştığı gümrük vergilerinin dışında tutulmasını istiyor",
+    "summary": "ABD Ticaret Bürosu, üretimlerinde \"aşırı kapasite\" olduğu iddiasıyla Meksika'yı ve aralarında Çin ve Hindistan'ın da bulunduğu bir avuç ülkeyi araştırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/mexico/economia/2026-05-13/mexico-solicita-a-estados-unidos-ser-excluido-de-los-aranceles-que-trump-busca-imponer-nuevamente.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "1956'daki Süveyş savaşından 2026'daki Hürmüz savaşına: küresel çöküşü önlemek için alternatif ham petrol boru hatları",
+    "summary": "Nasıl ki onlarca yıl önce Mısır kanalıyla ilgili çatışma İsrail, İngiltere ve Fransa için jeopolitik bir fiyaskoyla sonuçlandıysa, şimdi de İran Boğazı'nda ABD'nin askeri zaferi Tahran için jeostratej...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/14/6a04356621efa0f6798b45bc.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Xi Jinping ve Trump, imparatorların boğaları kurban ettiği tapınakta yürüyor",
+    "summary": "Çin ve ABD başkanları, imparatorların cennetten meşruiyet istediği sığınağı ziyaret ediyor. Trump \"Muhteşem bir yer\" dedi Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/14/6a054e5121efa0415a8b459d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "\"G-2\" zirvesi sona erdi: \"Birçok sorunu çözdük\"",
+    "summary": "Xi, Trump'ı Çin'in gerçek siyasi kalbinin attığı duvarlarla çevrili ve hava geçirmez bölge Zhongnanhai'de çay içmeye davet etti. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/15/6a068624fc6c83396d8b459f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump, Xi'yi 24 Eylül'de ABD'ye davet etti: \"Rakip değil ortak olmalıyız\"",
+    "summary": "Liderler, Tahran'ın \"asla nükleer silahlara sahip olmaması\" gerektiği konusunda hemfikir ve Hürmüz Boğazı'nın tamamen yeniden açılmasının garanti edilmesi gerektiğini savunuyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/14/6a053d46fc6c832f218b4570.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "John Lee, küresel çalkantının ortasında yerel medyaya \"Hong Kong'un güzel hikayelerini anlatın\" çağrısında bulundu",
+    "summary": "İcra Kurulu Başkanı John Lee Ka-chiu, şehrin ulusal kalkınmayla uyumlu olacak ilk beş yıllık planını formüle ettiği bir dönemde, küresel türbülansın ortasında yerel medyanın \"Hong Kong'un güzel hikaye...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3353675/tell-good-stories-hong-kong-amid-global-turmoil-john-lee-urges-local-media?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Çin, Cennet Tapınağı'nda Trump'ı ağırladı; Hong Kong suşi paraziti videosu: SCMP'nin 7 öne çıkan özelliği",
+    "summary": "Bu haftanın Hong Kong, Çin ana karası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyors...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/china/article/3353625/china-hosts-trump-temple-heaven-hong-kong-sushi-parasite-video-scmps-7-highlights?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'un ekonomik rakamları iyi görünüyor ancak ticari kaygılar artıyor",
+    "summary": "Hong Kong'un son üç aylık rakamları birçok gözlemcinin beklediğinden daha iyi görünüyor. Orta Doğu'daki savaşın neden olduğu aksaklığa ve istikrarsız küresel ortama rağmen büyüme istikrarlı seyrediyor...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353431/hong-kongs-economic-figures-look-good-business-unease-rising?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Cathay Pacific, Hong Kong biniş kapısının kapanma süresini 5 dakika ileri aldı",
+    "summary": "Hong Kong bayrak taşıyıcısı Cathay Pacific Airways, zamanında kalkışların sağlanmasına yardımcı olmak için biniş kapılarının kapanma saatlerini beş dakika ileri alacak ve yolcuları beş dakika erken bi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/transport/article/3353538/cathay-pacific-shortens-hong-kong-boarding-gate-closure-times-5-minutes?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Stratejik çıkmaz: Xi ve Trump yönetilen rekabetin sınırlarını test etmek için zirveye çıktı",
+    "summary": "ABD Başkanı Donald Trump'ın Çin ziyareti sona erdiğinde, ilişkinin Pekin'in varsayılan eşitlik pozisyonundan hareket ettiği bir noktaya geldiği açıktı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/15/asia-pacific/politics/xi-trump-summit-analysis/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Sanatçılara tazminatın uzatılması için telif hakkı yasasında revizyon",
+    "summary": "Kabine, kullanım ücretlerinin müzisyenlere aktarılmasını amaçlayan yasa tasarısını Cuma günü parlamentodan geçirdikten sonra ileri sürdü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/15/japan/society/music-rights/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump Xi'yi ziyaret ettiğinde rahat bir nefes aldı",
+    "summary": "Trump, toplantının kendi diplomasisi açısından bir zafer olduğunu ilan edecek ve Xi ile kişisel ilişkisine itibar edecek. Çin lideri daha az coşkulu olacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/editorials/2026/05/15/relief-as-trump-visits-xi/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Putin'in 'özel askeri operasyonu' feci bir başarısızlık",
+    "summary": "Rusya'nın Ukrayna'ya yönelik kanlı saldırısı, Avrupa'nın 21. yüzyılın en uzun ve en kanlı savaşıdır.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/05/15/world/putins-catastrophic-military-failure/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Trump'ın Xi ile Buluştuğu Pekin'deki Gizli Yerleşke Zhongnanhai Nedir?",
     "summary": "Çin lideri Xi Jinping, Cuma günü Pekin'de üst düzey Çinli yetkililerin yaşadığı ve çalıştığı sıkı korunan bir yerleşke olan Zhongnanhai'de Başkan Trump ile buluşuyordu.",
     "timeAgo": "En Guncel (API)",
@@ -583,320 +898,5 @@
     "summary": "Savaş bölgede daha derin otoriterliğe doğru kaymayı hızlandırırken düzinelerce Körfez vatandaşı İran bağlantılı terör hücrelerine üye olmakla suçlanıyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Rusya-Ukrayna Savaşı, Trump Yönetiminde Ateşkesin Anlamını Kaybettiğini Gösteriyor",
-    "summary": "Analistler, geçici ateşkeslerin kalıcı bir çözümün başlangıcı olmaktan çok, başlı başına bir amaç olan, icracı diplomasinin bir aracı haline geldiğini söylüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Bu Sanat Eserleri Kimin Sahibi? Musée d'Orsay, Ziyaretçilerin Öğrenmeye Yardımcı Olmasını Umar.",
-    "summary": "Musée d'Orsay'ın kalıcı sergisindeki yeni bir odada, İkinci Dünya Savaşı'ndan sonra Almanya ve Avusturya'da ele geçirilen ve menşei bilinmeyen 13 parça yer alıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/arts/design/musee-dorsay-art-world-war-ii.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump'ın Çin Ziyaretinde Kadınlar Nerede?",
-    "summary": "Çin'de Başkan Trump'a eşlik eden iş dünyası liderlerinin ve yetkililerin neredeyse tamamı erkek. Çin tarafında da çok az kadın var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-meeting-china-women-melania.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Çin'deki İnsanlar Trump Hakkında Ne Diyor?",
-    "summary": "Çin'in dört şehrinde yaşayanlar, ekonominin yavaşlaması ve yakıt fiyatlarının artması nedeniyle ABD'deki gerginlikleri suçlayarak eğlence ve öfke karışımı bir duygu ifade etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump, Pekin'deki Devlet Yemeğinde Xi'yi Beyaz Saray'a Davet Etti",
-    "summary": "Başkan Trump ve Çin Devlet Başkanı Xi Jinping, Büyük Halk Salonu'na yan yana yürüdükten sonra yaptıkları açıklamalarda iş birliğine vurgu yaptılar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-invites-xi-to-white-house-during-state-dinner-in-beijing.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Çin'in Trump için hazırladığı Devlet Yemeği Menüsü, Dana Kaburga, Kızarmış Ördek ve Tiramisu'yu içeriyor",
-    "summary": "Pekinli şefler Başkan Trump'ın damak zevkine hitap etmeye çalışırken, menüde Çin ve dünya yemeklerinden oluşan bir karışım yer aldı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-china-food-dinner-menu.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump ve Xi Toplantısının 1. Günü Hakkında Bilmeniz Gerekenler",
-    "summary": "Başkan Trump ve Çin lideri Xi Jinping, karşılıklı hoş sohbetlerde bulundu ve aynı zamanda Tayvan ve ticaret gibi çekişme alanlarıyla da ilgilendi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-xi-meeting-what-happened.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Charlemagne Ödülü: Merz'in \"Süper Mario\" ilahisi ve Trump'a mesaj",
-    "summary": "Bir zamanlar avroyu kurtarmıştı, bugün onun fikirleri AB'yi kurtarma planı olarak görülüyor: Mario Draghi, Aachen Charlemagne Ödülü'nü aldı. Şansölye övgü dolu bir konuşma yapıyor ve yalnızca tek bir ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/karlspreis-aachen-draghi-merz-ukraine-trump-li.3482030"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İsrail: Zorunlu askerlik hizmeti konusundaki anlaşmazlık Netanyahu'nun başını belaya sokuyor",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-streit-um-wehrpflicht-bringt-netanjahu-in-bedraengnis-li.3483513"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Bosna-Hersek: “Birçok şeyin daha kolay çözüleceğini umuyordum”",
-    "summary": "Bosna-Hersek'te 2021'den bu yana savaş sonrası düzeni denetleyen Christian Schmidt, muhtemelen Trump yönetiminin baskısından dolayı \"sıkıntıyla\" görevinden istifa ediyor. Ülkedeki siyasi iklimin gider...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/christian-schmidt-ruecktritt-bosnien-herzegowina-interview-li.3483204"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Çin Zirvesi: Trump anlaşma istiyor – Tayvan artık bir pazarlık kozu",
-    "summary": "ABD Başkanı Çin'e resmi bir ziyarette bulunuyor ve ev sahibi Xi'nin zirvenin ilk gününden oldukça memnun olması muhtemel.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/trump-xi-peking-taiwan-handelsgespraeche-fokus-li.3483393"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Pekin'e devlet ziyareti: Xi silahı Trump'ın göğsüne dayadı",
-    "summary": "Çin'in devlet başkanı Trump'ı tantanayla karşıladı. Ancak iş Tayvan'a gelince, Xi hemen başkana meydan okuyor ve şunu söylüyor: Eşit şartlardayız.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/xi-fordert-trump-in-peking-beim-thema-taiwan-heraus-accg-200831643.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: İran: Hürmüz Boğazı'ndan 30 gemi geçti",
-    "summary": "Medya: Geçiş gece başladı +++ Birleşik Arap Emirlikleri açıklarında gemi kaçırıldı +++ Hürmüz Boğazı'nın açılması için ABD ve Çin +++ İsrail: İnsansız hava aracıyla yaralanan siviller +++ tüm gelişmel...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-30-schiffe-haben-die-strasse-von-hormus-passiert-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Almanya canlı blogu: Putin'in önerisi sonrasında: Merz dış müdahaleyi reddediyor",
-    "summary": "Şansölye, Charlemagne Ödül töreninde konuşuyor +++ Steinmeier, Papa Leo'yu Trump eleştirilerine karşı savunuyor +++ Rehlinger, en çok kazananlar için daha yüksek vergi çağrısında bulunuyor +++ tüm gel...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-nach-putins-vorschlag-merz-weist-einmischung-von-aussen-zurueck-faz-110093143.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Rusya, BM aracına dronlarla saldırdı",
-    "summary": "Zelenskyj: Rusların hangi aracı hedefledikleri açıktı +++ Kiev'e yapılan büyük saldırının ardından en az beş ölü +++ Cumhurbaşkanlığı ofisinin eski başkanı gözaltında +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-greift-un-fahrzeug-mit-drohnen-an-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetiminde ABD canlı blogu: Xi, Trump'ı Tayvan konusundaki çatışma konusunda uyardı",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-in-china-eingetroffen-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Çin ziyareti: Trump, Pekin için işleri daha da zorlaştırabilir",
-    "summary": "Trump Çin'de",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-koennte-es-peking-schwerer-machen-200832260.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "ABD yakıt ablukası: “Kesinlikle artık kalorifer yakıtı ve kesinlikle artık dizel yok”",
-    "summary": "Küba, yakıt tedarikinin tamamen kesildiğini bildirdi. Enerji bakanına göre başkent Havana'da günde yalnızca birkaç saat elektrik var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/kuba-stromausfaelle-und-treibstoffkrise-in-havanna-accg-200831967.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Brezilya'nın Atlantik ormanı son 40 yılın en düşük ormansızlaşmasını kaydetti",
-    "summary": "Çevreciler azalmayı memnuniyetle karşılıyor ancak zayıflayan yasaların kazanımları tersine çevirebileceği konusunda uyarıyor Yeni bir rapora göre, ülkenin en çok tehdit altındaki biyomu olan Brezilya'...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "ICC tarafından aranan Filipinli siyasetçi günlerce binada kaldıktan sonra senatodan kaçtı",
-    "summary": "Duterte'nin \"uyuşturucuyla mücadelesine\" dahil olduğu gerekçesiyle aranan Ronald dela Rosa'nın, sıkı korunan binayı şafaktan önce terk ettiği bildirildi. Rodrigo Duterte'nin uyuşturucu karşıtı kanlı b...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/14/philippines-senator-ronald-dela-rosa-wanted-by-icc-fled"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump, Xi tarafından Pekin'de karşılanırken şüphecilik ve sıkı güvenlik",
-    "summary": "ABD'nin bariz düşüşü, artan Çin milliyetçiliğini körüklerken, ABD başkanı yenilik değerini yitirdi Trump Pekin'de - son güncellemeler Xi-Trump zirvesi için beş önemli konu. Pekin'in tarihi Davul ve Ça...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Letonya başbakanı 'başıboş' drone saldırısından günler sonra istifa etti - Avrupa canlı",
-    "summary": "Evika Siliņa, olaya verilen tepkiden ve halka yönelik geç uyarılardan dolayı hayal kırıklığına uğradığını söyledi. Almanya Başbakanı Friedrich Merz, Rusya'nın bir gecede Ukrayna'ya yönelik saldırıları...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran, Trump'ın Xi'yi ziyaretiyle aynı zamana denk gelen Hürmüz'de Asyalı petrol tankerlerine elini açtı",
-    "summary": "Tahran, bu tedbirin düşman ülkelerden gelen gemileri etkileyen ablukayı sona erdirmediğini düşünüyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-14/iran-abre-la-mano-en-ormuz-a-los-petroleros-asiaticos-coincidiendo-con-la-visita-de-trump-a-xi.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Silikon Vadisi kodamanlarından Wall Street milyonerlerine: Trump'ın Pekin ziyaretindeki ekibi",
-    "summary": "Çin lideriyle yapılan Cumhuriyetçi zirvede ABD'den büyük iş adamlarının bulunması, rekabet ile bağımlılık arasında gidip gelen ekonomik ilişkinin paradoksunu ortaya koyuyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-14/trump-lleva-a-pekin-el-poder-empresarial-de-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Rutte NATO 3.0'ı benimsiyor: Avrupa \"giderek daha fazla sorumluluk alıyor\" ve ABD Asya'ya \"yeniden yöneliyor\"",
-    "summary": "NATO Genel Sekreteri, \"Bu bir sonraki mantıklı adımdır\" diyor ve bu şekilde Trump Yönetiminin Şubat ayında söylediklerine katılıyor ve aynı zamanda AB'de giderek daha fazla sesin istediğini yansıtıyor...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/13/6a049f10e85ece0c0d8b45b7.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump'ın zayıflığı, Xi'nin fırsatı",
-    "summary": "Amerikalının ev sahibinden daha fazla acil durumu var ve bu da onun müzakere pozisyonunu zayıflatıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/14/6a057fc3fc6c832a2d8b459c.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump Pekin'e inerken Tayvan, Xi Jinping'in Amerikan silahlarının satışına yönelik olası baskısından endişe ediyor",
-    "summary": "Çinli bir sözcü, \"Çin, Washington'la eşitlik, saygı ve karşılıklı yarar ruhuyla işbirliği yapmayı hedefliyor\" dedi. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/13/6a04488dfc6c83431a8b45a4.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Bir senatörün insanlığa karşı suçlardan tutuklanmasını önlemek için barikat kurduğu Filipin Senatosu'nda silahlı saldırı",
-    "summary": "Ulusal Polis eski başkanı ve eski Başkan Duterte'nin uyuşturucuya karşı savaşının mimarı olan Senatör Ronald dela Rosa, Pazartesi gününden bu yana sağlam kalmayı sürdürüyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/13/6a04678821efa0ef428b4582.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Wang Fuk Mahkemesi yöneticisinin kritik toplantıyı ertelemeye çalışması nedeniyle mülk sahipleri geri adım attı",
-    "summary": "Hong Kong'un yangından zarar gören Wang Fuk Mahkemesi'nin hükümet tarafından atanan yöneticisinin, mülk sahipleri toplantısını ertelemeye çalışması, sakinlerin, dairelerini satıp satmama kararı öncesi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3353472/owners-push-back-wang-fuk-court-administrator-seeks-delay-crucial-meeting?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Xi, Trump'ı Tayvan'ın atacağı yanlış adımların ABD-Çin çatışmasına yol açabileceği konusunda uyardı",
-    "summary": "Toplantıda ayrıca Çin liderinin, Pekin'in ABD ile başa çıkma becerisine olan güveninin arttığını vurgulayarak, ilişkilerde \"yeni bir konumlandırma\"ya vurgu yaptığı görüldü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/14/asia-pacific/politics/trump-arrives-china-xi-summit-taiwan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Sapporo, Pokka markasının Orta Doğu'ya ihracatını durdurdu",
-    "summary": "Sapporo'nun amiral gemisi alkolsüz içecek markası Pokka, yurt dışı içecek işinin merkezinde yer alıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/05/14/sapporo-pokka-middle-east/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya ekonomisinin ilk çeyrekte %1,8 oranında büyümesi bekleniyor",
-    "summary": "İran'daki savaşın etkisinin ilk çeyrekte sınırlı olduğu düşünülürken, ikinci çeyrekte etkisinin hissedilmesi bekleniyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/05/14/japan-economy-first-quarter-growth/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Canlı Güncellemeler: Çin Lideri Xi, Pekin Zirvesinde Trump'ı Tayvan Konusunda Uyardı",
-    "summary": "Çin'in lideri Xi Jinping, Başkan Trump'a Tayvan'ın kötü yönetilirse ABD ile çatışmaya yol açabileceğini söyledi. İki liderin iki gün sürecek zirvede ticaret ve İran savaşını da görüşmesi bekleniyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Putin savaşın yakında sona erebileceğini ima ettikten sonra Rusya Kiev'i dövdü",
-    "summary": "Üç günlük ateşkesin Pazartesi günü sona ermesinden bu yana düzenlenen bir dizi saldırının sonuncusu olan drone ve füze saldırısında en az bir kişi öldü ve düzinelerce kişi yaralandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Çin, Trump Ziyareti İçin İyi Niyet Gösterisi Olarak ABD ile Sığır Ticaretini Yeniden Başlatıyor",
-    "summary": "Pekin, yüzlerce Amerikan mezbahasının sığır eti sevkiyatına yeniden başlaması için ihracat lisanslarını onaylayarak 15 aylık yasağı sona erdirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-beef.html"
   }
 ]
