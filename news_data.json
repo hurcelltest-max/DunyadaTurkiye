@@ -1,5 +1,140 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Sovyet zamanlarına bir geri dönüş: Putin döneminde felaket bile kutlanmalı",
+    "summary": "2026 baharında Rusya: Sibirya'da bir muhabir, Ukrayna savaşından dönmeyen bir savaşçının annesini tebrik ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wie-putins-russland-in-sowjetzeiten-zurueckfaellt-accg-200830277.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki Liveblog ABD: Trump'ın balo salonu projesinde gerileme",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rueckschlag-fuer-trumps-ballsaal-projekt-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "'Bir yanılsama gibi geliyor': Trump'ın Maduro'yu ele geçirmesi Venezuela'da çok az değişti",
+    "summary": "Bazıları değişimin geleceğine dair iyimser düşünüyor, ancak birçokları için bu Hugo Chavez'in başlattığı hareket için olağan bir durum. Ángel Linares tuhaf bir vızıltı ve ardından bir patlama duyduğun...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Lauren Boebert, Trump'ın temiz su projesi finansmanını engellemesinin ardından Colorado valisinin Tina Peters'ın cezasını hafiflettiğini iddia etti.",
+    "summary": "Bu canlı blog artık kapalı.Colorado valisi, seçim inkarcısı Tina Peters'ın cezasını hafifletiyor Son Dakika Haberleri için kaydolun ABD e-postasıJamieson Greer ayrıca, ABD'nin yarı iletken çipler üzer...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump'ın Çin'deki insan haklarına odaklanmaması ABD diplomasisi için büyük bir sapma",
+    "summary": "Değişim, hem ABD'nin Trump dönemindeki dönüşümünü hem de Çin'in dünya sahnesinde artan güvenini yansıtıyor. Pekin'e gitmeden önce Hong Kong'da hapsedilen demokrasi yanlısı aktivist Jimmy Lai'nin davas...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Dela Rosa nerede? Filipinli senatör, tutuklanmaktan kaçma konusunda cumhurbaşkanını geride bıraktı",
+    "summary": "'Uyuşturucuya karşı savaş' uygulayıcısının senato binasından kaçtığı kaotik hafta, hükümetin 'beceriksiz' görünmesine neden oluyor Aranan adam, güvenlik görevlilerini geride bıraktı, protestocuları to...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Teknoloji kurucuları, vergi değişikliklerini protesto etmek amacıyla Anthony Albanese ile dalga geçmek için yapay zeka tarafından oluşturulan görselleri kullanıyor",
+    "summary": "Bir girişimci şaka yaparak, \"%47'lik yeni özsermayesiyle harika vakit geçiriyor\" diyerek bazı startup şirketlerinin Avustralya'yı geride bırakabileceği konusunda uyarıda bulunuyor Son dakika haber e-p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "NSW işçi sendikası, Aukus nükleer denizaltı üssünün 'sırtımıza büyük bir hedef koyacağı' konusunda uyardı",
+    "summary": "Tepki, Kembla Limanı'nın tercih edilen doğu kıyısı Aukus üssü olarak adlandırıldığı önceden gizli olan belgelerin yayınlanmasının ardından geldi. Aukus harcamaları ve gecikmeler sona erdiğinde, Avustr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/17/port-kembla-nsw-aukus-nuclear-submarine-base-outcry-nsw-labour-union"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail'in müzakerelere katılmaması göz ardı edildiğinde İran ve ABD diyalogun durmasına neden oldu",
+    "summary": "İsrail'in müzakere masasında bulunmaması, sürecin her an raydan çıkabileceği yönündeki korkuları artırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/16/6a072bdafc6c838e398b45a6.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Konglu Paul Chan Avrupa'ya gidiyor. Peki güzergahta neler var?",
+    "summary": "Paul Chan Mo-po, beş günlük Avrupa gezisi sırasında Hong Kong'un terörizmin finansmanıyla mücadele çabalarını açıklamaya çalışacak ve şehre daha fazla fon ve iş çekme çabalarını anlatacak ve jeopoliti...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353864/hong-kongs-paul-chan-heading-europe-so-whats-itinerary?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "InvestHK başkanı, Hong Kong'un bu yıl 310'dan fazla firmadan 26 milyar HK$ çektiğini söyledi",
+    "summary": "Yabancı yatırımı çekmekle görevli hükümet kurumuna göre, Çin anakarasından ve yurt dışından 310'dan fazla işletme, Mayıs ayının başında Hong Kong'da faaliyet gösterdi veya faaliyetlerini genişletti ve...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Trump, Xi ile davayı gündeme getirdikten sonra Jimmy Lai'nin serbest bırakılması konusunda 'iyimser değil'",
+    "summary": "ABD Başkanı Donald Trump, ulusal güvenlik yasasını ihlal ettiği için 20 yıl hapis cezasına çarptırılan eski Hong Kong medya patronu Jimmy Lai Chee-ying'in Pekin'deki zirve sırasında Çinli mevkidaşı Xi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/politics/article/3353789/trump-not-optimistic-jimmy-lais-release-after-raising-case-xi?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump, Tayvan konusunda 'hiçbir şeyin değişmediğini' söyledi. Ancak sözleri büyük bir değişimi yalanlıyor.",
+    "summary": "ABD başkanı Taipei'yi bağımsızlık hamleleri konusunda uyardı ve Amerikan silah anlaşmalarını Çin ile müzakerelerde \"müzakere kozu\" olarak nitelendirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/17/asia-pacific/politics/trump-taiwan-china-analysis/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rusya'da Ukrayna'daki kitlesel drone bombardımanı dört kişiyi öldürdü",
+    "summary": "Saldırı, Ukrayna'nın Rusya topraklarında şimdiye kadarki en büyük saldırılarından biriydi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/17/world/ukraine-drone-barrage-russia/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya muhalefeti, liderlerin tartışmasında Başbakan'ı ekstra bütçe konusunda sorguya çekecek",
+    "summary": "Muhalefet partileri, Başbakan Sanae Takaichi'yi Çarşamba günü parti liderleri arasında artan petrol fiyatları ve enflasyonla mücadele için ekstra bütçe hazırlamakta gecikmesi nedeniyle sorguya çekecek...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/17/japan/politics/opposition-question-takaichi-extra-budget/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
@@ -763,140 +898,5 @@
     "summary": "İcra Kurulu Başkanı John Lee Ka-chiu, şehrin ulusal kalkınmayla uyumlu olacak ilk beş yıllık planını formüle ettiği bir dönemde, küresel türbülansın ortasında yerel medyanın Hong Kong hakkında iyi hik...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/hong-kong/society/article/3353675/tell-good-stories-hong-kong-amid-global-turmoil-john-lee-urges-local-media?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Çin, Trump'ı Cennet Tapınağı'nda ağırladı; Hong Kong suşi paraziti videosu: SCMP'nin 7 öne çıkan özelliği",
-    "summary": "Bu haftanın Hong Kong, Çin anakarası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyorsa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/china/article/3353625/china-hosts-trump-temple-heaven-hong-kong-sushi-parasite-video-scmps-7-highlights?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump, ABD ve Nijerya güçlerinin üst düzey IŞİD liderini 'ortadan kaldırdığını' söyledi",
-    "summary": "Terör örgütünün küresel çapta ikinci komutanı olan Ebu Bilal el Minuki, ABD ve Nijerya güçlerinin \"ortaklığı\" sonucu öldürüldü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/16/world/trump-nigeria-islamic-state/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump'ın jeopolitik korkusu İran'la duvara çarptı",
-    "summary": "İran'la devam eden çıkmaz, Trump'ın yüksek ABD benzin fiyatları ve kendi düşük onay notları nedeniyle ülke içi baskıyla karşı karşıya kalmasıyla ortaya çıkıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/16/world/politics/trump-brinkmanship-iran-analysis/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Fotoğraflar: ABD Petrol Arzını Keserken Küba Karanlığa Daldı",
-    "summary": "ABD, Küba'nın yakıt tedariğini keserek zaten fakir olan adayı ciddi bir enerji krizine sürükledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kataib Hizbullah: Bilmeniz Gerekenler",
-    "summary": "Irak'taki en sert ve güçlü İran vekillerinden birinin komutanı, ABD'deki Yahudi sitelerine saldırı planlamakla suçlandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yetkililer, İsrail'in Gazze'deki Hamas Liderini Hedef Aldığını Söyledi",
-    "summary": "İsrail'in Gazze Şehri'ndeki saldırısının hedefi olan İzzeddin el Haddad, geçen yıl grubun Gazze'deki askeri kanadını devraldı. İsrailli yetkililer onun 7 Ekim saldırısının da mimarı olduğunu söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
-    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
-    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Husilerin Hedeflemeyi Sonlandırma Sözüne Rağmen Nakliyeciler Kızıldeniz Güzergahlarına Karşı Dikkatli",
-    "summary": "Dünyanın en büyük üç konteyner operatörü, Gazze'deki istikrarsızlıktan ve daha geniş bölgesel gerilimlerin devam eden tehlike anlamına gelmesinden korktuklarını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu: Hizbullah ile İsrail arasındaki ateşkes uzatıldı",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/nahost-waffenruhe-zwischen-hisbollah-und-israel-verlaengert-li.3484156"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu'da Savaş: Uzatılmış ateşkese rağmen: İsrail saldırılarının ardından Lübnan'da altı ölüm bildirildi",
-    "summary": "İsrail'le ateşkesin uzatılmasından birkaç saat sonra Lübnan, bir sivil savunma merkezine saldırı düzenlendiğini bildirdi; ölen altı kişi arasında üç sağlık görevlisi de vardı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-libanon-israel-waffenruhe-angriff-li.3483620"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetiminde canlı blog ABD: Tayvan'a silah satışında Trump: ABD için iyi bir kaldıraç",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-zu-waffenverkauf-an-taiwan-gutes-druckmittel-fuer-usa-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İsrail Saldırısı: Katz: Hamas Lideri El Haddad'ın Öldüğü Bildirildi",
-    "summary": "7 Ekim 2023'teki terör saldırısının yaşayan son beyni olarak kabul ediliyor ve son olarak Hamas'ın askeri kanadına başkanlık ediyor. Şimdi İss al-Din al-Haddad'ın öldürüldüğü söyleniyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/israelischer-verteidigungsminister-katz-hamas-fuehrer-al-haddad-soll-tot-sein-200837531.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Washington'daki görüşmeler: ABD, Lübnan'da ateşkesin uzatıldığını duyurdu",
-    "summary": "Kağıt üzerinde İran yanlısı Hizbullah milisleri ile İsrail arasında ateşkes var. Şimdi tekrar uzatılacak. Gerçekten silahlar susacak mı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/libanon-usa-verkuenden-verlaengerung-der-waffenruhe-zwischen-hizbullah-und-israel-200837478.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Donald Trump, Xi Jinping ile konuştuktan sonra Jimmy Lai konusunda 'iyimser değil'",
-    "summary": "Ailesi ve destekçileri, Pekin'deki zirve görüşmeleri sırasında ABD başkanının 78 yaşındaki İngiliz vatandaşının serbest bırakılmasına yardımcı olabileceğini umuyorlardı. Donald Trump, Çin lideri Xi Ji...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping"
   }
 ]
