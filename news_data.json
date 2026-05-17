@@ -1,5 +1,131 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Erdoğan Türkiye'nin Daha Fazla Bebek Sahibi Olmasını İstiyor. Çok Az Ebeveyn Dinliyor.",
+    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan hükümeti nakit yardımlar ve sübvansiyonlu krediler kullanarak doğum oranını artırmaya çalışıyor. Çalışmıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Irak Çölünde İki İsrail Karakolu Aylarca Gizli Saklandı",
+    "summary": "Bölge yetkilileri, İsrail'in İran'a yönelik operasyonları için Irak'ta gizli bir saha hazırlamak için bir yıldan fazla zaman harcadığını söylüyor. Iraklı yetkililer daha sonra ikinci bir üssün varlığı...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Rusya, Ukrayna'daki Saldırı Dalgasında En Az 4 Öldüğünü Açıkladı",
+    "summary": "Savaşın en büyük saldırılarından birinde, Moskova da dahil olmak üzere bir düzineden fazla bölgede 550'den fazla insansız hava aracı durduruldu veya düşürüldü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İran Savaşı Dünyanın En Zengin Uluslarından Birini Sakatlıyor",
+    "summary": "İran saldırıları, Katar'ın hayati önem taşıyan gaz ihracatını felç etti ve gelecekteki büyümesini güvence altına almayı amaçlayan turizm ve iş eksenlerini sekteye uğrattı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
+    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
+    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Husilerin Hedeflemeyi Sonlandırma Sözüne Rağmen Nakliyeciler Kızıldeniz Güzergahlarına Karşı Dikkatli",
+    "summary": "Dünyanın en büyük üç konteyner operatörü, Gazze'deki istikrarsızlıktan ve daha geniş bölgesel gerilimlerin devam eden tehlike anlamına gelmesinden korktuklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Trump'ın Pekin ziyareti: Tayvan'ın yeni endişesi Washington",
+    "summary": "ABD Başkanı Donald Trump, bir televizyon röportajında ​​Amerika'nın Tayvan'a ilişkin kırk yıllık güvenlik politikasını sorguluyor. Pekin'deki insanlar çok dikkatli dinlemiş olmalı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/taiwan-usa-unsicherheit-trumps-haltung-li.3484547"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Sivil korumadaki eksiklikler: Kızılhaç acil bir durumda neden alarm veriyor?",
+    "summary": "Onlarca yıllık ekipman, çadır kent ve barınak eksikliği: Kızıl Haç ve diğer yardım kuruluşları, Almanya'nın savaşa ve krizlere pek hazırlıklı olmadığı konusunda uyarıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/bevoelkerungsschutz-deutschland-vergleich-finnland-herausforderungen-li.3482871"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krize hazırlık: Sivil koruma konusunda Almanya'nın diğer ülkelerden neler öğrenebilir?",
+    "summary": "İskandinav ülkelerinin yanı sıra diğer ülkeler de acil durumları güvenlik planlamalarının merkezine daha fazla koyuyor. Yurtdışına baktığımızda krize hazırlık sürecinin ne kadar farklı organize edildi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/bevoelkerungsschutz-deutschland-schweden-finnland-schweiz-israel-li.3483800"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Tayvan için silahlar: Asya'da da Trump'a güvenemezsiniz",
+    "summary": "Trump'ın Xi Jinping konusunda Putin'den farkı yok: Amerikalı ortakların güvenliği bir pazarlık kozu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/taiwan-auch-in-asien-ist-kein-verlass-auf-trump-200840075.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Donald Trump, Xi Jinping ile konuştuktan sonra Jimmy Lai konusunda 'iyimser değil'",
+    "summary": "Ailesi ve destekçileri, Pekin'deki zirve görüşmeleri sırasında ABD başkanının 78 yaşındaki İngiliz vatandaşının serbest bırakılmasına yardımcı olabileceğini umuyorlardı. Donald Trump, Çin lideri Xi Ji...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ukrayna savaşı, bir yıldan uzun bir sürenin en büyük insansız hava aracı saldırısıyla Moskova'yı yeniden vurdu",
+    "summary": "En az üç ölü ve on beş yaralı; bu, savaşın artık yalnızca cephede değil, aynı zamanda büyük Rus şehirlerinde de yürütüldüğünün yeni bir işareti. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/17/6a096727e85ece1d7f8b456d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Drone saldırısı BAE nükleer santralinin önünde ateş açtı",
+    "summary": "Açıklamada dronun nereden fırlatıldığı belirtilmedi ancak BAE yakın zamanda İran'ı enerji ve ekonomik altyapısına yönelik saldırıların arkasında olmakla suçladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/17/world/drone-fire-outside-uae-nuclear-plant/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -772,131 +898,5 @@
     "summary": "ABD başkanı Abu-Bilal al-Minuki'yi 'dünyanın en aktif teröristi' olarak nitelendirdi ve 'çok karmaşık bir görevde' ortadan kaldırıldığını söyledi Donald Trump, ABD ve Nijerya kuvvetlerinin İslam Devle...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Steven Miles'ın Queensland İşçi Partili liderliği için tehlike belirirken, Stafford ara seçimi LNP'ye doğru kayacak gibi görünüyor",
-    "summary": "Kuzey Brisbane seçmenleri, eski bağımsız milletvekili Jimmy Sullivan'ın ani ölümünün ardından sandık başına gitti Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi ed...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran petrol sektörü ABD'nin Hürmüz'ü kapatmasının baskısına direniyor",
-    "summary": "Uzmanlar, rafine kapasitesi, saha türü ve bu alandaki deneyimin, Tahran'a ciddi zarara uğramadan önce aylarca bir marj sağladığını söylüyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-16/el-sector-petrolero-de-iran-resiste-la-presion-por-el-cierre-estadounidense-de-ormuz.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Cehennemin ayrıntıları",
-    "summary": "Bu kadar çok suçu kınama nezaketine sahip İsraillilerin var olması, anketlere göre bir imha kampanyasını destekleyen çoğunluğun değerinin düşürüldüğünü gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-05-16/pormenores-del-infierno.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İsrail'deki Filistinliler, Netanyahu hükümetinin baskılarına rağmen Nakba'nın anısını canlı tutuyor",
-    "summary": "Polis, neredeyse seksen yıl önce yıkılan köylerden birinin kalıntılarına yapılan geleneksel yürüyüşü üst üste ikinci kez engelliyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-16/los-palestinos-de-israel-mantienen-viva-la-memoria-de-la-nakba-pese-a-la-represion-del-gobierno-de-netanyahu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump, İran'daki savaşla ilgili Xi'ye: \"Biz de aynı düşünüyoruz, değil mi? Bunun bitmesini istiyoruz\"",
-    "summary": "Çin lideri, Tayvan'ın ikili ilişkilerde \"en önemli konu\" olduğu ve \"çatışmaya\" yol açabileceği konusunda uyardı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-15/trump-a-xi-sobre-la-guerra-en-iran-sentimos-lo-mismo-verdad-queremos-que-esto-termine.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Tayvan, Xi ile Trump arasında krize yol açma tehdidinde bulunan ada",
-    "summary": "Amerikalı lider, Pekin'in bunun kırmızı çizgisi olduğu konusunda uyarmasından bir gün sonra, özyönetimli bölgenin \"bağımsızlık mücadelesinin\" yol açabileceği \"çatışmadan\" kaçınacağını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-15/taiwan-la-isla-que-amenaza-con-abrir-una-crisis-entre-xi-y-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Federal yargıç, Kongo'ya sınır dışı edilen bir Kolombiyalının ABD'ye geri gönderilmesine karar verdi",
-    "summary": "Trump Yönetimi, sağlık durumu nedeniyle kadını kabul etmeyi reddetmesine rağmen kadını Orta Afrika ülkesine sınır dışı etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/migracion/2026-05-14/un-juez-federal-ordena-enviar-de-vuelta-a-estados-unidos-a-una-colombiana-deportada-al-congo.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump ve Xi, Pekin'de G-2'nin yeni döneminde iki rakip süper güç arasındaki stratejik bir arada yaşama sahnesine çıkıyor",
-    "summary": "ABD başkanı \"fantastik ticaret anlaşmalarının\" altını çizdi ve kendisinin ve Xi'nin İran konusunda aynı fikirde olduğunu söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/16/6a06f7f4e85ece031a8b45b1.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "\"G-2\" zirvesi sona erdi: Trump, Xi'nin İran'la savaşı sona erdirmek için arabuluculuk yapmayı teklif ettiğine dair güvence verdi",
-    "summary": "Cuma günü Xi, Trump'ı Çin'in gerçek siyasi kalbinin attığı duvarlarla çevrili ve hermetik bölge olan Zhongnanhai'de çay içmeye davet etti. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/15/6a068624fc6c83396d8b459f.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "1956'daki Süveyş savaşından 2026'daki Hürmüz savaşına: küresel çöküşü önlemek için alternatif ham petrol boru hatları",
-    "summary": "Nasıl ki onlarca yıl önce Mısır kanalıyla ilgili çatışma İsrail, İngiltere ve Fransa için jeopolitik bir fiyaskoyla sonuçlandıysa, şimdi de İran Boğazı'nda ABD'nin askeri zaferi Tahran için jeostratej...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/14/6a04356621efa0f6798b45bc.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, ABD'nin Nijerya'daki iki numaralı İslam Devleti'ni ortadan kaldırdığını söyledi",
-    "summary": "Cumhuriyetçi, her iki ülkenin ortak operasyonuyla \"dünyanın en aktif teröristi\" olan Abu-Bilal al-Minuki'nin ortadan kaldırıldığını doğruluyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/16/6a08074ffc6c831a4e8b45e9.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Verimli kalkışları mümkün kılmak için Hong Kong Terminal 2'deki teknik özellikler: ulaştırma şefi",
-    "summary": "Kentin ulaştırma bakanı, Hong Kong'un, mevcut darboğazları hafifletmek için teknoloji odaklı hizmetler sunacak olan, uluslararası havaalanında yeniden yapılandırılmış ikinci terminalin 27 Mayıs'ta \"dö...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353804/tech-features-hong-kongs-terminal-2-enable-efficient-departures-transport-chief?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Konglu ebeveynler mancınık ve tangram oyuncaklarından kaynaklanan boğulma ve yaralanma riskleri konusunda uyardı",
-    "summary": "Hong Kong gümrüğü, mancınık oyuncağı ve tangram setinin çocuklarda yaralanma ve boğulma riski oluşturabileceği konusunda uyardı ve perakendecileri ürünleri raflardan çekmeye çağırdı.\nGümrük ve Tüketim...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353799/hong-kong-parents-warned-choking-injury-risks-catapult-and-tangram-toys?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "John Lee, küresel çalkantının ortasında yerel medyaya \"Hong Kong'un güzel hikayelerini anlatın\" çağrısında bulundu",
-    "summary": "İcra Kurulu Başkanı John Lee Ka-chiu, şehrin ulusal kalkınmayla uyumlu olacak ilk beş yıllık planını formüle ettiği bir dönemde, küresel türbülansın ortasında yerel medyanın Hong Kong hakkında iyi hik...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3353675/tell-good-stories-hong-kong-amid-global-turmoil-john-lee-urges-local-media?utm_source=rss_feed"
   }
 ]
