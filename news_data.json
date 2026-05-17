@@ -1,5 +1,149 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da Savaş: Ukrayna'nın Moskova bölgesine yönelik saldırısında ölüler",
+    "summary": "Rus yetkililere göre, Ukrayna'nın Moskova yakınlarında 100'den fazla insansız hava aracıyla düzenlediği saldırılarda en az üç kişi hayatını kaybetti. Başkan Zelensky, artan silah menzilinin savaşı öne...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriff-moskau-li.3483341"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İsrail: Hamas'ın askeri şefi öldürüldü",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-militaerchef-der-hamas-getoetet-li.3484700"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu: Nükleer santrale drone saldırısı",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/nahost-drohnenangriff-auf-atomkraftwerk-li.3484686"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Podcast \"Doğru noktaya\": Yeni Fed şefi: ABD merkez bankası ne kadar bağımsız kalıyor?",
+    "summary": "Bu muhtemelen Donald Trump'ın ikinci dönemindeki en önemli personel değişikliği: Fed başkanlığını Kevin Warsh devraldı. O bir Trump eleştirmeni değil.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-fed-trump-usa-li.3484511"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Enerji krizi: Hindistan İskandinavya'da petrol arıyor",
+    "summary": "Başbakan Narendra Modi Avrupa'ya gidiyor. Amacı: daha fazla enerji güvenliği.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/indien-energiepartnerschaften-europa-skandinavien-li.3483705"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki canlı blog ABD: Rapor: Küba, ABD hedeflerine drone saldırıları yapmayı düşünüyor",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-bericht-kuba-erwaegt-drohnenangriffe-auf-us-ziele-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ortadoğu'da Kireg: Emirates ve Suudi Arabistan'ın İran'ı bombaladığı söyleniyor",
+    "summary": "Arap Körfez ülkeleri İran'a karşı strateji bulma çabasında. Artık önde gelen güçlerin de askeri müdahalede bulunduğu bildiriliyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/berichte-saudi-arabien-und-emirate-bombardieren-iran-200840056.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avustralyalı uzmanlar, büyük tütün sektörünün sağlık alanındaki kazanımlarını boşa çıkarmak için yasadışı pazar korkusundan yararlandığı konusunda uyarıyor",
+    "summary": "Koalisyon, sigaranın her gün 66 Avustralyalıyı öldürdüğünü söylüyor ve Philip Morris'in kanıtlarını gizlice dinleyen milletvekillerini eleştiriyor Önde gelen sağlık kampanyacıları, sigara üreticisinde...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Fransa'nın önde gelen film yapımcısı, sağcı milyardere karşı dilekçe veren isimleri kara listeye alacağını söyledi",
+    "summary": "Canal+ başkanı, Vincent Bolloré'nin siyasi hakimiyetine karşı protestoya imza atan yüzlerce oyuncu ve yönetmenle çalışmayacağını söyledi Fransa'nın en büyük film yapımcısı Canal+'nın başkanı, grubun, ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Alman bakan, balina Timmy'yi kurtarma girişimine izin veren 'tamamen insani' kararı savundu",
+    "summary": "Uzmanlar, kumsalda mahsur kalan kambur balinanın hayatta kalma ihtimalinin düşük olduğunu söyleyerek, onun huzur içinde ölüme bırakılmasını tavsiye etti.Alman yetkililer, karaya oturmuş bir balinanın ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/may/17/german-minister-defends-decision-rescue-stranded-whale-timmy"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Cehennemin ayrıntıları",
+    "summary": "Bu kadar çok suçu kınama nezaketine sahip İsraillilerin var olması, anketlere göre bir imha kampanyasını destekleyen çoğunluğun değerinin düşürüldüğünü gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-05-16/pormenores-del-infierno.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail'deki Filistinliler, Netanyahu hükümetinin baskılarına rağmen Nakba'nın anısını canlı tutuyor",
+    "summary": "Polis, neredeyse seksen yıl önce yıkılan köylerden birinin kalıntılarına yapılan geleneksel yürüyüşü üst üste ikinci kez engelliyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-16/los-palestinos-de-israel-mantienen-viva-la-memoria-de-la-nakba-pese-a-la-represion-del-gobierno-de-netanyahu.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump ve Xi, Pekin'de G-2'nin yeni döneminde iki rakip süper güç arasındaki stratejik bir arada yaşama sahnesine çıkıyor",
+    "summary": "ABD başkanı \"fantastik ticaret anlaşmalarının\" altını çizdi ve kendisinin ve Xi'nin İran konusunda aynı fikirde olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/16/6a06f7f4e85ece031a8b45b1.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "\"G-2\" zirvesi sona erdi: Trump, Xi'nin İran'la savaşı sona erdirmek için arabuluculuk yapmayı teklif ettiğine dair güvence verdi",
+    "summary": "Cuma günü Xi, Trump'ı Çin'in gerçek siyasi kalbinin attığı duvarlarla çevrili ve hermetik bölge olan Zhongnanhai'de çay içmeye davet etti. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/15/6a068624fc6c83396d8b459f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "ABD Senatosu, Trump'ın Beyaz Saray'daki Balo Salonu için ayrılan 400 milyon dolarlık tahsisi durdurdu",
+    "summary": "Başkan bunu yıldız projelerinden biri ve başkanlık mirasının bir parçası olarak görüyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/17/6a09d3d8e9cf4a673a8b4576.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong, Ebola salgınının ardından Afrika'dan gelen yolcular için sağlık kontrollerini artırdı",
+    "summary": "Hong Kong, Dünya Sağlık Örgütü'nün (WHO) kıtada ölümcül bulaşıcı hastalık salgınını \"uluslararası öneme sahip halk sağlığı acil durumu\" olarak ilan etmesinin ardından, Ebola'ya karşı korunmak için bir...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353895/hong-kong-ramps-health-checks-travellers-africa-after-ebola-outbreak?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -754,149 +898,5 @@
     "summary": "Yüzlerce potansiyel alıcı Cumartesi günü Sun Hung Kai Properties'in (SHKP'nin) Yeni Bölgelerdeki projesine yöneldi ve teklif edilen 121 daireyi Hong Kong iç piyasasının risk uyarısına rağmen sürekli b...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/business/china-business/article/3353813/buyers-flock-shkp-project-new-territories-confidence-grows-home-market-outlook?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "IMF dayanıklı Hong Kong ekonomisini övüyor ancak Orta Doğu savaşıyla bağlantılı riskler konusunda uyarıyor",
-    "summary": "Uluslararası Para Fonu (IMF), Hong Kong ekonomisinin dayanıklılığını övdü, ekonomik aktivitenin henüz Kovid öncesi seviyelere dönmemiş olmasına rağmen sürdürülebilir bir iyileşmeye dikkat çekerken, ar...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353758/imf-lauds-resilient-hong-kong-economy-warns-risks-linked-middle-east-war?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Tayvan, Trump'ın uyarısından sonra zaten 'bağımsız' olduğunu açıkladı",
-    "summary": "Taipei'nin iddiası, ABD başkanının adayı resmi olarak bağımsızlık ilan etmemesi konusunda uyarması ve silah satışlarının Çin ile müzakerelerde \"müzakere kozu\" olarak kullanılacağını ima etmesi sonrası...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/16/asia-pacific/politics/taiwan-independence-us-trump-china/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Cannes'da yönetmen Koji Fukada, yapay zekanın yaratıcı süreci baltaladığını söyledi",
-    "summary": "Cannes'da konuşan \"Nagi Notes\" yönetmeni, yapay zeka tarafından üretilen sanatın, insanın kendini ifade etmesi ve keşfetmesi pahasına gerçekleşebileceği konusunda uyardı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/05/15/cannes-film-festival-koji-fukada/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump, Takaichi'ye Çin Devlet Başkanı Xi ile görüşmelere ilişkin 'ayrıntılı açıklama' yaptı",
-    "summary": "Trump Cuma günü Air Force One'dan Japon mevkidaşını aradı; Tayvan ve Hint-Pasifik bölgesiyle ilgili diğer konuların görüşüldüğüne inanılıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/15/japan/politics/takaichi-trump-phone-call-china/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Güçlü deprem Tohoku bölgesini sarstı",
-    "summary": "Deprem Miyagi ilinin kıyılarında saat 20.22'de meydana geldi. Bölge için acil deprem uyarısı yapıldı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/15/japan/strong-earthquake-tohoku/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump, Tayvan Silah Satışlarını Çin ile Pazarlık Kuponuna Dönüştürüyor",
-    "summary": "Başkan, Tayvan için olası bir silah anlaşmasının Pekin'le müzakerelerde \"çok iyi bir müzakere kozu\" olduğunu söyledi. Onun sözleri ABD desteğinin kararlılığı hakkında soru işaretleri yaratıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump, IŞİD'in üst düzey liderlerinden birinin ABD-Nijerya misyonunda öldürüldüğünü söyledi",
-    "summary": "Başkan Trump, Dışişleri Bakanlığı'nın 2023'te terörist ilan ettiği liderin Afrika'da saklandığını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump'ın 15 ABD'li Göçmen'i Sınır Dışı Ettiği Kongolu Otelin İçinde",
-    "summary": "Trump yönetimi tarafından zincirlenip Kinşasa'ya gönderildiler. Şimdi tehlikeli bir seçimle karşı karşıyalar: Latin Amerika'ya geri dönmek ya da Afrika'da kalmak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/africa/deportation-congo-migrants-trump.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Katil Robotlara Girin: Ukrayna Savaşın Geleceğini Şekillendiriyor",
-    "summary": "Ukrayna'nın 35 yaşındaki savunma bakanı Mykhailo Fedorov, fütürist askeri teknolojinin ülkesinin hayatta kalması için hayati önemde olduğunu düşünüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump ve Boeing, Çin'in 200 Uçak Alacağını Açıkladı",
-    "summary": "Pekin'in yorum yapmadığı anlaşma, dünyanın en büyük havacılık pazarlarından birinde Airbus'a kaptıran Boeing için büyük bir kazanç olacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Fotoğraf ve Videoda: Başkan Trump Çin'e Gidiyor",
-    "summary": "Bay Trump'ın neredeyse on yıldır Çin'e yaptığı ilk ABD başkanlık ziyareti olan ziyaret, ülkeler arasında bir ticaret ateşkesinin devam edip etmeyeceğine dair işaretler açısından yakından izlendi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD: Trump Tayvan'a silah verilmesi kararını Çin'e karşı baskı aracı olarak kullanmak istiyor",
-    "summary": "ABD Başkanı, Pekin'in talep ettiği adanın silah alıp almayacağını açık tutuyor. ABD, Teksas'tan Polonya'ya 4 bin askerin transferini geçici olarak durduruyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-trump-taiwan-china-li.3478505"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Putin Salı günü Çin'e gidiyor",
-    "summary": "Rus hükümdar Çin Devlet Başkanı Xi ile görüştü +++ Zelensky, Rusya'ya yönelik yeni drone saldırılarını duyurdu +++ Rusya ekonomisi küçülüyor +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-reist-am-dienstag-nach-china-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Christian Schmidt: “Kurban değilim, özgür bir adamım”",
-    "summary": "Savaşın devamı olarak siyaset: Christian Schmidt, Bosna-Hersek'teki Yüksek Temsilcilik görevinden istifa etti. Ondan şunu öğrenmek istiyoruz: Onu buna Amerika mı zorladı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/bosnien-christian-schmidt-ueber-seinen-ruecktritt-als-hoher-repraesentant-accg-200836255.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Pekin'e devlet ziyareti: Trump'ın çalışmaları ve Çin'in katkısı",
-    "summary": "Her iki ülke de sistemsel rakipler; ancak yine de Çin, Trump'ın politikalarından stratejik olarak yararlanıyor. Bunun böyle kalmasını sağlamak için Pekin'in temkinli ilerlemesi gerekiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/wie-china-von-donald-trumps-politik-profitiert-200812745.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump, IŞİD'in ABD ve Nijerya güçleri tarafından 'ikinci komutan' olarak öldürüldüğünü söyledi",
-    "summary": "ABD başkanı Abu-Bilal al-Minuki'yi 'dünyanın en aktif teröristi' olarak nitelendirdi ve 'çok karmaşık bir görevde' ortadan kaldırıldığını söyledi Donald Trump, ABD ve Nijerya kuvvetlerinin İslam Devle...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
   }
 ]
