@@ -1,5 +1,266 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İran Savaşı Canlı Güncellemeleri: Beyaz Saray, İran Devlet Medyasının 'Resmi Olmayan' Anlaşmanın Ana Hatlarını Reddetti",
+    "summary": "Bildirilen taslak anlaşmada, ABD'nin deniz ablukasını kaldırması karşılığında İran'ın Hürmüz Boğazı'nı yeniden açacağı belirtiliyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "88 Gün Sansürlenen Haber, TV ve Sohbetin Ardından İranlılar Tekrar İnternete Dönüyor",
+    "summary": "Hükümet, internetin neredeyse tamamen kapanmasının ardından insanların dünyayla bağlantı kurmasına izin veriyor. Ancak herkesin erişimi yok ve erişimi olanlar bunun ne kadar süreceğini merak ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump'ın Grönland Tehditleriyle Sarsılan İzlanda, AB'ye Katılmayı Ağırlaştırıyor",
+    "summary": "İzlanda Avrupa'nın geri kalanından ayrıştı. Ancak Başkan Trump'ın Grönland'a yönelik tehditleri yeniden değerlendirmeye yol açtı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Rusya Daha İleriye Gidebilir mi? En azından Ukrayna'nın böyle düşünmesini istiyor.",
+    "summary": "Moskova'nın savaş alanında ve müzakere masasında oyalandığı bir dönemde, Kiev'e yönelik büyük saldırılar ve ardından daha fazla uyarı geldi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/27/world/europe/russia-ukraine-kyiv-attacks.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Savaş Sürdükçe Küresel Arz Kıtlığı Derinleşiyor, İstihdamları ve Büyümeyi Riske Atıyor",
+    "summary": "Üç ay sonra, Hürmüz Boğazı'nın kapatılmasının etkileri yayılıyor ve bu açığın yükünü gelişmekte olan ülkeler çekiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Bölge sakinleri İsrail Savaş Uçaklarının Güney Lübnan Üzerinde Dönmesini İzliyor",
+    "summary": "İsrail, son günlerde İran destekli militan grup Hizbullah'a karşı ölümcül askeri kampanyasını yoğunlaştırarak Lübnan genelindeki hedefleri vurdu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
+    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İsrail: Hindistan'dan Kutsal Topraklara",
+    "summary": "Hindistan'dan binlerce Yahudinin İsrail'e göç etmesi bekleniyor. Kendilerini İncil zamanlarından kalma “kayıp bir kabile” olarak görüyorlar. Ancak İsrail'de göç eski bir soruyu gündeme getiriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/israel-indische-juden-bnei-menashe-einwanderung-e974721/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Gazze: İsrail, Hamas'ın yeni liderinin öldüğünü doğruladı",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/gaza-israel-bestaetigt-tod-des-neuen-hamas-fuehrers-li.3489909"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Teksas'ta ikinci tur seçimleri: Tartışmalı Trump adayı Cumhuriyetçi düzeni mağlup etti",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/stichwahl-in-texas-umstrittener-trump-kandidat-besiegt-republikanisches-establishment-li.3489911"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ara sınavlardan önce gerrymandering: Trump'ın yenilgileri",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/gerrymandering-vor-midterms-niederlagen-fuer-trump-li.3489845"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: İsrail, Nabatieh sakinlerini kaçmaya çağırıyor",
+    "summary": "Güney Lübnan için yeni tahliye emri +++ Devrim Muhafızları: savaşın alevlenmesi olası değil +++ İsrail, yeni Hamas liderini öldürdüğünü söylüyor +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-israel-fordert-einwohner-von-nabatieh-zur-flucht-auf-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Lübnan'da gerilim tırmanıyor: İsrail neden Hizbullah'a yönelik saldırıları artırıyor?",
+    "summary": "İsrail, Hizbullah'a baskıyı artırıyor. Şii milisler teslim olmak istemiyor ve hatta Beyrut'taki hükümeti devirmekle tehdit ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/krieg-warum-israel-die-angriffe-auf-libanon-verstaerkt-200871081.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "AfD'de Torsten Albig: SPD cehennemin kapısında",
+    "summary": "AfD ile çalışmaktansa SPD'nin batma ihtimali daha yüksek. Ancak bu kader, eğer onunla çalışmazsa onu da tehdit eder.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/torsten-albig-zur-afd-die-spd-am-tor-zur-hoelle-200865888.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "88 gün sonra: İran yeniden çevrimiçi",
+    "summary": "Bu tarihteki en uzun internet kesintisiydi. Şimdi İran cumhurbaşkanı bunu kaldırdı. Muhafazakârların direnişine karşı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/nach-blockade-des-internets-iran-ist-wieder-online-accg-200871895.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "DSÖ başkanı, Ebola salgınıyla mücadele için Demokratik Kongo Cumhuriyeti'nde ateşkes çağrısında bulundu",
+    "summary": "Tedros Adhanom Ghebreyesus, 900'de şüpheli vakayla birlikte 'hastalık ve çatışmanın feci çarpışması' konusunda uyardı. Dünya Sağlık Örgütü başkanı, Ebola salgınıyla mücadeleye yardımcı olmak için doğu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ed Husic, İşçi Partisi'ne, filo aktivistlerine yönelik muamele de dahil olmak üzere İsrail'in eylemlerine ilişkin \"kırmızı çizgi\" oluşturma çağrısında bulundu",
+    "summary": "Chifley üyesi \"Bir noktada açıklamaların sona ermesi ve eylemin başlaması gerekiyor\" diyor Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi edinin İşçi Partisi Mille...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/may/27/ed-husic-calls-on-labor-to-establish-red-line-on-israels-actions-including-treatment-of-flotilla-activists"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "BM şefi, Avrupa'daki aşırı sıcakların iklim krizini 'acımasız bir şekilde hatırlattığını' söyledi",
+    "summary": "Simon Stiell, İngiltere ve Fransa'nın art arda sıcaklık rekorları kırmasıyla fosil yakıtların yakılmasının yoğun sıcak hava dalgalarına yol açtığını söyledi. BM İklim Şefi, Fransa ve İngiltere'nin art...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Macar milletvekilleri, Orbán'ın aldığı kararı bozarak ICC üyeliğini sürdürmek için oy kullandı",
+    "summary": "Péter Magyar, seçim zaferinden bu yana, mahkemeden çekilmeyi yürürlüğe girmeden önce geri alma sözü verdi Macaristan'daki milletvekilleri, Viktor Orbán'ın önceki hükümetinin aldığı kararı tersine çevi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/27/hungary-mps-vote-remain-member-icc-overturn-decision-viktor-orban-peter-magyar"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD, barış müzakerelerinin ortasında “meşru savunma amacıyla” İran hedeflerine saldırıyor",
+    "summary": "Üst düzey bir Trump yönetimi yetkilisi, bu olayın ateşkesi tehlikeye atmadığını garanti ediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-26/estados-unidos-ataca-objetivos-iranies-en-legitima-defensa-en-plenas-negociaciones-de-paz.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Tony Blair, somut politikalar önermeden liderlik savaşı açtığı için İşçi Partisi'ne saldırıyor",
+    "summary": "Eski başbakan, Starmer Hükümetine ve onun yerine geçecek adaylara saldırıyor ve bir “radikal merkez” talep ediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-27/tony-blair-arremete-contra-el-partido-laborista-por-abrir-una-guerra-de-liderazgo-sin-proponer-politicas-concretas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "ABD, anlaşmaya varma görüşmelerinin ortasında İran'ın güneyine saldırdı",
+    "summary": "Devrim Muhafızları, hava sahasına giren bir ABD insansız hava aracını düşürdüğünü iddia ediyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/26/6a152bc621efa0ff7b8b4584.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail, Hamas'ın silahlı kanadının yeni başkanını öldürdü ve 7-O'nun sorumlularına ulaşacağına söz verdi",
+    "summary": "İki haftadan kısa bir süre önce İsrail hava saldırısında ölen selefinin yerine geçen Muhammed Odeh'in ölümünü doğruladı&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/27/6a16bb5ee4d4d874278b4579.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'lu özel öğretmen, çocuğa sürekli tacizde bulunduğu gerekçesiyle 4,5 yıl hapis cezasına çarptırıldı",
+    "summary": "Hüküm giymiş bir sübyancı, iki yıldan fazla bir süre önce Hong Kong'da özel öğretmen olarak çalışırken yedi yaşındaki bir çocuğa karşı müstehcen eylemlerde bulunduğu için 4,5 yıl hapis cezasına çarptı...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355069/hong-kong-private-tutor-jailed-4-1/2-years-over-repeatedly-molesting-boy?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Cıva 33,7 dereceye yükselirken Hong Kong Cuma günü kavurucu bir havaya hazırlanıyor",
+    "summary": "Bu hikaye okuyucularımıza kamu hizmeti olarak ücretsiz olarak sunulmuştur. Lütfen abone olarak SCMP gazeteciliğini desteklemeyi düşünün.\nHong Kong, Çarşamba günü cıvanın 33,7 santigrat dereceye (92,7 ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355060/hong-kong-braces-friday-scorcher-mercury-climbs-337-degrees?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong Adalet Bakanı, savcıya yönelik iddiaların sızma ihtimalinden korkuyor",
+    "summary": "Hong Kong'un adalet bakanı, yeni savcılık müdürüne yönelik çevrimiçi suçlamaların kendi departmanından gelen bilgilere dayanmış olabileceği yönündeki endişelerini dile getirerek, personeli iddiaların ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3355046/hong-kong-justice-secretary-fears-possible-leak-allegations-against-prosecutor?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Hükümet 2026 mali yılı için ekstra bütçe taslağını 3 Haziran'da sunacak",
+    "summary": "Toplam tutarı 3 trilyon Yen'in üzerinde olan ekstra bütçe taslağının, Orta Doğu'daki gerginlikler ışığında rezerv fonlarını artırması amaçlanıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/05/27/draft-budget-submit-date/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran, ABD ile savaşa dönme ihtimalinin 'düşük' olduğunu söyledi",
+    "summary": "Açıklama, İran'ın ABD'yi Nisan ayından bu yana yürürlükte olan ateşkesi ihlal etmekle suçlamasından bir gün sonra geldi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/27/world/iran-war-return-possibility/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -637,266 +898,5 @@
     "summary": "Askerler güneydeki Nabatie şehrinin boşaltılmasını talep ediyor, Hizbullah'a karşı 100 bombalama yapılmasını talep ediyor ve kara operasyonlarının işgal altındaki bölgenin ötesine genişletilmesini tal...",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-05-26/israel-lanza-100-bombardeos-sobre-libano-tras-anunciar-la-vispera-una-escalada-contra-hezbola.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "ABD İstihbarat Direktörü Tulsi Gabbard istifa etti",
-    "summary": "Hiçbir zaman Trump'ın güven çemberinde yer almayan eski kongre üyesi, eşinin sağlık sorunları nedeniyle istifa ettiğini ancak ayrılacağına dair defalarca spekülasyon yapıldığını açıklıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-22/dimite-tulsi-gabbard-la-directora-de-inteligencia-de-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, İran'la varılan barış anlaşması kapsamında Körfez ülkeleri, Pakistan, Türkiye ve Mısır'ın İsrail'le ilişkilerini normalleştirmesini talep etti",
-    "summary": "ABD başkanı, \"benzeri görülmemiş bir küresel koalisyon\" sözü vererek \"tüm ülkelerin İbrahim Anlaşmalarını derhal imzalamasını\" talep etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/25/6a145a26e4d4d800558b4594.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump'ın doğum günü nedeniyle Topuria ile Gaethje arasındaki UFC mücadelesi için Beyaz Saray'a stadyum inşa ediyorlar",
-    "summary": "14 Haziran'daki büyük geceye ev sahipliği yapacak mekan yaklaşık 5.000 seyirci kapasitesine sahip olacak. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/26/6a15d151fdddff1c128b4575.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran, Hürmüz'deki egemenliğini yineliyor ve ABD ile mücadelede kırmızı çizgilerini çiziyor",
-    "summary": "Tahran, müzakerelerin ilerleyişini, bloke edilen İran varlıklarının serbest bırakılması gibi belirli garantilere bağlıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/25/6a144304e85ecedc708b459b.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yetkililer, İran'ın Aylardır Süren İnternet Kesintisini Kaldırmaya Başladığını Söyledi",
-    "summary": "Çevrimiçi trafiği izleyen kuruluşlar, Salı günü İranlıların hükümet tarafından uygulanan kapatmanın ardından küresel internete yeniden bağlanmasıyla faaliyetlerde artış olduğunu doğruladı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump'ın İran Teklifi Yarı Tamamlanmış Gazze Anlaşmasının Yankılarını Taşıyor",
-    "summary": "Başkan Trump'ın İran'la savaşı sona erdirme önerisi, en tartışmalı konuların ele alınmasını geciktirecektir; bu taktik, Gazze'de karışık sonuçlar doğurmuştur.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/trump-middle-east-peace-deals.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "ABD İran Barış Anlaşması İçin Baskı Yaparken İsrail Lübnan'daki Saldırılarını Artırdı",
-    "summary": "İran destekli militan grup Hizbullah da İsrail birliklerine roket ve insansız hava aracı saldırılarına devam ediyor; zira bu artışlar diplomatik çabaları zorlaştırma tehlikesi yaratıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas İsrail'den 200'den Fazla Rehin Aldı. İşte Bildiklerimiz.",
-    "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
-    "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
-    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Türkiye: CHP lideri Özel'in görevden alınmasının ardından: Muhalefetin kalesi İzmir'de yeni protestolar",
-    "summary": "Türk muhalefetinin kalesi İzmir'de binlerce kişi CHP lideri Özel'in görevden alınmasını protesto ediyor. Halefi Kılıçdaroğlu'nu bir an önce parti kongresini toplamaya çağırıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/tuerkei-nach-absetzung-von-chp-chef-oezel-neue-proteste-in-oppositionshochburg-izmir-li.3489458"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Letonya'daki okullar: Rakibin diline yer yok",
-    "summary": "Letonya, nüfusun üçte birinin ana dili olan Rusça'nın eğitimini yasaklıyor. Riga'daki bir okul iki kimliği nasıl bir araya getirmeye çalışıyor?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/lettland-schulen-unterricht-russisch-regierung-lettisch-fremdsprache-li.3482890"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da savaş: İsrail, Lübnan'a yönelik saldırıları artırmak istiyor",
-    "summary": "ABD ve İran anlaşma müzakereleri yaparken İsrail Başbakanı Hizbullah mevzilerine yönelik saldırı duyurusunda bulunuyor. Aklında bir sonraki seçimler de var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-hisbollah-iran-krieg-li.3489149"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Saldırganlık savaşı: AB Rus temsilcisini çağırdı",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/angriffskrieg-eu-beruft-russischen-vertreter-ein-li.3489408"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Berlin'deki görüşmelerde Ukraynalı baş müzakereci",
-    "summary": "Rüstem Umjerow, Günter Sautter ile görüştü +++ Berlin, Rusya büyükelçisini atadı +++ Yeni kararname: Putin'in ordusuna katılan herkesin borçları affedilecek +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukrainischer-chefunterhaendler-fuer-gespraeche-in-berlin-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Moskova'nın müttefiki: Macron, Lukaşenko'yu Avrupa'ya yaklaşmaya teşvik ediyor",
-    "summary": "Belarus hükümdarı tamamen Trump'ın ABD'sine güveniyor. Şimdi Fransa Cumhurbaşkanı Macron, Ukrayna'nın talebi üzerine Lukashenko ile temas kurmaya çalışıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/ukraine-warum-macron-lukaschenko-zur-annaeherung-an-europa-ermutigt-200867474.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ukrayna Savaşı: Moskova neden Kiev'e saldırı tehdidinde bulunuyor?",
-    "summary": "Rusya, Kiev'e \"sistemli saldırı\" yapacağını duyurdu ve yabancılara şehri terk etmeleri çağrısında bulundu. Önceki saldırıların sınırlı etkisinden dolayı hayal kırıklığı var mı?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-moskau-droht-mit-systemischen-schlaegen-gegen-kiew-200867646.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Venezuelalı mahkumlar, iddia edilen istismarı vurgulamak için hapishanenin çatısını işgal etti ve şilteleri ateşe verdi",
-    "summary": "Barinas hapishanesindeki mahkumlar, hapishane personelinin ateş açıp bazı yaralıları bırakmasını barışçıl bir şekilde protesto ettiklerini iddia ediyorlar. Venezüella'nın batı Barinas hapishanesindeki...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Savaş suçları müfettişi ve AFP, yolsuzluk komisyonundan Ben Roberts-Smith sızıntısını soruşturmasını istedi",
-    "summary": "Hükümetin özel soruşturmacısı Senato'ya, gazetecilerin eski SAS görevlisinin tutuklanması hakkında önceden bilgi sahibi olmasına şaşırdığını tahmin ettiğini söyledi Son dakika haber e-postamızı, ücret...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/may/26/war-crimes-investigator-and-afp-ask-corruption-commission-to-probe-ben-roberts-smith-leak"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "AB başkanı, ülkelerin Kiev tehditleri nedeniyle Rus büyükelçilerini çağırmasıyla Moskova'nın Avrupa'yı 'istikrarsızlaştırmak' istediği konusunda uyardı - Avrupa canlı",
-    "summary": "Ursula von der Leyen, Rusya'nın elçilerinin Ukrayna başkentini terk etmeleri yönündeki talepleri üzerine diplomatların çağrılması üzerine insansız hava aracı saldırıları sırasında Litvanya'yı ziyaret ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Pirus zaferinden daha kötü",
-    "summary": "Yalnızca İran'a yönelik belirsiz ve riskli büyük ölçekli bir askeri işgal, Trump'ın bir an için itibarını kurtarmasına izin verebilir, ancak daha sonra ekonomiyi, ardından seçimi ve son olarak belki d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-24/peor-que-una-victoria-pirrica.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump, Xi ve Putin: Emperyalist üçlü yönetimin istikrarı",
-    "summary": "Çin'in ABD ve Rusya ile yaptığı zirveler bir anlayış dinamiği gösteriyor. Bu, jeoekonomik riskler gibi bazı riskleri azaltır ancak kurallara ve insan haklarına dayalı düzene yönelik tehlikeyi artırır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-24/trump-xi-y-putin-la-estabilizacion-del-triunvirato-imperialista.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran, ABD'yi askeri hedeflere saldırarak ateşkesi ihlal etmekle suçluyor ve karşılık vermekle tehdit ediyor",
-    "summary": "İran'ın dini lideri Mücteba Hamaney, Basra Körfezi'nin artık Washington için bir \"kalkan\" olmayacağını doğruluyor ve ülkesinin başında olduğu yeni bir bölgesel düzen çiziyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-26/iran-acusa-a-ee-uu-de-violar-la-tregua-por-atacar-objetivos-militares-y-amenaza-con-responder.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump tazminat fonu konusundaki anlaşmazlıklar ICE bütçe tasarısındaki oylamayı erteledi",
-    "summary": "Cumhuriyetçi senatörler bu perşembe günü Başsavcı Todd Blanche ile tartışmalı proje ve projeden yararlanacakların kim olacağı konusunda bir araya geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-05-22/los-desacuerdos-por-el-fondo-de-compensacion-de-trump-posponen-la-votacion-de-la-ley-de-presupuesto-para-el-ice.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Rusya'dan gelen elektronik savaş saldırısı nedeniyle GPS ve internet erişimi olmadan İngiltere Savunma Bakanı'nın seyahat ettiği uçak",
-    "summary": "İngiliz Hükümeti, eylemi \"pervasız\" olarak tanımlıyor ve bu uçağın böyle bir eyleme ikinci kez maruz kalması oluyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/26/6a1589f5e4d4d87e658b45ae.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Almanya zaten mümkün olduğunu düşündüğü bir savaş için sığınaklarını kurtarıyor: \"Ukrayna bizim gibi davransaydı artık var olmazdı\"",
-    "summary": "Yer altı barınaklarının yeniden uyarlanmasını içeren bir sivil koruma planını etkinleştirin. Rahatsız edici bir soru yeniden açıldı: Read'e kimler erişebilecek?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/23/6a0f03f6e4d4d88a288b45af.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, düzenleyici baskılar kapsamında araç çağırma izin sınırını 10.000 olarak belirledi",
-    "summary": "Hong Kong yetkilileri, araç çağırma hizmet izinleri için 10.000 araçlık bir üst sınır belirledi; bu, belirli bir süre boyunca özel araba sahibi olan başvuru sahiplerine muhtemelen öncelik verilmesiyle...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3354927/hong-kong-set-ride-hailing-permit-quota-10000-under-regulatory-push?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "57 yıllık Hong Kong okulu, 20 yıl içindeki üçüncü kapatma tehdidinin ardından birleşecek",
-    "summary": "Kayıtların azalması nedeniyle yirmi yıl içinde üçüncü kapanma tehlikesiyle karşı karşıya olan Hong Kong'daki bir ilkokul, Salı günü yaptığı açıklamada, Eylül ayındaki yeni akademik yıldan itibaren kom...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/education/article/3354919/57-year-old-hong-kong-school-merge-after-3rd-closure-threat-two-decades?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Eski Japonya ticaret evi başkanı, nafta tedarikindeki sıkıntı konusunda uyardı",
-    "summary": "Eski Marubeni başkanı, Japonya'nın haziran sonu gibi erken bir tarihte nafta türevi kimyasal ürün kıtlığıyla karşı karşıya kalacağını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/05/26/companies/former-marubeni-head-naphtha/"
   }
 ]
