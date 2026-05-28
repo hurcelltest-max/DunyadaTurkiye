@@ -1,5 +1,131 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "88 Gün Sansürlenen Haber, TV ve Sohbetin Ardından İranlılar Tekrar İnternete Dönüyor",
+    "summary": "Hükümet, internetin neredeyse tamamen kapanmasının ardından insanların dünyayla bağlantı kurmasına izin veriyor. Ancak herkesin erişimi yok ve erişimi olanlar bunun ne kadar süreceğini merak ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD, İsrail'i eleştiren bir BM hukuk uzmanına yeniden yaptırım uyguladı.",
+    "summary": "Sadece birkaç gün önce bir ABD mahkemesi, Hazine Bakanlığı'na, İsrail hakkındaki çalışmaları antisemitizm suçlamalarına yol açan Francesca Albanese'ye yönelik cezaların ertelenmesine karar vermişti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/the-us-re-sanctioned-a-un-legal-expert-critical-of-israel"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD ve İran, Hürmüz Boğazı'nın yeniden açılmasına yönelik düzenlemeye doğru ilerliyor",
+    "summary": "Başkan Trump, nükleer ve diğer konuları müzakere ederken ateşkesi uzatacak yeni ortaya çıkan bir anlaşmayı henüz imzalamadı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrail Beyrut'u Vurdu, Lübnan'daki Saldırısını Genişletiyor",
+    "summary": "Bu, İsrail'in haftalardır Lübnan başkentine düzenlediği ilk saldırıydı ve ABD ile İran'ın, İran'daki savaşı sona erdirecek bir barış anlaşması yapma çabalarını zorlaştırabilirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
+    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: İsrail, BM Genel Sekreteri Guterres ile temasını kesti",
+    "summary": "Skandalın nedeninin çatışmalarda cinsel şiddete ilişkin henüz yayınlanmamış bir rapor olduğu söyleniyor. İsrail BM Büyükelçisi Danon, Birleşmiş Milletler başkanını ülkesine karşı bir “kampanya” yürütm...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-israel-un-guterres-bericht-sexuelle-gewalt-konflikte-li.3487408"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Müzakerecilerin İran ateşkesinin uzatılması konusunda anlaştıkları bildiriliyor",
+    "summary": "Trump'ın hâlâ anlaşmayı onaylaması gerekiyor +++ Netanyahu Gazze Şeridi'ndeki askeri kontrolü genişletmeyi planlıyor +++ Hamaney: ABD ve İsrail “İran'a diz çöktürmek” istiyor +++ tüm gelişmeler canlı ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-unterhaendler-angeblich-einig-ueber-verlaengerung-der-iran-waffenruhe-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Trump'ın “Barış Konseyi” fonu görünüşe göre boş",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-fonds-von-trumps-friedensrat-ist-offenbar-leer-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "\"Altın Filo\": Kongre, Trump'ın yeni savaş gemilerini yavaşlattı",
+    "summary": "Trump tarihteki en güçlü savaş filosunu istiyor: hipersonik füzeler, raylı silahlar ve lazerlerle. Ancak milletvekilleri şüpheci.  Teknoloji Trump'ın vaat ettiklerini yerine getiriyor mu?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/neue-us-kriegsschiffe-kongress-bremst-trumps-goldene-flotte-aus-200875150.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "ABD, salgının ortasında Amerikalılar için Kenya'da Ebola karantina merkezi kuruyor",
+    "summary": "Bazı uzmanlar Beyaz Saray'ın yaklaşımını eleştiriyor ve Amerikalıların ABD'ye dönmelerine izin vermemenin tedavi çabalarına zarar verdiğini söylüyorTrump yönetimi, Ebola salgınından etkilenen Amerikal...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail, \"savaş bölgesi\" olarak gördüğü güney Lübnan'ın tamamının boşaltılmasını emrediyor",
+    "summary": "Yahudi Devleti'nin giderek artan askeri saldırıları ve zorla yerinden edilmeleri, neredeyse üç yıl süren çatışmaların ardından milyonlarca vatandaşın bitkin düşmesine neden oluyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-27/israel-ordena-el-desalojo-de-todo-el-sur-del-libano-que-considera-zona-de-combate.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail, BM genel sekreteriyle ilişkilerini askıya aldı",
+    "summary": "Örgüt, İsrail'i silahlı çatışmalarda cinsel şiddetle bağlantılı örgütün kara listesine dahil edecek.&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/28/6a1855a9e9cf4a06198b457b.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump Yönetimi savcılardan Venezuela Devlet Başkanı Delcy Rodríguez'e karşı işlem yapmamalarını istedi",
+    "summary": "Selefi Nicolás Maduro'nun yakalanmasının ardından hükümetin Venezuela'yı istikrara kavuşturma çabalarını engellememek için Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/28/6a18581fe4d4d8b94a8b45a5.html"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -772,131 +898,5 @@
     "summary": "İnternet ablukası, rejimin katı kanadı ile daha ılımlı gruplar arasında bir tartışma konusu haline geliyor. Okumak",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/05/27/6a172134fc6c833b198b45ca.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japon yetkililer savaşın ortasındaki iş ortamını görüşmek üzere Rusya'yı ziyaret etti",
-    "summary": "İki ülke arasındaki ekonomik işbirliği, Rusya'nın 2022'de Ukrayna'yı işgalinin başlamasından bu yana önemli ölçüde durdu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-officials-russia-visit/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya yağışlı sezon öncesinde yenilenen hava durumu uyarı sistemini kullanıma sunuyor",
-    "summary": "Geliştirilen sistem su baskını, şiddetli yağmur, toprak kayması ve fırtına dalgalanmalarına karşı beş uyarı seviyesine sahiptir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-revamped-weather-warning-system/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bayram yok, neşe yok: Gazzeliler karanlık bir bayram kutluyor",
-    "summary": "Birleşmiş Milletler'e göre, ABD'nin aracılık ettiği ateşkese rağmen, nüfusun çoğunluğunun temel ihtiyaçlar için yardıma muhtaç olduğu Gazze'de İsrail'in hava saldırıları hâlâ yaygın.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/world/gazans-dark-eid/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Yetkili, Trump'ın Hürmüz Boğazı konusunda anlaşmayı reddetmesinin ardından ABD'nin İran'ı yeniden vurduğunu söyledi",
-    "summary": "ABD'li bir yetkili, ordunun dört İran saldırı uçağını düşürdüğünü ve liman kenti Bandar Abbas'taki yer kontrol istasyonunu vurduğunu söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/world/politics/us-strikes-iran-military-hormuz/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Shiden Kai İkinci Dünya Savaşı savaşçısı 81 yıl sonra Kagoshima açıklarındaki okyanustan kurtarıldı",
-    "summary": "Savaşın ilerleyen aşamalarında AM6 Zero savaş uçağının son teknoloji ürünü halefi olarak geliştirilen Shiden Kai, yüksek savaş gücüne ve manevra kabiliyetine sahipti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-wwii-aircraft-recovery/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kıdemli Ukraynalı komutan savaşta yakın bir 'dönüm noktası' görüyor",
-    "summary": "Brik. Ukrayna'nın en saygın savaş kuvvetlerinden birine komuta eden Orgeneral Andriy Biletsky, Rusya ordusunun yorgun olduğuna ve büyük atılımlar yapma yeteneğinden yoksun olduğuna inandığını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/28/world/ukraine-commander-turning-point/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "ABD ve İran Anlaşma Yapsa Bile Lübnanlılar Uzun Savaşa Teslim Oldu",
-    "summary": "İsrail ile Hizbullah arasındaki çatışmalar güneyde yoğunlaşırken Lübnan'da çok az kişi, daha geniş bir savaşı sona erdirmeye yönelik diplomatik çabaların ülkelerine barış getireceğine inanıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran, Trump'la Anlaşma Yapabilmek İçin Milyarlarca Parasının Dondurulmamasını İstiyor",
-    "summary": "İran'ın, fonlar serbest bırakılmadan anlamlı müzakerelerin başlayamayacağı konusunda ısrar etmesiyle, para müzakerelerde bir anlaşmazlık noktası haline geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/iran-frozen-funds-trump-deal.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Devlet Medyasının Söyledikleri ABD ile Yapılan 'Resmi Olmayan' Anlaşmanın Taslağını Gösteriyor",
-    "summary": "Beyaz Saray, Hürmüz Boğazı'nın yeniden açılmasına ilişkin koşulların ayrıntılarını içeren raporu \"tamamen uydurma\" olarak nitelendirerek derhal reddetti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/iran-unofficial-deal-strait.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İsrail Lübnan'da Tahliye Talimatı Vererek Gerginliğini Sürdürüyor",
-    "summary": "İsrail ordusu, güneydeki iki şehir için geniş çaplı tahliye emri çıkararak, daha fazla hava saldırısının yakın olduğunu gösterdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas İsrail'den 200'den Fazla Rehin Aldı. İşte Bildiklerimiz.",
-    "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
-    "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
-    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da Savaş: Hamas, Gazze'deki yeni liderinin öldüğünü doğruladı",
-    "summary": "Hamas, genelkurmay başkanının öldüğünü doğruladı. Kendi açıklamalarına göre İsrail daha önce selefini de öldürmüştü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-israel-hamas-gaza-mohammed-odeh-getoetet-li.3487408"
   }
 ]
