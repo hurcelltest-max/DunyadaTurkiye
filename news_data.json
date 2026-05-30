@@ -2,6 +2,159 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Ortadoğu'da Müslümanlar Savaş ve Krizin Ortasında Kurban Bayramını Kutluyor",
+    "summary": "İran'dan Gazze'ye kadar, savaşın uzaması ve bölgede gıda ve yakıt kıtlığının yaşanması nedeniyle Kurban Bayramı kutlamaları sessiz kaldı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump İran Anlaşması Konusunda Karar Verirken Orta Doğu Sınırda",
+    "summary": "Başkan, İran'la savaşı sona erdirecek bir anlaşmaya varılıp varılmayacağı konusunda kararsız kaldı. Cuma günü, yakında \"nihai bir karar\" vereceğine söz verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Bir Ebola Koğuşunda Gördüklerim",
+    "summary": "Afrika baş muhabirimiz Declan Walsh, hem yetişkinlerin hem de çocukların tedavi edildiği ve yakın zamanda bölgede giderek artan bir salgının ortasında birisinin hastalıktan öldüğü bir Ebola koğuşuna g...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/video/world/africa/100000010929380/what-i-saw-inside-an-ebola-ward.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Kanada Otomobili Trump'ın Tarifelerine Cevap mı? Bricklin Riskleri Gösteriyor.",
+    "summary": "New Brunswick'te üretilen ve çoğunlukla eyalet tarafından finanse edilen bir spor arabanın ömrü yalnızca 18 ay kadardı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/30/world/canada/carney-auto-tariffs-bricklin-car.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas İsrail'den 200'den Fazla Rehin Aldı. İşte Bildiklerimiz.",
+    "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
+    "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
+    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Donald Trump yönetimindeki ABD: Bay T ve ABD paradoksu",
+    "summary": "250. yıl dönümü için ABD yorumlarında bir eksiklik yok. Klaus Brink Bäumer faşizmin sopasını sallıyor, Philipp Gassert “iki kutuplu” ulusu koltuğa oturtuyor. Ancak Trump olgusunun temeline yalnızca te...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-krise-trump-demokratie-widersprueche-klaus-brinkbaeumer-philipp-gassert-li.3487745"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kanla Bağlı: Yeni film Jamaika'nın yasa dışı Obeah inanç sistemini vurguluyor",
+    "summary": "Stew Peas, 1700'lerde sömürgeciler tarafından Jamaika'da yasaklanan kalıcı bir Afrika büyü uygulaması olan obeah'a odaklanıyor. Ödüllü Jamaikalı film yapımcısı Sosiessia Nixon'un yeni filmi, Jamaika'n...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Antropik'in yapay zekaya zarar verme konusunda Papa ile ittifakı: hepsi iyi niyetle mi yoksa 'Vatikan'ı mı yıkıyor?'",
+    "summary": "Uzmanlar, yapay zeka firmasının Vatikan'la olan ilişkisinin, eleştirel incelemeden yoksun \"iyi hissetme\" söylemi yaratma riskini taşıdığını söylüyor Anthropic'in kurucusu, yapay zeka hakkındaki uyarı ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Neden Balkanlar'daki 1 milyar dolarlık enerji sözleşmeleri Donald Trump'la bağlantılı bilinmeyen bir şirkete gidiyor?",
+    "summary": "Guardian'ın araştırması, ABD başkanlığının politika ile Amerikan yönetici ailesinin ve etrafındakilerin zenginleştirilmesi arasındaki çizgiyi nasıl bulanıklaştırdığını gösteriyor Saraybosna'nın grafit...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ruslarla tanışın",
+    "summary": "Avrupa Birliği, Putin'in saldırısına sakin bir şekilde devam ederken, Ukrayna'daki savaşı sona erdirmek için Moskova ile Kiev arasında arabuluculuk yapılmasını reddediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-05-29/conocer-a-los-rusos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD, ateşkesin uzatılması konusunda İran'la anlaştığını söylüyor ancak Tahran bunu reddediyor",
+    "summary": "Beyaz Saray kaynakları, halen Trump'ın onayını bekleyen taslak mutabakatın ateşkesi 60 gün uzatacağını ve Hürmüz'ün yeniden açılması anlamına geleceğini garanti ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-28/estados-unidos-afirma-que-ha-acordado-con-iran-una-prorroga-del-alto-el-fuego-pero-teheran-lo-niega.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD, Brezilya'daki iki suç çetesini terör örgütü olarak tanımladı",
+    "summary": "Kızıl Komuta ve PCC'ye yönelik tedbir, aday Flavio Bolsonaro'nun Beyaz Saray'da Trump'tan bunu istemesinden iki gün sonra ve Lula Hükümetinin buna karşı çıkmasına rağmen açıklandı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-29/estados-unidos-designa-a-dos-bandas-criminales-de-brasil-como-organizaciones-terroristas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Avrupa Parlamentosu eski üyesi Leopoldo López Gil: “Venezuela seçimlere gitmeye hazır değil”",
+    "summary": "Venezuelalı muhalefet liderinin babası olan işadamı ve siyasetçi, son kitabıyla ilgili verdiği röportajda Trump'ın demokratik geçişe destek vermemesini ve ülkesini ABD'nin 51. Eyaleti'ne dönüştürme ön...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-29/leopoldo-lopez-gil-exdiputado-del-parlamento-europeo-venezuela-no-esta-lista-para-ir-a-elecciones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Hizbullah ve İsrail, Trump'ı beklerken Lübnan'daki saldırılarını yoğunlaştırıyor",
+    "summary": "ABD ile İran arasındaki anlaşma Sedirler Ülkesini de kapsayacak. İsrail askerleri Litani Nehri'ni geçerken İsrailli ve Lübnanlı yetkililer Washington'da buluştu Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/30/6a1ab4d1e9cf4ae10c8b4584.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong hayır kurumu, biriken iş yükünü hafifletmek için farklı geçmişlere sahip koruyucu bakıcılara çağrıda bulunuyor",
+    "summary": "Yerel bir yardım kuruluşu, Hong Kong'da yüzlerce korunmasız çocuğun geçici yuva beklediğini belirterek, koruyucu aile yerleştirmelerine yönelik talebin arzı aşmaya devam etmesi nedeniyle farklı kökend...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3355422/hong-kong-charity-calls-foster-carers-diverse-backgrounds-ease-backlog?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
     "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
@@ -745,158 +898,5 @@
     "summary": "Bugünkü haber bülteninde: Virüs sınırlar ötesine yayıldıkça sağlık çalışanları, zayıflayan küresel desteğin uzun süreli bir kriz olasılığını artırdığı konusunda uyarıyor. Ebola, Doğu Afrika'nın bazı b...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Abbott, Liberallerin 'yeni yönetim altında' olduğunu söylüyor ve Taylor'un İşçi Partisi'ne karşı 'halk isyanına' liderlik etmesine yardım etme sözü veriyor",
-    "summary": "Eski başbakan, hiçbir muhalefetle karşılaşmadan adaylığını koyduktan sonra Cuma günü Liberal parti başkanı seçildi En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika habe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/may/29/tony-abbott-liberal-party-president-peoples-revolt-against-labor"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Ukrayna savaşının başlamasından bu yana Romanya'da Rus insansız hava aracı saldırısı 'en ciddi güvenlik olayı' - Avrupa canlı",
-    "summary": "Romanya cumhurbaşkanı, insansız hava aracının Ukrayna sınırı yakınındaki bir apartman bloğunu vurmasının ardından öfkeye yol açtı Olay, Çek Cumhuriyeti Devlet Başkanı Petr Pavel'in, Rusya'nın ittifakı...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Romanya'da bir Rus insansız hava aracının bir konut binasına çarpması sonucu iki kişi yaralandı",
-    "summary": "Bu, savaşın başlangıcından bu yana Romanya topraklarında yaşanan en ciddi olay. NATO, Ukrayna sınırında durmamakla suçladığı Rusya'nın “pervasızlığını” kınıyor. AB, Moskova'nın hava sahasını \"ceza gör...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-29/dos-heridos-al-impactar-un-dron-ruso-contra-un-edificio-en-rumania.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Lübnan, herkesin kaçırdığı fırsat",
-    "summary": "Esadların Suriye'den sürülmesinin ve İran ile Hizbullah'ın askeri açıdan zayıflamasının ardından İsrail, bölgesel genişleme savaşına öncelik vererek komşusuyla barış için eşsiz bir fırsatı kaçırıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-28/libano-la-oportunidad-que-todos-dejan-pasar.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Fransa Savcılığı, İsrail'in Gazze filosu katılımcılarına yönelik muamelesini soruşturacak",
-    "summary": "Dışişleri Bakanı, \"Fransız vatandaşlarının maruz kaldığı cinsel şiddet, dayak ve aşağılama eylemleri\" konusunda kendisine bilgi verildiğini garanti ediyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-29/la-fiscalia-de-francia-investigara-el-trato-de-israel-a-los-participantes-en-la-flotilla-de-gaza.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İsrail, Lübnan ve Gazze'deki ateşkeslerin içeriğini daha da boşaltıyor",
-    "summary": "Netanyahu, ABD ile İran arasında olası bir anlaşma karşısında bombalamaları, zorla nüfus hareketlerini ve Hizbullah ve Hamas liderlerine yönelik suikastları artırdı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-28/israel-vacia-aun-mas-de-contenido-las-treguas-en-libano-y-gaza.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump önseçimlerde Senato'da Cumhuriyetçilerle çatışmayı alevlendiriyor ve partisinin Kasım ayındaki çoğunluğunu tehlikeye atıyor",
-    "summary": "John Cornyn (Texas), seçimlerde kendisine zarar verme riski olsa bile halkı üzerinde kontrol sahibi olduğunu göstermeye kararlı olan ABD başkanının son kurbanıdır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-28/trump-atiza-su-enfrentamiento-con-los-republicanos-en-el-senado-y-pone-en-peligro-la-mayoria-de-su-partido-en-noviembre.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "7-O'nun sorumlularını bulup öldürmekle görevli özel grup şu şekilde çalışıyor: \"İsrail er ya da geç herkesi yakalayacak\"",
-    "summary": "Gazze'deki 16 üst düzey Hamas komutanından İmad Aquel, 2023'teki terör saldırısını gerçekleştiren örgütün üyeleri arasında hayatta kalan tek kişi.&nbsp;Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/28/6a173c0be85ece461e8b4596.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD Sağlık Bakanı Robert F. Kennedy Jr. viral bir videoda yılanlarla ilgilenerek tartışmalara yol açtı",
-    "summary": "Kennedy, halk sağlığı konusundaki tutumlarının yarattığı tartışmalar nedeniyle Donald Trump'ın kabinesinde öne çıktı. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/27/6a17341221efa0e1198b45c9.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong polisi, Citybus'un çift katlı uçağında bulunan bıçağın ardından 14 yaşındaki çocuğu tutukladı",
-    "summary": "Hong Kong polisi, Citybus çift katlı otobüsünde iki koltuğun arasına sıkıştırılmış bir jilet bulunmasının ardından 14 yaşındaki bir çocuğu tutukladı; polis, şüphelinin otobüsteki bir tartışma sırasınd...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355271/hong-kong-police-arrest-boy-14-after-blade-found-citybus-double-decker?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Hükümet belgesine göre çok az Japon firması ekonomik güvenliğe yönelik adım atıyor",
-    "summary": "Japon şirketlerinin yalnızca %30'u ekonomik güvenliği sağlamak için satın alma kaynaklarının çeşitlendirilmesi ve siber güvenliğin güçlendirilmesi gibi önemli önlemler aldı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/05/29/companies/firms-economic-security-paper/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD ve İran çerçeve anlaşmasına yaklaşırken Trump'ın manevra alanı daralıyor",
-    "summary": "İkilem, mevcut ateşkesi uzatacak ve Hürmüz Boğazı'nı yeniden açacak bir çerçeve anlaşmasının ortaya çıktığı haberlerinin damgasını vurduğu yoğun diplomasi haftasında netleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/29/world/politics/trump-iran-deal-room-narrow/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya milli voleybolcu esrar bulundurduğu şüphesiyle tutuklandı",
-    "summary": "Polis, 26 yaşındaki Shunichiro Sato'nun çarşamba öğleden sonra Tokyo'nun Itabashi Bölgesi'ndeki bir pachinko tilt salonunda kurutulmuş esrar bulundurduğunu iddia ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/29/japan/crime-legal/volleyball-player-cannabis-arrest/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Bolsonaroların Yeni Baskısının Ardından ABD, Brezilyalı Çeteleri Terörist Gruplar Olarak Etiketledi",
-    "summary": "Tehditlerin ardından Trump yönetimi, Brezilya'nın en büyük iki uyuşturucu çetesini terörist gruplar olarak belirledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "ABD-İran Planı Taslağının Masada Olduğu Söyleniyor. İşte Bilmeniz Gerekenler.",
-    "summary": "ABD'li ve İranlı yetkililer ön anlaşmanın şartlarına yaklaştıklarını söylüyor. Ancak özellikle Hürmüz Boğazı konusunda sorunlu noktalar varlığını sürdürüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İsrail, Cinsel Şiddet Kara Listesine Alınması Nedeniyle BM Şefiyle İlişkilerini Kesecek",
-    "summary": "İsrail'in BM büyükelçisi tarafından paylaşılan bir mektuba göre, Birleşmiş Milletler genel sekreteri António Guterres, İsrail'e Filistinli tutuklulara yönelik \"artan sayıda cinsel şiddet vakası\" olduğ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "ABD ve İran Hürmüz Boğazı'nda Ekonomik Savaş Başlatıyor",
-    "summary": "Amerika'nın ablukası ve İran'ın Hürmüz Boğazı'nı kontrolü, her iki tarafın da su üzerinde ekonomik boğulma girişiminde bulunduğu, ne barış ne de şiddetli çatışma olan bir çıkmaz yarattı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html"
   }
 ]
