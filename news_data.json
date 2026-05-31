@@ -3,6 +3,69 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İsrail, Uzun Süreli Lübnan İşgalini Simgeleyen Haçlı Kalesini Ele Geçirdi",
+    "summary": "Güney Lübnan'daki Beaufort'un ele geçirilmesi, İsrail'in Hizbullah'la giderek büyüyen ve henüz bitmemiş gibi görünen çatışmasının ortasında her iki ülkede de acı anıları hatırlattı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Zaman Çizelgesi: Trump, ABD Ordusunu Uluslararası Çatışmalara Nerede ve Ne Zaman Dahil Etti?",
+    "summary": "ABD, Başkan Trump göreve döndüğünden beri dünya çapında birçok askeri operasyona katıldı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "İran'la anlaşma: Trump daha fazla talepte bulunuyor",
+    "summary": "Amerika ve İran anlaşma için mücadele etmeye devam ediyor. Şimdi ABD Başkanı anlaşma için ek koşulları sıralıyor. Bu Tahran'da pek hoş karşılanmıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/iran-und-die-usa-ringen-weiter-um-eine-einigung-200884211.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Beaufort Kalesi Ele Geçirildi: Güney Lübnan'da İsrail İçin Stratejik Bir Başarı",
+    "summary": "İsrail ordusu güney Lübnan'da önemli bir dağ sırtını ele geçirirken, Hizbullah da saldırılarını artırıyor. Trump'ın ateşkesi kağıt israfından başka bir şey değil.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/israel-erobert-wichtige-kreuzfahrerburg-in-libanon-accg-200884104.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya'da Yad Vaşem: Netanyahu anma kültürünü etkilemeyecek",
+    "summary": "Yad Vashem Holokost Anıtı Almanya'da iki şube açmak istiyor. İsrail hükümetinin bunları istismar edebileceği korkusu abartılıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/yad-vashem-in-deutschland-netanjahu-wird-die-gedenkkultur-nicht-beeinflussen-200880543.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail, Lübnan'daki askeri kontrolünü genişletiyor ve tarihi Beaufort Kalesi'ni işgal ediyor",
+    "summary": "İsrail birlikleri Nabatie şehrine yaklaşıyor ve sivillerin ayrılmasını zorunlu kıldıkları “güvenlik bölgesini” genişletiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-31/israel-se-hace-con-el-historico-castillo-de-beaufort-en-su-avance-sobre-la-ocupacion-del-sur-de-libano.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran'ın avantajını teyit eden ateşkes",
+    "summary": "ABD tartışılmaz askeri üstünlüğünü korusa da müzakereler Tahran'ın Hürmüz'ü savaşın siyasi bedelinin bir parçası haline getirdiğini gösteriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-05-27/la-tregua-que-confirma-la-ventaja-de-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Hindistan Hindu Sağının Yeni Bir Kahramanı Var: 17. Yüzyılın Savaşçı Kralı",
     "summary": "Shivaji'nin heykelleri her yerde yükseliyor. Babür hanedanına karşı savaşan Maratha imparatorluğunun kurucusu, artık ülkeyi yeniden inşa eden milliyetçilerin sembolü.",
     "timeAgo": "En Guncel (API)",
@@ -835,68 +898,5 @@
     "summary": "Ukrayna'daki savaş devam ederken Rusya'nın NATO'nun doğu kanadına yönelik, Avrupalı ​​hükümetleri ve istihbarat servislerini endişelendiren gizli baskı kampanyasını yoğunlaştırdığı belirtiliyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-05-30/el-frente-invisible-de-putin-drones-sabotajes-y-la-guerra-hibrida-ponen-a-prueba-a-europa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Hürmüz'ün üç aydır kapatılması: Yüzlerce gemi, gövdeleri yumuşakçalarla dolarken Basra Körfezi'nde mahsur kaldı",
-    "summary": "Amerika Birleşik Devletleri ve İsrail tarafından başlatılan savaş, gemilerini serbest bırakmak isteyen denizcilik şirketlerini İran'la müzakere etmeye zorluyor, ancak sektörde geçişin bir an önce yeni...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-05-30/tres-meses-de-cierre-de-ormuz-cientos-de-buques-varados-en-el-golfo-persico-mientras-sus-cascos-se-llenan-de-moluscos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Türkiye megapolünün cehennem trafiği",
-    "summary": "Araç sayısının üç katına çıkması ve altyapısının benzersiz bir coğrafya tarafından kısıtlanması nedeniyle İstanbul, üst üste ikinci kez dünyanın en kalabalık şehirleri sıralamasında birinci sırada yer...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-05-30/el-trafico-infernal-de-la-megalopolis-turca.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump Yönetimi savcılardan Venezuela Devlet Başkanı Delcy Rodríguez'e karşı işlem yapmamalarını istedi",
-    "summary": "Selefi Nicolás Maduro'nun yakalanmasının ardından hükümetin Venezuela'yı istikrara kavuşturma çabalarını engellememek için Read",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/28/6a18581fe4d4d8b94a8b45a5.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Sürücüler araç çağırmaya hazırlanırken taksi ticareti %10'unun taksi kaybedebileceğinden korkuyor",
-    "summary": "Hong Kong'un taksi ticareti, şehirdeki taksi sahiplerinin yüzde 10'unun, lisans değerlerinin düşmesi nedeniyle yakında araç ipoteklerini ödeyemeyeceği ve birçok sürücünün 10.000 izin verileceği yeni a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355375/taxi-trade-fears-10-could-lose-cabs-drivers-gear-ride-hailing?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İran'ın nükleer görüşmelerdeki en güçlü kartı: Yüksek derecede zenginleştirilmiş uranyum",
-    "summary": "İran ve ABD, Tahran'ın nükleer programı da dahil olmak üzere konularda müzakerelere başlamak üzere ateşkesin uzatılması konusunda görüşüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/30/world/iran-uranium-nuclear-talks/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Hegseth, Japonya'nın savunma harcamalarını daha da artırması gerektiğini ima etti",
-    "summary": "ABD Savunma Bakanı Pete Hegseth, Tokyo'ya üstü kapalı bir uyarıda bulunarak, Japon savunma harcamalarının \"doğru yönde ilerlediğini\" ancak daha fazlasının yapılması gerektiğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/30/japan/us-defense-spending-hegseth-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İran anlaşmasının anlaşılması zor olduğu için Trump kırmızı çizgilerinde ısrar ediyor",
-    "summary": "İran devlet medyasında yer alan bir haber, Trump'ın anlaşmaya ilişkin tanımlamasının bazı temel unsurlarını da çürüttü; kaynaklar Trump'ın sözlerini \"gerçek ve yalan karışımı\" olarak nitelendirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/05/30/world/politics/iran-donald-trump-us-deal/"
   }
 ]
