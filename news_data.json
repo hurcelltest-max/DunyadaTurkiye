@@ -3,6 +3,69 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
+    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
+    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Husilerin Hedeflemeyi Bitirme Sözüne Rağmen Nakliyeciler Kızıldeniz Rotalarından Uzak Duruyor",
+    "summary": "Dünyanın en büyük üç konteyner operatörü, Gazze'deki istikrarsızlıktan ve daha geniş bölgesel gerilimlerin devam eden tehlike anlamına gelmesinden korktuklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Japonya savunma bakanı, Çin'in öne sürdüğü 'yeni militarizm' iddialarını reddetti",
+    "summary": "Shinjiro Koizumi, Çin'in askeri yeteneklerini 'yeterli şeffaflık olmadan' genişletirken Japonya'nın 'barış seven' bir ülke olarak değer gördüğünü söyledi Japonya'nın savunma bakanı Pazar günü Çin'e ör...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Avrupa'da bir Rus insansız hava aracının Romanya'ya çarpması konusunda oybirliğiyle kınama: \"NATO, Müttefik topraklarının her santimetrekaresini savunmaya hazırdır\"",
+    "summary": "Liderler Bükreş'le dayanışmalarını ifade ediyor ve savaşın genişlemesi tehlikesi konusunda uyarıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/05/29/6a197bd7fc6c83cf7d8b4585.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Göç arttıkça Kawasaki'nin dış konseyi katılıma giden yolu gösteriyor",
+    "summary": "Konsey, yabancı sakinlerin yaşamlarını iyileştirmeyi ve yerli Japonlarla uyumlu bir birlikte yaşamayı teşvik etmeyi amaçlıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/community/2026/05/31/issues/kawasaki-foreign-council/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Uzmanlar Japonya'yı tütün paketlerine resimli uyarı koymaya çağırıyor",
+    "summary": "Pek çok ülke, sigara paketlerinin, akciğer kararması gibi sigarayla ilişkili sağlık tehlikelerine ilişkin uyarı içeren görseller sergilemesini şart koşuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/05/31/japan/pictorial-warnings-tobacco-packages/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump kaybederken neden MAGA Cumhuriyetçileri kazanmaya devam ediyor?",
+    "summary": "Başkan ve onun sosyal medya megafonu tarafından desteklenen adaylar hâlâ Cumhuriyetçi ön seçimlerde belirleyici zaferler kazanıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/05/31/world/why-maga-republicans-keep-winning/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
     "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki açmazın sona ereceğini söyledi",
     "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
     "timeAgo": "En Guncel (API)",
@@ -835,68 +898,5 @@
     "summary": "Trump, ön anlaşmayı kabul edip etmemeye bu Cuma karar vereceğini açıklarken Tahran, yetkililerinin anlaşmayı yine de onaylaması gerektiğini vurguladı",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-05-29/estados-unidos-e-iran-admiten-un-preacuerdo-pero-discrepan-sobre-sus-terminos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD ve İran, saldırılar devam ederken ateşkesi 60 gün daha uzatmak için ön anlaşmaya yaklaştı",
-    "summary": "Tahran, Kuveyt'teki ABD hava üssüne füze fırlattı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/28/6a17eb86e85eced8578b459b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Tahran'ın şahinleri Washington'la herhangi bir diyaloğa karşı saflarını sıklaştırıyor: \"Şeytanla müzakere etmek için füze gönderin\"",
-    "summary": "İran rejiminin katı kanadının bir kısmı, savaşın son dini lidere ihanet olduğunu düşünerek savaşın sona ermesi için müzakere yapmayı reddediyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/05/28/6a171f52e85ecedd1c8b45da.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, pilot planın ardından 3.600 eski bina için akıllı IoT yangın alarmlarını onayladı",
-    "summary": "Hong Kong İtfaiye Hizmetleri Departmanı, bu yılın ilk çeyreğinde başarılı bir pilot programın ardından, geleneksel yangın güvenliği ekipmanlarına alternatif olarak yeni bir Nesnelerin İnterneti (IoT) ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3355211/hong-kong-approves-smart-iot-fire-alarms-3600-old-buildings-after-pilot-scheme?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Savaşı Canlı Güncellemeleri: Trump, İran Teklifi Konusunda Yakında 'Nihai Karar Vereceğini' Söyledi",
-    "summary": "Cumhurbaşkanı sosyal medyada İran'ın talep ettiği tavizleri kabul etmesi gerektiğini ve Hürmüz Boğazı'na yönelik deniz ablukasını kaldırmaya hazır olduğunu söyledi. İran herhangi bir taahhütte bulunma...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Romanya'ya Geçen Drone'lar Hakkında Bilmeniz Gerekenler",
-    "summary": "Yetkililer, Cuma günü Ukrayna sınırı yakınında düzenlenen saldırının Romanya'da sivillerin yaralandığı ilk saldırı olduğunu söyledi. Ancak yakındaki savaştan kalma insansız hava araçları giderek büyüy...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
-    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Batı Şeria: Bu köyle birlikte umut da ortadan kalkacak",
-    "summary": "İsrail'in rechtsextremer Bakanı Smotrich, Chan al-Ahmar von der Landkarte streichen'i beduinenort edecek. Bu iki devletli çözümün sonunu mu getirecek?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/israel-vertreibung-westjordanland-beduinen-e535851/"
   }
 ]
