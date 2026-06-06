@@ -2,6 +2,150 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Papa Leo, Trump ve Yapay Zeka ile Mücadelenin Ardından İspanya'da Yeni Düellolara Hazırlanıyor",
+    "summary": "Leo, göçmenlerle buluşacağı bir haftalık ziyaret için Cumartesi günü İspanya'ya geldi ve İspanya'nın aşırı sağ partisi Vox'un ateşine maruz kalabilir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/leo-spain-visit.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrail'in Lübnan'da Beyaz Fosfor Kullanımı Hakkında Görsel Kanıtlar Bize Ne Anlatıyor?",
+    "summary": "The Times'ın derlediği videolar, İsrail ordusunun Lübnan'daki nüfuslu bölgelere son derece zararlı olabilecek bir mühimmatı nasıl konuşlandırdığını gösteriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Ateşkes İmzalandıktan Günler Sonra İsrail Saldırısında 3 Lübnan Askeri Öldürüldü",
+    "summary": "İsrail, İran destekli silahlı grup Hizbullah'la savaşmak için Lübnan'ı işgal etti ve ülkenin bazı kısımlarını işgal etti, ancak askeri saldırıları başkalarını da çekti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Tarihi’: Kanadalı depo işçileri Walmart ile ilk sendika anlaşmasını imzaladı",
+    "summary": "Sendika, toplu sözleşmenin, ülke çapındaki büyük işverenleri sendikalaştırmaya yönelik daha geniş bir mücadelenin sadece başlangıcı olduğunu söylüyor Kanadalı depo işçileri, Walmart'la ilk toplu sözle...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Liderler Rio zirvesi için uçarken havacılık endüstrisi gökyüzüne bakıyor",
+    "summary": "Petrol tankerleri Hürmüz Boğazı'nın gerisinde kalmış olabilir, ancak Iata AGM'nin Brezilya'da düzenlenmesi yaklaşmakta olan kıtlık uyarılarına meydan okuyor Potansiyel bir katılımcının ifade ettiği gi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Çin konusunda Trump doğru savaşı ama yanlış stratejiyi seçti",
+    "summary": "Uzun bir ticaret savaşı yaklaşıyor. Trump'ın dağınık korumacılığı, kaotik gümrük tarifeleri ve doğal müttefiklerimize karşı saldırganlığı, ABD ticaret politikasının sıcak bir karmaşa olarak kalacağını...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD'nin Hürmüz Boğazı'ndaki radarlarını vurmasının ardından İran, Kuveyt ve Bahreyn'e füzelerle saldırdı",
+    "summary": "İran Devrim Muhafızları ABD Beşinci Filosunun üslerine zarar verdiğini iddia ediyor, ancak ABD askeri komutanlığı bunu reddediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-06/iran-ataca-kuwait-y-barein-con-misiles-despues-de-que-estados-unidos-golpeara-sus-radares-en-el-ormuz.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Güney Lübnan'daki İsrail saldırısı: 2.900 ölü, 36.000 ev yıkıldı ve 1,4 milyon kişi yerinden edildi",
+    "summary": "İsrail'in kampanyası üç ayda ülke nüfusunun dörtte birini yerinden etti",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-05/la-ofensiva-israeli-en-el-sur-de-libano-tres-meses-de-devastacion-e-impunidad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran savaşı ve müttefikleri için ayrılan milyar dolarlık fon, Trump'ın Kongre'deki Cumhuriyetçiler üzerindeki gücünü zayıflatıyor",
+    "summary": "Orta Doğu'daki müzakerelerdeki tıkanıklık, Kongre Binası'nın sabrını tüketiyor ve Kasım ayında yeniden seçilmeyi istemeyen, dolayısıyla başkanın gazabından korkmayanların isyanını kışkırtıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-04/la-guerra-de-iran-y-el-fondo-milmillonario-para-sus-aliados-minan-el-ascendente-de-trump-sobre-los-republicanos-en-el-congreso.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump'ın eski danışmanı John Bolton, gizli belgeleri yanlış kullanma suçlamasını kabul edecek",
+    "summary": "Eski Ulusal Güvenlik Danışmanı, ulusal savunmayı etkileyen bilgilerin uygunsuz şekilde bulundurulması ve iletilmesi nedeniyle 18 suçlamayla karşı karşıya",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-04/el-exasesor-de-trump-john-bolton-se-declarara-culpable-de-manejo-indebido-de-documentos-clasificados.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Antonio Spadaro, Francis ve Leo XIV arasında köprü: \"Papa'nın ve İncil'in ilkeleri Trump'tan sonra da varlığını sürdürecek\"",
+    "summary": "Bu rahip, Cizvit ve gazeteci, iki \"farklı Hıristiyan\" ve iki \"uyumsuz antropoloji\" karşısında ABD başkanının diyalektik ve mesihçi meydan okumasını analiz ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/05/6a0c3ebde4d4d8af758b4591.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Donald Trump ve kuralsız bir dünyanın başarısızlığı: \"Kararları müzakere sürecini sabote ediyor\"",
+    "summary": "ABD başkanının artık bıktığı Üçüncü Körfez Savaşı, insansız hava araçları ve yapay zeka çağında ittifakların, sadakatin, çatışmanın ve kaba kuvvetin anlaşılmasının yolunu yeniden yazıyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/04/6a21a2befc6c83992a8b4591.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Sağlık yetkilileri, İsrail güçlerinin işgal altındaki Batı Şeria'da Filistinli bebeği öldürdüğünü söyledi",
+    "summary": "Filistin resmi haber ajansı 'WAFA'nın haberine göre, annesini yaralayan kurşunun aynısıyla yüzünden vurulan bebek de ağır yaralandı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/06/6a240efce4d4d80a548b4583.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ukrayna St. Petersburg'u insansız hava araçlarıyla vurdu ve savaşı Putin'in memleketine geri getirdi",
+    "summary": "Zelensky, Putin'in müzakere yapmayı reddetmesine yanıt olarak saldırısını \"geniş kapsamlı yaptırımlar\" olarak nitelendirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/06/6a23d5e0e4d4d80e798b45a3.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran ABD saatiyle oynuyor: yıpratma üzerine bahis",
+    "summary": "Tahran rejimi 100 günlük savaşın bedelini ödüyor ve düşmanlarının saldırılarına devam etmeyeceğine dair güvenceden yoksun. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/05/6a21bfb6e4d4d85c018b45a5.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya, sürdürülebilir havacılık yakıtı yarışında yemeklik yağ konusundaki çabalarını artırıyor",
+    "summary": "Dünyanın dördüncü büyük ekonomisi, 2030'da yaklaşık 1,7 milyon kilolitreye ihtiyacı olduğunu tahmin ediyor ve kullanılmış yemeklik yağlardan yurtiçinde elde edebileceği kadar kazanç elde etmeyi umuyor...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/06/06/japan-saf-efforts/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Hamas İsrail'den 200'den Fazla Rehin Aldı. İşte Bildiklerimiz.",
     "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
@@ -754,149 +898,5 @@
     "summary": "Bu haftanın Hong Kong, Çin ana karası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyors...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/china/article/3356025/trump-urged-xi-help-end-ukraine-war-chinas-tech-sanctions-list-scmps-7-highlights?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong sıcaklara hazırlanıyor ve tropik depresyon yakınlardan geçerken sağanak yağışlar görülüyor",
-    "summary": "Hong Kong'un hava durumu tahmincisi şehrin 800 km (497 mil) yakınında oluşan tropik çöküntüyü izliyor ancak bir tayfun uyarı sinyali verme ihtimalinin düşük olduğunu söylüyor.\nHong Kong Gözlemevi perş...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3355898/hong-kong-braces-heat-showers-tropical-depression-passes-nearby?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya nafta arzındaki darboğazı nasıl yarattı?",
-    "summary": "İran savaşının sonu görünmüyorken, petrolden elde edilen malzemelere yönelik tedarik zinciri darboğazları devam edecek ve bu da hükümet tarafından uygulanan enerji tasarrufu önlemleri çağrılarına yol ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/05/japan/society/naphtha-bottleneck/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Mitsubishi UFJ, Japonya'nın yeni desteklemek için büyük faiz artışına ihtiyaç duyabileceğini söyledi",
-    "summary": "Mitsubishi UFJ Asset Management, Bank of Japan'ın daha büyük veya döngü dışı bir faiz artırımının göz ardı edilemeyeceğini belirterek, bu ay beklenen artışın yen ve Japon devlet tahvillerinde daha faz...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/06/05/companies/mitsubishi-ufj-boj-rate-hike/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Dijital bakan, Japonya'nın geride kalması durumunda bir 'Yapay Zeka kolonisi' haline gelebileceği konusunda uyardı",
-    "summary": "Japonya'nın küresel yapay zeka yarışına ayak uydurma çabası, dünya çapındaki hükümetler arasında yabancı teknolojiye daha da bağımlı hale gelme korkusunu yansıtan daha geniş bir endişeyi yansıtıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/05/japan/digital-minister-ai-development/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Onay puanlarındaki düşüşe rağmen Takaichi hala oldukça popüler",
-    "summary": "Son üç medya anketinden ikisindeki düşük puanlar, Orta Doğu'daki çatışma nedeniyle artan fiyatlar ve ham petrol türevi naftanın bulunabilirliğine ilişkin endişelerin ortasında geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/05/japan/politics/takaichi-approval-rates/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD'nin İran'a onurlu bir şekilde teslim olması kaçınılmaz mı?",
-    "summary": "Geriye kalan tek yol, \"şerefli teslimiyet\" olarak adlandırılabilecek şey olabilir; savaşı hedeflerine ulaşmadan sona erdirirken tek taraflı bir zafer ilanı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/06/05/japan/us-surrender-to-iran/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump Küba Ekonomisine İlişkin Kuralları Sertleştirirken Otel Zincirleri Geri Çekiliyor",
-    "summary": "Daha fazla uluslararası firmanın adayı terk edeceğini açıklamasıyla birlikte, Trump yönetiminin Küba üzerindeki ekonomik ilmiği sıkılaştırma çabaları işe yarıyor gibi görünüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Zelensky, Putin'le kişisel görüşme önerdi",
-    "summary": "Putin: Hava savunmasını iyileştirmeli +++ Rusya Devlet Başkanı Saint Petersburg'da uluslararası basına konuştu +++ AB, askerlik hizmetine uygun Ukraynalılar için koruma statüsünü sona erdirmeyi düşünü...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-schlaegt-persoenliches-treffen-mit-putin-vor-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump'ın temel kaygılarına karşı: Kongre direnişi test ediyor",
-    "summary": "Kongredeki giderek daha fazla Cumhuriyetçi başkana karşı çıkmaya istekli. Son olarak İran Savaşı konusuna geliyoruz.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/der-kongress-probt-den-widerstand-gegen-trump-200897103.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Nauru, ihbarcının Avustralya vatandaşı olmayanlara yönelik şiddet içeren tehditler iddia etmesinin ardından nadir bir açıklama yayınladı",
-    "summary": "Nauran hükümeti, milletvekilinin eski tutuklulara karşı yapıldığı iddia edilen ciddi tehditlerden bahsetmesinin ardından vatandaşlarının 'dost' olduğunu söyledi En son güncellemeler için Avustralya ha...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/04/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Japonya savunma bakanı, Çin'in öne sürdüğü 'yeni militarizm' iddialarını reddetti",
-    "summary": "Shinjiro Koizumi, Çin'in askeri yeteneklerini 'yeterli şeffaflık olmadan' genişletirken, Japonya'nın 'barış seven' bir ülke olarak değer gördüğünü söyledi Japonya'nın savunma bakanı, Pazar günü Çin'e ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Avustralya canlı haberleri: ASIC, ihbarcı iddialarının ardından KPMG hakkında soruşturma başlattı",
-    "summary": "Bugünkü haberleri canlı takip edin Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi alın Muhalefet lider yardımcısı Jane Hume, parlamentodaki vergi reformlarıyla ilg...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Barnaby Joyce ve One Nation'dan meslektaşı 'tren kazası' röportajlarında temel konut politikasının ayrıntılarını çarpıtıyor",
-    "summary": "Sky News sunucusu Andrew Bolt, gafın Pauline Hanson'un partisinin \"gerçek anlamda politika uydurduğunu\" gösterdiğini söylüyor En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Bondi saldırısının kahramanı Ahmed el-Ahmed, babasına saldırmakla suçlandıktan sonra 'şok olduğunu' söyledi",
-    "summary": "Polis, Aralık ayındaki saldırıda silahlı adamlardan birini silahsızlandırdığı için övülen 44 yaşındaki adamın babasını boyunduruk altına aldığını iddia ediyor En son güncellemeler için Avustralya habe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "NSW'deki yetiştiriciden rekor kıran bir baskınla 200.000 dolar değerinde 100.000'den fazla hamamböceği ele geçirildi",
-    "summary": "Omurgasızlar büyük olasılıkla sürüngen gıdası da dahil olmak üzere evcil hayvan ticaretine yönelikti En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika haber e-postamızı,...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Bu kötü bir kombinasyon': Avustralya neden sulu kar mevsiminde olabilir?",
-    "summary": "Uzmanlar, kar kayak sezonunun başlangıcında zamanında yağıyor ancak iklim değişikliği ve El Nino'nun uzun süre devam edemeyeceği anlamına geldiğini söylüyor En son güncellemeler için Avustralya haber ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/australia-ski-season-snow-climate-change-el-nino-impact"
   }
 ]
