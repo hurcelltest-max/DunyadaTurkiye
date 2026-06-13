@@ -2,6 +2,78 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Husilerin Hedeflemeyi Sonlandırma Sözüne Rağmen Nakliyeciler Kızıldeniz Güzergahlarına Karşı Dikkatli",
+    "summary": "Dünyanın en büyük üç konteyner operatörü, Gazze'deki istikrarsızlıktan ve daha geniş bölgesel gerilimlerin devam eden tehlike anlamına gelmesinden korktuklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump'ın güç mimarisi: Brandenburg Kapısı'nın üç katı yüksekliğinde bir zafer takı",
+    "summary": "İkinci başkanlığında Donald Trump'ın Washington şehir manzarası için birçok planı var. Ne kadar büyük olursa o kadar iyi. O neyle ilgili?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/der-hoechste-triumphbogen-der-welt-wie-trump-washington-umbauen-laesst-accg-200909662.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Trump Pazar günü anlaşmanın imzalandığını duyurdu",
+    "summary": "İran daha önce hafta sonu bir anlaşmayı reddetmişti +++ ABD ordusu İran'a ait insansız hava araçlarının düşürüldüğünü bildirdi +++ İçeriden bilgi: BAE zaten İran için milyarlarca doları serbest bırakt...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-kuendigt-unterzeichnung-von-abkommen-am-sonntag-an-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Ukrayna Zaporizhzhia nükleer santrali elektrik şebekesine geri döndü",
+    "summary": "Elektrik kesintisinin ardından Rus işgali altındaki nükleer santrale elektrik sağlandı +++ Rusya, 185 Ukrayna insansız hava aracının düşürüldüğünü bildirdi +++ IMF, Ukrayna'ya milyonlar değerinde ek y...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-atomkraftwerk-saporischschja-wieder-am-stromnetz-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Kennedy Center, Trump'ın adını cepheden kaldırıyor",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-kennedy-center-entfernt-trumps-namen-von-der-fassade-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Arnavutlar Adriyatik kıyısındaki bir başka lüks gelişmeyi protesto etti",
+    "summary": "Trump'ın damadının projesine karşı protestoları yansıtacak şekilde çevresel açıdan hassas bölgedeki çitler kaldırıldı Cumartesi günü yaklaşık 200 protestocu, Arnavutluk'un Adriyatik kıyısındaki lüks b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jun/13/albania-protest-luxury-development-adriatic-coast"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, İran'la ateşkesin bu Pazar imzalanacağını ve Hürmüz'ün \"hemen\" açılacağını öngörüyor",
+    "summary": "Çelişkili mesajların olduğu bir başka günde Tahran, anlaşmanın bu kadar yakın olduğunu reddediyor. ABD Başkanı G-7'de Arap liderlerle görüşecek",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-13/trump-preve-que-la-tregua-con-iran-se-firme-este-domingo-y-que-ormuz-quede-abierto-inmediatamente.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran ile ABD arasındaki anlaşma yaklaşıyor, ancak Tahran hemen imza atarak frene basıyor",
+    "summary": "Pakistan arabulucu olarak geri dönüyor ve Başkan Trump gibi anlaşmanın bu Pazar imzalanacağını garanti ediyor. Rejim imzayı erteledi: \"Bunun önümüzdeki günlerde gerçekleşmesi ihtimali göz ardı edileme...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/13/6a2d8eece9cf4aa3218b45bb.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
     "title": "İran Savaşı Canlı Güncellemeleri: Arabulucu, Barış Anlaşmasının 24 Saat İçinde Tamamlanabileceğini Söyledi",
     "summary": "ABD ile İran arasında önemli bir aracı olan Pakistan'ın başbakanı, bir anlaşmanın \"muhtemelen beklendiğini\" söyledi. Her iki taraftaki yetkililer de iyimserliklerini dile getirdiler ancak bu durum yin...",
@@ -826,77 +898,5 @@
     "summary": "Yetkililer tarafından yazılı bir belgede özetlenen plan, Trump yönetiminin NATO'ya olan bağlılığını ne ölçüde azaltma niyetinde olduğu konusunda nadir görülen bir netlik sağlıyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Çin, Myanmar Siyasetini Araştıran ABD'li Akademisyeni Tutukladı",
-    "summary": "U.C.'de yüksek lisans öğrencisi olan U Min Zin'in tutuklanması Berkeley ve Myanmar'da bir araştırma grubunun kurucusu olan bu görüşme, Başkan Trump'ın Çin'de Xi Jinping ile görüşmesinin hemen ardından...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/11/us/politics/china-arrests-us-scholar.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Korku ve Rahatlama Arasında Kırbaçlanan İranlılar Savaşın Sonunu Umuyor",
-    "summary": "Pek çok İranlı, yeni bir topyekün savaş durumunda güvenlikleriyle ilgili endişelerin yanı sıra, çatışmanın belirsiz kalması durumunda ülke ekonomisinin daha da çökeceğinden endişe ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump, Son Özetinde İran'a Tekrar Saldırma ve Savaşı Genişletme Tehdidini Geri Çekti",
-    "summary": "Sayın Trump, İran'ın bir barış anlaşması imzalamaya yakın olduğunu söyledi. Şu ana kadar haftalarca süren görüşmelerde bir anlaşmaya varılamadı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/11/world/middleeast/trump-retracts-threat-iran.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump, iklim şoklarından en çok etkilenen ülkelerdeki göçmenleri hedef alıyor",
-    "summary": "Guardian'ın analizi, ABD'nin giriş kısıtlamalarıyla karşı karşıya olan 39 ülkenin çoğunun çevresel açıdan en savunmasız olduğunu ortaya koyuyor'Her gün daha fazla engel var': ABD iklim mültecilerini n...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Kuşlar uçup gidecek': Arnavutluk'un flamingo devrimi sulak alanlarını kozlardan ve turistlerden uzak tutabilecek mi?",
-    "summary": "ABD başkanının ailesi tarafından desteklenen lüks bir tatil yeri, Avrupa'nın en fakir ülkelerinden birinde yaban hayatı açısından zengin bir doğa rezervi üzerine inşa edilebilir. Milyarder bir siyasi ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran rejimi iç baskıyı hızlandırırken ABD ile gerilim artıyor",
-    "summary": "Casusluk suçları ve İsrail ile işbirliği yapmakla suçlanan kişilere yönelik tutuklamalar ve adli işlemler artıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-12/el-regimen-irani-acelera-la-represion-interna-mientras-aumenta-la-tension-con-ee-uu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Flaman devrimi, Trump ailesinin Arnavutluk'taki mega projelerine karşı ayağa kalkıyor: “Ülkemiz satılık değil”",
-    "summary": "Binlerce protestocu, ülkede son onyılların en büyük protestolarından birinde üst üste on ikinci günde Tiran sokaklarına çıkıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-12/la-revolucion-de-los-flamencos-se-levanta-contra-los-megaproyectos-de-la-familia-trump-en-albania-nuestro-pais-no-esta-en-venta.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İsrail'de hiçbir suçlama olmaksızın 530 gün tutuklu kaldıktan sonra bir deri bir kemik kalmış ve onlarca kilo kaybetmiş",
-    "summary": "Tanınmış Gazzeli doktor Hüssam Ebu Safiye'nin bir yılı aşkın süredir İsrail Yüksek Mahkemesi'ndeki duruşmasında çekilen ilk görüntüsü, onun durumuna ilişkin endişeleri artırıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-12/demacrado-y-con-decenas-de-kilos-menos-tras-530-dias-preso-sin-cargos-por-israel.html"
   }
 ]
