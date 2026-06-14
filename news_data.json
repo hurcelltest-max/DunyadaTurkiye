@@ -3,6 +3,132 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Birleşik Krallık Kuvvetleri Rus Gölge Filosu Petrol Tankerini Ele Geçirdi",
+    "summary": "İngiltere Savunma Bakanlığı, Rusya'nın yakıt taşımak ve yaptırımlardan kaçmak için kullandığı filodaki bir gemiyi durdurmak için İngiliz kuvvetlerinin ilk kez tek başına hareket ettiğini söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Hizbullah'la Çatışmalar Artarken İsrail Beyrut'u Vurdu",
+    "summary": "Saldırılar, Başkan Trump ve İran'ın bir çerçeve barış anlaşmasını tamamlamaya doğru yaklaştığı bir dönemde zaten hassas olan bir anı daha da karmaşık hale getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
+    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
+    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Almanya ve G7: Şansölye'nin hâlâ birkaç \"takip sorusu\" var",
+    "summary": "Évian'daki zirvede Avrupalılar Trump'la NATO adına lobi yapacak, Ukrayna müzakerelerinde yer talep edecek ve ABD Başkanı'nın İran'la ne müzakere ettiğini bilmek isteyecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/nato-gipfel-ankara-trump-merz-ukraine-konflikt-li.3497392"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Évian'daki G-7 toplantısı: Huzur, kargaşa içindeki bir dünyayla karşılaştığında",
+    "summary": "Orta Doğu'da savaş, Ukrayna'da savaş ve ardından yüksek enerji fiyatları: Fransa, G-7 ülkelerini ortak hedeflere dönmeye Cenevre Gölü'ne davet ediyor. Bu başarılı olacak mı?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/g7-gipfel-evian-industriestaaten-krisen-li.3497389"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "İsviçre'de göç: İsviçre nüfus sınırlamasına karşı oy kullandı",
+    "summary": "Ülkenin nüfusu on milyonla sınırlı kalmamalı. Sağcı muhafazakar SVP, göçü kısıtlamak ve AB'den kopmayı kışkırtmak istiyordu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/schweiz-bevoelkerungsdeckel-obergrenze-einwohner-zahl-migration-svp-li.3498462"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Beyrut'a yeni İsrail hava saldırıları",
+    "summary": "Trump Pazar günü anlaşmaların imzalandığını duyurdu +++ ABD ordusunun İran'a ait insansız hava araçlarını düşürdüğüne dair raporlar +++ İçeriden bilgi: BAE zaten İran için milyarlarca doları serbest b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-neue-israelische-luftangriffe-auf-beirut-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Referandum: İsviçre nüfus sınırını reddetti",
+    "summary": "Tahminlere göre yüzde 54, “10 milyonluk İsviçre!”ye karşı oy kullandı. girişim. Sosyal Demokratlar “açık bir İsviçre için tarihi bir zaferden” söz ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/abstimmung-ueber-migration-schweizer-lehnen-bevoelkerungsdeckel-ab-accg-200928663.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "AB sığınma sistemi CEAS: Avrupa kendini tamamen izole etmiyor",
+    "summary": "AB'nin yeni sığınma sistemi sayılarda düşüşe yol açabilir. Ancak bu düzensiz göçün tamamen durdurulmasını sağlamayacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/eu-asylreform-geas-europa-schottet-sich-nicht-voellig-ab-200920701.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Çin, konferansa katılan ABD'li akademisyeni 'casusluk faaliyetleri' nedeniyle tutukladı",
+    "summary": "Myanmar ve Çin dış politikası hakkında yazan Min Zin'in tutuklanması, Trump'ın Pekin ziyaretinden sadece bir ay sonra gerçekleştiÇin, Myanmar ve Çin dış politikası hakkında yazan bir ABD'li akademisye...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail Hava Kuvvetleri, topraklarının kuzeyinde saldırılar aldıktan sonra Beyrut'taki \"Hizbullah komuta merkezine\" saldırdı",
+    "summary": "İran, bir hafta önce benzer bir İsrail saldırısının ardından yaptığı gibi, ABD'yi müzakerelere devam etmek için \"taahhütlerini yerine getirmesi\" gerektiği konusunda uyarırken, İsrail'e saldırmayı da g...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/14/6a2e9481fdddff836f8b456f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Kira anlaşmazlığının şiddete dönüşmesinin ardından Hong Konglu ev sahibi ve kiracı tutuklandı",
+    "summary": "Hong Kong'da bir apartman dairesinde çıkan kira anlaşmazlığının şiddete dönüşmesinin ardından ev sahibi ve kiracı tutuklandı.\nPolis, Pazar günü sabah saat 11 civarında, Mong Kok'ta Portland Caddesi ya...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357062/hong-kong-landlord-and-tenant-arrested-after-rental-dispute-turns-violent?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "İran Savaşı Canlı Güncellemeleri: ABD ve Tahran, Gelişen Barış Anlaşması Konusunda Karışık Sinyaller Gönderiyor",
     "summary": "Başkan Trump anlaşmanın Pazar günü imzalanacağını söyledi ancak İran Dışişleri Bakanlığı zaman çizelgesinin daha yavaş olabileceği konusunda uyardı.",
     "timeAgo": "En Guncel (API)",
@@ -772,131 +898,5 @@
     "summary": "İki taraf arasında bir “mutabakat zaptı”nın müzakeresi sürüyor. Her iki taraf da bunu bir zafer olarak çerçevelemek istiyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Barış Anlaşması Söylenmesine Rağmen Lübnan'daki Savaş Sürüyor",
-    "summary": "İsrail'in Cuma günkü saldırıları Lübnan'ı Orta Doğu'nun başka yerlerinde hakim olan temkinli iyimserlikle uyumsuz hale getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu'da savaş: ABD ve İran görünüşe göre bir barış anlaşmasına yaklaşıyor",
-    "summary": "Her iki taraf da olumlu sinyaller veriyor ve arabulucu Pakistan da ihtiyatlı bir iyimserlik yayıyor. Ancak anlaşmanın kapsaması gereken noktalara ilişkin farklı ifadeler mevcut.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-liveblog-usa-trump-iran-deal-li.3494580"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İran ve ABD: Bu hafta sonu bir anlaşma var mı?",
-    "summary": "ABD Başkanı Trump, İran'a yönelik yeni saldırıları iptal etti ve yakın bir anlaşmaya varılacağına dair umutları artırdı. İran o zaman önemli noktalarda galip gelebilirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-abkommen-usa-trump-waffenruhe-atomgespraeche-li.3497684"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da Savaş: Putin yapay zeka destekli insansız hava araçlarını duyurdu",
-    "summary": "Rusya Devlet Başkanı, Ukrayna'nın drone kullanımını artırdığını itiraf ediyor. Rusya şimdi önemli bir alanda aynı yolu takip etmek ve alçak yörüngede kendi uydu ağını kurmak istiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-drohnen-li.3490156"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD Başkanlarının Doğum Günleri: “Doğum Günün Kutlu Olsun Sayın Başkan”",
-    "summary": "Donald Trump, doğum gününde görkemli bir şekilde saygı duruşunda bulunan ilk hükümet başkanı değil. Monroe'nun JFK için yaptığı nefes kesici serenattan Obama'nın dansına kadar en unutulmaz kutlamalar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/us-praesident-trump-geburtstag-historisch-e849277/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: İran Dışişleri Bakanı: ABD ile Mutabakat Zaptı henüz imzalanmadı",
-    "summary": "Pakistan, ABD ile İran arasındaki anlaşmayı “doğruladı” +++ “Sonraki adımların belirlenmesi” +++ Trump, İran'ın müzakereleri temsil etmesinden öfkelendi +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-pakistan-bestaetigt-einigung-zwischen-usa-und-iran-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Ukrayna askerlik hizmetini daha çekici hale getirmek istiyor",
-    "summary": "Cephe hattındaki askerlerin ücretleri önemli ölçüde artırılacak +++ Alman ordusu hızla daha fazla insansız hava aracı kullanmak istiyor +++ Medya raporu: Avrupa'da NATO için üçte bir oranında daha az ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-will-militaerdienst-attraktiver-machen-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Kanada polisi Toronto polisinin ölümünün küresel terör saldırılarıyla bağlantılı olup olmadığını araştırıyor",
-    "summary": "43 yaşındaki Memur Marc Pinizzotto, ABD konsolosluğuna yapılan silahlı saldırıyla ilgili arama emirlerini yerine getirirken öldürüldü.Kanada'daki yetkililer, Toronto'daki bir polis memurunun, şehrin A...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Filistinli ve İsrailli sivil toplum grupları G7'yi Gazze konusunda harekete geçmeye çağırıyor",
-    "summary": "Paris toplantısı, gelecek hafta yapılacak zirvede iki devletli çözüme yönelik acil diplomasi önerileri ve çağrılarını hazırlıyor Cuma günü Paris'te bir araya gelen Filistinli ve İsrailli sivil toplum ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jun/12/palestinian-israeli-civil-society-groups-g7-summit-gaza"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "ABD ve İran anlaşmanın \"her zamankinden daha yakın\" olduğunu garanti ediyor ancak içeriği konusunda anlaşamıyorlar",
-    "summary": "Trump, Tahran'ı yazılı olarak mutabakata varılan hükümlerle \"hiçbir ilgisi olmayan\" şartları yaymakla suçlarken, Washington'daki üst düzey bir yetkili imzanın bu hafta sonu mümkün olduğunu düşünüyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-12/estados-unidos-e-iran-aseguran-que-el-acuerdo-esta-mas-cerca-que-nunca-pero-discrepan-sobre-su-contenido.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran, ABD ile Mutabakat Zaptı'nın \"hiç bu kadar yakın olmadığını\" söylüyor ve Trump bu mesajı sosyal ağlarında yayıyor",
-    "summary": "Pazar günü anlaşmayı imzalamak için Cenevre'ye gidebilecek olan JD Vance, İran'ın yaptırımların kaldırılmasından fayda sağlayabileceğini ancak \"bir belgeyi imzalayarak veya bir toplantıya katılarak\" h...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/12/6a2c2ac8e4d4d8473c8b4580.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Díaz-Canel, Trump'ın baskısına rağmen Küba'da ekonomik reformların başlayacağını duyurarak zaman kazanmaya çalışıyor",
-    "summary": "Küba rejimi, adadaki otel altyapısından yararlanmak için \"yeni aktörlerle\" turizmde yatırım yöntemlerine izin verecek.&nbsp;Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/12/6a2c2449e9cf4a32528b45b2.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Flamingolar nedir ve neden Ukrayna ile Rusya arasındaki savaşta yeni bir dönemin başlangıcını simgeliyorlar? Bir start-up tarafından geliştirilen yeni düşük maliyetli füzeler",
-    "summary": "Patriot'un daha ucuz bir versiyonudurlar. 3.000 kilometre menzile sahiptirler. Ve birkaç aydır Rus rafinerilerinin ve askeri üslerinin kabusu haline geldiler. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/11/6a2a66f4e85ece74698b456f.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong'da sadece birkaç gün arayla 2 bebeğin ciddi şekilde Kovid-19'a yakalandığı doğrulandı",
-    "summary": "Sağlık yetkililerine göre, bir yaşındaki bir erkek çocuğunun Kovid-19'a yakalandıktan sonra Hong Kong'daki bir hastanede kritik durumu devam ediyor; ikinci bebeğin bulaşıcı hastalığa ciddi şekilde yak...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356968/2-infants-hong-kong-confirmed-severely-infected-covid-just-days-apart?utm_source=rss_feed"
   }
 ]
