@@ -3,6 +3,78 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İsrail'de, ABD'nin İran'la Ortaya Çıkan Anlaşması Konusunda Yaygın Hoşnutsuzluk",
+    "summary": "Siyasi yelpazedeki İsrailliler, anlaşmanın İran'ın oluşturduğu temel güvenlik tehditlerini çözümsüz bıraktığını söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu: İsrail Beyrut banliyösündeki hedeflere saldırdı",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/nahost-israel-greift-ziele-in-vorort-von-beirut-an-li.3498627"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump'ın Putin'e Ukrayna'daki savaşın sona ermesine yardım etmeye hazır olduğunu söylediği bildirildi",
+    "summary": "Rusya'nın TASS haber ajansının haberine göre, Trump ayrıca \"dostça ve samimi\" telefon görüşmesinde ABD'nin İran'la barış anlaşmasına yaklaştığını söyledi. Rusya'nın TASS haber ajansının haberine göre,...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, İsrail'in Beyrut'taki İran anlaşmasını tehdit eden bombalamasının ardından Netanyahu'nun \"hiçbir şeyi olmadığını\" iddia etti",
+    "summary": "ABD başkanı, saldırının \"olmaması gerektiğini\" doğruluyor ve bunun, yakın zamanda imzalamayı planladığı anlaşmayı bozmayacağını umuyor. İsrail, Tahran'a füzelerle misilleme yapmaya hazırlanıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-14/trump-afirma-que-netanyahu-no-tiene-una-puta-brizna-de-juicio-tras-el-bombardeo-israeli-de-beirut-que-amenaza-con-torpedear-el-acuerdo-con-iran.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran, İsrail'in Beyrut'taki saldırısına rağmen ABD ile yapılan anlaşmanın raydan çıkmadığının sinyallerini veriyor",
+    "summary": "Tahran, İsrail'in Beyrut'taki saldırısına yanıt vermekle tehdit ederken Trump, rejimden kendisini dizginlemesini istiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/14/6a2ee8afe4d4d848278b4596.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran bu pazar ABD ile anlaşma imzalamayı reddediyor",
+    "summary": "Pazar günü anlaşmayı imzalamak için Cenevre'ye gidebilecek olan JD Vance, İran'ın yaptırımların kaldırılmasından fayda sağlayabileceğini ancak \"bir belgeyi imzalayarak veya bir toplantıya katılarak\" h...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/12/6a2c2ac8e4d4d8473c8b4580.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong fırtına sırasında yüzme havuzlarını kapatmalı mı?",
+    "summary": "Hong Kong'ta bir yüzme havuzuna yıldırım düşmesi, fırtınalı havalarda halka açık açık hava mekanlarının zorunlu olarak kapatılması ve daha güçlü koruma tedbirleri çağrılarına yol açtı.\nCumartesi günü ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357075/should-hong-kong-close-swimming-pools-during-thunderstorms?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong Gözlemevi sarı yağmur fırtınası uyarısı yayınladı",
+    "summary": "Hong Kong Gözlemevi Pazar gecesi sarı yağmur fırtınası uyarısı yayınladı ve istikrarsız havanın önümüzdeki birkaç gün boyunca devam etmesinin beklendiğini söyledi.\nUyarı akşam 21.40'ta yapıldı ve kent...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3357073/hong-kong-observatory-issues-amber-rainstorm-warning?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Birleşik Krallık Kuvvetleri Rus Gölge Filosu Petrol Tankerini Ele Geçirdi",
     "summary": "İngiltere Savunma Bakanlığı, Rusya'nın yakıt taşımak ve yaptırımlardan kaçmak için kullandığı filodaki bir gemiyi durdurmak için İngiliz kuvvetlerinin ilk kez tek başına hareket ettiğini söyledi.",
     "timeAgo": "En Guncel (API)",
@@ -826,77 +898,5 @@
     "summary": "İsrail'in askeri zaferlerine rağmen savaş Tahran'ın konumunu güçlendiriyor ve bölgedeki güç dengesini değiştiriyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-06-07/el-nuevo-e-inesperado-mapa-de-oriente-proximo.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump, Venezuela'daki ABD hava saldırısında Aragua Treni'nin liderinin ortadan kaldırıldığını duyurdu",
-    "summary": "Amerikan başkanı onu \"Dünya Gezegenindeki en kana susamış terör örgütlerinden birinin kötü şöhretli lideri\" olarak tanımladı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/13/6a2cb70be9cf4a84508b4598.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Putin'in savaş ekonomisini ayakta tutan Rus hayalet filosu nasıl çalışıyor?",
-    "summary": "Binden fazla gemiden oluşan bu görünmez petrol imparatorluğu, milyonlarca varili hareket ettiriyor, Kremlin'in gelirini destekliyor ve Batı yaptırımlarının sınırlarını ortaya koyuyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/12/6a2c3a34fdddff5f048b45ba.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Şiddetli yağmur ve gök gürültülü fırtınalar şehri vurduğunda Hong Kong yine yağmurlu bir hafta sonuyla karşı karşıya",
-    "summary": "Pearl Nehri Halici üzerinde alçak basınç çukuru hareket ederken, Hong Kong'da daha şiddetli sağanak ve gökgürültülü sağanak yağışlar yaşanıyor.\nSağanak yağışlar, Hong Kong Gözlemevi'nin Cumartesi günü...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356983/hong-kong-faces-another-wet-weekend-heavy-rain-and-thunderstorms-hit-city?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İran-ABD neden 'çok yakın'? anlaşma bu kadar uzun mu sürüyor?",
-    "summary": "Analistler, bir dizi çelişkili noktanın anlaşmanın sonuçlandırılmasını geciktirdiğini ve anlaşmanın uygulanmasını zorlaştıracağını söylüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/13/world/us-iran-deal-complications/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Hürmüz Boğazı yakınlarında yeni askeri operasyonlar alevlenirken İran barış anlaşması ufukta görünüyor",
-    "summary": "Üst düzey bir ABD yönetiminden yetkili, her iki tarafın da bir metin üzerinde anlaştığını ve Washington'un önümüzdeki günlerde ilk anlaşmayı imzalamayı beklediğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/13/world/us-iran-deal-looms/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İsrail, Filistinlilerle 1990'larda Yapılan Anlaşmayı Hiçe Ayırarak Cenin'de Ordu Üssü İnşa Ediyor",
-    "summary": "Eleştirmenler, bu hareketin İsrail ordusunun Batı Şeria'daki Filistin nüfus merkezlerinin yakınında artan yerleşim faaliyetlerini korumasına yardımcı olacağını söylüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kanada Dünya Kupası'nda Dirsekleri Yukarı ve Kolları Tamamen Açık",
-    "summary": "Başkan Trump'ın tehditleriyle karşı karşıya kalan birçok Kanadalı, komşularına karşı savunmacı bir duruş sergiledi. Ancak şimdi Kanada, ABD ve Meksika ile birlikte ev sahipliği yapıyor ve dünyayı kuca...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/12/world/canada/2026-world-cup-canada-bosnia-toronto.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Ortaya Çıkan İran Anlaşmasına İlişkin Spekülasyonlar Dönerken, İşte Bildiklerimiz",
-    "summary": "İki taraf arasında bir “mutabakat zaptı”nın müzakeresi sürüyor. Her iki taraf da bunu bir zafer olarak çerçevelemek istiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-peace-deal-what-to-know.html"
   }
 ]
