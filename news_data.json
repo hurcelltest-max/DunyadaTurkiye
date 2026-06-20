@@ -3,6 +3,186 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "ABD'nin Fransa Büyükelçisi Charles Kushner, Trump Diplomasisiyle Paris'i Kızdırdı",
+    "summary": "ABD'nin Paris elçisi, Başkan Trump'ın çağında mücadeleci diplomasinin vücut bulmuş hali olarak ortaya çıktı ve özellikle antisemitizm suçlamalarıyla Fransız düzenini kızdırdı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Lübnan, ABD-İran Savaşı Bitirme Anlaşmasının Zayıf Halkası Olarak Ortaya Çıkıyor",
+    "summary": "Bir zamanlar Amerika-İsrail'in İran'a karşı savaşının ikincil cephesi olarak görülen İsrail ile Hizbullah arasındaki çatışma, bu savaşın sona ermesinin önündeki ana engellerden biri haline geldi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump, Gazze'yi 'Temizlemek', Mısır ve Ürdün'e Mülteci Göndermek İstediğini Söyledi",
+    "summary": "Ağır bombalanan bölgeyi \"yıkım alanı\" olarak nitelendiren cumhurbaşkanı, Filistinlilerin geçici veya uzun vadeli olarak yer değiştirmesini önerdi; bu öneri, savaşın başlamasından bu yana Arap ülkeleri...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Nawrocki, Zelenskyj'i Polonya'nın en yüksek ödülünden aldı",
+    "summary": "Polonya-Ukrayna arasındaki tarihi anlaşmazlık tırmanıyor +++ AB Konseyi Başkanı António Costa'nın Rusya ile istenmeyen teması nedeniyle öfke +++ AB, on iki aydan beri ilk kez Rusya'ya yaptırımlar uygu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nawrocki-entzieht-selenskyj-hoechste-auszeichnung-polens-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: “Uçan Beyaz Saray”: Trump, Katar'ın bağışladığı yeni Air Force One'ı tanıttı",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-fliegendes-weisses-haus-trump-enthuellt-von-katar-geschenkte-neue-air-force-one-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Sağlık gözlemcisinin tartışmalı antisemitizm tanımını benimsemesi nedeniyle İsrail'i eleştiren doktorların susturulabileceğinden endişe ediliyor",
+    "summary": "Avustralya Sağlık Uygulayıcıları Düzenleme Ajansı, 'düzenleyici çalışma' için Uluslararası Holokost Anma İttifakı tanımını kullanacak Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük ha...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jun/20/ahpra-adopts-ihra-antisemitism-definition-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Elektrifikasyon baskısı nihayet Cop31 öncesi iklim görüşmelerinde merkezde yer alıyor",
+    "summary": "Elektriklendirme çabalarının yanı sıra, iklim bilimi ve 1,5C hedefi etrafında jeopolitik gerilimler de mevcuttu. Dünyayı elektrikli araçlar, elektrikli ısıtma ve soğutma ve modern ağır sanayi ile elek...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Lübnan savaşı Trump'ın barış planının sınırlarını zorluyor",
+    "summary": "Tahran'la yapılan anlaşmaya büyük miktarda siyasi sermaye yatıran Amerikan başkanı, öncekiler kadar istikrarsız olan yeni ateşkesi sağlaması için İsrail'e baskı yaptı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-20/la-guerra-de-libano-lleva-al-limite-el-plan-de-paz-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Avrupa, Gazze'deki \"kabul edilemez\" yerleşim politikası ve \"eylemsizlik\" nedeniyle İsrail'e yönelik baskıyı artırıyor",
+    "summary": "Yirmi Yediler, isteksiz Komisyon'a, Batı Şeria'daki yasadışı kolonilere karşı ticari yaptırımlar için yeni \"seçenekler\" sunma konusunda açık bir yetki veriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-19/europa-aumenta-la-presion-contra-israel-ante-su-inaceptable-politica-de-asentamientos-y-la-inaccion-en-gaza.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, Meloni'yle G-7'de fotoğraf çektirdiğini \"merhametinden\" söyleyerek yeni bir kriz başlattı",
+    "summary": "İtalya başbakanı, \"Unutmamanız gereken bir şey var: ne ben ne de İtalya asla yalvarmaz\" diyor. Alp ülkesinin Dışişleri Bakanı Antonio Tajani, suça yanıt olarak ABD gezisini iptal etti",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-19/trump-abre-una-nueva-crisis-con-meloni-al-decir-que-se-hizo-una-foto-con-ella-en-el-g-7-por-pena.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ateşkesin anatomisi: Orta Doğu'da bekleyenler genellikle daha fazla intikamla geri döner",
+    "summary": "Washington başarısızlığı zafer olarak gizlediğinde Batı, ABD'den kurtulamaz; Bu altüst olmuş dünyada Atlantikçiliğin nasıl sürdürülebileceğini daha net bir şekilde düşünmek zorunda kalıyor&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/20/6a353ef3fc6c8359448b45be.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Netanyahu, Trump'ın anlaşması karşısında labirentten çıkış yolu arıyor",
+    "summary": "Beyaz Saray, İran'la müzakereleri kurtarmak için İsrail'e yeni bir ateşkes dayatıyor; bu da iki ülke arasındaki tarihi ittifakı riske atıyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/20/6a358d99e9cf4aea338b4577.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "ABD ve İran barış anlaşması imzaladı; Çin'in C919 jetleri güvenlik kontrolleri için yere indirildi: SCMP'nin 7 öne çıkan özelliği",
+    "summary": "Bu haftanın Hong Kong, Çin anakarası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyorsa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/china/article/3357639/us-iran-sign-peace-deal-chinas-c919-jets-grounded-safety-checks-scmps-7-highlights?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Dengesiz hava koşullarının morali bozmaması nedeniyle Dragon Boat Festivali heyecanı artırıyor",
+    "summary": "Cuma günü, istikrarsız havaya rağmen Tuen Ng Festivali sırasında ejderha botu yarışları devam ederken, davullar, güçlü kürek çekmeler ve binlerce yarışmacının ve eğlenicinin tezahüratları Hong Kong kı...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3357654/dragon-boat-festival-drums-buzz-unsettled-weather-fails-dampen-spirits?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump'ın elçisi ve İranlı bakan görüşmeler için İsviçre'ye gidiyor",
+    "summary": "İsrail ve Hizbullah, artan çatışmaların ABD-İran görüşmelerine gölge düşürmesinin ardından Cuma günü Lübnan'da ateşkes konusunda anlaşmaya vardı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/20/world/politics/lebanon-ceasefire-deal-us-iran-talks/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Boyanın soyulması Trump'ın havuz projesindeki sıkıntıları artırıyor",
+    "summary": "14 milyon dolarlık havuzun yeniden boyanması projesi halihazırda sorunlarla karşı karşıya: boya soyuluyor ve havuz yeşil alglerle dolu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/20/world/politics/peeling-paint-trump-reflecting-pool/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "ABD Başkan Yardımcısı JD Vance'e göre İran görüşmeleri siyasi yükselişi şekillendirebilir",
+    "summary": "İran savaşı tartışmaları, çatışmanın tüm tarafları, genel olarak Orta Doğu ve Vance'in siyasi emelleri açısından yüksek riskli bir senaryodur.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/20/world/politics/us-vance-iran-talks/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Ukrayna'nın Moskova'ya yönelik en büyük grevi yakıt kıtlığı korkusunu artırıyor",
+    "summary": "Perşembe günü yaklaşık 200 insansız hava aracı sürüsü Moskova'nın petrol rafinerisine çarptığında, dört yıldır süren savaşın gerçekliği günlük yaşamın derinliklerine indi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/20/world/ukraine-moscow-strike-fuel-shortage/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İtalyan Meloni, Trump'ın kendisine fotoğraf çekmesi için yalvardığı hikayeyi \"tamamen uydurduğunu\" söyledi",
+    "summary": "İtalya Başbakanı Giorgia Meloni, ABD liderini Batı'nın düşmanlarına, eski, yerleşik müttefiklere olduğundan çok daha fazla hürmetle hareket ettiği için azarladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/20/world/politics/italy-meloni-trump/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Yen son 40 yılın en düşük seviyesine yaklaşıyor ve Katayama uyarıda bulunuyor",
+    "summary": "Maliye bakanının yorumları, müdahaleden önce Nisan ayında yapılanlar kadar güçlü değildi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/06/19/markets/yen-market-june-19-2026/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Giorgia Meloni, Trump'a İtalya'nın Yalvarmadığını Söyledi",
     "summary": "Başkan Trump, İtalyan liderin Fransa'daki 7'li Grup zirvesinde birlikte fotoğraf çektirmesi için kendisine \"yalvardığını\" söyledi. Bu sözler, bir zamanlar dostane olan ilişkilerinin yıprandığı bir dön...",
     "timeAgo": "En Guncel (API)",
@@ -718,185 +898,5 @@
     "summary": "Başkan yardımcısı, ABD'nin bir sonraki müzakere turunun sonucunu belirleme yetkisine sahip olduğunu söyledi. Ancak hatalı bir şekilde İran'ın petrol yaptırımlarının kaldırılmasından yeni bir fayda sağ...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Anlaşmasının Etkileri",
-    "summary": "Trump'ın anlaşması İran'a verilen tavizlerin bir listesi gibi görünüyor. Siyasi açıdan ona zarar verir mi?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/18/world/iran-trump-us-uk-special-election-world-cup.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Vance, ABD-İran Savaşı Bitirme Anlaşmasını Eleştiren İsraillilere Sert Eleştiri Yaptı",
-    "summary": "Başkan yardımcısı, İsrail'in geride bıraktığı tek güçlü müttefikin ABD olduğunu söyledi ve İsrail'i koruyan silahların üçte ikisinin ABD'nin vergi gelirleriyle ödendiğini kaydetti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/18/world/middleeast/vance-israel-critics-us-iran-deal.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki açmazın sona ereceğini söyledi",
-    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu'da Savaş: Vance İsviçre gezisini iptal etti",
-    "summary": "Aslında İran ve ABD'den heyetlerin bu Cuma günü bir araya gelerek savaşın kalıcı olarak sona ermesini müzakere etmesi planlanıyordu. ABD Başkan Yardımcısı'na göre müzakereler sürüyor ancak tarih belir...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-vance-schweiz-reise-abkommen-li.3500746"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da savaş: AB, Rusya'ya yönelik yaptırımları ilk kez on iki ay uzattı",
-    "summary": "AB üyesi ülkeler, Kremlin lideri Putin'i müzakere masasına oturtmak için \"Rusya üzerindeki baskıyı artırmaya devam edeceklerini\" söyledi.  Macaristan daha önce her zaman bir yıllık uzatmayı engellemiş...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-eu-sanktionen-bruessel-li.3500126"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Crack'e karşı mücadele: Tolere edilen mikro ticaret, uyuşturucu sorununa karşı yardımcı oluyor mu?",
-    "summary": "Köln ve Düsseldorf'ta hızla büyüyen uyuşturucu sahneleri var. Belediye başkanları bunları kontrol altına almak için eski ilkelerden kopmak istiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/kampf-gegen-drogenszene-koeln-und-duesseldorf-wollen-mikrohandel-accg-200939569.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: İsviçre: ABD ile İran arasındaki görüşmeler iptal edildi",
-    "summary": "Tankerler Hürmüz Boğazı'nı geçti - ABD, İran limanlarına yönelik ablukayı kaldırdı +++ Hizbullah ile İsrail arasındaki çatışmalar +++ Netanyahu, güney Lübnan'dan askerlerinin çekilmesini ihtimal dışı ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-tanker-passieren-strasse-von-hormus-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: AB zirvesinde Costa'nın Rusya girişimiyle ilgili sorun",
-    "summary": "AB Konseyi Başkanı António Costa'nın Rusya ile istenmeyen teması toplantıyı gölgede bıraktı +++ AB, on iki aydan beri ilk kez Rusya'ya yaptırımlar uyguluyor +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-aerger-bei-eu-gipfel-um-russland-initiative-costas-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: “Dış politika hatası” - Cumhuriyetçiler Trump'ın İran anlaşmasını eleştiriyor",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın akışı: Güncel haberler ve bugünün güncel olayları ► Şimdi FAZ canlı yayın akışında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-aussenpolitischer-fehler-republikaner-kritisieren-trumps-iran-deal-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İsrail'e suçlamalar: Olmert Batı Şeria'da “etnik temizlik” görüyor",
-    "summary": "Ehud Olmert 2009 yılına kadar İsrail Başbakanıydı. Netanyahu hükümetine karşı ciddi iddialarda bulunuyor. Batı Şeria'da “etnik temizlik”ten söz ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/ethnischen-saeuberungen-im-westjordanland-israels-ex-ministerpraesident-erhebt-schwere-vorwuerfe-200945474.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Deve paltolarından guochao'ya: Max Mara, Çin'in lüks marka tüketicilerini etkiliyor",
-    "summary": "Moda evi, Şangay'daki 75. yıl dönümü podyum gösterisiyle Çin tarzına saygı duruşunda bulunuyor \"New York hiç uyumayan bir şehir olabilir ama Şanghay oturmaz bile.\" New Yorker'da bu çizgiyle karşılaşan...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Avustralya'dan canlı haberler: KPMG, 'korku kültürü' konusunda uyarıda bulunan ihbarcının dizüstü bilgisayarını aradı; Mahkeme, Herzog karşıtı protestocunun 'makul sebep olmaksızın' suçlandığını duydu",
-    "summary": "Bugünün haberlerini canlı takip edin • Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi alın Geoscience Australia'ya göre bu sabah New South Wales'te iki küçük depre...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Rusya dış politikasındaki yenilgileri zincirliyor ve uluslararası platformdaki zayıflığını derinleştiriyor",
-    "summary": "Putin yanlısı adayın Ermenistan seçimlerindeki başarısızlığı, Macaristan, Romanya ve Moldova'daki benzer aksiliklerin yanı sıra ABD'nin Venezuela ve İran gibi Kremlin müttefiki ülkelerdeki manevraları...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-19/rusia-encadena-derrotas-en-su-politica-exterior-y-ahonda-su-debilidad-en-el-tablero-internacional.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Zayıflayan Trump'ın görüntüleri",
-    "summary": "İran'la yapılan anlaşma, Çin'le uzlaşma veya Grönland'la geri çekilmede halihazırda görülen modeli güçlendiriyor. Sözlü kabadayılık birden fazla başarısızlığı gizlemiyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-19/estampas-del-trump-menguante.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Şahinlerin komplosu",
-    "summary": "Ateşkesin sağlanması gerekiyordu çünkü savaş Amerika Birleşik Devletleri'nde enflasyonu %4'e getirmişti ve Kasım ayında ara seçimler yaklaşıyordu",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-18/la-conjura-de-los-halcones.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump ile İran arasındaki mutabakat rejime ekonomik cankurtaran halatı sağlıyor",
-    "summary": "Belgede Tahran'a yönelik yaptırımların kaldırılması, tevkif edilen fonların geri alınması ve gelecekte 300 milyar dolarlık bir enjeksiyon öngörülüyor. Trump ve Pezeshkián anlaşmayı sanal bir etkinlikt...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-17/el-memorando-entre-trump-e-iran-lanza-un-salvavidas-economico-para-el-regimen.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Beyaz Saray, karma dövüş sanatları mücadelesinin soyunma odası: Trump 80. yaş gününü benzeri görülmemiş kanlı bir 'gösteri' ile kutluyor",
-    "summary": "Başkan, Amerikan demokrasisinin bir sembolünü, MAGA savaşçılarının kendisine saygı duruşunda bulunduğu ve içlerinden birinin Michelle Obama'ya hakaret ettiği şiddetli ve kitlesel bir UFC dövüşünün hiz...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-15/la-casa-blanca-vestuario-de-una-pelea-de-artes-marciales-mixtas-trump-celebra-sus-80-anos-con-un-show-sin-precedentes.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Kennedy Center, Donald Trump'ın adının cephesinden kaldırılmasına yönelik mahkeme kararına uyuyor",
-    "summary": "On binlerce insan, işçilerin Washington'daki müzik tapınağından mektupları nasıl çıkardıklarını canlı izlemek için saatlerce internete bağlanıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-13/el-kennedy-center-cumple-con-la-orden-judicial-de-retirar-el-nombre-de-donald-trump-de-su-fachada.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Doktor Netanyahu ve 'Bay Bibi': 1996'daki zaferden Trump'ın önündeki yol ayrımına kadar",
-    "summary": "Bu Perşembe, Binyamin Netanyahu'nun İsrail Başbakanı olarak göreve başlamasından bu yana 30 yıl geçti. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/18/6a32ed9ae9cf4a3f1b8b458b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Washington'daki şahinler İran anlaşması konusunda patladı: \"Bir miktar yatıştırma kokusu var\", \"on yılın en kötü dış politika hatası\"",
-    "summary": "Sert iç eleştirilerin ortasında Beyaz Saray, Memorandum'u savunması için Başkan Yardımcısı Vance'i görevlendirdi: \"İranlılar değişmeyebilir ama denemeye değer.\" Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/18/6a342437e4d4d848268b45a6.html"
   }
 ]
