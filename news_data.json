@@ -2,6 +2,105 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Meksikalı Yetkililer Trump Yönetiminin Muhbiri Oldu",
+    "summary": "Meksika Devlet Başkanı Claudia Sheinbaum, ABD'nin Meksikalı politikacılara yönelik soruşturmalarına karşı çıktı. Artık bazı politikacılar işbirliği yapmak istiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Canlı Güncellemeler: Ortadoğu'da Düşmanlık Alevleniyor, Hassas ABD-İran Ateşkesi Test Ediliyor",
+    "summary": "Bahreyn, ABD'nin bir gecede İran askeri tesislerine saldırmasının ardından açık bir misilleme olarak İran insansız hava araçları tarafından hedef alındığını söyledi. Geçtiğimiz günlerde Hürmüz Boğazı'...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "New York Seçimlerinin Ardından İsrailliler ABD-İsrail İlişkilerinin Daha Fazla Bozulmasından Korkuyor",
+    "summary": "İsrail'in Gazze'deki savaşına yönelik eleştiriler, İran savaşına duyulan öfke ve New York'taki seçim sonuçları, İsrail'in Washington'dan alacağı sağlam desteğin ödünç alınmış bir zamanda olabileceğini...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Orta ve Doğu Avrupa Şimdi Sıcaklığı Hissediyor",
+    "summary": "Bu hafta rekor kıran sıcaklıkların doğuya doğru kaymasına neden olan hava durumu olgusu nedeniyle Cumartesi günü Almanya ve Polonya'nın büyük bir kısmı aşırı sıcaklık uyarıları altındaydı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrail'le Anlaşma Lübnanlıları Böldü, Beyrut'ta Protestoları Ateşledi",
+    "summary": "Destekçiler anlaşmayı İran'ın Lübnan'daki etkisini azaltmaya yönelik bir adım olarak memnuniyetle karşıladılar, ancak diğerleri bunu bir kapitülasyon olarak nitelendirerek sokaklara döküldü.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD-İran Anlaşmasının Muğlak Dili Barış Çabalarını Engellemeye Dönüyor",
+    "summary": "Anlaşmada İran'a gemilerin Hürmüz Boğazı'ndan geçişi için \"düzenlemeler yapması\" çağrısında bulunuldu. İran bunu, gemilerin hangi rotalardan geçeceğini kendisinin belirleyebileceği şeklinde yorumladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump, dijital vergi uygulayan Avrupa ülkelerine yüzde 100 gümrük vergisi getirilmesi tehdidinde bulundu",
+    "summary": "ABD başkanı, verginin derhal uygulanacağını ve Donald Trump'ın, ABD şirketlerinin dijital hizmetlerine vergi uygulayan herhangi bir Avrupa ülkesine %100 ithalat vergisi uygulama tehdidinde bulunduğu ü...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran, ABD'nin son bombalamasına yanıt olarak Washington'ın Bahreyn'deki çıkarlarına saldırıyor",
+    "summary": "Kırılgan ateşkes üzerindeki baskı yeniden artıyor. Güney Hürmüz rotasını kullanan bir gemiye mermi isabet etti",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-27/iran-ataca-intereses-de-washington-en-barein-en-respuesta-al-ultimo-bombardeo-estadounidense.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Bolsonaro klanında savaş: Patriğin karısı, başkan adayı olan üvey oğluna saldırdı",
+    "summary": "Brezilya'daki seçimlere 100 gün kala, eski First Lady'nin patlayıcı videosu sağın ana adayını zayıflatıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-06-27/la-esposa-de-bolsonaro-ataca-a-su-hijastro-flavio-y-se-reivindica-en-la-masculinizada-politica-de-brasil.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Yapay zeka balonunun patlamasından korkmalı mıyız?",
+    "summary": "Teknoloji hisselerindeki son dalgalanmalar yapay zeka balonu korkusunu yeniden canlandırıyor ve bazı uzmanlar, balonun patlaması durumunda bunun Wall Street'in şimdiye kadar gördüğü her şeyden daha bü...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/06/27/markets/ai-bubble-fears/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya enerjiyle ilgili paketi ağustos sonuna kadar hazırlayacak",
+    "summary": "Sanayi Bakanı Ryosei Akazawa, Ortadoğu ihtilafının ortasında ortaya çıkan enerji risklerini ele almak için bir eylem planı hazırlamakla görevlendirildi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/27/japan/japan-energy-risk-package/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
     "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
@@ -799,104 +898,5 @@
     "summary": "Hong Kong'lu bir güzellik uzmanı, iki kadına ücretsiz uçuş ve konaklama imkanı sunarak ve bir yıl öncesine göre 48 milyon baht (1,4 milyon ABD doları) daha fazla taşıma karşılığında kazançlı bir ödül ...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358458/hong-kong-beautician-pleads-guilty-luring-2-women-myanmar-scam-factory?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong polisi, bisikletçinin çarpışmada ölmesinin ardından minibüs sürücüsünü tutukladı",
-    "summary": "Hong Kong polisi, aracının Kuzey bölgesinde bir bisikletliye ölümcül bir şekilde çarpmasının ardından bir minibüs sürücüsünü tehlikeli sürüş nedeniyle tutukladı.\nPolis, Cuma günü sabah 6.27'de Ta Kwu ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3358442/hong-kong-police-arrest-minibus-driver-after-cyclist-killed-collision?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Değişen yağmur fırtınası uyarı sinyalleri sırasında Hong Konglu yürüyüşçüye yıldırım çarptı",
-    "summary": "Bu hikaye okuyucularımıza kamu hizmeti olarak ücretsiz olarak sunulmuştur. Lütfen abone olarak SCMP gazeteciliğini desteklemeyi düşünün. Güncellenmiş uygulamamızı indiren yeni kullanıcılara yedi günlü...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3358436/hong-kong-issues-red-rainstorm-warning-education-authorities-suspend-classes?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "ABD-İran görüşmelerinde atılım; Japonya vize ücreti artışı Çin'i etkileyecek: SCMP'nin 7 öne çıkan özelliği",
-    "summary": "Bu haftanın Hong Kong, Çin ana karası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyors...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/china/article/3358412/breakthrough-us-iran-talks-japan-visa-fee-hike-affect-chinese-scmps-7-highlights?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İki tropikal fırtına yaklaşırken ülke genelinde şiddetli yağmur devam ediyor",
-    "summary": "Orta Japonya Demiryolu, Tokaido Shinkansen'in Cumartesi günü ertelenebileceğini veya askıya alınabileceğini söylerken, Doğu Japonya Demiryolu da hafta sonu olası düzenli tren hattı gecikmeleri konusun...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/japan/two-tropical-storms-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "UAEA başkanı: İran'da savaştan sonra 'çok güçlü' nükleer doğrulamaya ihtiyaç var",
-    "summary": "ABD ve İran, savaşı sona erdirmek için daha geniş bir anlaşma üzerinde müzakere yaparken, Tahran'ın nükleer programı temel anlaşmazlık noktalarından biri olmaya devam ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/japan/iaea-nuclear-verification-need/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran'ın Sadıkları, Başı Açık Kadınlar da Dahil Daha Geniş Bir Milliyetçiliği Destekliyor",
-    "summary": "Hükümet destekçileri, eski muhalif olduğu iddia edilen kişilerle, hem yurt içinde hem de yurt dışında düşmanlara karşı koyabileceklerini göstermek amacıyla yeni bağlar kuruyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Myanmar İç Savaşı Kıyamete Dönüştü",
-    "summary": "Ukrayna, Gazze ve Lübnan'daki çatışmaların gölgesinde kalan Myanmar'ın izole edilmiş merkezindeki çatışmalar yeni derinliklere ulaştı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "2,5 Milyar Dolarlık Cinayet: Birleşik Krallık Ekonomisini Çöktüren Hack",
-    "summary": "Geçen yıl Jaguar Land Rover'ı sakatlayan gevşek bir siber suçlu topluluğu ilk başta itibar kazandı. Müfettişler artık fidye yazılımı saldırısının arkasında Rusların parmağı olduğunu görüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kongo Ebola Krizi: Yetkililer Temas Takibinin Tehlikeli Şekilde Geride Kaldığı Uyardı",
-    "summary": "Demokratik Kongo Cumhuriyeti'nde Ebola testi pozitif çıkan kişilerin çoğu sağlık çalışanlarının radarında değil, bu da temas takibinin tehlikeli derecede geride kaldığını gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Daha Az İslamcılık, Daha Fazla Milliyetçilik",
-    "summary": "İran'da ve Ortadoğu genelinde din ile siyaset arasındaki bağ zayıflıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/world/islam-middle-east-politics-venezuela-europe-heat.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yüksek Mahkeme TPS Kararından Sonra Haitili ve Suriyeli Sınırdışı Edilenler Hangi Koşullarla Karşılaşabilir?",
-    "summary": "Yüksek Mahkeme, Trump yönetiminin ABD'deki birçok Haitili ve Suriyeliye yönelik insani korumaları sona erdirerek potansiyel sınırdışı edilmelerinin önünü açabileceğine karar verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html"
   }
 ]
