@@ -3,6 +3,24 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "2,5 Milyar Dolarlık Cinayet: Birleşik Krallık Ekonomisini Çöktüren Hack",
+    "summary": "Geçen yıl Jaguar Land Rover'ı sakatlayan gevşek bir siber suçlu topluluğu ilk başta itibar kazandı. Müfettişler artık fidye yazılımı saldırısının arkasında Rusların parmağı olduğunu görüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avrupa'da rekorlar düşerken Almanya ve İtalya sıcak hava dalgasından bunaldı",
+    "summary": "Hava sistemi doğuya doğru yayılırken Danimarka, Cumartesi günü rekordaki en yüksek sıcaklığı yaşadıAvrupa sıcak hava dalgası - son güncellemeler Almanya ⁠ ve İtalya, sıcaklıkların 40C'nin (104F) üzeri...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Meksikalı Yetkililer Trump Yönetiminin Muhbiri Oldu",
     "summary": "Meksika Devlet Başkanı Claudia Sheinbaum, ABD'nin Meksikalı politikacılara yönelik soruşturmalarına karşı çıktı. Artık bazı politikacılar işbirliği yapmak istiyor.",
     "timeAgo": "En Guncel (API)",
@@ -880,23 +898,5 @@
     "summary": "İttifakın Genel Sekreteri, ABD'yi diğer müttefiklere göre önceliklendiriyor ve Meloni'nin İran'a saldırmak için 500 uçağın İtalya'daki üsleri kullanmasına izin vermesini sağlayarak yeni bir olaya nede...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/06/24/6a3c207fe4d4d8d8438b458a.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Merz, NATO zirvesi öncesinde yeni bir Avrupa güvenlik çekirdeğini test ediyor",
-    "summary": "Almanya, Fransa, İngiltere, İtalya ve Polonya, Temmuz ayında Ankara'da yapılacak toplantıya katılacakları beş mesaj üzerinde anlaştı.&nbsp;Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/24/6a3c18a7fc6c83a21d8b45ad.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Konglu güzellik uzmanı, Myanmar'daki dolandırıcılık fabrikasına 2 kadını kandırmaktan suçunu kabul etti",
-    "summary": "Hong Kong'lu bir güzellik uzmanı, iki kadına ücretsiz uçuş ve konaklama imkanı sunarak ve bir yıl öncesine göre 48 milyon baht (1,4 milyon ABD doları) daha fazla taşıma karşılığında kazançlı bir ödül ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358458/hong-kong-beautician-pleads-guilty-luring-2-women-myanmar-scam-factory?utm_source=rss_feed"
   }
 ]
