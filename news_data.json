@@ -2,6 +2,141 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Venezuela Canlı Güncellemeleri: Trump'ın Venezuela'yı 'Yönetme' Yemini Depremlerden Sonra Test Edildi",
+    "summary": "Hastaneler yaralılarla dolup ölü sayısı 920'ye yükselirken, ABD Venezüella hükümetine yardım etmek için yüzlerce kurtarma görevlisi gönderdi. Pentagon iki gemi, nakliye uçakları ve helikopterler gönde...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Deprem ABD ile Venezuela Arasındaki Bağları Büyütüyor",
+    "summary": "Trump yönetimi, ABD'nin Venezuela'daki ticari çıkarlarını petrolün ötesine genişlettiği bir dönemde yardım yapacağını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: ABD ve İran birbirlerinin askeri üslerine saldırıyor",
+    "summary": "Mutabık kalınan ateşkese rağmen her iki devlet de Hürmüz Boğazı yakınlarında birbirlerine ateş açıyor. Oradaki nakliye trafiğini kimin kontrol ettiği konusunda çekişme konusu hala devam ediyor. Vance ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-israel-libanon-li.3505461"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: ABD ve İran yine birbirlerine ateş ediyor",
+    "summary": "Ateşkese rağmen karşılıklı saldırılar +++ İsrail ve Lübnan çerçeve anlaşması üzerinde anlaştı +++ İran, Hürmüz Boğazı'ndan istişarede bulunulmadan geçişe karşı uyardı +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-und-iran-beschiessen-sich-wieder-faz-200583539.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail ve Lübnan Washington'da çerçeve barış anlaşması imzaladı",
+    "summary": "Hizbullah, İsrail'in iki \"pilot bölgeden\" çekilmeye başlayacağını öngören belgeyi derhal reddetti. Şii grubun reddi, anlaşmanın uygulanıp uygulanmayacağı konusunda şüphe uyandırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-26/israel-y-libano-firman-un-acuerdo-marco-de-paz-en-washington.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Savaşlarda doktorların korunamaması",
+    "summary": "BM'nin silahlı çatışmalarda sağlık hizmetlerini korumaya çalışmasından on yıl sonra, cezasızlık arttıkça saldırılar normalleşiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-06-24/el-fracaso-a-la-hora-de-proteger-a-los-medicos-en-las-guerras.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Nükleer uzman David Albright: \"Bir atom programı ancak ülkenin kendisi buna karar verdiğinde sona erer\"",
+    "summary": "1990'larda Irak'ta IAEA müfettişi olan analist, İran'ın planlarının savaş nedeniyle \"ciddi bir gerileme\" yaşadığına ancak henüz ortadan kaldırılmadığına inanıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-27/david-albright-experto-nuclear-solo-se-puede-parar-un-programa-atomico-si-el-propio-pais-decide-hacerlo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, dijital hizmetlere uygulanan vergiyi onaylayan Avrupa ülkelerine yüzde 100 gümrük vergisi getirilmesi tehdidinde bulundu",
+    "summary": "ABD başkanı, yeni ticaret oranının diğer ticaret anlaşmalarına göre geçerli olacağının garantisini verdi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-06-26/trump-amenaza-con-aranceles-del-100-a-los-paises-europeos-que-aprueben-el-impuesto-sobre-servicios-digitales.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "G7 dünyaya geri dönüyor",
+    "summary": "G7, dünyanın yerinden çıkmasını yönlendirmek için koordinasyon yeteneğini koruyor; Ukrayna yalnızca yardım için bir varış noktası değildir; Burası çağdaş savaşın laboratuvarıdır. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/27/6a3e7d7be4d4d822058b458a.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Amerika Birleşik Devletleri, Delcy'nin hırpalanmış Venezuela'sını kurtarmaya çalışıyor",
+    "summary": "Washington'un savaş gemilerine yardım etmek için 'sıfır noktasına' çıkarma yapması ve \"eşsiz bir lojistik kapasiteye\" sahip olması, Chavismo'nun yetersizlikleri karşısında bir cankurtaran halatı olara...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/26/6a3ecc9a21efa037628b45a3.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İsrail ve Lübnan, çatışmaları sona erdirmek için Washington'da çerçeve anlaşması imzaladı",
+    "summary": "Pakt, vatandaşlarına yönelik tehdit ortadan kaldırıldığında İsrail'in sınırlarına dönmesine izin veriyor ve ABD'nin desteğiyle Lübnan için üçlü bir Askeri Koordinasyon Grubu oluşturuyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/26/6a3eda6321efa051188b45b8.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İki tropik fırtına Japonya'nın bazı bölgelerine şiddetli yağışlar getirdi",
+    "summary": "Japonya Meteoroloji Ajansı ayrıca Tokyo'nun Izu Oshima'sının yanı sıra Shizuoka, Kanagawa ve Chiba vilayetlerinin bazı bölgeleri için Seviye 4 heyelan uyarısı yayınladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/27/japan/tropical-storm-higos-mekkhala/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran'daki ölümcül okul grevi soruşturmasında bir analistin gözden kaçırdığı sözler ortaya çıktı",
+    "summary": "Bir analistin gözden kaçırdığı açıklamalar ve birbiriyle bağlantılı olmayan ABD istihbarat sistemleri, İran'daki bir okula hava saldırısına yol açan yanlış adımlar arasında yer alıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/27/world/us-iran-school-strike-probe/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "ABD ve İran'ın ticari saldırıları Ortadoğu'daki ateşkese yeni bir yük getiriyor",
+    "summary": "ABD, saldırılarının \"İran güçlerinin ticari gemiciliğe karşı ateşkesi açıkça ihlal eden yersiz saldırganlığına\" yanıt olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/27/world/us-military-strikes-hormuz-attack/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İsrail ve Lübnan çatışmayı sona erdirmeyi amaçlayan çerçeve anlaşmaya vardı",
+    "summary": "İsrail, İsrail sınırından Lübnan'a yaklaşık 10 km kadar uzanan ele geçirilen bölgeyi işaret eden sarı çizginin sınırları boyunca bir \"güvenlik bölgesi\" oluşturacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/06/27/world/israel-lebanon-framework-end-conflict/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
     "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
@@ -763,140 +898,5 @@
     "summary": "Dördüncü Dünya Risk Anketi, iklim değişikliği endişeleri ve farkındalığına odaklanan 140 ülke ve bölgede 143.000'den fazla görüşmenin sonuçlarını bildirdi.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/environment/2026/06/26/climate-change/climate-worry-risk-report/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "'Sihirli Gizli Tur'da mantıksız ama ilgi çekici bir suç draması ortaya çıkıyor",
-    "summary": "Chihiro Amano'nun \"Büyülü Gizli Turu\"nda, üç Japon kadın Singapur'dan altın kaçakçılığı yapma planına bulaşır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/06/26/film/magical-secret-tour/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Küresel Isınma Londra İklim Haftasını Yükseltiyor",
-    "summary": "Avrupa'yı boğan aşırı sıcaklar Londra'daki İklim Haftasını altüst etti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yıkıcı Depremler Venezüella'nın ABD ile Yeni Kurulan İttifakını Test Edecek",
-    "summary": "Başkan Trump, Venezuela'ya silahlı müdahalenin başarısıyla övündü. Doğal bir felaket, söylemi eylemle eşleştirme baskısını artırır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/devastating-earthquakes-will-test-venezuelas-newfound-alliance-with-us.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
-    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da Savaş: Umman: Hürmüz Boğazı'nda geçiş ücreti planlanmıyor",
-    "summary": "ABD perspektifinden İran, ne 60 günlük müzakereler sırasında ne de sonrasında Hürmüz Boğazı'ndan geçiş için ücret talep edemez. Umman da kendisini bu yönde ifade ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-libanon-oman-strasse-von-hormus-li.3500746"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: Hürmüz Boğazı'ndaki tahliye operasyonu saldırının ardından askıya alındı",
-    "summary": "11.000'den fazla denizci güvenli bir yere getirilecek +++ İsrail ordusu ancak Hizbullah silahsızlandırıldıktan sonra Lübnan'dan ayrılmak istiyor +++ Rubio Körfez'de güven arıyor +++ tüm gelişmeler can...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-evakuierungsaktion-in-strasse-von-hormus-nach-angriff-ausgesetzt-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetiminde ABD: Yüksek Mahkeme: Trump, Haitililer ve Suriyelilerin koruyucu statüsünü iptal edebilir",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-supreme-court-trump-darf-schutzstatus-fuer-haitianer-und-syrer-aufheben-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran'ın Bölgesel Komşuları: Ortadoğu'da Güçler Nasıl Değişti?",
-    "summary": "Trump Ortadoğu'dan uzaklaşsa bile İran'ın komşuları kalmalı. Ağır darbelere rağmen özgüven patlaması yaşayan bir rejimle karşı karşıyasınız.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/wie-sich-die-kraefte-in-nahost-verschoben-haben-200966186.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İran ve Umman: Hürmüz Boğazı'nda yeni bir güç mücadelesi çıktı",
-    "summary": "Umman, Hürmüz Boğazı üzerinden kıyılarına yakın bir “geçici deniz koridoru” açıyor. İran öfkeli tehditlerle karşılık veriyor. Daha sonra tahliye durur.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-wuetet-gegen-neuen-omanischen-hormus-korridor-200966924.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Barış Ödülü: İnsanları korumaya yönelik uluslararası bir yasa",
-    "summary": "Alman Kitap Ticareti Barış Ödülü'nün bu yılki kazananı, insanlığa karşı işlenen suçları pratik, bilimsel ve edebi açıdan cezalandırmaya kendini adamıştır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/philippe-sands-verteidiger-des-voelkerrechts-200967213.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "ABD, Küba ve İran Venezuela depreminin ardından küresel kurtarma çalışmalarına katılıyor",
-    "summary": "Latin Amerika ve Avrupa ülkeleri de halihazırda insani kriz yaşayan ulusa dayanışma ve yardım sunuyor Venezuela depremi - son güncellemeler İran, ABD ve Küba dahil olmak üzere dünyanın dört bir yanınd...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/global-development/2026/jun/25/us-cuba-iran-global-rescue-effort-venezuela-earthquakes"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Paris şehri, iklim riskleri davasında TotalEnergies'e karşı kısmi zafer elde etti",
-    "summary": "Fransız sermayesi, petrol ve gaz ürünlerinden kaynaklanan emisyonların ifşa edilmesiyle ilgili olarak petrol şirketine karşı 'dönüm noktası niteliğindeki kararı' memnuniyetle karşıladıParis mahkemesi,...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Felaket, Trump'ın Venezuela'da seçtiği kişi olan Delcy Rodríguez'in yönetim kapasitesini test ediyor",
-    "summary": "ABD'ye göre yüzyılın en güçlü depremi, geçici bir başkanın olduğu, imkanların sınırlı olduğu ve temel hizmetlerin istikrarsız olduğu bir ülkede meydana geldi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-06-25/la-catastrofe-pone-a-prueba-la-capacidad-de-gestion-de-delcy-rodriguez-como-elegida-de-trump-en-venezuela.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD Yüksek Mahkemesi Trump'ı destekliyor ve Haitililer ile Suriyelilere yönelik göçmenlik korumasının kaldırılmasını onaylıyor",
-    "summary": "Karar, yaklaşık 350.000 Haitili ve 6.100 Suriyeliyi sınır dışı edilme tehlikesiyle karşı karşıya bırakırken, 17 ülkeden gelen 1,3 milyon göçmeni de tehlikeye atıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/25/6a3d4b9621efa0405c8b45c7.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Marco Rubio Körfez Liderleriyle Buluşurken İran, Hürmüz Boğazı'ndaki Gemileri Tehdit Ediyor",
-    "summary": "Washington, İran'la imzaladığı çerçeve barış anlaşması için bölgesel destek ararken, yeni uyarı, kritik su yolunun yeniden kullanılmasına yönelik çabaları karmaşık hale getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html"
   }
 ]
