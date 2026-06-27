@@ -2,6 +2,123 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Lübnan'da savaş: İsrail ilk kez taviz vererek Lübnan'daki bölgelerden çekiliyor",
+    "summary": "İsrail ve Lübnan savaşı sona erdirmek için bir anlaşma üzerinde anlaştı. Hizbullah masada değildi ve anlaşmayı reddediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-libanon-friedensabkommen-rueckzug-kontrolle-li.3504895"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu: İsrail ve Lübnan anlaşma üzerinde anlaştı",
+    "summary": "İsrail ve Lübnan'dan hükümet temsilcileri Washington'da ABD'nin arabuluculuğuyla müzakerelerde bulunmuştu. Hizbullah milisleri anlaşmayı reddetti ve kendisini bu anlaşmaya bağlı görmüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/libanon-israel-abkommen-li.3506236"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Emirliklerin uyumu: “İran, düşman olarak görüldüğüne dair net bir sinyal aldı”",
+    "summary": "Körfez ülkeleri İran savaşı sonrasında dış politika rotasını belirlemekte zorlanıyor. Emirlikler kendi yoluna gidiyor ve İsrail ile daha yakın işbirliği arayışında. Bu zor bir iş.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/irankrieg-wie-sich-die-emirate-jetzt-strategisch-ausrichten-accg-200964851.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Vance: “Şiddete şiddetle karşılık verilir”",
+    "summary": "İran'ın yük gemilerine insansız hava aracıyla saldırmasının ardından: ABD ordusu İran'daki hedeflere saldırdı +++ İsrail ve Lübnan çerçeve anlaşması üzerinde anlaştı +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-vance-gewalt-wird-mit-gewalt-beantwortet-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Ukrayna, Rusya'ya barış müzakereleri teklif ediyor",
+    "summary": "Ukrayna Cumhurbaşkanı video mesajıyla tekliflerden bahsetti +++ Kırım'da olağanüstü hal ilan edildi +++ Ukrayna Rus saldırılarında üç kişinin öldüğünü bildirdi +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-bietet-russland-friedensverhandlungen-an-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Teksas, öğrencilerden bazı Kutsal Kitap ayetlerini okumalarını istiyor",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-texas-verpflichtet-schueler-zum-lesen-bestimmter-bibeltexte-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Kiev'e insansız hava araçlarıyla saldırılar: Moskova'da kontrolün kaybedildiği havası var",
+    "summary": "Vladimir Putin birkaç gün içinde Ukrayna'yı ele geçirmek istiyordu. Artık başkentini drone saldırılarından bile koruyamıyor. Savaş yorgunluğu tüm ülkeye yayılıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/drohnenangriffe-ueber-moskau-liegt-ein-hauch-von-kontrollverlust-accg-200962556.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "İran'ın Bölgesel Komşuları: Ortadoğu'da Güçler Nasıl Değişti?",
+    "summary": "Trump Orta Doğu'dan uzaklaşsa bile İran'ın komşuları kalmalı. Ağır darbelere rağmen özgüven patlaması yaşayan bir rejimle karşı karşıyasınız.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wie-sich-die-kraefte-in-nahost-verschoben-haben-200966186.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avrupa'daki sıcak hava dalgası doğuya doğru ilerlerken Almanya '40 derecenin üzerinde' sıcaklıklara hazırlanıyor - canlı",
+    "summary": "Tahminciler, en sıcak koşulların orta ve doğu Avrupa'ya yayıldığını söylüyor Birleşik Krallık, hafta sonu bu haftanın rekor kıran sıcaklarına bir süre ara verecek, ancak Avrupa'nın geri kalanının çoğu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Felaket, Trump'ın Venezuela'da seçtiği kişi olan Delcy Rodríguez'in yönetim kapasitesini test ediyor",
+    "summary": "ABD'ye göre yüzyılın en güçlü depremi, geçici bir başkanın olduğu, imkanların sınırlı olduğu ve temel hizmetlerin istikrarsız olduğu bir ülkede meydana geldi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-06-25/la-catastrofe-pone-a-prueba-la-capacidad-de-gestion-de-delcy-rodriguez-como-elegida-de-trump-en-venezuela.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran ve ABD birbirlerine saldırıyor ve barış adına en büyük diplomatik ilerlemeyi riske atıyor",
+    "summary": "Ülke hükümetinin Tel Aviv ile İsrail güçlerinin bölgeden tamamen çekilmesini öngörmeyen bir ateşkes anlaşması yapmasının ardından Lübnan'da da gerginlikler artıyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/06/27/6a3f888afdddff4c1d8b4580.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Tahmin piyasaları: Hukuk uzmanları, Hong Kong yasağının tek başına riskleri çözmeyeceğini söylüyor",
+    "summary": "Tahmin piyasaları, Hong Kong'un kumar yasaları kapsamında gri bir alanı işgal ediyor ve uzmanlar, giderek daha popüler hale gelen bahis platformlarının piyasa manipülasyonu ve tüketicinin korunmasıyla...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358576/prediction-markets-hong-kong-ban-alone-will-not-solve-risks-legal-experts-say?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
     "title": "Venezuela Canlı Güncellemeleri: Trump'ın Venezuela'yı 'Yönetme' Yemini Depremlerden Sonra Test Edildi",
     "summary": "Hastaneler yaralılarla dolup ölü sayısı 920'ye yükselirken, ABD Venezüella hükümetine yardım etmek için yüzlerce kurtarma görevlisi gönderdi. Pentagon iki gemi, nakliye uçakları ve helikopterler gönde...",
@@ -781,122 +898,5 @@
     "summary": "Yüksek Mahkeme, Trump yönetiminin ABD'deki birçok Haitili ve Suriyeliye yönelik insani korumaları sona erdirerek potansiyel sınırdışı edilmelerinin önünü açabileceğine karar verdi.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da savaş: İran, Hürmüz Boğazı'ndaki konteyner gemisine saldırdı",
-    "summary": "Devrim Muhafızları, Umman yakınlarında bir gemiye drone ile saldırıyor. Tahran'a göre geçiş yalnızca İran rotalarında güvenli. Nakliye trafiği kısa süreliğine durdurulacaktır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-trump-hormus-angriff-schiff-li.3505461"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD: Yüksek Mahkeme Trump'ın sığınma politikasını destekliyor",
-    "summary": "Yüksek Mahkeme yargıçlarının çoğunluğu, Donald Trump'ın Haitililer ve Suriyelilere yönelik insani korumayı iptal etmesine ve sınırda koruma arayanları geri çevirmesine izin veriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-supreme-court-trump-asylpolitik-li.3505441"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Rusya, Moskova'ya büyük Ukrayna saldırıları bildirdi",
-    "summary": "Rusya: 28 insansız hava aracı düşürüldü +++ Merz: “Rusya bu savaşı kazanamayacak” +++ Gdansk'ta yeniden yapılanma konferansı +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-meldet-massive-ukrainische-angriffe-auf-moskau-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "NATO toplantıları tartışması: Pavel'in Ankara'ya gelmesine neden izin verilmiyor?",
-    "summary": "Çek Başbakanı Babiš, Başkan Pavel'in NATO zirvesine gitmesini istemiyor. Bunun arkasında gerçek bir güç mücadelesi var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/warum-tschechiens-praesident-pavel-nicht-zum-nato-gipfel-kommen-darf-200959034.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Wayne Swan, Hanson'u Trump'a benzetiyor ve İşçi Partisi'nin Tek Ulus'un \"karanlık, distopik gelecek tablosunu\" durdurması gerektiğini söylüyor",
-    "summary": "Avustralya İşçi Partisi başkanı, Avustralya'da otoriter eğilimlerin 'normalleştirilmemesi' gerektiğini söylüyor En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika haber e...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/26/one-nation-hanson-trump-comparison-labor-party-president-wayne-swan-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Avustralyalı müzisyenler Nick Cave, Kylie ve daha pek çok kişinin yapay zeka eğitim aracını yutmasının ardından uyarı notu verdi",
-    "summary": "Something For Kate'den Paul Dempsey, Yapay Zekanın nasıl müzik yapılacağını öğrenmek için milyonlarca şarkıyı kazıdığını \"Her şey işe yaramaz hale geldi\" diyor En son güncellemeler için Avustralya hab...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Deprem trajedisi Trump-Venezuela eksenini güçlendiriyor: \"Yeni ve büyük dostlarımızın yanında olacağız\"",
-    "summary": "Felaket, Karayip ülkesinin fiilen Washington Read'in kolonisi olarak faaliyet gösterdiği bir aşamaya denk geliyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/06/26/6a3d3951e9cf4afe278b458e.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "'Luffy' suç çetesinin görünen kıdemli üyesi Manila'da gözaltına alındı",
-    "summary": "Tokyo Özet Mahkemesi, hırsızlık şüphesiyle 56 yaşındaki Hideharu Inoue için tutuklama emri çıkardı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/japan/crime-legal/luffy-senior-member-manila/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD'nin üst düzey elçisi Körfez ülkelerini gezdikten sonra Hürmüz'ün \"kabul edilemez\" olduğunu söyledi",
-    "summary": "Marco Rubio'nun yorumları, İran ve Umman'ın hafta başında Hürmüz Boğazı'nı ortaklaşa yönetmeye yönelik bir anlaşma üzerinde çalıştıklarını söylemelerinin ardından geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/world/us-rejects-hormuz-tolls/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "FIFA, Dünya Kupası'ndaki Mısır-İran karşılaşmasında gökkuşağı bayraklarına izin verecek",
-    "summary": "Her iki ülkenin federasyonları da Onur Maçı olarak adlandırılan maça itirazlarını dile getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/06/26/soccer/world-cup/iran-egypt-pride-fifa-flag/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Petrol tankerleri tekrar geri dönerken Hürmüz Boğazı'nda gemi çarptı",
-    "summary": "İngiltere Deniz Ticaret Operasyonları, Umman'ın güneydoğusuna doğru seyreden kimliği belirlenemeyen kargo gemisinin yan tarafından vurulduğunu ve köprünün hasar gördüğünü söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/world/hormuz-oil-tankers-turn-back/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD-İran anlaşması Netanyahu'yu en büyük kayıp olarak bırakabilir",
-    "summary": "Yurtdışında izole edilmiş, müttefiki tarafından kısıtlanmış ve sonbaharda yapılacak seçimler öncesinde savunmasız olan İsrail Başbakanı Binyamin Netanyahu, şimdi siyasi geleceğinin ve mirasının risk a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/06/26/world/politics/netanyahu-us-iran-deal-loser/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Dünyanın dört bir yanındaki insanlar iklim değişikliği farkındalığı konusunda neyi yanlış anlıyor?",
-    "summary": "Dördüncü Dünya Risk Anketi, iklim değişikliği endişeleri ve farkındalığına odaklanan 140 ülke ve bölgede 143.000'den fazla görüşmenin sonuçlarını bildirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/environment/2026/06/26/climate-change/climate-worry-risk-report/"
   }
 ]
