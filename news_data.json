@@ -1,5 +1,32 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Trump'ın merkez bankası başkanını görevden almasına şimdilik izin verilmiyor",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-trump-darf-notenbank-vorstaendin-vorerst-nicht-entlassen-li.3507647"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ukrayna Savaşı: Putin var olmayan başarıları okuyor",
+    "summary": "Rusya'nın hükümdarı üç kez sahneye çıktı. Krizde müzakerelere değil, ihracat yasaklarına ve uçaksavar savunmasına güveniyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/wladimir-putin-gibt-drei-interviews-und-ignoriert-die-krise-200978394.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "AB, Çin'le 360 ​​milyar avroluk ticaret açığı konusunda üç ay sürecek görüşmelere hazırlanıyor",
+    "summary": "İki taraf, haftalarca süren tehditlerin ardından ikili ilişkiyi 'daha dengeli' hale getirme konusunda anlaştıAB ve Çin, bloğun 360 milyar Euro'luk (310 milyar £) yıllık ithalat/ihracat dengesizliği ne...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -871,32 +898,5 @@
     "summary": "Trumpist liderlik barış dışında her şeyin garantisidir. Gazze'de, Lübnan'da ya da Ukrayna'da hiçbir şey bitmez ve en önemli ve en önemli şeyi yarım bırakır.",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-06-28/invisibles-y-perdedores-de-todas-las-guerras.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Avrupa, NATO'nun baskı altında olduğu Soğuk Savaş'tan bu yana en büyük yeniden silahlanmayla karşı karşıya",
-    "summary": "Donald Trump'ın İttifak'a olan bağlılığı ve Rusya tehdidi hakkındaki şüpheler Avrupalıları savunmada yeni bir döneme girmeye itiyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-28/europa-afronta-su-mayor-rearme-desde-la-guerra-fria-con-la-otan-bajo-presion.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Meloni ve Trump cennetten kabusa gidiyor",
-    "summary": "İtalya Başbakanı, iş adamının belirsizliğinden bıktığında ABD ile AB arasındaki iki yönlü oyununun bedelini ödedi. Gerçekte savunma harcamalarını yavaşlatıyor ve oyları elinden alan bir ilişkiden uzak...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-28/meloni-y-trump-pasan-del-idilio-a-la-pesadilla.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Musk'un hapiste olmasını istediği Demokrat Ro Khanna: \"Para ABD'de siyaseti ele geçirdi\"",
-    "summary": "Silikon Vadisi'nin temsilcisi olan kongre üyesi, Epstein'in belgelerinin yayınlanması için Trump'a karşı yürütülen haçlı seferine öncülük ediyor ve 2028'de başkanlığa aday olma olasılığını dışlamıyor....",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-06-28/ro-khanna-el-democrata-que-pone-contra-las-cuerdas-a-trump-el-dinero-tiene-secuestrada-la-politica-en-estados-unidos.html"
   }
 ]
