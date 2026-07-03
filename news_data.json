@@ -3,6 +3,60 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "ABD'li Yetkililer İsrail'in İranlı Müzakerecileri Öldürmeyi Planladığına İnanıyordu",
+    "summary": "Amerikalı yetkililer, İsrail'in dışişleri bakanı Abbas Araghchi'yi veya Parlamento sözcüsü Muhammed Ghalibaf'ı öldürmeye yönelik herhangi bir girişiminin barış görüşmelerini raydan çıkaracağından kork...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "SZ podcast'i \"Doğru noktaya\": Rusya'da petrol krizi: hayal kırıklığı, propaganda - ve devrim yok",
+    "summary": "Kremlin artık Ukrayna ile savaşın sonuçlarını halktan gizleyemez. Ama: Yeniden yorumlayabilir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-kreml-putin-benzinkrise-li.3510120"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Papa, ABD'deki kamusal söylemi eleştirdi",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-papst-kritisiert-oeffentlichen-diskurs-in-den-usa-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Hamaney'in cenazesi: İran'ın yeni hükümdarı ilk kez kamuoyuna mı çıkıyor?",
+    "summary": "Dini Lider Ali Hamaney'in cenaze töreninin bir güç gösterisi olması amaçlanıyor. Ancak Tahran'daki yönetim hâlâ halefinin güvenliğinden korkuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/staatsbegraebnis-fuer-den-obersten-fuehrer-ali-khamenei-in-iran-200994391.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kanada'daki yeni boru hattı, BC ve First Nations'ın kaygılarını hafifletme sözü verilen 150 milyar Kanada dolarının ardından devam edecek",
+    "summary": "Limanın genişletilmesi ve balinaların korunması BC ve Alberta'nın bir parçası olarak ülkenin yurtdışındaki varlığını genişletmeyi planlıyor Kanada ve Alberta eyaleti hükümetleri, ikilinin British Colu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Papa, ABD'nin Trump'a örtülü bir şekilde azarlayarak göçmenleri karşılama geçmişini övdü",
+    "summary": "Papa Leo, ABD'ye yaptığı ilk büyük konuşmasında Amerikalıları Bağımsızlık Bildirgesi'nin ideallerine uygun yaşamaya çağırdı Papa Leo, kendi ülkesine yaptığı ilk büyük konuşmasını ABD'nin göçmenleri ka...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Dini Liderin Cenazesinin 1. Günü ve Müttefikler İran'a İniyor",
     "summary": "Çin, Rusya, Pakistan ve diğer ülkelerden gelen yabancı ileri gelenler, tören günleri başlarken Cuma günü Ayetullah Ali Hamaney'e saygılarını sunmaya hazırlanıyor.",
     "timeAgo": "En Guncel (API)",
@@ -844,59 +898,5 @@
     "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
-    "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
-    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
-    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD'nin 250 yılı: “Salgın olmalı, kaynama olmalı”",
-    "summary": "Tarihçi Hiram Kümper'in ABD'ye büyük bir inancı var: Başkan Trump yönetimindeki düşüşe rağmen, Amerika'nın kuruluş efsanesi hâlâ insanları Amerikan değerleri uğruna savaşmak için harekete geçirebilir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-jahre-unabhaengigkeit-spaltung-trump-li.3500966"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ulusal Güvenlik: Vance Rubio'ya Karşı: İran Sürümü",
-    "summary": "İkisi dünyanın en zorlu diplomatik sorunlarından birine farklı yaklaşımlar izliyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/vance-vs-rubio-iran-edition-e645085/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da Savaş: Arabulucu: Dolaylı ABD-İran görüşmeleri olumlu",
-    "summary": "Katar kaynaklarına göre, İran'ın öldürülen Devlet Başkanı Ayetullah Ali Hamaney için düzenlenen yas törenlerinin ardından görüşmelerin bir an önce devam etmesi gerekiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-trump-verhandlungen-doha-li.3508345"
   }
 ]
