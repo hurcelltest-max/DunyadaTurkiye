@@ -2,6 +2,231 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Avustralya Çin'i Geri Püskürtmeye Çalıştı. Çin Daha Çok Zorladı.",
+    "summary": "Pekin ve Canberra arasındaki ilişkiler son dört yılda gelişti, ancak Çin'in büyükelçisi artık \"Soğuk Savaş zihniyeti\" konusunda uyarıda bulunuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD'nin İran'a Yatırım Umutları Onlarca Yıllık Tarihle Kırılacak",
+    "summary": "Üst düzey ABD'li yetkililer, İran'ın ABD'ye karşı tutumunu değiştirmesinin zengin bir şekilde ödüllendirileceğini söyledi. İranlı liderler geçmişte böyle bir pazarlığı reddetmişti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Hamaney'in Cenaze Alayı İran ve Irak'ta 5 Şehri Ziyaret Edecek",
+    "summary": "Sayın Hamaney'in naaşı, Tahran'da dinlendikten sonra, milyonları çekmesi beklenen dört günlük bir geçit töreni sırasında Şii İslam'ın en kutsal yerlerinden bazılarına götürülecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/khamenei-funeral-itineray-iran-iraq-shia.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas, Gazze Ateşkes Anlaşması Kapsamında Dört İsrailli Kadın Askeri Serbest Bıraktı",
+    "summary": "Rehinelerin, çok aşamalı anlaşmanın yürürlüğe girmesinden bu yana serbest bırakılan ikinci grup olması, savaşın kalıcı bir şekilde sona ermesi yönündeki umutları artırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas İsrail'den 200'den Fazla Rehin Aldı. İşte Bildiklerimiz.",
+    "summary": "İsrail, 7 Ekim'de kaçırılan en az 34 kişinin cesedi de dahil olmak üzere 91 rehinenin hâlâ esaret altında olduğunu söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Podcast “Doğru Noktaya”: ABD'nin 250 Yılı: Henüz her şey kaybolmadı",
+    "summary": "4 Temmuz'da ABD bağımsızlığının yıldönümünü kutluyor. Mevcut Başkan Trump bu hikayede hangi yeri işgal ediyor?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-nachrichten-usa-250-jahre-donald-trump-li.3509954"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "250. Doğum Günü: Amerika Ne Oldu?",
+    "summary": "ABD kötü durumda ama güvenebileceği bir anayasası var. 250 yıl sonra bile. Trump'tan sonra bile.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/250-jahre-usa-was-aus-amerika-geworden-ist-200983368.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Paris ve Londra, Hürmüz Boğazı'nı Umman ile güvence altına almak istiyor",
+    "summary": "Boğazdan güvenli geçiş seçeneklerine ilişkin tartışmalar +++ Hamaney'in cenaze törenlerinde İran'da en yüksek güvenlik seviyesi +++ Şam'daki bomba patlamasında en az beş ölü +++ tüm gelişmeler canlı b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-paris-und-london-wollen-strasse-von-hormus-mit-oman-absichern-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Trump Rushmore Dağı'nda: \"Biz şimdiye kadar var olan en güçlü ve en başarılı ülkeyiz\"",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-in-mount-rushmore-wir-sind-das-staerkste-und-erfolgreichste-land-das-jemals-existiert-hat-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Amerika'nın 250 Yılı: Rushmore Dağı'nın Gölgesi",
+    "summary": "Donald Trump, Bağımsızlık Günü arifesinde Rushmore Dağı'ndaki taş başkan başlarının önünde kutlama yapmak istiyor. Amerikan demokrasisinin büyüklüğünün ve ilk günahlarından birinin birbirine yakın old...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/250-jahre-usa-was-der-4-juli-fuer-die-ureinwohner-bedeutet-accg-200945317.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kadınlara ve kız çocuklarına yönelik yurt dışı eğitim projesi İngiltere tarafından iki yıl sonra iptal edildi",
+    "summary": "Afrika, Asya ve Orta Doğu'da 1 milyon kız çocuğunun okulda tutulmasını amaçlayan program, yardım kesintilerinin ardından geri çekildiAfrika, Asya ve Orta Doğu'da 1 milyon kız çocuğunun okulda kalmasın...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Uzmanlar, yeni yüksek seviyenin küresel ısınmanın 'imzası' olduğu konusunda uyardığında, Sidney 1859'dan bu yana en sıcak Haziran'ı kaydediyor",
+    "summary": "Meteoroloji Bürosu, şehrin ortalama sıcaklığının 1991'de belirlenen 15,7C'lik önceki rekoru geride bırakarak 16,1C'ye ulaştığını söylüyor. Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Chris Minns, Tek Ulus eyalet konferansına yaklaşırken İşçi Partisi'nin iktidarda kalabilmek için \"Everest'e tırmanması\" gerektiğini söyledi",
+    "summary": "Yeni Güney Galler başbakanı, parti konferansında konuşurken Pauline Hanson'un partisine yönelik artan tehdit konusunda uyardı Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podc...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/04/chris-minns-admits-nsw-labor-needs-to-climb-everest-to-stay-in-power-as-protesters-interrupt-state-conference-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kelt ülkeleri Reform seçimlerinin kazanılması durumunda Birleşik Krallık'ın parçalanmasını planlamaya başladı",
+    "summary": "Politikacılar, Nigel Farage'ın partisinin hükümete gelmesi durumunda veya hatta güçlü bir muhalefet halinde anayasal kargaşaya hazırlanıyor. Nigel Farage'ın yükselişi, İrlanda, Kuzey İrlanda, İskoçya ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "4 Temmuz'da ABD, Trump tarafından bölünmüş bir ulus olarak 250. yıldönümünü kutluyor",
+    "summary": "Ülkenin cumhurbaşkanı, kendisini Washington'daki tarihi sıcak hava dalgasının damgasını vurduğu Bağımsızlık Günü'nün merkezi cazibesi olarak programladı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-04/estados-unidos-celebra-el-4-de-julio-de-su-250-aniversario-como-una-nacion-partida-por-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Demokrat kongre üyesi Jamie Raskin: “ABD'nin kurucuları Trump'ın göç politikasını onaylamaz”",
+    "summary": "Trump'ın Capitol Hill'deki en büyük rakiplerinden biri olan siyasetçi, Thomas Paine konusunda uzman. Ülkesinin 250. doğum gününde, Bağımsızlık Bildirgesi'nin önemli bir broşürü olan 'Sağduyu' kitabını...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-07-04/jamie-raskin-congresista-democrata-los-fundadores-de-ee-uu-no-aprobarian-la-politica-migratoria-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, ABD'nin 250. kuruluş yıldönümünü Rushmore Dağı'nda anıyor ve burada yüzünü görmeyi umuyor",
+    "summary": "Soğuk Savaş zamanlarında olduğu gibi, Amerikan başkanı vatanseverlik abartmalarıyla dolu bir konuşmasında komünizmin hayaletine saldırdı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-04/trump-conmemora-el-250-aniversario-de-estados-unidos-en-el-monte-rushmore-donde-aspira-a-ver-su-rostro.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Mojtaba'yı bekliyorum",
+    "summary": "İsrail ve ABD tarafından öldürülen İran'ın dini lideri Ayetullah Ali Hamaney'in cenaze töreninde dikkatler, oğlunun ve halefinin katılıp katılmayacağına odaklandı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-04/esperando-a-mojtaba.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Estonya kendisini Rusya'nın büyüyen tehdidine karşı koruyor",
+    "summary": "Baltık ülkesi, Kremlin'in hibrit savaşına karşı koymak için daha fazla savunma harcaması, siber güvenlik engelleri ve mevzuat değişiklikleriyle her cephede güçlendiriliyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-04/estonia-se-blinda-ante-la-creciente-amenaza-de-rusia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump'ın diğer işleri: otellerden golf sahalarına, saatlerden İncillere kadar",
+    "summary": "Başkan, dünyanın yarısına yayılmış golf kulüpleri, lüks rezidanslar ve gökdelenlerle geniş bir emlak imparatorluğuna sahip.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-02/los-otros-negocios-de-trump-de-hoteles-y-campos-de-golf-hasta-relojes-y-biblias.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran, savaşta öldürülen dini lider Ali Hamaney için birkaç günlük cenaze törenine başladı",
+    "summary": "Hükümet milyonlarca insanın başkentin sokaklarına çıkmasını planlıyor ve bazıları şu sloganları attı: \"Sözümüz bir! İntikam! İntikam!\"&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/04/6a48b383e4d4d8f26c8b45ae.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump ve aşırı sıcaklık, Amerika'nın 250. doğum gününe ilişkin kutuplaşmış kutlamaları gölgede bırakıyor",
+    "summary": "Başkan, birçok sosyalist adayın yerel seçimlerdeki zaferinden sonra, \"komünizmin Amerikan özgürlüğüne yönelik, Birinci ve İkinci Dünya Savaşlarından, Pearl Harbor'dan veya 11 Eylül'den bile daha ölümc...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/04/6a48a585e85ece06778b4572.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran dini lideri Hamaney'in cenaze törenleri başlarken büyük kalabalıklar toplandı",
+    "summary": "İranlı yetkililer önümüzdeki üç gün içinde yalnızca Tahran'da 15 ila 20 milyon arasında katılımcı beklediklerini söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/04/world/funeral-ceremonies-iran-ali-khamenei/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Enerjiye aç Asya şimdiden İran krizinden ders alıyor",
+    "summary": "Bölge, daha büyük tampon bölgelere, daha çeşitli fosil yakıt tedarikçilerine ve genel olarak daha iyi bir enerji kaynakları karışımına ihtiyacı olduğunun farkına varıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/07/04/economy/energy-crisis-asia-iran-lessons/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump, ABD'nin 250. kuruluş yıldönümünde Amerika'yı övüyor ve komünizme kızıyor",
+    "summary": "Amerikalıları, ulusun kurucuları tarafından öngörülen özgürlükleri, kendi deyimiyle ilerici Demokratların oluşturduğu \"komünist\" tehdide karşı korumaya çağırdı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/04/world/trump-250th-speech/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
     "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
@@ -673,230 +898,5 @@
     "summary": "Önemli NATO zirvesinden kısa bir süre önce ABD Başkanı, Federal Cumhuriyetin diğer Avrupa ülkelerine kıyasla orduya çok daha az para harcadığını iddia ediyor. Bu sonuca nasıl vardığı belli değil.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/usa-news-donald-trump-nato-deutschland-li.3506498"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: Şam'daki bomba patlamasında en az beş ölü",
-    "summary": "Rapor: Adalet Sarayı yakınındaki kafede patlayıcı cihaz +++ ABD ve İran, Katar'da “iletişim kanalı” üzerinde anlaştı +++ Trump, İran'la “çok iyi görüşmelerden” söz ediyor +++ canlı blogdaki tüm gelişm...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-mindestens-fuenf-tote-bei-bombenexplosion-in-damaskus-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Zelensky misillemeyi duyurdu",
-    "summary": "Rusya'nın Kiev'e saldırısından sonra 20'den fazla ölü +++ Federal hükümet: Putin halka karşı teröre güveniyor +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-kuendigt-vergeltung-nach-russischem-angriff-auf-kiew-an-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Erdoğan'la dalga geçen komedyen tutuklandı",
-    "summary": "Uzun zamandır hiçbir Türk komedyen cumhurbaşkanını bu kadar açık eleştirmeye cesaret edemedi. Şimdi Deniz Göktaş tutuklandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/tuerkischer-komiker-nach-kritik-an-erdogan-festgenommen-200991585.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Kanadalı çocuk uyandığında yüzünde yarasa bulması üzerine kuduzdan öldü",
-    "summary": "On bir yaşındaki çocuk, Ontario'da 'son derece nadir' bir vakayla karşılaştıktan 19 gün sonra semptomlar geliştirdi. Kanada'daki doktorlar, Ontario'daki bir kır evini ziyaret ederken uyandığında burnu...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "AFP, IDF'de görev yapan Avustralya vatandaşının Gazze'de savaş suçları işlediği iddiasını değerlendiriyor",
-    "summary": "İsrail Savunma Kuvvetleri taburuna yönelik iddialar arasında, askeri gerekçe olmaksızın 2023 ve 2024'te konut binalarının kasıtlı hedef alınması ve yıkılması yer alıyor. Son dakika haber e-postamızı, ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Rapora göre, zenginlerin daha da zenginleşmesine rağmen Avustralya'nın ortalama serveti 2020'den bu yana neredeyse yüzde 7 azaldı",
-    "summary": "Ülke çapında 25.000'den fazla milyonerin eklenmesiyle İsviçre bankası UBS, \"en zengin ile daha geniş nüfus arasında büyüyen bir uçurum\" olduğunu tespit ediyor Ülke genelinde 25.000'den fazla kişinin m...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/03/australia-median-wealth-falls-but-rich-getting-richer"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Guardian Essential anketine göre Avustralyalılar İsrail hakkında Çin'den daha olumsuz görüşe sahip",
-    "summary": "Anket aynı zamanda Donald Trump'ın yeniden seçilmesinden bu yana algısının bozulduğunu ve yanıt verenlerin üçte birinden daha azının ona olumlu baktığını ortaya koyuyor Son dakika haber e-postamızı, ü...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İsrail, Batı Şeria'da üç yıldan kısa sürede 236 çocuğu öldürdü: “Askerler tehdit edilmeden ateş açıyor”",
-    "summary": "B'Tselem örgütüne göre, İsrail işgalinin başladığı 1967'den bu yana Filistinli çocuklara yönelik askeri şiddet eşi benzeri görülmemiş bir olay.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-02/israel-ha-matado-a-236-ninos-en-cisjordania-en-menos-de-tres-anos-los-soldados-abren-fuego-sin-estar-amenazados.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump, Kasım seçimleri öncesinde “tarihte ilk” olan Cumhuriyetçi kongresini duyurdu",
-    "summary": "Amerika Birleşik Devletleri Başkanı, halkını her dört yılda bir başkanlık seçimlerinden önce düzenlenene benzer eşi benzeri görülmemiş bir toplantıya çağırıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-06-30/trump-anuncia-una-convencion-republicana-la-primera-de-la-historia-como-previa-a-las-elecciones-de-noviembre.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Canlı Güncellemeler: Rusya, Ölümcül Saldırılarla Ukrayna'nın Başkentini Vurdu",
-    "summary": "Yerel yetkililer, Kiev'de en az 18 kişinin öldürüldüğünü söyledi. Ukrayna cumhurbaşkanı, ülkesinin güçlerinin Rusya topraklarının daha derinlerine saldırması nedeniyle Moskova'nın \"büyük bir saldırı\" ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Rusya'nın Ukrayna'ya Yönelik Ölümcül Saldırısı Avrupa'ya Kendi Zayıf Noktalarını Hatırlattı",
-    "summary": "Kıtadaki hükümetler askeri harcamalarını artırdı, ancak saldırılar, çatışmanın NATO topraklarına geçmesi durumunda hazırlıklı olmaları gerektiğine dair bir başka uyarı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Putin, Ukrayna'nın savaşı Rusya'ya taşımasının ardından yeni saldırılarla misilleme yaptı",
-    "summary": "Ukrayna savaşı Rusya'ya taşıyor ancak şu ana kadar Başkan Vladimir V. Putin'in tepkisi, perşembe günü Kiev'e yapılan ölümcül balistik füze ve insansız hava aracı saldırıları da dahil olmak üzere saldı...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
-    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump, Gazze'yi 'Temizlemek', Mısır ve Ürdün'e Mülteci Göndermek İstediğini Söyledi",
-    "summary": "Ağır bombalanan bölgeyi \"yıkım alanı\" olarak nitelendiren cumhurbaşkanı, Filistinlilerin geçici veya uzun vadeli olarak başka yerlere yerleştirilmesini önerdi; bu öneri, savaşın başlamasından bu yana ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İsrail ve Lübnan: “Terör tünelleri, terör köyleri, bunların hepsi ortadan kaldırılacak”",
-    "summary": "Lübnan'daki çatışmaların sona ermesi İran'ın ABD ile müzakerelerdeki temel taleplerinden biri. Ancak İsrail Başbakanı Netanyahu farklı bir strateji izliyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-netanjahu-libanon-terror-angriffe-sicherheitszonen-li.3508886"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "İran müzakereleri: Mollalar neden bu kadar uzlaşmaz?",
-    "summary": "İran'a karşı savaşta ABD Başkanı Trump stratejik bir tuzağa düşmüş durumda: Hedeflerine askeri olarak ulaşamıyor, bu yüzden müzakere etmek zorunda. İranlılar bunu biliyor ve fiyatları artırıyorlar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-usa-krieg-verhandlungen-li.3509101"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da Savaş: Dışişleri Bakanlığı Rusya'nın Kiev'e yönelik saldırısını kınadı",
-    "summary": "Geceden görüntüler “şok edici”ydi. Saldırı dalgası yine çok sayıda konutu ve diğer sivil nesneleri vuruyor. Medya, savaşın başlangıcından bu yana en şiddetli saldırı dalgalarından birini bildiriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-kiew-angriffe-auswaertiges-amt-li.3500126"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Kiev'de ölü sayısı artmaya devam ediyor",
-    "summary": "Klitschko: Savaşın başlangıcından bu yana en kötü Rus saldırısı +++ Kurtarma ekipleri enkaz altında kurban aramaya devam ediyor +++ İki milyondan fazla asker savaşta mağdur +++ tüm haberler canlı blog...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-zahl-der-todesopfer-in-kiew-steigt-weiter-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: ICE beş günde 10 bin kişiyi tutukladı",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-ice-nimmt-laut-new-york-times-10-000-personen-in-fuenf-tagen-fe-faz-19444916.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İspanya ve Fransa, Haziran ayındaki kavurucu sıcakların 2.000 kişinin ölümüne yol açmasının ardından daha fazla sıcakla karşı karşıya",
-    "summary": "Paris süpermarketlerinde klima üniteleri konusunda çıkan kavgalar nedeniyle güneydoğu İspanya'da sıcaklıklar 44C'ye ulaşabilirİspanya ve Fransa, önümüzdeki günlerde 44C (111F) sıcaklıklara neden olabi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Milletvekilleri, Rus 'yumuşak güç' çizgi filmi Maşa ile Koca Ayı'nın İngiltere'deki yayınına son verilmesini istiyor",
-    "summary": "Partiler arası grup, bakanlara çocuk şovunun incelikli olmayan 'propaganda içeriği' içerdiğini yazıyor Birleşik Krallık canlı siyaseti - en son güncellemelerAvrupa canlı - en son güncellemelerKüçük bi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Vatikan, aşırı muhafazakar isyancı grup SSPX'in tüm üyelerini aforoz etti",
-    "summary": "Aziz Pius X Cemiyeti'nin rızası olmadan dört piskopos atamasının neden olduğu bölünme, Papa Leo için ilk krizi temsil ediyorAvrupa canlı – son güncellemelerVatikan, Papa Leo'ya onun rızası olmadan pis...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Hürmüz Savaşı",
-    "summary": "Ortadoğu'daki savaşı bir kez daha coğrafya ve ticaret belirliyor. Sanki son 70 yıl iyi niyetli bir hayalmiş gibi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-01/la-guerra-de-ormuz.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Yüksek Mahkeme'nin Trump'a doğuştan vatandaşlık hakkı konusunda yaşadığı yenilgi, onun göçmenlik politikasındaki bir dizi zaferin istisnası",
-    "summary": "Amerika Birleşik Devletleri başkanı, Kongre'den, MAGA hareketinin eski bir saplantısı olan, doğum yoluyla vatandaşlığa alınmaya son vermesini istiyor. Yasama yolunun başarı olasılığı çok düşük",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/migracion/2026-07-01/el-reves-del-supremo-a-trump-en-la-ciudadania-por-nacimiento-es-la-excepcion-en-una-serie-de-triunfos-para-su-politica-migratoria.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Yüksek Mahkeme, Trump'ın ABD'deki seçim kurallarını değiştirme girişimini durdurdu",
-    "summary": "Yüksek mahkeme, postayla gönderilen oyların oy verme gününden sonraki beş güne kadar sayılmasına izin veren Mississippi yasasını onayladı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-06-29/el-supremo-para-los-pies-a-trump-en-su-intento-de-cambiar-las-reglas-electorales-en-estados-unidos.html"
   }
 ]
