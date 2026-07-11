@@ -1,5 +1,122 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Saksonya-Anhalt: 100 günlük program: AfD olası bir seçim zaferinden sonra ne yapmayı planlıyor?",
+    "summary": "Magdeburg'da AfD, iktidara gelmesi halinde neler uygulayacağını anlatıyor. Bu onların etnik-otoriter seçim programlarının yoğunlaştırılmış versiyonudur.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-ulrich-siegmund-li.3513407"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Trump'ın uçağıyla ilgili haberlerin ardından gazeteciler çağrıldı",
+    "summary": "ABD adalet sistemi görünüşe göre New York Times muhabirlerini hedef alıyor. Gazete bir gözdağı girişiminden bahsediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-flugzeug-journalisten-li.3511620"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Trump, kendisine suikast girişiminde bulunulması halinde İran'ı \"tamamen yok etmekle\" tehdit ediyor",
+    "summary": "Araştırmacılar İran'ın nükleer silah tesislerindeki onarımlardan şüpheleniyor +++ ABD: İran, Hürmüz Boğazı'nın açılmasını garanti etmeli +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-droht-iran-bei-mordanschlag-auf-ihn-mit-vollstaendiger-vernichtung-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Tusk, UPA kurbanları için anıt inşa edileceğini duyurdu",
+    "summary": "Volhynia Anma Günü ile ilgili video mesajı +++ Planör bombası saldırısı nedeniyle Sumy'de dört ölü +++ Balistik füzeler Kiev'i vurdu +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-kuendigt-bau-von-gedenkstaette-fuer-upa-opfer-an-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetiminde ABD: Air Force One raporunun ardından: ABD adalet sistemi “New York Times” muhabirini çağırdı",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-nach-bericht-ueber-air-force-one-us-justiz-nimmt-new-york-times-reporter-ins-visier-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hava durumu takipçisi: Tayfun Çin'de insanları çatılarda mahsur bırakıyor",
+    "summary": "Şiddetli yağmur nedeniyle Mumbai'de binalar çökerken, sel baskını yılan tehlikesi de getirdiği için 11 kişinin öldüğü bildirildi. 2026 sezonunda Çin'e inen ilk tayfun olan Maysak, güney ve orta bölgel...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD, İran'ın Hürmüz Boğazı'ndaki gemilere saldırmayacağına dair açık bir taahhütte bulunmasını talep ediyor",
+    "summary": "İran Dışişleri Bakanı, boğazla ilgili müzakereleri sürdürmek için Umman'a giderken, taraflar karşılıklı olarak imha tehditleri ve ateşkesin ihlaliyle ilgili suçlamalarda bulunuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-11/estados-unidos-exige-a-iran-que-se-comprometa-publicamente-a-no-atacar-barcos-en-ormuz.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump ülkesinin 250. yılını komünizmin “kanserine” saldırılarla ve “Amerikan rüyası”nın savunulmasıyla kutluyor",
+    "summary": "Başkan, fırtına tehdidi nedeniyle ertelenen yıldönümünü kutlamak için Washington'da kişisel bir miting düzenlemeyi teklif ediyor. Rekor kıran havai fişekler partiyi tamamlıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-05/trump-celebra-los-250-anos-de-la-independencia-con-una-defensa-del-excepcionalismo-estadounidense-el-sueno-americano-ha-vuelto.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Sabotajdan Kuzey Akım'a ve Monako saldırısına: Kadınlar Rusya ile Ukrayna arasındaki savaşta nasıl kilit oyuncular haline geldi?",
+    "summary": "Ukrayna'nın taktikleri Mossad'ın ve KGB'nin mirasçılarının kullandığı taktikleri anımsatıyor: kadınlar şantaj düzenlemek, patlayıcıyı harekete geçirmek veya sızma operasyonlarına katılmak için tuzak o...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/08/6a4e0cf221efa0822f8b4591.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump, \"mükemmel\" bir tıbbi muayeneyi \"yeni bitirdiğini\" söyledi",
+    "summary": "Başkanın yeni bir kontrolden mi geçtiği yoksa mayıs ayı sonunda yapılan kontrolden mi bahsettiği belli değil. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/11/6a527668e4d4d897768b45a5.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump yine medyaya karşı: New York Times gazetecileri yeni Air Force One hakkında haber yaptıktan sonra adli celp alıyor",
+    "summary": "Bilgiler, Katar tarafından verilen cihazın füze savunma yetenekleri de dahil olmak üzere bazı gelişmiş güvenlik fonksiyonlarından yoksun olduğunu iddia ediyordu. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/11/6a5256ee21efa0d24f8b4573.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Yılın Öğrencisi Ödülleri: Geçmişte kazananlar onlarca yıllık mükemmelliği kutlamak için bir araya geliyor",
+    "summary": "Nesiller boyu mezunlar Cumartesi günü, Tıp uzmanlarından tanınmış müzisyenlere ve Olimpiyat sporcularına kadar seçkin profesyoneller haline gelen yüksek başarılı Hong Kong öğrencilerinin takdir edildi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3360242/student-year-awards-past-winners-gather-celebrate-decades-excellence?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Çin, 4 Temmuz'da ABD'ye emsal teşkil ediyor; Cathay uçağı NATO alarmını tetikledi: SCMP'nin 7 önemli özelliği",
+    "summary": "Bu haftanın Hong Kong, Çin anakarası, Asya bölgesi ve ötesindeki haberlerden okuyucularımızda yankı uyandıran ve güncel konulara ışık tutan yedi hikayeyi seçtik. Daha fazla raporumuzu görmek istiyorsa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/china/article/3360050/china-sets-july-4-precedent-us-cathay-plane-triggers-nato-alert-scmps-7-highlights?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -781,122 +898,5 @@
     "summary": "Ayetullah Mücteba Hamaney'in bu hafta babasının cenazesine katılmaması, onun fiziksel durumuyla ilgili spekülasyonları körükledi ve bölünmüş bir ülkede bir güç boşluğu bıraktı.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Avustralya'nın Ünlü Mührü Neil ile tanışın",
-    "summary": "Genç fok dünya çapında hayran kazandı. Ancak yetkililer onun ölesiye sevilme tehlikesiyle karşı karşıya olabileceği konusunda uyarıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/10/world/australia/neil-seal-australia-tasmania.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İsrail, Soyulmuş ve Bağlanmış Tutuklunun Fotoğrafının Paylaşılmasının Ardından Soruşturma Başlattı",
-    "summary": "İsrail ordusu, Filistinli bir aktivist tarafından paylaşıldıktan sonra geniş çapta yayılan fotoğrafın gerçekliğini doğruladı. İsrailli insan hakları grupları bu fotoğrafın bir savaş suçunu tasvir etti...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/09/world/middleeast/photo-detainee-bound.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "İran Savaşının Kısa Vadeli Bonusuna Rağmen Rusya Maliyesi Daha Sarsılıyor",
-    "summary": "Petrol fiyatları Orta Doğu savaşının başlamasından bu yana görülmeyen seviyelere gerilerken, Kremlin derinleşen bir bütçe açığıyla yüzleşmek zorunda kalacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki çıkmaza son vereceğini söyledi",
-    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Anne Applebaum ile röportaj: “Amerikan başkanının iyi bir ruh halinde olmasını ummak çözüm değil”",
-    "summary": "Avrupa'nın demokrasileri otokratik dünya güçlerinin baskısı altında hayatta kalma konusunda ne kadar yeteneklidir? Pulitzer Ödülü sahibi Anne Applebaum, Trump'ın duygularını, Putin'in yanılsamasını ve...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/anne-applebaum-europa-demokratie-trump-putin-autokraten-interview-li.3507548"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da savaş: ABD hükümeti: İran'la teknik görüşmeler devam ediyor",
-    "summary": "Artan gerilime rağmen Washington ve Tahran çatışmaya diplomatik bir çözüm üzerinde çalışıyor. Hürmüz Boğazı'nda gemi trafiği neredeyse durma noktasına geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-li.3513707"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da savaş: Zelensky: ABD önümüzdeki günlerde \"Patriot\" füzelerini teslim edecek",
-    "summary": "Başkan, Washington ve Kiev'in Ukrayna için kendi lisansları üzerinde anlaştıklarını söyledi. Ukrayna ayrıca Avrupalı ​​müttefikleriyle birlikte kendi, daha uygun maliyetli füze savunma sistemini geliş...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-patriot-usa-waffenlieferung-li.3512468"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Öldürülen devlet başkanı: İran'ın dini lideri Hamaney toprağa verildi",
-    "summary": "Uzun bir süre Ayetullah Ali Hamaney'in dokunulmaz olduğu düşünülüyordu. Şubat ayının sonunda İsrail ordusu onu bir hava saldırısında öldürdü.  Günlerce süren ulusal yasın ardından artık memleketinde t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-beerdigung-ayatollah-chamenei-li.3513566"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Monako Cinayeti Şüphelisi: Gizli Servis Görevlisi Tutuklandı",
-    "summary": "Ukrayna savcısı doğruladı +++ Rusya, yüzlerce Ukrayna insansız hava aracını ele geçirdiğini iddia ediyor +++ Hedef, diğerlerinin yanı sıra Moskova'ydı +++ canlı blogdaki tüm haberler",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-mord-an-monaco-verdaechtiger-geheimdienstmann-festgenommen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: Trump bağımsız seçim komisyonunu dağıttı",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-demontiert-unabhaengige-wahlkommission-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Berlin Tomahawk'ı satın aldı: Putin'i saldırmaktan caydırmak için",
-    "summary": "Savaş durumunda yalnızca saldıran insansız hava araçlarıyla, füzelerle ve tank sivri uçlarıyla savaşabilmenize gerek yok. Ancak aynı zamanda tesisleri, komuta merkezlerini ve tedarik yollarını da başl...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/deutschland-kauft-tomahawk-marschflugkoerper-um-putin-abzuschrecken-201014594.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Araştırma bulgularına göre kedi nanesi losyonu sivrisinekleri uzaklaştırmada Deet kadar etkili",
-    "summary": "Uganda'da ucuz, evde yetiştirilen bir yağı test eden araştırmacılar, kedilerin başından beri bildiği şeyi buldu: Bu, küresel olarak kullanılan yapay kimyasal kadar işe yaradı. Evde yetiştirilen bir ke...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Böyle yaşamak ıstıraptır': Küba altı ayda üçüncü kez ülke çapında elektrik kesintisi yaşadı",
-    "summary": "Yoksul ada, ABD Ocak ayında abluka uygulamadan önce zaten ışıkları açık tutmakta zorlanıyordu Devlet elektrik şirketi, Pazartesi günü Küba'da yıl başından bu yana üçüncü ülke çapında elektrik kesintis...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months"
   }
 ]
