@@ -3,6 +3,114 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Zelensky, Ukrayna'nın Baş Generalini Görevden Alma Baskısıyla Karşı Karşıya",
+    "summary": "Göstericiler ve çok sayıda asker, Başkan Volodymyr Zelensky'nin geçen hafta kovduğu savunma bakanının ortaya koyduğu insansız hava aracı savaşı vizyonunu yeniden teyit etmesini istiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Kuzey Denizi Sondajı Burnham'ın Trump'la İlişkisine Yönelik İlk Testi Sunuyor",
+    "summary": "Andy Burnham henüz Başkan Trump ile görüşmedi ancak iki adamın Bay Burnham'ın başbakan olmasından kısa bir süre sonra konuşma yapması bekleniyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu: Hamas, Haja'yı yeni lider olarak seçti",
+    "summary": "Al-Haja Gazze'den geliyor ve halihazırda radikal Filistin örgütünün beş üyeli liderlik konseyinin bir üyesiydi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/hamas-waehlt-anfuehrer-al-haja-li.3518717"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD-İran: Orta Doğu'da çatışmalar devam ediyor",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-gegen-iran-kaempfe-in-nahost-gehen-weiter-li.3518722"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Sinwar'ın halefi: Halil el-Haja Hamas'ın yeni lideri oldu",
+    "summary": "Halil el-Haja, Hamas'ın liderliğini devraldı. Halihazırda Gazze savaşını sona erdirmeye yönelik müzakerelerde müzakereci olarak yer alıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/chalil-al-haja-wird-neuer-anfuehrer-der-hamas-accg-201047509.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Orman yangını dumanı ülkeyi sarmaya devam ederken ABD genelinde hava kalitesi uyarıları devam ediyor",
+    "summary": "Yağmur orta Atlantik ve kuzeydoğudaki koşulları hafifletebilir; Dünya Kupası finalinin Pazar günü yapılması bekleniyor. Kanada'nın Ontario eyaletinden ve ABD'nin Minnesota eyaletinden gelen yoğun orma...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "AliExpress, yasa dışı ve sahte malların satışını durdurmadığı için AB tarafından 550 milyon avroluk rekor para cezasına çarptırıldı",
+    "summary": "Çin perakende platformu, sahte ürünler ve güvenli olmayan oyuncaklar gibi öğelerin listelenmesi nedeniyle ceza verdi İş canlı - en son güncellemelerÇin çevrimiçi perakende platformu AliExpress, zararl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD ve İran sivil altyapıya yönelik bombalamaları genişletiyor",
+    "summary": "Hürmüz'de petrol tankerlerinde patlama olduğu bildirilirken, Washington İran şehirlerine üst üste dokuzuncu günde saldırıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-20/estados-unidos-e-iran-expanden-los-bombardeos-sobre-infraestructura-civil.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, konuşmaları üzerine Kalshi'ye yasadışı bahis oynamakla suçlanan teleprompter operatörünü kovdu",
+    "summary": "Beyaz Saray'da çalışan teknisyen, başkanın söylediği sözlere ilişkin bahisler karşılığında neredeyse 100.000 doları cebe attı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Dünya Kupası sırasında 159 milyon Hong Kong doları değerindeki sahte ürünler nedeniyle 13 kişi tutuklandı",
+    "summary": "Hong Kong gümrük memurları, Dünya Kupası döneminde bir düzineden fazla kişiyi tutukladı ve değeri 159 milyon HK $'ı (20,3 milyon ABD Doları) aşan sahte mallara el koydu; yetkililer, bu tür eşyaları sa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361217/13-arrested-during-world-cup-over-fake-merchandise-worth-hk159-million?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Bir yıl sonra, Trump tarifeleri Japon otomobil üreticilerini etkilemeye devam ediyor",
+    "summary": "Bu yılın Mart ayında sona eren 2025 mali yılında, Trump'ın aralarında endüstri lideri Toyota'nın da bulunduğu altı büyük Japon otomobil üreticisine uyguladığı vergilerin toplam maliyeti 2,4 trilyon Ye...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/07/20/trump-tariffs-japan-automakers/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Nara kafe sahibi antik başkentlerin Dünya Mirası listesine alınmasından umutlu",
+    "summary": "UNESCO Dünya Mirası Komitesi, Güney Kore'nin Busan kentinde Asuka-Fujiwara antik başkentlerini Dünya Mirası alanları listesine ekleyip eklemeyeceğini tartışıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/20/japan/society/nara-cafe-owner-world-heritage-listing/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Tahran ve Washington Savaşta Bir 'Uyanma Anıyla' Karşı Karşıya",
     "summary": "Analistler, müzakerelere hızlı bir şekilde dönmemeleri halinde ABD ve İran'ın saldırılarının kontrol altına alamayacakları daha geniş bir savaş riskini doğuracak şekilde geliştiği konusunda uyarıyor.",
     "timeAgo": "En Guncel (API)",
@@ -790,113 +898,5 @@
     "summary": "Birleşik Krallık, cinsel istismar, 'aşırı pornografi', saldırı ve uygunsuz çocuk görüntüleri nedeniyle iade talebinde bulunacak ABD Polis Teşkilatı, sosyal medya fenomenleri Andrew ve Tristan Tate kar...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Güney Afrika çiftliklerinde yastığın yanında elektrikli çitler ve silahlar",
-    "summary": "Afrikaner çiftçilerin maruz kaldığı saldırılar, onların ırksal zulmün kurbanı olduklarına dair inançlarını güçlendiriyor ve Trump'ın kışkırttığı \"beyaz soykırım\" aldatmacasını körüklüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-18/los-ataques-a-granjas-que-alimentan-el-relato-del-genocidio-blanco-en-sudafrica.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran Ürdün üssüne saldırıda iki ABD askerini öldürdü",
-    "summary": "İran dini lideri, Washington'u üç haftada 50 kişinin ölümüne neden olmakla suçladıktan sonra ateşkesi \"beklemeye\" bıraktı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran'ın Ürdün'deki saldırısında iki ABD askerinin ölmesinin ardından ABD İran'a yeniden saldırdı",
-    "summary": "İran dini lideri, \"İran ulusunun ve direniş cephesinin ABD için unutulmaz derslere sahip olduğunu\" söyleyerek yine yazılı olarak tehditte bulunuyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Dünya Kupası sonrası savaş",
-    "summary": "&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/19/6a5a7c55e9cf4a44688b45b9.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İsrail, Hamas militanlarının tutulduğu hapishaneden kaçışları önlemek için timsah kullanımına kapı açıyor",
-    "summary": "Yeni bir düzenleme, bu hayvanların denetimini İsrail Ceza İnfaz Kurumu'na devrediyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/18/6a5bb5f0e9cf4ade208b4574.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Cathay Pacific, ABD ve İran'ın ticari saldırıları nedeniyle Orta Doğu uçuşlarını erteledi",
-    "summary": "Hong Kong bayrak taşıyıcısı Cathay Pacific Airways, İran krizinin yeniden alevlendiğine dair son işaretler üzerine Orta Doğu'ya doğrudan uçuşlara devam etmeyi erteledi.\nHavayolu Cuma günü yaptığı açık...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3360976/cathay-pacific-delays-middle-east-flights-us-iran-tensions-resurface?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Burnham'ın İngiltere dış politikasında istikrarlı bir yol izlemesi muhtemel",
-    "summary": "Bir fark İsrail'e karşı daha sert bir çizgi olabilir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/19/world/politics/burnham-uk-foreign-policy/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD, iki askerin ölümüne yol açan saldırı nedeniyle İran'ı 'cezalandırmak' için İran'ı vurdu",
-    "summary": "Tahran Cumartesi günü, Körfez komşularına yönelik ağır saldırıların ardından artık geçici barış anlaşmasının şartlarına uymayacağını duyurdu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/19/world/us-strikes-iran-punish-two-troops-killed/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kansai'nin Michelin tarafından seçilen ilk şarap garsonu, odayı nasıl okuyacağını biliyor",
-    "summary": "Nisan ayında Miki Tanaka'ya, Michelin Rehberi'nin Kyoto ve Osaka'daki ilk sommelier ödülü verildi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/life/2026/07/19/food-drink/miki-tanaka-michelin-sommelier-osaka-wine/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Haşlanmış bir gerçek: Yumurtalar tatlı olarak da işe yarar",
-    "summary": "Etrafta birkaç eski yumurta mı var? Bunları biraz sağlıklı bir tatlı ikramına dönüştürün.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/life/2026/07/19/food-drink/yudetama-mousse-recipe-dessert-eggs-boiled/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Çok İngiliz Bir CPAC: Varsa Az, Kostüm ve Çok Fazla Trump Değil",
-    "summary": "Londra, Amerika Birleşik Devletleri'nde MAGA amaçlarını abartılı bir şekilde kutlamasıyla bilinen Muhafazakar Siyasi Eylem Konferansı'nın abartısız bir versiyonuna ev sahipliği yaptı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "ABD Saldırıları İranlıları Yalnızlaştırdı ve Korkuttu",
-    "summary": "Valilikten yapılan açıklamada, Hürmüzgan ilindeki gece saldırılarında bir tünel ve üç köprünün hasar gördüğü belirtildi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html"
   }
 ]
