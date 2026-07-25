@@ -1,5 +1,86 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Suudi koalisyonu Yemen'deki Husi hedeflerine saldırdı",
+    "summary": "Kızıldeniz'de gemiye saldırıya tepki +++ Rapor: Bahreyn ve Kuveyt, İran'a misilleme amaçlı saldırılar düzenledi +++ AB, İranlı hakimlere yaptırım uyguluyor +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-saudi-koalition-greift-huthi-ziele-im-jemen-an-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Nükleer anlaşma: Trump Riyad'daki savaşının bedelini ödüyor",
+    "summary": "Suudilerin nükleer programlarını diğer güçlerden ziyade Amerika ile oluşturması daha iyidir. Ancak Trump, İran'la çözümü daha da zorlaştırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/atomprogramm-trump-zahlt-in-saudi-arabien-einen-preis-fuer-den-iran-krieg-201058102.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Şehirler 40 derece sıcaklıkta bunalırken Japonya ilk 'acımasız sıcak gününü' kaydetti",
+    "summary": "Nisan ayında Japonya, 40 derecenin üzerindeki günler için yeni bir terim olan kokushobi'yi icat etti ve ülke işçilere boğucu sıcakla başa çıkmak için ofise şort giymelerini tavsiye etti. Japonya, sıca...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump'ın gözünde kaybeden Zelensky'nin yerini Putin'e bıraktı",
+    "summary": "NATO zirvesinde bazılarının korktuğu Atlantik'in dağılmasına benzeyen hiçbir şey yoktu; daha ziyade daha Avrupalı ​​ve Kanadalı bir ittifaka geçişin başlangıcıydı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-12/putin-sustituye-a-zelenski-como-perdedor-a-ojos-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump üçüncü tur gümrük vergilerinde kaotik bir ticaret sistemi dayatıyor",
+    "summary": "ABD, 60 farklı ekonominin sektörleri için birden fazla muafiyet ve farklılaştırılmış rejimler içeren oldukça karmaşık bir çerçeveyi onaylıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-24/trump-impone-un-sistema-comercial-caotico-en-su-tercera-ronda-arancelaria.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump, Suudi Arabistan'la yapılan sivil nükleer anlaşmayı İsrail'in tanınması ve İbrahim Anlaşmalarına bağlı kalınması şartına bağladı",
+    "summary": "Maddi zenginleştirmeyi içermeyen anlaşma, İran, Birleşik Arap Emirlikleri ve diğer ülkelerin hâlihazırda yararlandıklarına benzer şekilde yalnızca askeri olmayan kullanımlarla sınırlı. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/23/6a622591fc6c83037c8b459d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump, Amerikan Tarihi Müzesi'nin önüne sorumluluk reddi beyanı tabelaları konulmasını emretti",
+    "summary": "Bu son derece alışılmadık hareket, 80 yaşındaki Cumhuriyetçinin Amerikan kültür kurumları ve anıtlarına karşı yürüttüğü ideolojik savaşta verdiği son mücadeleye işaret ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/25/world/politics/trump-disclaimer-smithsonian/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rus savaş uçağı, Tokyo'nun hak iddia ettiği adacıklar üzerinde Japon hava sahasını ihlal etti",
+    "summary": "Savunma Bakanlığı'ndan bir yetkili, Tokyo'nun şu anda Rusya kontrolündeki Kuzey Bölgeleri üzerinde yargı yetkisini fiilen kullanamayacak durumda olduğunu söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/25/japan/russian-warplane-japanese-airspace/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran savaşı görünürde sonu olmayan bir şekilde yeniden sarmallaşırken Trump öfkeli",
+    "summary": "Geri çekilme yoluna uzun süre direnen bir lider olan Trump, içeriden birine göre artık İslam Cumhuriyeti'nden intikam alma moduna geçti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/25/world/politics/trump-iran-war-spirals/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -817,86 +898,5 @@
     "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
-    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da Savaş: Eski Savunma Bakanı Fedorov göreve dönmek istiyor",
-    "summary": "Ukrayna'daki göstericiler günlerdir onun görevine iade edilmesi yönünde çağrıda bulunuyor. Şimdi Fedorov, Başkan Zelensky ile iktidar için savaşmaya cesaret ediyor. AB, Rusya'ya yeni yaptırımlar uygul...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verteidigungsminister-fedorow-li.3512468"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: \"Doğru noktaya\": Trump'ın Suudi Arabistan'la anlaşması nükleer silahlanma yarışının başlangıç ​​sinyali mi?",
-    "summary": "ABD Başkanı Suudi Arabistan'la nükleer anlaşma imzaladı. İran savaşının ortasında bu pek de stratejik açıdan akıllıca değil.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-trump-saudi-arabien-atomwaffen-li.3520330"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Zelenskyj: Yeni askeri liderlik seferberliği geliştirmeli",
-    "summary": "Zelenskyj daha iyi personel alımı bekliyor +++ Ukrayna BM Güvenlik Konseyi'nde toplantı talep ediyor +++ AB ülkeleri Rusya'ya karşı oldukça sulandırılmış bir yaptırım paketi üzerinde anlaştı +++ tüm h...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-neue-militaerfuehrung-soll-mobilmachung-verbessern-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Avustralya, askeri ve nükleer cephanelik inşa ettiği için Çin'i 'kışkırtıcı' eylemlerle zorbalığa maruz kalmayacağı konusunda uyaracak",
-    "summary": "Dışişleri Bakanı Penny Wong, Çin'in nükleer kapasiteli denizaltından fırlatılan füzeyi yakın zamanda fırlatmasını eleştiren bir konuşma yapacak. Son dakika haber e-postamızı, ücretsiz uygulamamızı vey...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Pauline Hanson kötü basınından dolayı 'sahte haber' medyasını suçluyor. Ancak ciddi liderler eylemlerine sahip çıkmalı",
-    "summary": "İki haftadır süren hatalarla dolu bir süreçte, Tek Ulus lideri, Trump'ın suçlama değiştirme taktik kitabını derinlemesine inceliyor Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük habe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/24/pauline-hanson-blames-fake-news-media-serious-leaders-own-their-actions-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Güney Avrupa'da sıcaklıklar aşırı seviyelere ulaşırken binlerce kişi Fransa'daki orman yangınlarından kaçıyor",
-    "summary": "Akdeniz'in bazı kısımları normalden 5 derece daha sıcak, İspanya'da hava sıcaklığının 44 derecenin üzerinde olması bekleniyor Avrupa'nın güneyindeki şiddetli sıcaklar, deniz sıcak hava dalgasının Akde...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "The Odyssey'de kullanılan Viking gemisinin sahibi, stüdyonun hasar faturasını ödemediğini söyledi",
-    "summary": "İsveçli kâr amacı gütmeyen kuruluş, replikanın onarım maliyetinin 6.000 dolar olduğunu iddia ediyor, ancak filmin açılış haftasonunda 264 milyon dolar kazanan Universal buna şaşırmadı Hollywood'un giş...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/23/owners-of-viking-ship-used-to-film-the-odyssey-say-studio-has-not-paid-bill-for-damage"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Murdoch ve Musk, Venedik Film Festivali'nde hedef tahtasında",
-    "summary": "Danny Boyle'un Sun'ın satın alınmasıyla ilgili dramı ve dört saatlik Elon Musk belgeseli, Martin McDonagh ve Werner Herzog'un yeni filmleriyle birlikte prömiyer yapacak - ancak yarışmada yalnızca bir ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle"
   }
 ]
