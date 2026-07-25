@@ -1,5 +1,122 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Muhabir Yemeği: \"Ben gittiğimde hepiniz iflas edeceksiniz\"",
+    "summary": "Muhabirlerin yemeğinde ABD başkanı kendini küçümsedi ve politik olarak çok az şey söyledi. Onun yerine \"Trump 2028\" yazan bir şapka takıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/donald-trump-korrespondenten-dinner-washington-li.3521352"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Ukrayna cephe için elektrikli motosikletlere izin veriyor",
+    "summary": "Araç mayınlardan kaçınabilir ve insansız hava araçlarına saldırabilir +++ Avusturya, Ukrayna'nın AB'ye “talep üzerine turbo katılımına” karşı +++ Ukrayna: kuzeydeki Rus insansız hava aracı saldırısınd...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-laesst-elektromotorrad-fuer-die-front-zu-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: Trump sevilmeyen bir müze için uyarı işaretleri istiyor",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-warnschilder-fuer-missliebiges-museum-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Basın yemeğinde konuşma: Trump şaka yapıyor ama kimse gülmüyor",
+    "summary": "Washington'da yeniden planlanan basın yemeğinde ABD Başkanı Donald Trump her zamanki hakaretleri dile getirdi ve gelecek yıl geri döneceğini duyurdu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-niemand-ueber-trumps-scherze-beim-pressedinner-lachte-accg-201064038.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avustralya, askeri ve nükleer cephanelik inşa ettiği için Çin'i 'kışkırtıcı' eylemlerle zorbalığa maruz kalmayacağı konusunda uyaracak",
+    "summary": "Dışişleri Bakanı Penny Wong, Çin'in nükleer kapasiteli denizaltından fırlatılan füzeyi yakın zamanda fırlatmasını eleştiren bir konuşma yapacak. Son dakika haber e-postamızı, ücretsiz uygulamamızı vey...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Fransa ve İspanya, Bordeaux'nun banliyöleri tahliyeye başlarken orman yangınlarını kontrol altına almak için yarışıyor - canlı",
+    "summary": "İspanya'daki yetkililer, cumartesi günü rüzgarın yangınları daha da kötüleştirebileceği konusunda uyardı Bize şunu söyleyin: Avrupa'daki orman yangınlarından etkilendiniz mi? İngiltere'de, İskoçya'dak...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, muhabirlerin akşam yemeğinin tekrarında üçüncü kez başkan olacağına dair şaka yapıyor",
+    "summary": "Anayasa gereği yeni dönem adaylığı yasaklanan Cumhuriyetçi, silahlı saldırıyla kesintiye uğrayan kutlamadan üç ay sonra uyuşturucu dolu, hakaretlerle dolu bir konuşma yapıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-25/trump-bromea-en-la-repeticion-de-la-cena-de-corresponsales-con-su-opcion-de-ser-presidente-por-tercera-vez.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump, Beyaz Saray muhabirlerinin yemeğinde 'sahte haberlere' saldırdı",
+    "summary": "Trump ayrıca şaka yaptığında ısrar etmesine rağmen ABD Anayasası tarafından yasaklanan üçüncü dönem görevde kalma fikrini de yeniden canlandırdı.Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'un Lamma Adası sularının altında sessiz bir süper bitki iş başında",
+    "summary": "Güneşli bir temmuz öğleden sonra, Hong Kong'un Lamma Adası kıyılarında, çekilen sular, bilim adamlarının deniz biyolojik çeşitliliğini artırmak için \"en iyi su altı süper kahramanları\" olarak tanımlad...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361833/beneath-waters-hong-kongs-lamma-island-silent-superhero-plant-work?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "30'dan fazla restoran köpek dostu programdan çekildi, 70 uyarı yapıldı",
+    "summary": "Şehrin çevre şefi, Hong Kong'un yeni köpek dostu yemek programından 30'dan fazla restoranın çekildiğini, yetkililerin ise uygulamanın başlatılmasından bu yana yapılan denetimler sırasında 70 uyarıda b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3361826/more-30-restaurants-pull-out-dog-friendly-scheme-70-warnings-issued?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Noul Tayfunu: T3 yürürlükte kaldığı için Hong Kong'da 150 uçuş iptal edildi",
+    "summary": "Noul Tayfunu yoğunlaştıkça ve Pazar sabahı şehrin 100 km (62 mil) yakınına gelmesi tahmin edildiğinden Hong Kong'da 150'den fazla uçuş iptal edildi.\nGözlemevi Cumartesi günü saat 13.20'de 3 No'lu tayf...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/article/3361817/t3-signal-expected-between-1pm-and-3pm-saturday-classes-be-suspended?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Tayvan, denizdeki Çin kuşatmasına nasıl direnebileceğini test ediyor",
+    "summary": "Yetkililer böyle bir senaryoyu ele almak için savaş oyunları tatbikatları düzenlediler ve gemilere eskortluk etmek, rotalarını değiştirmek ve önemli malzemeleri depolamak ve dağıtmak için tatbikatlar ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/07/25/asia-pacific/taiwan-tests-chinese-siege-sea/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -781,122 +898,5 @@
     "summary": "Avusturya'da, yüzlerce Yahudi kadının Nazi savaş endüstrisi tarafından köle işçi olarak sömürüldüğü bölgenin son kalıntılarından birini yok etme tehlikesiyle karşı karşıya olan kentsel gelişmeye ilişk...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/07/24/6a5e48f4e9cf4a64558b459b.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Noul Tayfunu cumartesi geç saatlerde Hong Kong'a en yakın noktaya gelecek",
-    "summary": "Cuma günü ilerleyen saatlerde 1 numaralı uyarı sinyali vermeyi düşünen şehrin hava tahmincisine göre, Noul Tayfunu'nun Cumartesi gecesi ile Pazar sabahı arasında Hong Kong'a en yakın noktaya gelmesi b...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361668/typhoon-noul-come-closest-hong-kong-late-saturday-sunday?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Yenilenen İran savaşı Japonya için ne anlama geliyor?",
-    "summary": "ABD'nin İran'la savaşının belirsiz gidişatı, şu anda Başbakan Sanae Takaichi'nin gelecekteki savunma politikalarının yönetimini şekillendiren yetkililerin işini zorlaştıracak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/24/japan/politics/iran-war-renew-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bazı hayranlar öfkelerini dile getirirken Dodgers, Beyaz Saray'da Donald Trump'ı ziyaret etti",
-    "summary": "Bu, 2024 Dünya Serisinde New York Yankees'i mağlup eden ve ertesi Nisan ayında Trump tarafından onurlandırılan Dodgers'ın üst üste ikinci ziyaretiydi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/07/24/baseball/mlb/dodgers-visit-white-house/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Petrol 100 doların üzerine çıkarken Trump, Kızıldeniz'deki Husi saldırıları nedeniyle İran'ı cezalandırma sözü verdi",
-    "summary": "Kesintinin daha da genişleyerek başka bir deniz yolunu kapatabileceği korkusu, küresel petrol fiyatlarının savaşın en sert yükselişlerinden birine yol açmasına neden oldu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/24/world/trump-iran-red-sea-oil-surge/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kaynaklar, İran'ın Devrim Muhafızları komutanlarını ve füze ekipmanlarını Yemen'deki Husilere uçurduğunu söylüyor",
-    "summary": "Hareket, Tahran'ın Husi müttefiklerinin Kızıldeniz taşımacılığını tehdit etme yeteneğini güçlendirmeye çalıştığını gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/24/world/politics/iran-houthi-red-sea-missile-gear/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump, Suudi nükleer anlaşmasının İsrail bağları kurmaya bağlı olduğunu söyledi",
-    "summary": "ABD Başkanı Donald Trump'ın anlaşmanın açıklanmasından 24 saat sonra gelen şaşırtıcı talebi, anlaşmanın uygulanmasına darbe vuruyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/07/24/world/politics/us-saudi-nuclear-israel/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump, 60 ekonomiye zorunlu çalıştırma vergisi içeren gümrük vergilerini yeniden yapılandırıyor",
-    "summary": "Avrupa Birliği ve Tayvan'dan gelen ürünlere uygulanan vergiler en az %10, Japonya'dan gelen ürünlere ise en az %12,5 oranında vergi uygulanacaktır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/07/24/economy/trump-rebuild-tariffs/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Irak Sınır Kapılarında Kaos Çıkıyor",
-    "summary": "New York Times tarafından doğrulanan videolar, Orta Doğu'daki çatışmaların son hedefinin güney Irak'taki sınır geçişleri olduğunu gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
-    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Husilerin Hedeflemeyi Bitirme Sözüne Rağmen Nakliyeciler Kızıldeniz Rotalarından Uzak Duruyor",
-    "summary": "Dünyanın en büyük üç konteyner operatörü, Gazze'deki istikrarsızlıktan ve daha geniş bölgesel gerilimlerin devam eden tehlike anlamına gelmesinden korktuklarını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas'ın Serbest Bıraktığı İsrailli Rehineler Kimlerdir?",
-    "summary": "Hamas'la imzalanan kırılgan ateşkes anlaşması kapsamında serbest bırakılan ikinci grup olan Gazze Şeridi'nden tamamı kadın dört asker serbest bırakılırken İsrailliler nefeslerini tuttu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Serbest bırakılan son Gazze rehineleri: Hamas'ın uyarıları dikkate alınmayan kadınlar",
-    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
-    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   }
 ]
