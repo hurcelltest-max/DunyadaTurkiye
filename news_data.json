@@ -1,5 +1,41 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: İran ve ABD saldırıları askıya aldı",
+    "summary": "ABD'nin BM büyükelçisine göre Trump, görüşmelere yer açmak istiyor. Suudi koalisyonu Yemen'deki hedeflere saldırıyor, Husi milisleri Suudi Arabistan'ı misillemeyle tehdit ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-gespraeche-li.3513707"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Mahkeme, IDF yönetimindeki Gazze'de kanunları çiğnemekten korkan İsrailli kardeşlerin Avustralya'nın korumasına sahip olduğunu tespit etti",
+    "summary": "Özel: Mahkeme, üç kardeşin, savaş hakkındaki siyasi görüşlerinden dolayı askere alınmayı reddettikleri için 'zulme' maruz kalabileceklerini kabul etti İsrail Savunma Kuvvetleri'nde zorunlu askerlik hi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/israeli-siblings-owed-protection-by-australia-after-vowing-not-to-serve-in-idf-tribunal-finds-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Olimpos Dağı'nın Unesco'nun dünya mirası listesine eklenmesi Yunanistan'da sevinç yarattı",
+    "summary": "Antik Yunan tanrılarının efsanevi evi Normandiya'daki D günü çıkarma sahillerinin yanı sıra Antik Yunan tanrılarının efsanevi evi Olimpos Dağı, 12 yıllık bir bekleyişin ardından Unesco'nun dünya miras...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrailli yerleşimciler Batı Şeria'da iki camiyi, arabaları ve tarlaları ateşe verdi",
+    "summary": "Netanyahu Hükümeti, Cuma günü İsrailliler ile Filistinliler arasında yaşanan ölümcül çatışmanın ardından işgal altındaki bölgede \"teröre karşı eylemleri\" genişleteceğinin garantisini verdi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-26/colonos-de-israel-incendian-dos-mezquitas-coches-y-campos-en-cisjordania.html"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -862,41 +898,5 @@
     "summary": "Netanyahu sert tepki sözü verdi ve misilleme olarak yeni yerleşim yerleri ve toplu cezalar duyurdu",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-07-24/el-ejercito-lanza-una-amplia-operacion-en-cisjordania-tras-la-muerte-de-cuatro-palestinos-y-dos-israelies-en-un-choque-con-colonos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Yemenli Husiler tehditlerini yerine getiriyor ve Kızıldeniz'de Suudi petrol tankerlerine düzenlenen saldırının sorumluluğunu üstleniyor",
-    "summary": "Trump, Ortadoğu çatışmasını yoğunlaştıracak yeni bir savaşta, müttefik milislerinin Suudi Arabistan'a yönelik deniz ablukasını sürdürmesi halinde İran'a karşı \"ağır ceza\" verilmesini öngörüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-23/los-huties-de-yemen-ejecutan-su-amenaza-y-atacan-a-petroleros-saudies-en-el-mar-rojo.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump'ın yeni tarife artışı ikili USMCA incelemesini gölgede bıraktı",
-    "summary": "ABD, onlarca ülke gibi Meksika'nın da zorla çalıştırmayı durdurmadığını garanti ediyor ve ticaret anlaşması dışında Meksika'nın ihracatına %10 gümrük vergisi uyguluyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/mexico/economia/2026-07-24/la-nueva-escalada-arancelaria-de-trump-eclipsa-la-revision-bilateral-del-tmec.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Rubio ve Lavrov, Manila'da asgari düzeyde diyalog kurarken, Ukrayna'daki savaş, Washington ile Moskova arasındaki buzların erimesini engellemeye devam ediyor",
-    "summary": "Sadece yarım saat süren toplantı, Güneydoğu Asya Ülkeleri Birliği (ASEAN) bakanlar zirvesinin oturum aralarında gerçekleşti. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/23/6a61fbe6e9cf4abf338b4573.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "AB, Rusya'ya yönelik 21'inci yaptırım paketini kabul etti ve Putin'i gelirden mahrum bırakmak için petrol fiyatı tavanını uzattı",
-    "summary": "Tedbir 12 ay süreyle uzatıldı ve Hürmüz Boğazı'nın kapatılması nedeniyle piyasadaki oynaklığın Rusya'nın ham petrol gelirlerini tetiklemesini önlemeyi amaçlıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/23/6a61c737fc6c8323518b45a3.html"
   }
 ]
