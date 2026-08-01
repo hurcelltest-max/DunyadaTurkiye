@@ -3,6 +3,105 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Kanıtlar, ABD'nin İran'daki yerleşim bölgesine bomba attığını ve 3 sivilin öldüğünü gösteriyor",
+    "summary": "Times'ın analizine göre, ABD'nin cephaneliğindeki en büyük silahlardan biri olan silah, yoğun nüfuslu bir bölgedeki bir eve çarptı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump, Ukrayna'nın Patriot Füzeleri Üretmesine İzin Veren Anlaşmadan Geri Çekildi",
+    "summary": "Ukrayna cumhurbaşkanı, ülkede Rus balistik füzelerini vurmak için sahip olduğu en güvenilir silah olan Patriot önleyicilerinin tükendiği konusunda uyarmıştı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Kiev'e bir başka Rus saldırısı - en az dört ölü",
+    "summary": "Şiddetli patlamalar: Rusya Kiev'i balistik füzelerle bombaladı +++ Moskova: Öldürülen Kremlin eleştirmeni Nemtsov'un kızı hakkında tutuklama emri +++ tüm haberler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-erneut-russischer-angriff-auf-kiew-mindestens-vier-tote-faz-110683325.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Zelensky ve Trump, Beyaz Saray'da Ukrayna'daki savaşa ilişkin yeni uyumlarını yeniden teyit etti",
+    "summary": "Ukrayna cumhurbaşkanı, ABD'nin İran'a karşı çatışması için insansız hava aracı teknolojisi sunuyor ve karşılığında ABD'den Patriot füzeleri istiyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-28/zelenski-y-trump-reafirman-en-la-casa-blanca-su-nueva-sintonia-en-torno-a-la-guerra-de-ucrania.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Netanyahu, İran'la müzakerelere dönme çabaları kapsamında Trump'la görüştü",
+    "summary": "Her iki lider de, Tahran'la ateşkes konusundaki görüş ayrılıkları nedeniyle, kendi seçimlerine birkaç ay kala ilişkilerini yeniden yönlendirmeye çalışıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-07-28/netanyahu-se-reune-con-trump-en-medio-de-los-esfuerzos-por-volver-a-la-negociacion-con-iran.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "ABD'nin Gazze barış planı en zorlu sınavla karşı karşıya",
+    "summary": "Umut verici ilerleme, Hamas ve İsrail'in karşılıklı güvensizliğinden kaynaklanan şüpheleri gizlemiyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/01/6a6ccdf5e9cf4a59348b457f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Delcy Rodríguez, \"Maduro'nun müttefikinden Trump'ın temsilcisine\"",
+    "summary": "Görevli başkan, Venezuela'nın yaşadığı \"olağanüstü diplomatik an\"a kendi bakış açısını da ekleyen Time dergisinin kapağında yer alıyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/31/6a6ca74cfdddff68068b45b8.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Kiev'de balistik füze saldırıları nedeniyle en az üç kişi öldü",
+    "summary": "Kiev ve Moskova, Washington liderliğindeki savaşı sona erdirmeye yönelik diplomatik çabaların durmasının ardından uzun menzilli saldırılarını artırdı. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/01/6a6d479fe9cf4a59348b4594.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump şimdi Ukrayna'ya Patriot savunma sistemleri için mermi üretme izni vermeyebileceğini ima ediyor",
+    "summary": "ABD Başkan Yardımcısı JD Vance, Zelensky ile Ukrayna'nın kendisini Rus bombalamalarından korumak için silah talepleri hakkında konuşuyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/07/31/6a6ce61bfdddffa75b8b45b0.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rapora göre Trump bu hafta sonu İran'a saldırı emrini verdi",
+    "summary": "Wall Street Journal'ın adı açıklanmayan ABD'li yetkililere dayandırdığı haberine göre, saldırıların amacı Tahran'ı teslim olmaya ikna etmek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/01/world/trump-iran-strike-weekend/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "'Gizli Savaş Alanı': Savaş mekanizmasının içeriden görünümü",
+    "summary": "Yuya Ishii'nin Pasifik Savaşı'nı engellemeyi başaramayan Japon düşünce kuruluşu hakkındaki tarihi draması, TV için yapılmış kökenlerini sarsamaz, ancak bu değerli bir uyarıcı hikayedir.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/culture/2026/08/01/film/the-secret-battlefield/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Ukrayna'nın İran Gemisine Saldırısı İki Savaşın Nasıl Sarmal Olduğunu Gösteriyor",
     "summary": "İran, Ukrayna'ya karşı yürüttüğü savaş için Rusya'ya askeri yardım gönderdi. Şimdi soru, bu çatışma ile ABD-İsrail'in İran'a karşı savaşının birbirine yakınlaşıp yakınlaşmadığıdır.",
     "timeAgo": "En Guncel (API)",
@@ -799,104 +898,5 @@
     "summary": "Başkan Trump, Küba'nın petrolünü kestikten sonra çökeceğini tahmin etmeye devam ediyor. Ama hâlâ duruyor. Muhabirimiz Jack Nicas, Kübalıların elektrik kesintisini telafi etmek için güneş enerjisini na...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/video/world/americas/100000011014208/cubas-bet-on-solar.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Orta Doğu: ABD İran'da düzinelerce hedefe saldırdı",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/naher-osten-usa-greifen-dutzende-ziele-in-iran-an-li.3524143"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da Savaş: AB, sağlıklı Ukraynalı erkeklerin savaştan kaçmasını zorlaştırıyor",
-    "summary": "Gelecekte, askerlik hizmetine uygun erkekler artık Almanya ve diğer üye ülkelerdeki basitleştirilmiş kabul kurallarından yararlanamayacak. Ukrayna'daki büyük Rus saldırısında 10 kişi öldü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-soldaten-russland-li.3512468"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Protestolar: İran halkı susturulmayacak",
-    "summary": "İran rejimi ABD'ye savaş açarken protestoları bastırıyor ve göstericileri infaz ediyor. Yine de bazı insanlar direniyor - idam sırasında bile.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-hungerstreik-proteste-hinrichtungen-isfahan-li.3523910"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Rus füzesi Polonya'yı vurdu",
-    "summary": "Tusk: “ciddi olay” +++ Polonya F-16 savaş uçakları kaldırdı +++ Ukrayna'daki Rus saldırıları nedeniyle sekiz ölü +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-offenbar-russische-rakete-in-polen-eingeschlagen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Jay Clayton: Trump'ın yeni istihbarat koordinatörü kim?",
-    "summary": "Jay Clayton, New York'ta savcı olarak Venezuela Devlet Başkanı Nicolás Maduro'ya karşı suçlamalarda bulundu. Artık eski tanıdığı Donald Trump'a güvenlik konularında tavsiyelerde bulunması gerekiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/jay-clayton-wer-ist-der-neue-us-geheimdienstkoordinator-201078104.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "CHP baskı altında: Türk adalet sistemi muhalif belediye başkanlarına karşı harekete geçiyor",
-    "summary": "Türk yargısı CHP'ye karşı dava açmaya devam ediyor. Halihazırda zaten sıkıntılı günler yaşıyorlar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/tuerkische-justiz-nimmt-weitere-chp-buergermeister-fest-accg-201079768.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Kanadalılar, Trump'ın göreve dönmesinin ardından 2025'te ABD'ye seyahat için 3,3 milyar dolar daha az harcadı",
-    "summary": "Veriler, Trump'ı açıkça azarlayarak Kanadalıların ABD tatillerini diğer uluslararası gezilerle değiştirdiğini gösteriyor. Yeni hükümet verileri, Donald Trump'ın kuzey komşusuna yönelik düşmanca politi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "ABD, 'kabul edilemez riskleri' gerekçe göstererek Çin'deki insansı robotları yasakladı",
-    "summary": "Bu hamle, Trump yönetiminin Çin teknolojisini giderek ABD dışında tutmaya çalıştığı bir dönemde geldi. Federal İletişim Komisyonu Salı günü, teknolojinin ülkenin ulusal güvenliği açısından \"kabul edil...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Büyük bir şoktu': Yeni sınır kuralları, 80 yıl boyunca Birleşik Krallık'ta yaşayan çiftin Kraków'da mahsur kalmasına neden oldu",
-    "summary": "1947 ve 1948'de yerinden edilmiş Polonyalı askerlerin bakmakla yükümlü oldukları kişiler olarak gelen Maria ve Czeslaw Krupa'ya, Brexit sonrası Birleşik Krallık'a dönme haklarına sahip olmadıkları söy...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "HMRC, hassas teknolojinin ihracatına ilişkin kuralları ihlal ettiği için Airbus'a 6,4 milyon £ para cezası verdi",
-    "summary": "Üretici, vergi otoritesinin mahkeme dışı en büyük anlaşmasındaki suçları kendisi bildirdiAvrupalı ​​havacılık şirketinin, askeri donanım gibi hassas malların yanlış ellere düşmesini engellemek için ta...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/jul/30/airbus-fined-64m-hmrc-export-technology-breaches"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump'ın gözünde kaybeden Zelensky'nin yerini Putin'e bıraktı",
-    "summary": "NATO zirvesinde bazılarının korktuğu Atlantik'in dağılmasına benzeyen hiçbir şey yoktu; daha ziyade daha Avrupalı ​​ve Kanadalı bir ittifaka geçişin başlangıcıydı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-12/putin-sustituye-a-zelenski-como-perdedor-a-ojos-de-trump.html"
   }
 ]
