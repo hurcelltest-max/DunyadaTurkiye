@@ -3,6 +3,69 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "İran Vekillerinin Yardımıyla Daha Geniş Bir Savaş Planladı",
+    "summary": "Geçici bir ateşkes sırasında İranlılar, ABD güçlerinin yeniden saldırması halinde savaşın Başkan Trump açısından maliyetini artırmak için gizlice bir plan tasarladılar.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump, Ateşkesi İlerletecek Anlaşmayı Açıkladıktan Günler Sonra İsrail Gazze'yi Bombaladı",
+    "summary": "Filistinli yetkililer en az iki kişinin öldüğünü söyledi. Başkan Trump'ın açıkladığı anlaşma, kısmen Hamas'ın silahlarından vazgeçmesini, İsrail'in de Gazze'deki saldırılarını durdurmasını gerektiriyo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki çıkmaza son vereceğini söyledi",
+    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Ancak vandalizm değil: inşaat şirketi yansıtma havuzuna zarar verdi",
+    "summary": "ABD Başkanı Trump, eski bir ABD Olimpiyat sporcusunu mülke zarar vermekle suçladı. Şimdi mahkeme bu suçlamayı reddetti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-reflecting-pool-trump-li.3523200"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trump yönetimindeki ABD: ABD altyapısına yönelik hacker saldırısının kapsamı muhtemelen beklenenden daha büyük",
+    "summary": "Donald Trump yönetimindeki ABD siyasetine ilişkin canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-umfang-von-hackerangriff-auf-us-infrastruktur-weitet-sich-wohl-aus-faz-19444916.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Su sistemine yönelik çok sayıda siber saldırı, ABD'yi İran'ın olası katılımı konusunda endişelendiriyor",
+    "summary": "Sabotaj halihazırda yedi eyaleti etkiliyor. Trump Cuma günü Tahran'ın sorumluluğunu reddetti ve suçu Demokrat bir valiye yükledi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-08-01/multiples-cibertaques-en-el-sistema-de-aguas-inquietan-a-ee-uu-por-la-posible-participacion-de-iran.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'da önümüzdeki birkaç gün şiddetli sağanak ve fırtına bekleniyor",
+    "summary": "Hong Konglular önümüzdeki birkaç gün içinde daha kötü hava koşullarına hazırlanmalı.\nHong Kong Gözlemevi Cumartesi günü yaptığı uyarıda, geniş alçak basınç çukuru ve güneyden gelen aktif hava akımının...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362655/hong-kong-set-heavy-showers-squally-thunderstorms-over-next-few-days?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Müttefikler, İran'da ABD'nin Stratejik Bir Yenilgiye Gidiyor Olduğundan Korkuyor",
     "summary": "Başkan Trump'ın hedeflerinden hiçbirinin gerçekleşmemesi ve Hürmüz Boğazı'nın kapatılmasıyla ABD'nin müttefikleri savaşın işlevsizliğini ve kırılganlığını görüyor.",
     "timeAgo": "En Guncel (API)",
@@ -835,68 +898,5 @@
     "summary": "İlk olarak Hamas, silahlarını geçici Filistin yönetiminin gözetimi altına verme isteğinin sinyalini verdi. Ardından ABD Başkanı Trump Truth Social'da konuşuyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-saudi-arabien-rotes-meer-li.3523210"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump'ın “Barış Konseyi”: Hamas'ın silahsızlandırılması konusunda anlaşmaya varıldığı iddiası",
-    "summary": "Gazze Şeridi'ndeki Hamas, silahlarını geçici yönetimin ve uluslararası arabulucuların denetimi altında sağlamaya hazır olmalıdır. Bu İsrail için yeterli değil. Donald Trump hâlâ “muazzam bir adım” old...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/gaza-trump-spricht-von-einigung-auf-hamas-entwaffnung-201082450.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Jean Monnet Hürmüz'de",
-    "summary": "Trump'ın komutası serbest bırakılırken ve Netanyahu İsrail tarihindeki en aşırı hükümetin başındayken hiçbir şey ilerlemeyecek. Ancak ABD'deki ara seçimler ve İsrail'deki genel seçimlerle her şey deği...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Testosteron Beyaz Saray'da kontrol altında",
-    "summary": "Amerika Birleşik Devletleri Başkanı bombalamalarla korkutma konusunda çok iyi ama amacına ulaşma konusunda yetenekli değil: İran'ın yenilgisi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Rusya savaşı kaybediyor, Ukrayna sadece yarısını kazanıyor",
-    "summary": "Avrupa'nın geleceğini belirleyen savaşta geçen dört yıldan insani ve jeopolitik dersler",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-12/rusia-esta-perdiendo-la-guerra-ucrania-la-gana-solo-a-medias.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Lula ve Milei arasında aralıksız devam eden çatışmaların arkasında ne var?",
-    "summary": "Arjantin cumhurbaşkanı, Brezilyalı mevkidaşı Read ile rekabeti sürdürürken Trump ve bölgesel sağla ittifaklarını güçlendiriyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/31/6a6b5f06e85eced4518b4590.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Fas Kralı Muhammed VI, Donald Trump'ın himayesinden güç alıyor",
-    "summary": "Alevi hükümdar ABD'nin büyük bir müttefiki olarak tahta çıkışının yıldönümünü kutluyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/07/30/6a6b671ce85ece51188b45af.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, hafta sonu boyunca sürecek gök gürültülü sağanak yağış nedeniyle kırmızı yağmur fırtınası uyarısı verdi",
-    "summary": "Şehrin hava durumu tahmincisine göre, sabah saatlerinde yağmur fırtınası uyarısı kırmızıya yükseltildi ve Hong Kong'da Cuma günü şiddetli gökgürültülü sağanak yağışlar bekleniyor ve Pazartesi gününe k...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362469/amber-warning-issued-friday-heavy-rain-and-thunder-expected-over-weekend?utm_source=rss_feed"
   }
 ]
