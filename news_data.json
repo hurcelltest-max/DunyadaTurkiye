@@ -2,6 +2,87 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki açmazın sona ereceğini söyledi",
+    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: Trump: İran'la görüşmeler sürüyor, Tahran yalanlıyor",
+    "summary": "ABD Başkanı'na göre bu pazartesi yakınlaşma yaşanacak ama Tahran bunu yalanlıyor. Çatışmanın hafifleme ihtimali petrol fiyatının neredeyse yüzde beş düşmesine neden olacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-gespraeche-li.3523210"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Canlı blog İran savaşı: Trump İran görüşmelerinde: Tahran için “son şans”",
+    "summary": "İran Trump'a karşı çıkıyor ve görüşmeleri reddediyor +++ Trump “İkinci Dünya Savaşı'ndan bu yana en büyük saldırıyı” iptal etmek istiyor +++ Hürmüz Boğazı'nda tankerin yakınında patlama bildirildi +++...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-ueber-iran-gespraeche-letzte-chance-fuer-teheran-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Gecikmenin DHL uçağında yangını önlediği söyleniyor",
+    "summary": "Yangın çıkarıcı cihazların gönderilmesinin ardından Litvanya'daki duruşma +++ Postayla sipariş şirketi Wildberries'in deposuna bir sonraki saldırı +++ Adam Odessa'daki işe alım merkezinde ateş açtı ++...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-verspaetung-soll-brand-an-bord-von-dhl-flugzeug-verhindert-haben-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "“Barış Konseyi”nin planları: İsrail Gazze'den çekilmeyi reddediyor ve Hamas'ın “daha ​​fazla katliam” yapması konusunda uyarıyor",
+    "summary": "Gazze Şeridi'nde barışa yönelik yol haritası Kudüs'te direnişle karşılaşıyor. Hükümet, askerlerini geri çekmeden önce \"vazgeçilmez bir ilk adım\" atılması çağrısında bulunuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/israel-lehnt-truppenabzug-aus-gazastreifen-ab-201092046.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Cumhuriyetçi abluka: Trump patron olmaya devam ediyor",
+    "summary": "Trump'ın hukuki meselelerin dışında kalmaya niyeti yok. Eski savunma avukatı Todd Blanche'ın Başsavcı olmasının engellenmesinin bir önemi var mı?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-bleibt-der-boss-des-justizministers-201090757.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kmart, 'gizlilik kabusu' uyarıları nedeniyle Avustralya'da Meta kamera gözlüklerinin düşük maliyetli rakibini satıyor",
+    "summary": "Uzman, Anko akıllı gözlüklerin mağazalarda ve internette 89 dolara satıldığı için insanların rızaları olmadan filme alınma tehlikesiyle karşı karşıya olduğunu söylüyor Son dakika haber e-postamızı, üc...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Savaş karşıtı politikacı, seçim öncesi muhalefete yönelik baskıların ortasında Rusya'dan kaçtı",
+    "summary": "2024'te Putin'e karşı çıktıktan sonra ön plana çıkan Boris Nadezhdin, şu anda Fransa'da olduğunu söylüyorÖnde gelen Rus savaş karşıtı siyasetçi Boris Nadezhdin, Moskova'nın bu yıl yapılacak parlamento...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Honduras'ın eski başkanı Juan Orlando Hernández, dolandırıcılık suçundan hakim karşısına çıktığında kendisini \"savunmasız\" ilan etti",
+    "summary": "Eski başkan, Donald Trump tarafından affedildikten sonra kara para aklama suçlamasıyla ilk duruşmasına katıldı ve siyasi zulmün kurbanı olduğunu kınadı. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/03/6a70d3befdddff70488b4587.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
     "title": "İran, Trump'ın Hürmüz Boğazı'nda ilerleme kaydedildiğini belirtmesinin ardından ABD ile mevcut müzakerelerin olmadığını söyledi",
     "summary": "Başkan Trump, hafta sonu İran'a yönelik saldırı tehdidini iptal ederken müzakerelerdeki ilerlemeye dikkat çekti. İran, ABD ile şu anda herhangi bir görüşme yapılmadığını söyledi.",
@@ -817,86 +898,5 @@
     "summary": "Güney Lübnan'daki stratejik bir tepe üzerinde yaşanan çatışma, İsrail ile İran destekli militan grup arasındaki kırılgan ateşkese meydan okudu.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Mecklenburg-Batı Pomeranya: Baldırında bir el bombası, boynunda Thor'un çekici",
-    "summary": "Schwerin'deki genç AfD, jüt çuvallar ve pek çok etnik duyguyla \"Alman Gençlik Günü\"nü kutluyor. Olayın kenarlarında şiddet yaşanıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/afd-jugend-demo-schwerin-polizei-gegendemonstranten-einsatz-li.3522217"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Zelenskyj bir kez daha Patriot füzeleri istedi",
-    "summary": "Kendi açıklamalarına göre Ukrayna, Rus saldırısında yalnızca bir roketi durdurdu +++ Rusya'nın Kiev'e şiddetli saldırısı - dokuz ölü +++ Moskova: Öldürülen Kremlin eleştirmeni Nemtsov'un kızı hakkında...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-bittet-abermals-um-patriot-raketen-faz-110683325.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Jean Monnet Hürmüz'de",
-    "summary": "Trump'ın serbest bırakılması ve Netanyahu'nun İsrail tarihindeki en aşırı hükümetin başında olmasıyla hiçbir şey ilerlemeyecek. Ancak ABD'deki ara seçimler ve İsrail'deki genel seçimlerle her şey deği...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-26/jean-monnet-en-ormuz.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Testosteron Beyaz Saray'da kontrol altında",
-    "summary": "Amerika Birleşik Devletleri Başkanı bombalamalarla korkutma konusunda çok iyi ama amacına ulaşma konusunda yetenekli değil: İran'ın yenilgisi",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Rusya savaşı kaybediyor, Ukrayna sadece yarısını kazanıyor",
-    "summary": "Avrupa'nın geleceğini belirleyen savaşta geçen dört yıldan insani ve jeopolitik dersler",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-07-12/rusia-esta-perdiendo-la-guerra-ucrania-la-gana-solo-a-medias.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "\"Patron bu parayı istiyor\": Trump'ın benzeri görülmemiş bağış toplama operasyonu böyle işliyor",
-    "summary": "\"Karanlığın prensesi\" lakaplı Meredith O'Rourke, başkanın kişisel projeleri için büyük şirketlerden yüz milyonlarca dolar çekme isteğini yerine getiriyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/02/6a6dd236e9cf4a9f5a8b45ba.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Rusya-İran ittifakı Ukrayna ve Körfez savaşlarını birleştiriyor",
-    "summary": "Ayetullahlar Putin'i silahlandırıyor, Moskova İran füzelerine rehberlik ediyor ve Ukrayna, Hazar'daki Tahran gemilerine saldırıyor. Küresel ölçekte gerilimin tırmanma riski giderek artıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/01/6a6b96e221efa08a058b45b0.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Gölgeli dudak servisi: uzmanlar Hong Kong'daki yasa dışı güzellik bakımlarına karşı uyarıyor",
-    "summary": "Sektör uzmanları, Hong Kong dışından gelen güzellik uzmanlarının şehirde botulinum toksini ve dolgu enjeksiyonları gibi yasa dışı kozmetik prosedürler gerçekleştirdiğini, aracıların müşterilerin bilgi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362643/shady-lip-service-experts-warn-against-illicit-beauty-treatments-hong-kong?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump, hızlı bir anlaşma umuduyla yeni İran saldırısını erteleyeceğini söyledi",
-    "summary": "ABD Başkanı Donald Trump, İran'a yönelik saldırıların iptal edilmesinin hızlı bir şekilde barış anlaşmasına varılmasına bağlı olduğunu söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/02/world/trump-cancels-iran-attacks/"
   }
 ]
