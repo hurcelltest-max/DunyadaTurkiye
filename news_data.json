@@ -2,6 +2,96 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Gazze'ye Giderken Ele Geçirilen Aktivistler, İsrail Gözaltındaki Kötü muameleyi Anlattı",
+    "summary": "Röportajlarda, İsrail ablukasını kırmaya çalışan 20'den fazla kişi, yakalandıktan sonra dayak, elektrik şoku ve diğer kötü muameleleri anlattı. İsrail suçlamaları reddetti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Suudi Arabistan, Türkiye ve Pakistan Ortak Savunma Paktı İmzaladı",
+    "summary": "Anlaşma, ülkelerden herhangi birine yapılan bir saldırıyı hepsine yapılmış sayıyor ancak rekabetin istikrarsız olduğu bir bölgede bunun pratikte nasıl işleyeceği belli değildi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki açmazın sona ereceğini söyledi",
+    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: BM Güvenlik Konseyi Husilerin Suudi Arabistan'a yönelik saldırılarını kınadı",
+    "summary": "BM Güvenlik Konseyi'ne göre saldırılar bölgedeki güvenliği tehdit ediyor +++ İran görünüşe göre ABD gemilerini engellemek istiyor +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-will-amerikanische-und-israelische-schiffe-aussperren-faz-200583539.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Demokratik ön seçimler İsrail'in ABD'deki siyasi nüfuzunun azaldığını gösteriyor",
+    "summary": "Solcu El-Sayed'in Michigan ön seçimlerindeki başarısı, İsrail 'lobisinin' kendisine yönelttiği 30 milyon dolara rağmen, geleneksel müttefiklerin giderek uzaklaştığını ortaya koyuyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Demokrat kongre üyesi Pramila Jayapal: \"Trump'ın seçimleri çalmaya çalışması ihtimaline karşı hazırlanmalıyız\"",
+    "summary": "Temsilci, Kongre Binası'ndan, Trump'ın emperyalizminin kıtadaki zorluklarını ele almak üzere ilerici liderlerin Montevideo'da toplanacağı Pan Amerikan Kongresi'ne giden bir delegasyona liderlik ediyor...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-08-09/pramila-jayapal-congresista-democrata-nos-tenemos-que-preparar-por-si-trump-intenta-robar-las-elecciones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Mahkeme, Trump'ın Beyaz Saray balo salonunda çalışmaya devam edebilmesi için kongre onayına ihtiyacı olduğuna karar verdi",
+    "summary": "Washington'daki ikonik yerleri dönüştürme planlarına bir darbe daha alan Trump, \"ulusal güvenliği\" tehdit eden bir karar için Yüksek Mahkeme'ye başvuracağının garantisini verdi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-08-07/un-tribunal-dictamina-que-trump-necesita-el-aval-del-congreso-para-continuar-con-las-obras-del-salon-de-baile-en-la-casa-blanca.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Federal mahkeme kararları Trump balo salonunun inşaatını durdurdu: \"Başkan, Beyaz Saray'ın sahibi değil, geçici kiracısıdır\"",
+    "summary": "Doğu Kanadı'nın yıkılmasının ardından jüri, sığınaktaki yeraltı çalışmalarının devam edebileceğini ancak yüzey değişikliklerini Kongre'nin onaylaması gerektiğini söylüyor.&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/07/6a760334e85ecea3168b457c.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran, Trump'ı Hürmüz Boğazı'nda köşeye sıkıştırdığına inanıyor ancak stratejisi büyük riskler içeriyor",
+    "summary": "Tahran, askeri baskının sonunda ABD'yi küresel enerjiye yönelik bu önemli yol üzerindeki kontrolünü kabul etmeye zorlayacağına inanıyor. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/09/6a781ddafdddffce508b457c.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Nagasaki hibakusha savaş hazırlıkları değil barış arayışını teşvik ediyor",
+    "summary": "Şu anda 82 yaşında olan Tadako Kawazoe, ABD 9 Ağustos 1945'te Nagazaki'ye atom bombası attığında yürümeye başlayan bir çocuktu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/09/japan/tadako-kawazoe-nagasaki-hibakusha/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
     "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
@@ -808,95 +898,5 @@
     "summary": "Yargıçlara göre Kongre'nin projeye karar vermesi gerekiyor; bu da başkan için bir aksilik. Artık Yüksek Mahkeme'ye itiraz etmek için iki haftası var.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-weisses-haus-ballsaal-li.3523200"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Hürmüz Boğazı: Trump'ın müzakere pozisyonu kötüleşmeye devam ediyor",
-    "summary": "İranlıların Hürmüz Boğazı'nı açmak için aceleleri yok. Zaman onlar için çalışıyor ve ABD Başkanı giderek daha fazla savunmaya geçiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-diktiert-den-usa-bedingungen-zur-strasse-von-hormus-201093734.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: ABD Senatosu Rusya'ya karşı yaptırım yasasını onayladı",
-    "summary": "Temsilciler Meclisi'nin hala onaylaması gerekiyor +++ Odessa'daki futbol stadyumu insansız hava aracı saldırısında hasar gördü +++ Ukrayna, Yekaterinburg'daki Wildberries lojistik merkezine saldırdı +...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-senat-stimmt-sanktionsgesetz-gegen-russland-zu-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: Trump'ın balo salonunun inşaatı askıya alındı",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gericht-stoppt-bau-von-trumps-ballsaal-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "İsrail'de Siyaset: Aşırılıklar normale döndüğünde",
-    "summary": "İsrail hayati bir seçimle karşı karşıya ve neredeyse mümkün olan tüm araçlarla savaşıyor. Rakiplerin Başbakan Netanyahu'dan yalnızca derece farkı var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/israel-waehlt-und-das-extreme-wird-zur-normalitaet-201083607.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Yeni üçlü ittifak: İran'a karşı ittifak",
-    "summary": "Trump Körfez'de büyük bir zafer kazandığına kendini inandırabilir. Suudi Arabistan, Pakistan ve Türkiye bunun gerçekte nasıl olduğunu biliyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-allianz-von-saudi-arabien-pakistan-und-tuerkei-201105443.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Smolensk olayı: “Bunun için cehennemde yanacaklar”",
-    "summary": "PiS partisi yıllarca Tusk hükümetini 2010'daki uçak kazasıyla bağlantılı olarak Rusya ile komplo kurmakla suçladı. Artık savcılık net sonuçlara ulaştı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/smolensk-katastrophe-es-war-kein-hochverrat-201105003.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "ABD vatandaşlığı: Trump için önemli olan sonuç değil mesajdır",
-    "summary": "Trump, ABD vatandaşlığı için doğum yeri ilkesini yeniden kısıtlamak istiyor. Uzun sürmesi ya da çok şey başarması önemli değil. Savaş çığlığı önemlidir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/birthright-citizenship-fuer-trumps-zaehlt-vor-allem-die-botschaft-201105431.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Leipzig'e drone saldırısı: Almanya'nın etkili bir savunması yok",
-    "summary": "Leipzig'de neredeyse bir felaket yaşanıyordu. Hibrit savaşa karşı etkili bir savunma henüz ufukta görünmüyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/drohnen-deutschland-fehlt-die-wirkungsvolle-abwehr-201097736.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Yargıç, Trump'ın Güney Sudan TPS korumalarını sona erdirme çabasını onayladı",
-    "summary": "Karar, ABD hükümetinin Haitililer ve Suriyelilere yönelik korumaları kaldırmasına izin veren yüksek mahkeme kararının ardından geldi. ABD'deki yüzlerce Güney Sudan vatandaşının geçici koruma statüsü (...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Eleştirmenlerin Çin'in diplomatik boşluğu doldurabileceğinden korkması nedeniyle ABD beş konsolosluğunu kapatacak",
-    "summary": "Dışişleri Bakanlığı Kongre'ye Kanada, Grenada, Japonya, Endonezya ve Kamerun'da planlanan kapatmalar hakkında bilgi verdiABD dışişleri bakanlığı Asya, Afrika, Kuzey Amerika ve Karayipler'deki beş yaba...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
   }
 ]
