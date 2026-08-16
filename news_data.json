@@ -2,6 +2,78 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Filistinliler Yaya Olarak Kuzey Gazze'ye Dönüyor",
+    "summary": "İsrail, rehinelerin serbest bırakılması konusundaki çıkmazın sona ermesinin ardından yerinden edilmiş Gazzelilerin bölgeyi ikiye bölen askeri bölgeyi geçmeye başlamalarına izin verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump, Kolombiya'nın sınır dışı edilenleri kabul edeceğini ve gümrük tarifelerindeki çıkmaza son vereceğini söyledi",
+    "summary": "ICE'nin Pazar günü 900'den fazla tutuklama yapmasıyla birlikte, başkan ikinci döneme başlarken göçü erken bir öncelik haline getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Anthony Albanese, tüm eyaletleri NSW ile yapılan federal fon anlaşmasında başlatılan silah geri alım planına katılmaya davet ediyor.  Canlı güncellemeleri takip edin Son dakika haber e-postamızı, ücre...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Kolombiya Devlet Başkanı Trump'tan deprem nedeniyle tarifeleri geçici olarak askıya almasını istedi",
+    "summary": "Amerika Birleşik Devletleri'nin Kolombiya ürünlerine yönelik oranları, kahve veya yağ gibi bazı istisnalar dışında Temmuz ayı sonunda %10'dan %12,5'e çıktı.&nbsp;Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/15/6a80d33efdddff88538b4589.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Putin korkusu ve Trump'a güvensizlik İzlanda ve AB referandumuna damgasını vurdu",
+    "summary": "Ülke, bu ayın sonunda topluluk bloğuna katılmak için iş yeri açıp açmayacağına karar vermek üzere sandık başına gidecek. Okumak",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/15/6a7356cd21efa085228b4583.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'un yeni üniversite şehri, şehrin küresel hedeflerinin bir sınavı",
+    "summary": "Hong Kong'un Kuzey Metropolis Üniversite Şehri artık sadece bir planlama konsepti değil. Bir üniversite şehri çalışma grubunun saha ziyaretlerinin ardından, hükümetin denizaşırı modellerden ders aldığ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363760/hong-kongs-new-university-town-test-citys-global-ambitions?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Bessent'in İran'a yönelik ekonomik izolasyonu neye benzeyebilir?",
+    "summary": "Trump yönetimi ne yapmayı planladığını söylememiş olsa da ABD Hazine Bakanlığı'nın vurabileceği baskı noktaları hâlâ mevcut.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/08/16/economy/bessent-economic-isolation-iran/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İran, düşen pilotların serbest bırakılmasını talep ederken, Katar onları alıkoymayı reddetti",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/16/world/iran-qatar-downed-pilots/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
     "title": "Avusturya'da İç Savaş İhlallerinden Mahkum Edilen Suriyeli Suriye'de Gözaltına Alındı",
     "summary": "Eski polis şefi Musab Ebu Rukbah, Suriye'deki iç savaş sırasında işlediği suçlar nedeniyle aldığı sekiz yıllık hapis cezasına itiraz ettikten sonra Avusturya'yı terk etti.",
@@ -826,77 +898,5 @@
     "summary": "Letonya ordusu insansız hava aracının menşei hakkında henüz kesin bir bilgi vermedi. Ancak Rusya'nın elektronik savaşı sonucunda Letonya hava sahasına giren yabancı bir İHA'dan söz ediyor.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "ABD: ABD, drone ve drone bileşenlerine yüksek tarifeler uyguluyor",
-    "summary": "Hükümet, tedbiri ulusal güvenlik gerekçesiyle gerekçelendiriyor. ABD, yurtdışından gelen insansız hava araçlarına ve bileşenlerine fazlasıyla bağımlı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-zoelle-drohnen-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: Trump, uçak gemilerindeki buharlı mancınıklara geri dönme emri verdi",
-    "summary": "Donald Trump yönetimindeki ABD siyasetine dair canlı yayın / Trump'ın Cumhuriyetçi bir senatöre bağırdığı söyleniyor / Şimdi FAZ canlı yayınında okuyun",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-ordnet-rueckkehr-zu-dampfkatapulten-auf-flugzeugtraegern-an-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Göç: Giderek daha fazla İsrailli İsrail'de kendini evinde hissetmiyor",
-    "summary": "İsrail'den gelen göçmenlerin sayısı 2023'ten bu yana büyük oranda artıyor. Birçoğu hayat pahalılığı nedeniyle ülkeyi terk ediyor, ancak genellikle genel bir yabancılaşma hissi var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/fremd-in-israel-warum-immer-mehr-israelis-auswandern-accg-201109334.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Afrika tırtılının ilerleyişini durdurmak: Doğal bir tedavi çiftçilere umut veriyor",
-    "summary": "Güney Afrikalı bilim insanının çığır açan araştırması, toprak mantarının yıkıcı mahsül zararlılarına karşı mücadelede kullanılabileceğini gösteriyor. Gizemli beyaz bir maddeyle çevrelenmiş ölü tırtıll...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Japonya'da 'benzeri görülmemiş' yağmur dört kişiyi öldürdü, binlerce kişi havaalanında mahsur kaldı",
-    "summary": "Şiddetli yağmurlar Chiba vilayetini vurduğundan 400.000 kişi için tahliye emri çıkarıldı; yağışların azalmasına rağmen sel riski hala yüksek. Tokyo'nun Narita havaalanında yaklaşık 7.000 kişiyi mahsur...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump Latin Amerika'daki askeri dokunaçlarını genişletiyor",
-    "summary": "Hegseth, Havana'da askeri seçeneği göz ardı etmediğini ve Kolombiya topraklarında operasyonlar planladığını duyurdu. Trump'ın bölgeyi kontrol etme stratejisi Meksika'nın direnişi ve Orta Amerika'nın t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-08-14/ee-uu-reafirma-en-colombia-y-cuba-la-disposicion-de-su-ejercito-a-intervenir-en-latinoamerica-en-defensa-de-sus-intereses.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Afgan kadınların İspanya'ya nakil talebinde bulunmalarının \"engelli yolu\": Yıllarca süren bekleyiş, \"imkansız\" belgeler ve adli başvurular",
-    "summary": "Çeşitli STK'lara göre İran ve Pakistan'daki İspanyol büyükelçilikleri Taliban kurbanlarından gelen giderek artan sayıdaki talepleri reddediyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Tahıl savaşı Karadeniz'e geri dönüyor: Rusya, Ukrayna ihracatını engelliyor ve bir sonraki hasadı tehdit ediyor",
-    "summary": "Ukrayna'nın tahıl sevkiyatları, saldırıların yoğunlaşması nedeniyle Ağustos ayının ilk iki haftasında %75'e kadar düştü",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-14/la-guerra-del-grano-vuelve-al-mar-negro-rusia-bloquea-las-exportaciones-de-ucrania-y-amenaza-la-proxima-cosecha.html"
   }
 ]
