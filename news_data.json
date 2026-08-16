@@ -1,5 +1,140 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukrayna'da savaş: NATO savaş uçağı Romanya üzerinde insansız hava aracını düşürdü",
+    "summary": "Bir İspanyol “F-18”, Romanya hava sahasında şüpheli bir Rus insansız hava aracını yakaladı. Kiev ve Moskova büyük hava saldırılarının hedefi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-rumaenien-drohne-li.3524928"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: NATO, Romanya hava sahasında insansız hava aracını düşürdü",
+    "summary": "Kiev: Rusya'daki uzay fabrikasına saldırı düzenlendi +++ Polonyalı kardinal Ukraynalılara yönelik saldırıları kınadı +++ Doğu Avrupa Bremen Araştırma Merkezi Rusya'da “istenmedi” +++ tüm haberler canl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-schiesst-drohne-im-rumaenischen-luftraum-ab-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Japonya'da 'benzeri görülmemiş' yağmur beş kişiyi öldürdü, binlerce kişi havaalanında mahsur kaldı",
+    "summary": "Chiba vilayetindeki sel, toprak kayması uyarıları ve elektrik kesintileri sonrasında 400.000 kişi için tahliye emri çıkarıldıTokyo'nun Narita havaalanında yaklaşık 7.000 kişinin mahsur kalmasına ve bi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tahrip edilen mahsuller, nehir yatağındaki bisikletçiler ve 'Açlık Kayası': Kuraklık Tuna'yı nasıl harap etti?",
+    "summary": "Guardian, bazı sakinlerin içme suyu sağlamakta zorlandığı AB'nin en uzun nehri boyunca 160 kilometre yol kat etti. Kaya yüzyıllar boyunca bir uyarı olarak görüldü. Budapeşte'deki Gellért Tepesi'nin al...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Hamas'ın hayatta kalması Netanyahu'nun yeniden seçilmesini zorlaştırıyor",
+    "summary": "İsrail başbakanı Ekim ayında sandık başına, yerine getirilmemiş \"tam zafer\" vaadiyle ve Trump'ın planının yerine getirilmesi gerektiğiyle çıktı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-16/la-supervivencia-de-hamas-complica-la-reeleccion-a-netanyahu.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran'ın çıkmazı Trump için yeni bir iç sorun yaratıyor",
+    "summary": "Türkiye'den kaçma hilesi, cephanelik sıkıntısı ve 'USS Abraham Lincoln'deki koşulların kötüleşmesi, Orta Doğu'daki zorlukları gösteriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Gazze'de hayat 300 gün süren ateşkesin ardından her gün cehenneme döndü",
+    "summary": "Su ve elektrik olmayınca halk farklı bir gelecek beklemeye devam ediyor. İsrail daha az bombalıyor ancak yeniden inşayı engelleyerek yüz binlerce Filistinliyi çadırlarda tutuyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-16/la-vida-en-gaza-un-infierno-cotidiano-tras-300-dias-de-alto-el-fuego.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Afgan kadınların İspanya'ya nakil talebinde bulunmalarının \"engelli yolu\": Yıllarca süren bekleyiş, \"imkansız\" belgeler ve adli başvurular",
+    "summary": "Çeşitli STK'lara göre İran ve Pakistan'daki İspanyol büyükelçilikleri Taliban kurbanlarından gelen giderek artan sayıdaki talepleri reddediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "'Epik Öfke'nin stratejik tasarısı: Trump füze cephaneliğini boşaltıyor ve müttefiklerini açıkta bırakıyor",
+    "summary": "İran'ın insansız hava araçlarına ve balistik roketlerine karşı yüksek mühimmat tüketimi, Çin ve Rusya için fırsat pencereleri açıyor ve Soğuk Savaş'tan bu yana en önemli güvenlik acil durumlarından bi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/13/6a7cb018e4d4d8d7038b4589.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Göç şefi Snooker'ın Hong Kong'ta sırf düşük vergi nedeniyle yıldızlanmadığını söylüyor",
+    "summary": "Hong Kong'un göç şefi, birinci sınıf snooker oyuncularının öncelikle vergi faturalarını azaltmak için yerel yetenek planını kullandıkları yönündeki iddiaları reddetti ve tek amaç kaçınma olsaydı sıfır...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3364174/snooker-stars-not-hong-kong-just-low-tax-immigration-chief-says?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hafta ortasında fırtınalar başlamadan önce sıcak hava dalgası Hong Kong'da devam edecek",
+    "summary": "Hong Kong'da Pazar ve Pazartesi günü kavurucu hava devam edecek ve alçak basınç sistemi hafta ortasına kadar fırtınalı fırtınalar ve istikrarsız hava getirmeden önce maksimum sıcaklıklar 35 santigrat ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/article/3364168/heatwave-persist-hong-kong-thunderstorms-set-midweek?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Tokyo'da siyasetçiler ve bürokratlar arasındaki çim savaşları",
+    "summary": "Siyaset ve bürokrasi arasındaki mücadele kesinlikle yeni bir gelişme değil.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/08/16/japan/tokyo-political-turf-wars/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Kuzey Kore'den Kim ve Rusya'dan Putin, Kore Kurtuluş Günü'nde bağlarını yeniden doğruladı",
+    "summary": "Pyongyang ve Moskova, münzevi devletin Rusya'nın Ukrayna'ya karşı savaşını desteklemek için asker ve silah konuşlandırmaya başlamasından bu yana daha da yakınlaştı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/16/asia-pacific/politics/kim-putin-reaffirm-ties/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "98 yaşındaki, savaşta kaybedilen 3,1 milyon Japon'un hatırlanması çağrısında bulundu",
+    "summary": "Birçokları için savaşın uzak bir hatırası olan Kazuhiko Takahashi, savaşın sona ermesinin 81. yıldönümünü barışı sürdürme vaadiyle kutladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/16/japan/oldest-war-bereaved-relative/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump yaptırımlara odaklandıkça ABD'nin Küba için askeri seçeneği azalıyor",
+    "summary": "ABD'nin dikkati artık herhangi bir askeri veya özel kuvvet operasyonundan ziyade rejimin tüm gelir kaynaklarının kesilmesine odaklanmış durumda.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/16/world/politics/trump-us-military-cuba-sanctions/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
@@ -763,140 +898,5 @@
     "summary": "Gazze Şeridi sınırındaki Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
-    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
-    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "ABD'nin batısında su sıkıntısı: Rezervuarlar kuruduğunda",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/der-politische-kampf-um-das-wasser-des-colorado-rivers-accg-201085876.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Pocock ve karşıt görüşlüler, Senato soruşturma raporunda İşçi Partisi'nin NDIS revizyonunun \"çok ileri, çok hızlı\" olduğunu söylüyor",
-    "summary": "Yeşiller, İşçi Partisi'nin reformunun \"gaz ihracatını vergilendirerek ek gelir elde etmek yerine hayat değiştiren destekleri engellilerin elinden almayı\" hedeflediğini söylüyor Karşı görüşlüler, Arnav...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Uzman, Avustralya'da daha adil konut piyasasına doğru 'küçük' bir adım olarak emlak yatırımcılarına verilen kredilerin keskin bir şekilde düştüğünü söylüyor",
-    "summary": "ABS verileri, bu yılki üç faiz artışının ardından yatırımcılara verilen yeni kredilerde neredeyse %9'luk bir düşüş olduğunu gösteriyor En son güncellemeler için Avustralya haber canlı blogumuzu takip ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Ukrayna'daki kayıplar artarken Putin'in işe alım görevlileri ikinci kitlesel seferberlikten kaçınmak için çabalıyor",
-    "summary": "Rusya ayda 30.000 kayıp veriyor ve ülkenin bölgeleri 'kıyma makinesini' besleme konusunda baskı altında. Uzmanlar bunun yeterli olmayabileceğini söylüyor Rusya genelinde mutfaklarda ve Telegram sohbet...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Raporda, yolcunun kısmen dışarı çekildiği Ryanair'in camının motor kalıntıları nedeniyle kırıldığı ortaya çıktı",
-    "summary": "Ön bulgular, 10 Temmuz'da Yunanistan'dan Almanya'ya giden uçuşta fan kanadının kalkıştan kısa bir süre sonra kırıldığını gösteriyor İş dünyası canlı - son güncellemeler ABD'li araştırmacılar, Temmuz a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/aug/14/ryanair-engine-parts-shattered-window-passenger-partly-sucked-out-of-report"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump aşılara karşı mücadelesini toparlıyor ve çocuklara yönelik dozların azaltılmasını talep ediyor",
-    "summary": "Amerika Birleşik Devletleri Başkanı, Devletleri aşı protokollerini gözden geçirmeye ve dozları birden fazla randevuya ayırmaya teşvik eden bir idari emri onayladı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-08-10/trump-recupera-su-cruzada-contra-las-vacunas-y-exige-reducir-las-dosis-para-los-ninos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İsrailli aşırılıkçıların Batı Şeria'daki eylemleri ABD'yi öfkelendirdi",
-    "summary": "İsrail Savunma Bakanı Israel Katz, çok sayıda yerleşim bölgesinin ve Filistinlilerin evini kuşatan bir çadırın dağıtılmasının ardından, orduya, kolluk kuvvetlerinin Batı Şeria'daki polise devredilmesi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/14/6a7f0140e4d4d88b488b45ac.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump'ın ICE ajanlarına tedarik etmeyi planladığı tartışmalı elektrik şok eldivenleri bu şekilde çalışıyor",
-    "summary": "ABD göçmenlik dairesi, G.L.O.V.E.&nbsp;Read adlı bu düşük voltajlı taktik cihazların büyük miktarda satın alınmasına 20 milyon dolara kadar yatırım yapacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/14/6a7ee37621efa008728b458b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Belçika'da bir eğlence parkının yakınında İkinci Dünya Savaşı'ndan kalma bir top mermisinin patlaması sonucu üç kişi yaralandı",
-    "summary": "Muhafazanın bozulması, cihazın Stavelot kasabasındaki yoğun bir turistik bölgenin yakınında kendiliğinden yanmasına neden oldu. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/14/6a7ee949e9cf4adc6b8b458f.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong'daki yatırım dolandırıcılığı vakaları %15 düştü ancak kayıplar 1,65 milyar HK$ ile yüksek kaldı",
-    "summary": "Hong Kong, bu yılın ilk yarısında yatırım dolandırıcılığı vakalarında yüzde 15'lik bir düşüş kaydetti, ancak polis, yatırımcıları dolandırmak için meşru denizaşırı firmaların temsilcileri gibi davrana...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364044/investment-scam-cases-hong-kong-drop-15-losses-remain-high-hk165b?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "'En Parlak Güneş'te faili meçhul bir cinayet umutsuzluğa ve kurtuluşa yol açıyor",
-    "summary": "Tetsuya Nakashima'nın zorlu ama ödüllendirici filminde bir çift özel dedektif, bir meslektaşının cinayetini araştırıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/08/14/film/the-brightest-sun/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD'deki cephane sıkıntısı küresel bir felaket",
-    "summary": "Füze kıtlığı Trump'ın askeri seçeneklerini kısıtlıyor ve Çin, Kuzey Kore ve Rusya'yı caydırma yeteneğinin sınırlanması da dahil olmak üzere stratejik sonuçlara yol açabilir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/08/14/world/us-ammo-crunch/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukrayna'da savaş: Letonya'da hava alarmı: Savaş uçakları insansız hava aracını düşürdü",
-    "summary": "Letonya ordusu insansız hava aracının menşei hakkında henüz kesin bir bilgi vermedi. Ancak Rusya'nın elektronik savaşı sonucunda Letonya hava sahasına giren yabancı bir İHA'dan söz ediyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928"
   }
 ]
