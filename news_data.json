@@ -1,5 +1,113 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "ABD: Kanada, ABD tarifelerine karşı çıktı: “Saldırıya uğradık”",
+    "summary": "Başarısız olan müzakerelerin ardından ABD ile Kanada arasındaki gümrük anlaşmazlığı yeniden gündeme geliyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-zoelle-li.3530667"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kendi topraklarındaki yabancılar: Trump'ın Amerika'sından sınır dışı edilen Meksikalılar 'Küçük Los Angeles'a sığındı",
+    "summary": "Bol miktarda iş imkanı ve topluluk desteğiyle Mexico City'nin bir mahallesi, hayatlarının çoğunu ABD'de geçirmiş olanlar için bir sığınak haline geldi Uzun palmiye ağaçlarıyla kaplı geniş caddeleri, i...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hava durumu takipçisi: Aşırı yağmur Japonya ve Güney Kore'yi sular altında bıraktı",
+    "summary": "İnsanlar araçların içinde mahsur kalırken, sağanak yağışlar rekorlar kırıyor ve ulaşımda kaosa, tahliyelere ve ölümlere neden oluyor Güney Kore ve Japonya, geçen hafta sonu ve bu haftaya kadar aşırı y...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Victoria temyiz mahkemesini bölmeye yönelik liberal plan, yargıyı siyasallaştıracak bir 'düşünce balonu' olarak saldırıya uğradı",
+    "summary": "Muhalefet lideri Jess Wilson, yeni özel cezai temyiz mahkemesinin daha sert cezalar için emsal teşkil edeceğini söyledi Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'im...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kürk fokunun ölümü, H5 kuş gribi türünün yayılmasından dolayı Avustralya anakarasındaki ilk memeli ölümüne işaret ediyor",
+    "summary": "Bakan, Güney Avustralya'daki Beachport'ta ölü bulunan fokun 'önemli kayıpların' habercisi olduğu konusunda uyardı: En son güncellemeler için Avustralya haber canlı blogumuzu takip edin Son dakika habe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İran: dünyayı değiştiren, kazananı olmayan bir savaş",
+    "summary": "Trump daha fazla kavga etmekten vazgeçip Tahran'a karşı ekonomik baskıya vurgu yaparken ortaklarına saldırıyor ve ittifaklarını zayıflatıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-23/iran-una-guerra-sin-vencedores-que-ha-cambiado-el-mundo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump'ın hedef aldığı gizli Orta Doğu arabulucusu Umman",
+    "summary": "Tartışmalı Hürmüz Boğazı'na açılan kapılardan biri olan saltanat, İran'la müzakere ediyor ve çatışmanın daha da büyümemesi için ABD'ye öneriler iletiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-23/oman-el-discreto-mediador-de-oriente-proximo-al-que-trump-pone-en-la-diana.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD'nin gölgesi Grönland'ın güneyine uzuyor: “Evlerimizi kaybedeceğiz”",
+    "summary": "Trump'ın devasa Danimarka adasını kontrol etme ve doğal kaynaklarını kullanma konusundaki ilgisi halkı endişelendiriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/europa/informada/2026-08-23/la-sombra-de-estados-unidos-se-alarga-sobre-el-sur-de-groenlandia-vamos-a-perder-nuestras-casas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Kim Jong-un, Trump'ın aradığı lider, Putin'in ihtiyacı var ve Xi kaybetmek istemiyor",
+    "summary": "Rusya ile ittifak, Çin'in yakınlaşması ve Beyaz Saray'ın çıkarları Kuzey Kore liderinin özerkliğini genişletmesine olanak tanıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-23/kim-jong-un-el-lider-al-que-trump-busca-putin-necesita-y-xi-no-quiere-perder.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran Hürmüz Boğazı'nın kontrolünü kaybetti mi? Sıra sıra petrol tankerleri, ABD gemilerinin eşlik ettiği deniz geçişini geçiyor",
+    "summary": "Trump ve Ayetullahlar bu koridorun kontrolünü elinde tutuyor ancak deniz trafiği en çok kullanılan güzergahın tam da Tahran'ın kaçınmak istediği güzergah olduğunu gösteriyor Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/21/6a880c6ee4d4d874538b459e.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Narra yaklaşırken Hong Kong Salı veya Çarşamba günü tayfun sinyali verebilir",
+    "summary": "Tropikal fırtına bölgeye yaklaşırken Hong Kong Gözlemevi Salı veya Çarşamba günü bir tayfun sinyali yayınlayabilir.\nTahminci Pazar günü yaptığı açıklamada, \"Tropikal Narra Kasırgasının bugün ve yarın ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364956/hong-kong-may-issue-typhoon-signal-tuesday-or-wednesday-narra-approaches?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "'Shiranui': Bir deniz serapı, ahlakla ilgili bir animeye ilham veriyor",
+    "summary": "Yönetmen Ryo Katanosaka, COVID-19 salgını sırasında animasyona yöneldi ve \"Shiranui\"nin yolunu açan iki dakikalık bir kısa film çekti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/culture/2026/08/23/film/shiranui-debut-anime-ryo-katanosaka/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -790,113 +898,5 @@
     "summary": "IDF'nin Nisan 2024'te yedi insani yardım görevlisinin ölümüne yol açan saldırıyla ilgili cezai soruşturma başlatmayacağını açıklamasının ardından yayınlanan ortak bildiride, İngiltere, Avustralya ve K...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "NSW, İsrail karşıtı vandalizmin Yahudi karşıtı olmadığını tespit eden tartışmalı mahkeme kararı hakkında 'acil tavsiye istiyor'",
-    "summary": "Başsavcı, adaletin ardından temyiz başvurusunu değerlendiriyor Desmond Fagan, arabalara \"Fuk İsrail\" yazan Mohommed Farhat'ın terör kararı talebini geri çevirdi Son dakika haber e-postamızı, ücretsiz ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İran Cumhurbaşkanı ABD ile savaşın sona erdirilmesi çağrısında bulundu: “Bütün dünya zaferimizi tanıyor”",
-    "summary": "Masud Pezeshkián, ülkesinin çatışmayı sonuçlandırmak için \"güçlü ve onurlu bir konumda\" olduğuna dair güvence verirken, Washington'un \"gözdağına\" boyun eğmeyeceklerini doğruladı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-21/el-presidente-de-iran-pide-terminar-la-guerra-con-estados-unidos-el-mundo-entero-reconoce-nuestra-victoria.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Türkiye, Interpol'den Gazze'ye giden filoya saldırı nedeniyle Netanyahu'yu tutuklamasını talep etti",
-    "summary": "Adalet Bakanlığı'nın açıklaması, İsrail'in Suriye'deki bombalamasının ardından iki ülke arasındaki gerginliğin arttığı bir dönemde geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-21/turquia-solicita-a-interpol-la-detencion-de-netanyahu-por-el-asalto-a-la-flotilla-con-destino-a-gaza.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Türkiye, Netanyahu için uluslararası tutuklama emri çıkardı",
-    "summary": "Türkiye Adalet Bakanı, kararı \"Gazze Filosu\"nda seyahat eden aktivistlerin gözaltına alınmasına ilişkin soruşturma çerçevesinde duyurdu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/21/6a884a0121efa0a6578b4594.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Eski bakımevi çalışanı zihinsel engelli kadına 5 kez tecavüz etmekle suçlandı",
-    "summary": "Hong Kong'da zihinsel engellilere yönelik bir huzurevinde çalışan eski bir müdür yardımcısı, iki yıl önce bir sakine birden çok kez tecavüz etmekle suçlandı.\nChung Pui-kei, Temmuz ve Ağustos 2024 aras...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong işsizlik oranı 2026'nın başından bu yana %3,7 seviyesinde sabit kaldı ancak baskı artıyor",
-    "summary": "Yeni rakamlara göre Hong Kong'un işsizlik oranı yıl başından bu yana değişmedi, ancak çalışma şefi yeni mezunların işgücüne girmesiyle işsizlik üzerindeki baskının artacağı konusunda uyardı.\nNüfus Say...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364686/jobless-rate-steady-37-start-2026-pressure-mounting?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Giorgia Meloni Zor Sağdan Güce Giden Yolu Kesiyor",
-    "summary": "Nadir bir röportajda, bir zamanların siyasi dışlanmışı, \"tarihin rahatsız edici tarafı\"ndan İtalya'nın en dayanıklı savaş sonrası hükümetine liderlik etme eşiğine giden rotasını yansıtıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Tahranlı üst düzey yetkili, İran'ın \"haksız\" ABD yaptırımlarının üstesinden gelmeyi planlaması gerektiğini söyledi",
-    "summary": "Washington ile müzakerelerin baş müzakerecisi Mohammad Bagher Ghalibaf, Başkan Trump'ın İran'a karşı \"ekonomik D-Day\" sözü vermesinin ardından bu yorumları yaptı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Giorgia Meloni'nin Söyleyecek Çok Şeyi Var: Çıkarımlar",
-    "summary": "İtalya başbakanı, yakında ülkenin savaş sonrası tarihindeki en uzun ömürlü hükümete liderlik edecek. Nadir bir röportajda kendini hem komik hem de şiddetli olarak gösteriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas, Gazze Ateşkes Anlaşması Kapsamında Dört İsrailli Kadın Askeri Serbest Bıraktı",
-    "summary": "Rehinelerin, çok aşamalı anlaşmanın yürürlüğe girmesinden bu yana serbest bırakılan ikinci grup olması, savaşın kalıcı bir şekilde sona ermesi yönündeki umutları artırıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Suriye: İsrail'in bombaları Türkiye Cumhurbaşkanı'na bir uyarıdır",
-    "summary": "Erdoğan'ın Türkiye'si Orta Doğu'da İslamcı odaklı bir üstünlük kurma çabasında ve İsrail de bundan dolayı kendisini tehdit altında hissediyor. Her şeyden önce Kudüs, Ankara'nın Suriye'de askeri varlığ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/syrien-israel-tuerkei-luftangriffe-warnung-li.3534134"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Batı Şeria: ABD Büyükelçisi Kusra'daki yerleşimci şiddetini kınadı",
-    "summary": "Filistin'in Kusra kasabasında İsrailli yerleşimciler aileleri evlerinden etmeye zorlamaya devam ediyor. Bu dava ABD'de öfkeye yol açsa da pek çok davadan sadece biri.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-palaestina-siedlergewalt-reaktionen-li.3533346"
   }
 ]
