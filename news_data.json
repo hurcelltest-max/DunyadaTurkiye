@@ -3,6 +3,150 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Google Haritalar, Trump'ın Kararnamesine Göre Ontario Gölünü Amerika Gölüne Dönüştürdü",
+    "summary": "ABD'deki kullanıcılar, Başkan Trump'ın geçen haftaki idari emrinin ardından yeni etiketi görecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "BAE İran Yaptırımlarının Hedef Aldığı Banque Misr'i Gözden Geçirecek",
+    "summary": "Hazine Bakanlığı, Banque Misr'ın Birleşik Arap Emirlikleri'ndeki şubelerini İran'a yardım etmekle suçladı. Emirlik merkez bankası bir inceleme sözü verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
+    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas, Gazze Ateşkes Anlaşması Kapsamında Dört İsrailli Kadın Askeri Serbest Bıraktı",
+    "summary": "Rehinelerin, çok aşamalı anlaşmanın yürürlüğe girmesinden bu yana serbest bırakılan ikinci grup olması, savaşın kalıcı bir şekilde sona ermesi yönündeki umutları artırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Batı Şeria: Netanyahu şiddet yanlısı yerleşimcileri \"bir avuç isyancı\" olarak nitelendirdi",
+    "summary": "Başbakan, İsrailli yerleşimcilerin Kusra köyündeki eylemlerini eleştiriyor ama aynı zamanda da bunu önemsizleştiriyor. ABD'li bir yayıncı, yerleşimcilerin kendi muhabirlerine saldırdığını bildirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/westjordanland-netanjahu-siedler-gewalt-li.3539459"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya canlı blogu: Etnik AfD derneklerinin yasaklanması çağrısına yönelik eleştiri",
+    "summary": "CDU/CSU yasaklama sürecini reddetti +++ SPD'li siyasetçiler Pistorius ve Özdemir'in çağrısını destekliyor +++ Saksonya-Anhalt'taki seçimler öncesinde Merkel: Demokrasi için savaşmalıyız +++ tüm gelişm...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-kritik-an-forderung-nach-verbot-voelkischer-afd-verbaende-faz-110093143.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kanada, Trump'la isim tartışmasının artması üzerine dev 'Ontario Gölü' tabelasını dikti",
+    "summary": "Bu arada Trump, Ontario Gölü tabelasını tekmelediği ve yerine Amerika Gölü tabelasını koyduğu videoyu yayınladı Donald Trump ve Kanada, Cumartesi günü ABD hükümetinin Ontario Gölü'nü idari olarak yeni...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Asic, ev sigortası taleplerine ilişkin nakit ödemelerinin savunmasız Avustralyalıları kısa sürede değiştirdiğini söylüyor",
+    "summary": "Kurumsal düzenleyici, sigortacıların çoğu tazminat talebini onarım veya yeniden inşa yönetimi yerine nakit parayla karşıladığını tespit ederek, ev sahipleri için \"haksız sonuçlar\" konusunda uyarıda bu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kuzey Kıbrıs feribot faciası: Geminin alabora olması nedeniyle en az yedi ölü – son güncellemeler",
+    "summary": "Kuzey Kıbrıs açıklarında meydana gelen kazada tahminen 237 kişi kurtarıldı, ancak 23 kişi kayıp Kuzey Kıbrıs açıklarında yaklaşık 270 kişiyi taşıyan feribotun alabora olması sonucu ölümler yaşandı. Cu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kuzey Kıbrıs açıklarında feribotun alabora olması sonucu en az yedi kişi öldü, 23 kişi kayıp",
+    "summary": "Yetkililer, Kuzey Kıbrıs'taki feribot faciasında 237 kişinin kurtarıldığını ve kayıplar için arama çalışmalarının sürdüğünü söyledi - son güncellemelerYerel yetkililer, yaklaşık 270 yolcu ve müretteba...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İzlanda'nın hayırı Trump ve Avrupa karşıtı güçler karşısında AB'yi zayıflatıyor",
+    "summary": "Von der Leyen ve Costa kamuoyu önünde konuşmaktan kaçınırken, ultra liderler tezlerini pekiştirecek bir sonuç olarak gördükleri sonucu kutluyorlar",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-30/el-no-de-islandia-debilita-a-la-ue-ante-trump-y-las-fuerzas-antieuropeas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Dünün dünyası",
+    "summary": "Ukrayna 1.647 günlük savaşı kutluyor ve siz hayattaki tek kesin şeyin hiçbir şeyin hafife alınamayacağı olduğunu varsayıyorsunuz.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-08-28/el-mundo-de-ayer.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/30/6a943bdefc6c83133e8b457b.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3365763/long-queues-mark-final-day-hong-kong-bookstore-closes-after-raid?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
@@ -754,149 +898,5 @@
     "summary": "Rusya'da savaşın göz ardı edilmesi pek mümkün değil. Putin bu nedenle bunu bir savunma mücadelesi olarak sunmaya devam etmeli ve Trump'ın ilgisini geri kazanmalı.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ukraine/putin-will-zeigen-dass-er-den-ukrainekrieg-weiter-eskalieren-kann-201167766.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "ABD'nin Avrupa'daki varlığı: Trump ortaklarının sadakatini bir anketle test ediyor",
-    "summary": "ABD Başkanı, Aralık ayı başında Avrupa'da kaç askerin kalacağına karar vermek istiyor. Onun kriterleri sadece askeri değil.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/us-truppenpraesenz-mit-einem-fragebogen-testet-trump-die-loyalitaet-201168215.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kanada ile ticaret savaşı: Trump sınırlarına ulaşıyor",
-    "summary": "Tarife anlaşmazlığı, Trump'ın levye politikasına karşı artan direnişin bir örneğidir. Bir AfD hükümetinin Avrupa'da durumu bundan daha iyi olamaz.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/handelskrieg-mit-kanada-trump-stoesst-an-grenzen-201160811.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Etnik “Artgemeinschaft”: İki AfD eyalet milletvekili adayına yönelik soruşturmalar",
-    "summary": "Halle savcılığı, yasaklı \"tür topluluğunun\" gizlice faaliyet göstermeye devam edip etmediğini araştırıyor. İki AfD adayından da şüpheleniliyor. Ağırlaştırıyorlar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-verdacht-gegen-zwei-afd-kandidaten-wegen-moeglicher-fortfuehrung-der-artgemeinschaft-201167749.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "ABD'nin petrol ve gazdan büyük pay almak istediği yönündeki haberler Venezuela muhalefetini kızdırdı",
-    "summary": "Eleştirmenler, ülkenin devasa enerji rezervlerine uzun vadeli erişim elde etme hamlesini 'yağmacı' ve 'anayasaya aykırı' olarak nitelendiriyor ABD'nin Venezuela'nın devasa enerji rezervlerinden büyük ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Tropikal Fırtına Dolly'nin notu, Karayipler'e giderken 'açık tropikal dalga'ya düşürüldü",
-    "summary": "ABD Ulusal Kasırga Merkezi (NHC), tropikal fırtınanın kalıntılarının Leeward Adaları'nda şiddetli yağışlara neden olabileceğini ve Virgin Adaları, Porto Riko ve Hispaniola'yı etkileyebileceğini \"açık ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "İki devletli çözümü gömmeye devam edin",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-22/seguir-enterrando-la-solucion-de-los-dos-estados.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-22/una-jueza-federal-anula-la-prohibicion-de-visados-de-estados-unidos-a-ciudadadanos-de-75-paises.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/28/japan/kumamoto-mobile-library/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iranians-war-six-months-losing-hope.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Savcılar, geçen yıl İskoç golf sahasında \"Gazze satılık değildir\" yazan Filistin Hareketi üyelerinin terörizmle bağlantılı eylemlerde bulunduğunu kanıtlamaya çalışacak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/palestine-action-trump-golf-course.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flash-floods-rescue.html"
   }
 ]
