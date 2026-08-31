@@ -1,5 +1,203 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Araştırmalara Göre Mercan Resiflerinin İyileşme Zamanı Tükeniyor",
+    "summary": "Yeni bir rapor, artan deniz sıcaklıklarının, resiflerin yoğun sıcak dalgaları arasında toparlanmak için yeterli zamana sahip olmadığı anlamına geldiği konusunda uyarıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ortadoğu'da savaş: ABD haftalardır ilk kez İran'a saldırdı",
+    "summary": "Birkaç basında ABD'li bir yetkiliye dayandırılan habere göre, hedef Larak adasındaki iki roketatardı. İran görünüşe göre askeri üslere saldırılarla karşılık veriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: ABD haftalardır ilk kez İran'a yeniden saldırdı",
+    "summary": "Görünüşe göre Larak adasında iki roketatar var +++ ABD Hazine Bakanı: İran'a karşı her hafta yeni yaptırımlar planlanıyor +++ tüm gelişmeler canlı blogda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-medien-usa-greifen-erstmals-seit-wochen-wieder-in-iran-an-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Rusya'nın sınır kasabası Belgorod'a roket saldırısında iki kişi öldü",
+    "summary": "Putin savaş ve yaban hayatı arasında paralellikler kuruyor +++ Finlandiya cumhurbaşkanı Rusya'nın NATO saldırısını beklemiyor +++ Canlı blogdaki haberler",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-zwei-tote-bei-raketenangriff-auf-russische-grenzstadt-belgorod-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Avustralya haberleri canlı: NSW, İsrail karşıtı vandalizmin Yahudi karşıtı olmadığını tespit eden karara itiraz etmeyecek; Rowland, akıllı gözlük ithalatını yasaklama planının olmadığını söyledi",
+    "summary": "Başsavcı, Avustralyalıların \"verilerinin nasıl toplandığı, kullanıldığı ve paylaşıldığı konusunda giderek daha fazla endişe duyduğunu\" söylüyor. Günün haberlerini canlı takip edin Son dakika haber e-p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "'Her şey paramparça oldu': Ukraynalılar köylerinin yakınında silah depolayanlara öfkeleniyor",
+    "summary": "Rusya başka bir mühimmat deposunu vurarak en az 38 kişiyi öldürürken, yerel halk suçu kötü yerleştirilmiş depolara atıyor. Rus jet motorlu bir insansız hava aracının Kiev merkezinin 25 mil dışında bir...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "AB'ye yeniden katılmak, Burnham'ın bağışçıları ve yatak odası vergisi: Politics Weekly sorularınızı yanıtlıyor - podcast",
+    "summary": "İngiltere AB'ye yeniden katılacak mı? Andy Burnham'ı kim finanse ediyor? Peki yatak odası vergisi kaldırılacak mı? Özel bölümde Kiran Stacey ve Peter Walker bazı sorularınızı yanıtlıyor. Lütfen yoruml...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "CIA başkanının Moskova ziyareti, Avrupa'daki Rus casusluğu 'savaşının' ortasında yalanlara ve yarı gerçeklere sarılmış durumda.",
+    "summary": "John Ratcliffe'nin Rus istihbarat şefleriyle görüşmesi, Avrupa'daki sabotaj nedeniyle gerilimler yükselirken her türlü spekülasyona yol açtı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-31/la-visita-del-jefe-de-la-cia-a-moscu-se-envuelve-en-mentiras-y-medias-verdades-en-plena-guerra-del-espionaje-ruso-en-europa.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD ve İran Temmuz'dan bu yana ilk kez karşılıklı saldırıyor",
+    "summary": "Washington, Hürmüz Boğazı'nda tehdit oluşturduğunu söylediği Larak Adası'ndaki iki mekiği bombaladı ve Tahran, Ürdün'e füze fırlatarak karşılık verdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Karadeniz cephesinin en ölümcül rotasını unutanlar: \"Silahsızız, sadece geçimimizi sağlamaya çalışıyoruz\"",
+    "summary": "Rusya ile Ukrayna arasında tırmanan saldırılarda bu yaz savaşın bu cephesinde 40'tan fazla denizci öldü: \"İHA'lara veya füzelere karşı savunma sistemimiz yok\" Oku",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/30/6a9433d821efa0a15c8b456f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "ABD Venezuela'nın petrolünü güvence altına alıyor ama geçişi kim sağlıyor?",
+    "summary": "Donald Trump ve Delcy Rodríguez arasındaki şeffaf olmayan anlaşma birçok bilinmeyeni geride bırakıyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/31/6a9452affc6c8396168b4588.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "İran, Larak Adası'nın bombalanmasına misilleme olarak Ürdün'deki ABD üslerine saldırdı",
+    "summary": "Bu elit topluluğun sözcüsü, Beyaz Saray'ın \"terörist saldırganlığının\" \"cezalandırılacağına\" dair güvence verdi Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/08/30/6a94a280e9cf4af5038b456f.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İşgal altındaki Japonya'nın nadir renkli fotoğrafları zamanla kayboluyor",
+    "summary": "ABD askerleri tarafından İkinci Dünya Savaşı'ndan sonra çekilen pek çok nadir renkli fotoğraf, zamanla yavaş yavaş dağılıyor veya kayboluyor, ancak bazıları tarihsel açıdan önemli sahneler içerebiliyo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/japan/color-photos-occupied-japan/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "ABD-İsrail'in İran'a yönelik savaşı küresel enerji kullanımını nasıl yeniden şekillendiriyor?",
+    "summary": "Çatışma, fosil yakıt fiyatlarının önemli ölçüde artmasına neden olarak hükümetleri, şirketleri ve tüketicileri yenilenebilir enerjiye doğru itiyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/society/war-iran-global-energy-map/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "İsrail uçurtma uçurmaya karşı uyardığında Gazzeli çocuklar sevinçlerini kaybediyor",
+    "summary": "İsrail, Hamas'ı çocukları kullanmakla suçladı ve kundakçı uçurtma ve balon dalgasının İsrail tarım arazilerinde yangınlara yol açmasından yıllar sonra uçurtmaların tehdit oluşturabileceğini söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/gaza-children-israel-kite-flying/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya'nın fabrika üretimi Orta Doğu'daki olumsuz rüzgarlara rağmen yükseliyor",
+    "summary": "Sanayi bakanlığının bildirdiğine göre üretim Temmuz ayında bir önceki aya göre %0,1 arttı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/08/31/economy/factory-output-gain-july/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japonya'nın petrol çeşitlendirme çabası Nippon Yusen için yollar açıyor",
+    "summary": "Nakliye şirketi, tedariklerini savaşın vurduğu Orta Doğu'dan uzaklaştırmaya çalışırken, Latin Amerika ve Afrika'dan petrol ithal etmelerine yardımcı olmak için rafinerilerle görüşmelerde bulunuyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/08/31/companies/nippon-yusen-oil-diversification/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump'ın Venezuela petrolünü ele geçirmesi endüstrinin yeni sömürgeci geçmişini yeniden canlandırıyor",
+    "summary": "ABD, 20. yüzyılın büyük bölümünde Latin Amerika ve onun doğal kaynakları üzerinde büyük bir güç uygulayarak halk arasında huzursuzluk, darbeler ve demokrasinin erozyona uğramasına neden oldu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/politics/trump-venezuela-oil-neocolonial/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Sel felaketi öncesinde Nepal, risklerin artması nedeniyle Çin'den erken uyarı istedi",
+    "summary": "Selde yüzlerce kişinin ölmesinden üç ay önce, her iki ülkeden uzmanlar ve yetkililer bu tür felaketlerin riskini tartışmak üzere Katmandu'da bir araya geldi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/asia-pacific/politics/flood-nepal-china-warning-risks/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump'ın İran savaşı Xi ve Putin'in güvenlik kulübü için bir test oluşturuyor",
+    "summary": "İran'ın ABD'yle hesaplaşması, kuruluşunun üzerinden 25 yıl geçmiş olan Şanghay İşbirliği Örgütü'nün tutarlı hareket edemediğini ortaya çıkarma riski taşıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/politics/trump-iran-test-xi-putin-security/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Küresel ısınma çağında bazıları 'tüm Himalayaların erimesinden' korkuyor",
+    "summary": "Bilim adamlarının, dağcıların ve yürüyüşçülerin giderek artan kar ve buz kaybına tanık olduğu Himalayalar'da bir ay arayla iki felaket yaşandı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/environment/2026/08/31/climate-change/global-warming-himalayas-melting/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -700,203 +898,5 @@
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-08-29/trump-y-el-petroleo-venezolano-un-acuerdo-con-muchos-cabos-sueltos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Savaşın en kötü saldırılarından birinde Rusya'nın Kiev'deki bir askeri depoyu bombalaması sonucu en az 38 kişi öldü",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-29/al-menos-27-muertos-en-un-bombardeo-ruso-contra-kiev-en-uno-de-los-peores-ataques-de-la-guerra.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Teknoloji şirketleri Demokratlara kur yapıyor ve Cumhuriyetçilerin Temsilciler Meclisi'nin kontrolünü kaybetmesi durumunda olası soruşturmalara hazırlanmak için danışmanlar tutuyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/29/6a91975afdddff0e348b4599.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/29/6a92df34fc6c835e4c8b458c.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Tahran, ABD'nin boğazın açık olduğu yönündeki iddiasını \"açık bir yalan\" olarak nitelendiriyor. ABD'li bir komutan geçtiğimiz günlerde gemi trafiğinde \"artan bir dinamikten\" bahsetti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-schifffahrt-meerenge-blockade-kontrolle-li.3530668"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Venezuela dünyadaki en büyük petrol rezervlerine sahiptir; Anlaşmanın 65 milyar varili ABD kontrolü altına alması bekleniyor. İran Savaşı'ndan bu yana Trump, yüksek benzin fiyatları nedeniyle iç siyas...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-venezuela-oelreserven-benzinpreis-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Trump'ın isim değiştirme politikasını hafife almamak lazım. Seçmenlerine rekabetin sunmadığı bir şey veriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/lake-america-was-steckt-hinter-trumps-umbenennungen-201168371.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Zelensky: Ordu Rusya'ya üç kattan fazla insansız hava aracı saldırısı düzenleyecek",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-militaer-soll-drohnenangriffe-auf-russland-mehr-als-verdreifachen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump yönetimindeki ABD: Trump, Venezuela ile önemli bir petrol anlaşmasını duyurdu",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-verkuendet-bedeutendes-oel-abkommen-mit-venezuela-faz-19444916.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-29/la-guerra-de-bandas-que-atemoriza-reino-unido-retos-virales-coches-robados-y-violencia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-24/washington-no-se-acostumbra-a-la-guardia-nacional-un-ano-despues-de-que-trump-enviara-las-tropas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/29/6a922770e9cf4aa4208b45ae.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/29/world/politics/iran-leader-missing-six-months-war/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/08/29/economy/us-control-venezuelan-oil/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/29/world/society/us-restrict-internships-international-students/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/29/world/iran-us-sanctions-economic-toll/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/29/world/politics/trump-stunts-us-midterms/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/08/29/economy/federal-reserve-warsh-inflation/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/editorials/2026/08/29/jt-editorial-nepal-flood/"
   }
 ]
