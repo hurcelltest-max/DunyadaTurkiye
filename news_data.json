@@ -3,6 +3,177 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrailli Yetkililer Filistinli Mahkûmu Döverek Öldüren 12 Gardiyanı Suçluyor",
+    "summary": "Nadir görülen kovuşturma, aktivistlerin Ekim 2023'ten bu yana çok sayıda Filistinlinin öldüğünü söylediği İsrail gözaltı merkezlerinde kötü muameleye ilişkin hak gruplarından gelen yaygın raporların o...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-guards-palestinian-prisoner.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Leipzig'e drone saldırısı: Savaş ile barış arasındaki gri alan büyüyor",
+    "summary": "Federal hükümet haftalardır \"Cevap Operasyonu\" üzerinde çalışıyor ve şimdi de Leipzig'deki drone saldırısından Rusya'yı sorumlu tutuyor. Bunun anlamı nedir ve Moskova'dan nasıl bir tepki beklenebilir?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/deutschland-russland-regierung-drohnenanschlag-li.3540410"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Orta Doğu savaşıyla ilgili haber blogu: İran'daki yeni ABD saldırılarının ardından petrol fiyatları yükselmeye devam ediyor",
+    "summary": "ABD WTI ham petrolünün fiyatı Temmuz ayının sonundan bu yana ilk kez 90 doların üzerine çıktı. Washington, Orta Doğu'daki vatandaşlarını daha dikkatli olmaya çağırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-preise-li.3530668"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Hibrit savaş: Federal hükümet Leipzig'deki saldırıdan Rusya'yı sorumlu tutuyor",
+    "summary": "Dışişleri Bakanı Wadephul Moskova'ya karşı sert önlemleri duyurdu. Bonn Başkonsolosluğu kapatıldı ve Berlin'deki Rus Evi ile sözleşme feshedildi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/leipzig-anschlag-drohne-hinweise-geheimdienst-li.3540357"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Havaalanı saldırısı: Rusya bunun bedelini ödemeli",
+    "summary": "Federal hükümet, Leipzig'deki drone saldırısını Rusya'ya bağlıyor. Ve çeşitli tedbirleri duyurdu. Hibrit savaşta herhangi bir şey yapabilecekler mi?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/dobrindt-und-wadephul-zu-drohnenvorfall-in-leipzig-diesen-preis-soll-russland-bezahlen-201180607.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog İran Savaşı: Amerikan kuvvetleri İran'daki hedeflere yeniden saldırdı",
+    "summary": "Trump İran'ın tepkisini \"en büyük saldırı\" ile tehdit ediyor +++ İran cumhurbaşkanı savaş sırasındaki duruşundan dolayı Putin'e teşekkür ediyor +++ Amerika geri dönerse İran da aynısını yapmak istiyor...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-greifen-wieder-ziele-in-iran-an-trump-droht-mit-groesstem-angriff-von-allen-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Almanya canlı blogu: Moskova, Berlin'in “Rusya karşıtı kararına” tepki vermek istiyor.",
+    "summary": "Federal hükümet drone saldırısının ardından Rusya'ya karşı harekete geçti +++ Wadephul: Son başkonsolosluk kapanmak zorunda kaldı, Rus Meclisi'nin sözleşmesi feshedildi +++ Dobrindt: “Savaşta değiliz”...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-moskau-will-auf-berlins-antirussische-entscheidung-reagieren-faz-110093143.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Zelensky, Rusya'da sivil havacılığa son verilmesi çağrısında bulundu",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-fordert-ein-ende-der-zivilen-luftfahrt-in-russland-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-flugzeugtraeger-abraham-lincoln-legt-in-thailand-an-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/lake-america-was-steckt-hinter-trumps-umbenennungen-201168371.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Savaş ölümcül yeni aşamaya girerken Rusya Ukrayna'nın demiryolu ağını hedef alıyor",
+    "summary": "Moskova'nın altyapıya yönelik saldırıları artırmasının ve Ukrayna başkentinin ardından Salı günü altı çalışan öldürüldüRusya, ülkenin demiryolu ağını kasten hedef alarak Ukrayna'ya karşı savaşında ölü...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ordu Sekreterinin ayrılışı, İran savaşının ortasında önemli bir Pentagon kuvvetinin kafasını kesti",
+    "summary": "Dan Driscoll'un istifası, Savunma Bakanı Pete Hegseth'le aylarca süren çatışmaların ardından geldi ve üst düzey görevden ayrılanların yer aldığı uzun listeye katıldı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "ABD, Ürdün'deki üslerinden birine saldırılarla karşılık veren İran'ı yeniden bombaladı",
+    "summary": "Trump, müzakerenin \"ölü bir mektup\" olduğunu garanti ediyor ve Tahran, Ürdün'deki bir ABD üssüne yönelik saldırılarla karşılık veriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail'in Gazze'de Hamas komutanını yakalama operasyonunda dört Filistinli öldü",
+    "summary": "Ordu, milislerin kaçışını kolaylaştırmak için düzenlenen bombalamalarda iki çocuğu ve bir kadını öldürdü. İslamcı grup liderlerinden birinin tutuklandığını inkar ediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-01/una-operacion-israeli-para-capturar-a-un-mando-de-hamas-en-gaza-acaba-con-cuatro-palestinos-muertos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Kanada, Trump'ın açıklamasına misilleme olarak ABD'ye yüzde 15 ile yüzde 50 arasında yeni gümrük vergileri uygulayacak",
+    "summary": "Yaklaşık 20 milyar dolar değerindeki ürünleri hedef alan yeni vergiler 8 Eylül'den itibaren yürürlüğe girecek",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Hegseth, Driscoll'a karşı: Bu, Ordu Bakanı'nın ayrılışıyla sona eren savaş aylarıdır",
+    "summary": "Ordu Bakanı ve JD Vance'e yakını, Silahlı Kuvvetlerin yönetimi konusunda aylarca süren çatışmaların ardından istifa etti Read",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/01/6a960dd721efa027598b4589.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/01/6a970efbe85ece38618b4598.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Popüler mülk: Büyük bankalar ve moda mağazaları 'daha ucuz', göz alıcı Hong Kong perakende satışını arıyor",
+    "summary": "Acentelere göre, büyük bankalardan moda markalarına kadar kiracılar, müşterilerin görünürlüğünü artırmak için göz alıcı konumlardan yararlanarak Hong Kong'un en önemli bölgelerindeki perakende satış a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/business/article/3365813/hot-property-big-banks-fashion-stores-seek-cheaper-eye-catching-hong-kong-retail?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Filistinli Yetkililer, İsrail'in Gazze Operasyonunda 4 Kişinin Öldüğünü Söyledi",
     "summary": "İsrail savunma bakanı, operasyonun üst düzey bir Hamas üyesinin yakalanmasıyla sonuçlandığını söyledi. Hamas, İsrail'in Gazze şehrine gizli ajanlar gönderdiğini söyledi.",
     "timeAgo": "En Guncel (API)",
@@ -727,176 +898,5 @@
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-litauens-praesident-moskau-treffen-von-cia-chef-hat-ziele-erreicht-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-oberster-gerichtshof-trump-darf-ballsaal-weiterbauen-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-verletzte-ukrainer-erhalten-im-superhumans-center-bei-lemberg-prothesen-201105026.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-teheran-kann-auf-seine-verbuendeten-zaehlen-201175279.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-und-die-briefwahl-manoever-im-schlussspurt-201173612.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-linke-streitet-ueber-antisemitismus-201175085.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-tuerkei-und-pakistan-treiben-mekka-verteidigungspakt-voran-201174243.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/cem-oezdemir-und-boris-pistorius-plaedieren-fuer-ein-verbot-des-voelkischen-teils-der-afd-accg-201155459.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-31/putin-se-reune-con-xi-y-modi-sus-dos-grandes-socios-para-evadir-las-sanciones.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Amerikan başkanı, silahlı kuvvetlerin Larak adasındaki hedeflere yönelik son saldırısını takip eden bir propaganda eylemi olan Jarg adasındaki bombalama olaylarını gösteren oluşturulmuş görüntüleri pa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/31/6a9593fde85ecef02a8b4589.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "İngiliz medyası, Londra'ya savunma harcamalarını artırması yönünde baskı yapmak amacıyla ABD başkanının pozisyonunun değiştirilmesini önerdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/31/6a95ebf921efa095368b4593.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran, eski istihbaratçı \"kasap\" Hossein Taeb'in dönüşüyle ​​baskı aygıtını güçlendiriyor",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/31/6a95a5afe4d4d87e298b4575.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Devam eden varlıkları, Afrika'daki İspanyol topraklarını rahatsız etti ve Başbakan Pedro Sánchez üzerindeki baskıyı artırdı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/europe/cyprus-ferry-turkey.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Yenilenen saldırılar, altı ay önce başlayan savaşın henüz bitmediğini gösteren son işaret oldu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html"
   }
 ]
