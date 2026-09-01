@@ -3,6 +3,231 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Çin mi ABD mi? İki Toplantı Küresel Gücün Rekabetçi Vitrinlerini Sunuyor.",
+    "summary": "Xi Jinping, Rusya ve İran liderleriyle bir araya gelirken Avrupa, G20'de Trump yönetimine meydan okudu ve değişen dünyanın bölünmüş ekran görüntüsünü sundu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Antik Kalıntılar Yangınlardan Korunabilir mi? Yunanistan çabalıyor.",
+    "summary": "Yangınlar Avrupa'da yükselirken ülke, çevredeki manzarayı bozma riskiyle karşı karşıya kalarak mirasını korumak için alanları yangına dayanıklı hale getirerek bir taviz veriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İrlanda Kırsalındaki Bir Fabrika Rusya Konusundaki Anlaşmazlığın Merkezinde",
+    "summary": "Bir soruşturma, County Limerick'teki bir rafineride işlenen alüminanın Rusya'nın Ukrayna'daki savaşını besliyor olabileceğini ileri sürdü. Bu konuda ne yapılacağı konusunda çok az fikir birliği var.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD Pattaya Belediye Başkanı Abraham Lincoln Çarşamba günü Tayland'a yanaşacak",
+    "summary": "ABD Abraham Lincoln, ABD ordusuna yönelik savaşın geriliminin bir amblemi haline geldi. Şimdi mürettebatı biraz dinlenecek.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "ABD'nin İran'a Yönelik Yaptırımları, Öğrencilerin Yurtdışında Eğitim İçin Gereken Sınavlardan Uzak Durmasını Sağlıyor",
+    "summary": "Son tedbirler, İngilizce yeterlik ve yüksek lisans sınavlarının iptal edilmesini zorunlu kıldı ve dünyayla bağları güçlendirmeye en çok hevesli olan birçok İranlıyı izole etti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Serbest bırakılan İsrailli rehinelerin vücutlarında 7 Ekim saldırısından bu yana hâlâ şarapnel parçaları bulunuyor",
+    "summary": "İsrailli bir sağlık yetkilisi, kadınların bazılarının uzun süreler boyunca tek başına tutulduğunu ve sekiz ay boyunca tünellerde kaldıklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Rehinelerin, çok aşamalı anlaşmanın yürürlüğe girmesinden bu yana serbest bırakılan ikinci grup olması, savaşın kalıcı bir şekilde sona ermesi yönündeki umutları artırıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ortadoğu: Amerikan Düzeninin Sonu",
+    "summary": "Amerika-İsrail'in İran'a karşı savaşı Ortadoğu'nun eski düzenini yerle bir etti. Özellikle Suriye siyasi güç sınavlarının arenası haline geliyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/endet-die-hegemonie-der-usa-im-nahen-osten-accg-201163994.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Canlı blog İran savaşı: ABD anlaşmalara dönerse İran da aynı şeyi yapmak istiyor",
+    "summary": "Başkan Peseschkian bunu yeni saldırılar ve ABD yaptırımlarının ardından duyurdu +++ Hürmüz Boğazı'nda tanker yeniden saldırdı +++ İran, ABD'nin Larak adasına saldırısında iki kişinin öldüğünü bildirdi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-medien-iran-will-bei-us-rueckkehr-zu-abkommen-nachziehen-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Kiev'e gece saldırısından sonra ölü ve yaralı",
+    "summary": "Odessa bölgesindeki liman altyapısına da saldırı +++ Litvanya Devlet Başkanı: CIA şefinin Moskova toplantısı hedeflere ulaştı +++ ABD'deki G20 toplantısı: Klingbeil Rusya'nın davetinden rahatsız +++ t...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tote-und-verletzte-nach-naechtlichem-angriff-auf-kiew-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Leipzig'deki olay: Hibrit tehditlere yanıtlar gerekiyor - yalnızca hibrit tehditler değil",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/drohnen-vorfall-in-leipzig-wie-deutschland-auf-hybride-bedrohungen-reagieren-muss-201169814.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "ABD'nin 65 milyar varillik Venezüella petrolünün kontrolünü ele geçirmesini sağlayacak anlaşma, ülkesinde öfke yarattıVenezuela'nın geçici başkanı Delcy Rodríguez, hükümetinin Donald Trump'la yaptığı ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tayland tesisi, denizde 270 günden fazla süren USS Abraham Lincoln denizcilerini ağırlamaya hazırlanıyor",
+    "summary": "ABD'nin İran'daki savaşı nedeniyle görev süreleri uzatılan binlerce denizci ve denizcinin gelişinden önce Pattaya'da güvenlik arttı. Tayland'ın tatil kenti Pattaya'daki yetkililer, denizde art arda 27...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Yeni Güney Galler, Victoria ve Tazmanya şimdiye kadarki en sıcak kışlarını yaşadı - ve BoM, ortalamanın üzerindeki sıcaklıkların devam etmesinin beklendiğini söylüyor Son dakika haber e-postamızı, ücr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/01/sydney-records-warmest-winter-on-record-as-melbourne-equals-previous-hottest-temperatures"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Sidney'deki Herzog karşıtı protestocuyu yumruklamakla övünen polis memurunun görüntüleri, davranışla ilgili soruları gündeme getiriyor",
+    "summary": "Erkek polis memuru, 9 Şubat'ta İsrail cumhurbaşkanı Isaac Herzog'un ziyaretine karşı düzenlenen protesto sırasında kameraya yakalandı Son dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük ha...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/01/police-officer-boasted-about-punching-anti-herzog-protester-when-he-was-down-bodycam-footage-reveals-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Albanese, Hanson'la kavgaya giriştiğinde kaybedecek çok şeyi var ama yine de içine çekilebilir | Analiz",
+    "summary": "Başbakan, popülaritesi darbe alsa da, eğitim ve sağlık gibi temel İşçi Partisi değerleri aracılığıyla Tek Ulus'la mücadele etmek istiyor Guardian Avustralya'nın yeni Politika'sına kaydolun, gerçek hab...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/01/pauline-hanson-albanese-political-fight-analysis-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Kırgızistan'daki toplantıda Rusya, Çin ve Hindistan liderleri İran'ın egemenliğini destekliyor ve Ukrayna savaşından kaçınıyor",
+    "summary": "İran cumhurbaşkanı, ABD'nin saldırılara son vermesi halinde ülkesinin karşılıklı hareket edeceğini garanti ediyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-01/lideres-de-rusia-china-e-india-respaldan-la-soberania-de-iran-y-eluden-la-guerra-de-ucrania-en-encuentro-en-kirguistan.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail ve Yunanistan, 3 milyar dolarlık en büyük silah anlaşmasıyla ittifaklarını güçlendiriyor",
+    "summary": "İki ülke arasındaki ilişkiler, 2010 yılında İsrail ordusunun Gazze'ye yardım taşıyan bir Türk gemisinin on üyesini öldürmesinden bu yana güçlendi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-31/israel-y-grecia-estrechan-su-alianza-con-su-mayor-acuerdo-armamentistico-por-valor-de-3000-millones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Yüksek Mahkeme, Trump'ın Beyaz Saray'daki balo salonunun inşasına kesin olarak izin verdi",
+    "summary": "En yüksek adli makam, iddiayı sunan kuruluşun ilgili taraf statüsünü kanıtlamadığını dikkate alarak iddiayı reddetti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-08-31/el-tribunal-supremo-autoriza-definitivamente-la-construccion-del-salon-de-baile-de-trump-en-la-casa-blanca.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump Yönetimi, belgesiz göçmenlerin üniversitede okumak için mevcut ücretlerinin üç katına kadar ödeme yapması için mahkemede mücadele ediyor",
+    "summary": "Hükümet, yabancıların yerleşiklere ayrılan indirimli öğrenim ücretine erişmesine izin verdiği için dava edilen 21 Devleti gündeme getiriyor",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/migracion/2026-09-01/la-administracion-trump-pelea-en-los-tribunales-para-que-los-indocumentados-paguen-hasta-tres-veces-su-tarifa-actual-para-estudiar-en-la-universidad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "De la Espriella, FARC muhaliflerine karşı son yılların en ölümcül bombalama emrini verdi ve 20 gerilla öldü",
+    "summary": "Kolombiya cumhurbaşkanı, ortakları ABD ve İsrail'in yardımıyla kendilerini uyuşturucu kaçakçılığı, yasadışı madencilik ve bombalamalar yoluyla gaspla finanse eden yasadışı grupları bastırmak istiyor. ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/01/6a966110fdddff04158b456f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "'Erken kayıt' aşamasının son tarihi sona erdiğinde bölünmüş daire kayıt oranı %42,5 oldu",
+    "summary": "Sektör gözlemcileri, hükümetin ilk aşamada beklenen başvuruların yalnızca yüzde 42,5'ini almasının ardından, mülk sahipliği sorunları ve kamuoyunun düşük farkındalığının, ev sahiplerinin Hong Kong'dak...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3365982/subdivided-flat-registration-rate-425-early-bird-phase-deadline-passes?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Fırtına Guangdong sahiline yaklaşırken Hong Kong T1 sinyalini yürürlükte tutuyor",
+    "summary": "Hong Kong'un hava tahmincisi, 1 No'lu tayfun uyarı sinyalini Çarşamba sabahına kadar yürürlükte tutacak ve uyarıların muhtemelen haftaya kadar uzayacağı belirtiliyor.\nGözlemevi Salı öğleden sonra siny...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/weather/hong-kong/article/3365833/hong-kong-issue-no-1-typhoon-signal-610pm-saudel-approaches?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Kaynaklar, Trump'ın Avrupa'daki sağcı medyayı desteklemek için 4 milyon dolar harcayacağını söylüyor",
+    "summary": "Hibeler, Trump yönetimi ile bazıları Washington'u müdahale etmekle suçlayan Avrupa hükümetleri arasındaki gerilimi derinleştirme riski taşıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/01/world/politics/trump-4-million-rightwing-media-europe/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
@@ -673,230 +898,5 @@
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/hong-kong/society/article/3365809/demand-dog-genetic-testing-surges-after-hong-kong-clampdown-over-attacks?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/asia-pacific/north-korea-us-japan-south-korea-drills-threat/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Aktivistler, ABD siyasetinde yenilenmiş bir MeToo tarzı hesaplaşmayı teşvik ederek partileri ve yasa yapıcıları cinsel suiistimal konusunda daha güçlü hesap verebilirliğe doğru itiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/08/31/world/us-metoo-part-deux/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Araştırmalara Göre Mercan Resiflerinin İyileşme Zamanı Tükeniyor",
-    "summary": "Yeni bir rapor, artan deniz sıcaklıklarının, resiflerin yoğun sıcak dalgaları arasında toparlanmak için yeterli zamana sahip olmadığı anlamına geldiği konusunda uyarıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
-    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ortadoğu'da savaş: ABD haftalardır ilk kez İran'a saldırdı",
-    "summary": "Birkaç basında ABD'li bir yetkiliye dayandırılan habere göre, hedef Larak adasındaki iki roketatardı. İran görünüşe göre askeri üslere saldırılarla karşılık veriyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: ABD haftalardır ilk kez İran'a yeniden saldırdı",
-    "summary": "Görünüşe göre Larak adasında iki roketatar var +++ ABD Hazine Bakanı: İran'a karşı her hafta yeni yaptırımlar planlanıyor +++ tüm gelişmeler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-medien-usa-greifen-erstmals-seit-wochen-wieder-in-iran-an-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Rusya'nın sınır kasabası Belgorod'a roket saldırısında iki kişi öldü",
-    "summary": "Putin savaş ve yaban hayatı arasında paralellikler kuruyor +++ Finlandiya cumhurbaşkanı Rusya'nın NATO saldırısını beklemiyor +++ Canlı blogdaki haberler",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-zwei-tote-bei-raketenangriff-auf-russische-grenzstadt-belgorod-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Avustralya haberleri canlı: NSW, İsrail karşıtı vandalizmin Yahudi karşıtı olmadığını tespit eden karara itiraz etmeyecek; Rowland, akıllı gözlük ithalatını yasaklama planının olmadığını söyledi",
-    "summary": "Başsavcı, Avustralyalıların \"verilerinin nasıl toplandığı, kullanıldığı ve paylaşıldığı konusunda giderek daha fazla endişe duyduğunu\" söylüyor. Günün haberlerini canlı takip edin Son dakika haber e-p...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Her şey paramparça oldu': Ukraynalılar köylerinin yakınında silah depolayanlara öfkeleniyor",
-    "summary": "Rusya başka bir mühimmat deposunu vurarak en az 38 kişiyi öldürürken, yerel halk suçu kötü yerleştirilmiş depolara atıyor. Rus jet motorlu bir insansız hava aracının Kiev merkezinin 25 mil dışında bir...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "AB'ye yeniden katılmak, Burnham'ın bağışçıları ve yatak odası vergisi: Politics Weekly sorularınızı yanıtlıyor - podcast",
-    "summary": "İngiltere AB'ye yeniden katılacak mı? Andy Burnham'ı kim finanse ediyor? Peki yatak odası vergisi kaldırılacak mı? Özel bölümde Kiran Stacey ve Peter Walker bazı sorularınızı yanıtlıyor. Lütfen yoruml...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "CIA başkanının Moskova ziyareti, Avrupa'daki Rus casusluğu 'savaşının' ortasında yalanlara ve yarı gerçeklere sarılmış durumda.",
-    "summary": "John Ratcliffe'nin Rus istihbarat şefleriyle görüşmesi, Avrupa'daki sabotaj nedeniyle gerilimler yükselirken her türlü spekülasyona yol açtı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-31/la-visita-del-jefe-de-la-cia-a-moscu-se-envuelve-en-mentiras-y-medias-verdades-en-plena-guerra-del-espionaje-ruso-en-europa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "ABD ve İran Temmuz'dan bu yana ilk kez karşılıklı saldırıyor",
-    "summary": "Washington, Hürmüz Boğazı'nda tehdit oluşturduğunu söylediği Larak Adası'ndaki iki mekiği bombaladı ve Tahran, Ürdün'e füze fırlatarak karşılık verdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Karadeniz cephesinin en ölümcül rotasını unutanlar: \"Silahsızız, sadece geçimimizi sağlamaya çalışıyoruz\"",
-    "summary": "Rusya ile Ukrayna arasında tırmanan saldırılarda bu yaz savaşın bu cephesinde 40'tan fazla denizci öldü: \"İHA'lara veya füzelere karşı savunma sistemimiz yok\" Oku",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/30/6a9433d821efa0a15c8b456f.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD Venezuela'nın petrolünü güvence altına alıyor ama geçişi kim sağlıyor?",
-    "summary": "Donald Trump ve Delcy Rodríguez arasındaki şeffaf olmayan anlaşma birçok bilinmeyeni geride bırakıyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/31/6a9452affc6c8396168b4588.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "İran, Larak Adası'nın bombalanmasına misilleme olarak Ürdün'deki ABD üslerine saldırdı",
-    "summary": "Bu elit topluluğun sözcüsü, Beyaz Saray'ın \"terörist saldırganlığının\" \"cezalandırılacağına\" dair güvence verdi Read",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/08/30/6a94a280e9cf4af5038b456f.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İşgal altındaki Japonya'nın nadir renkli fotoğrafları zamanla kayboluyor",
-    "summary": "ABD askerleri tarafından İkinci Dünya Savaşı'ndan sonra çekilen pek çok nadir renkli fotoğraf, zamanla yavaş yavaş dağılıyor veya kayboluyor, ancak bazıları tarihsel açıdan önemli sahneler içerebiliyo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/japan/color-photos-occupied-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "ABD-İsrail'in İran'a yönelik savaşı küresel enerji kullanımını nasıl yeniden şekillendiriyor?",
-    "summary": "Çatışma, fosil yakıt fiyatlarının önemli ölçüde artmasına neden olarak hükümetleri, şirketleri ve tüketicileri yenilenebilir enerjiye doğru itiyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/society/war-iran-global-energy-map/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İsrail uçurtma uçurmaya karşı uyardığında Gazzeli çocuklar sevinçlerini kaybediyor",
-    "summary": "İsrail, Hamas'ı çocukları kullanmakla suçladı ve kundakçı uçurtma ve balon dalgasının İsrail tarım arazilerinde yangınlara yol açmasından yıllar sonra uçurtmaların tehdit oluşturabileceğini söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/gaza-children-israel-kite-flying/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya'nın fabrika üretimi Orta Doğu'daki olumsuz rüzgarlara rağmen yükseliyor",
-    "summary": "Sanayi bakanlığının bildirdiğine göre üretim Temmuz ayında bir önceki aya göre %0,1 arttı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/08/31/economy/factory-output-gain-july/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya'nın petrol çeşitlendirme çabası Nippon Yusen için yollar açıyor",
-    "summary": "Nakliye şirketi, tedariklerini savaşın vurduğu Orta Doğu'dan uzaklaştırmaya çalışırken, Latin Amerika ve Afrika'dan petrol ithal etmelerine yardımcı olmak için rafinerilerle görüşmelerde bulunuyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/08/31/companies/nippon-yusen-oil-diversification/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump'ın Venezuela petrolünü ele geçirmesi endüstrinin yeni sömürgeci geçmişini yeniden canlandırıyor",
-    "summary": "ABD, 20. yüzyılın büyük bölümünde Latin Amerika ve onun doğal kaynakları üzerinde büyük bir güç uygulayarak halk arasında huzursuzluk, darbeler ve demokrasinin erozyona uğramasına neden oldu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/politics/trump-venezuela-oil-neocolonial/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Sel felaketi öncesinde Nepal, risklerin artması nedeniyle Çin'den erken uyarı istedi",
-    "summary": "Selde yüzlerce kişinin ölmesinden üç ay önce, her iki ülkeden uzmanlar ve yetkililer bu tür felaketlerin riskini tartışmak üzere Katmandu'da bir araya geldi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/asia-pacific/politics/flood-nepal-china-warning-risks/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump'ın İran savaşı Xi ve Putin'in güvenlik kulübü için bir test oluşturuyor",
-    "summary": "İran'ın ABD'yle hesaplaşması, kuruluşunun üzerinden 25 yıl geçmiş olan Şanghay İşbirliği Örgütü'nün tutarlı hareket edemediğini ortaya çıkarma riski taşıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/08/31/world/politics/trump-iran-test-xi-putin-security/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Küresel ısınma çağında bazıları 'tüm Himalayaların erimesinden' korkuyor",
-    "summary": "Bilim adamlarının, dağcıların ve yürüyüşçülerin giderek artan kar ve buz kaybına tanık olduğu Himalayalar'da bir ay arayla iki felaket yaşandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/environment/2026/08/31/climate-change/global-warming-himalayas-melting/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/der-israel-hizbullah-krieg-ist-libanons-langsamer-tod-201170762.html"
   }
 ]
