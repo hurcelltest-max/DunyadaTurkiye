@@ -3,6 +3,150 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Kara Çatışmaları Artarken Yemen'deki Husiler Kızıldeniz Boğazı'na Doğru İlerliyor",
+    "summary": "İran destekli bir milis grubu olan Husiler, küresel ticaret için önemli bir geçiş noktası olan Bab al-Mandab Boğazı yakınındaki bir liman şehrinin kontrolünü ele geçirmeye çalışıyor gibi görünüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "İsrail, Güney Lübnan'daki yerini sağlamlaştırdığını söylüyor",
+    "summary": "Kalıcı barışa aracılık etme çabaları bocalarken, yakın zamanda stratejik bir tepenin ele geçirilmesi, İsrail'in Lübnan topraklarındaki işgalini daha da sağlamlaştırdı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Filipinler Başkan Yardımcısı Suikast Tehditleri Nedeniyle Tutuklanmayla Karşı Karşıya",
+    "summary": "Mahkeme, Başkan Ferdinand R. Marcos Jr. ve iki akrabasını tehdit etmekle suçlanan Sara Duterte hakkında tutuklama emri çıkardı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Grand Theft Porter: Hırsızlar Britanya'da 800 Varil Guinness'i çaldı",
+    "summary": "Polis, İngiltere'nin kuzeybatısındaki bir sanayi bölgesinden yaklaşık 155.000 dolar değerindeki ünlü kremalı İrlanda yiğitinin çalınmasını araştırdıklarını söyledi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/guinness-theft-uk.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Kanada Fentanil İhracatçısı ve Trump'ın Hedefi Haline Geliyor",
+    "summary": "Uyuşturucu ABD'nin kuzey komşusunda giderek daha fazla üretiliyor ve buradan ticareti yapılıyor, ancak rakamlar Meksika ile karşılaştırıldığında küçük kalıyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "11 Eylül'ün 25. yılı: \"Kurbanların çöplüğe atıldığı başka bir cinayet vakası bilmiyorum.\"",
+    "summary": "Dünya Ticaret Merkezi'ne düzenlenen saldırının üzerinden 25 yıl geçmesine rağmen Diane ve Kurt Horning, oğullarını asla gömemediler. Ellerinde o zamanlar molozların atıldığı çöplükte bulunan sadece bi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/11-september-new-york-world-trade-center-ground-zero-e487916/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukrainische-geheimdienstzentrale-von-russischer-drohne-getroffen-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "İsrail, ordu tarafından kaçırılan Lübnanlıları serbest bıraktı. Bu, Beyrut'la Hizbullah'la çatışmayı sona erdirmek için yürütülen müzakerelere yeni bir ivme kazandırıyor mu?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/israel-laesst-gefangene-libanesen-frei-accg-201194000.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Performatif popülizm Amerika'yı kasıp kavurmaya devam ederken Abelardo De La Espriella, sıra sıra ceset torbalarıyla birlikte kendi videosunu yayınladıKolombiya'nın katı başkanı Abelardo De La Espriel...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Analistler, ham petrol fiyatı düşse bile talebin tam olarak geri gelmeyebileceğini söylerken, petrol tüketimi düşüyor ve EV satışları hızla artıyor. Analiz, ABD-İsrail'in İran'a karşı savaşının başlam...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ukrayna dışişleri bakanı, Rusya'nın Ukrayna'nın güvenlik hizmetleri karargâhına düzenlediği insansız hava aracı saldırısının \"büyük bir gerilim\" olduğunu söyledi - Europe Live",
+    "summary": "Ukrayna cumhurbaşkanı Volodymyr Zelenskyy, bir Rus insansız hava aracının Saksonya-Anhalt'ın Kyivin Magdeburg kentindeki Ukrayna güvenlik teşkilatının karargâhını vurduğunu bildirdi. Anketler, Pazar g...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Karadeniz saldırılarındaki ölümcül artış, gıda fiyatlarının daha da yükseleceği korkusunu artırıyor",
+    "summary": "Rusya ve Ukrayna'nın Temmuz ayındaki saldırıları, o aya kadarki tüm savaştan daha fazla mürettebatın ölümüne neden olarak tahıl ihracatını engelledi. Rusya ve Ukrayna birbirlerinin gemilerine ve liman...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Lorena Isceri, iddiaya göre eski erkek arkadaşı Federico Vella tarafından otoyol köprüsünden atıldıFloransa yakınlarındaki bir otoyol köprüsünden kaçırılan ve atılan 45 yaşındaki bir kadın, Ağustos or...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/02/6a98636ee9cf4a293f8b4588.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/03/6a985828e4d4d8f44b8b4590.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Trump'ın Venezuela Petrol Anlaşmasındaki Ortağı Alejandro Betancourt Soruşturmalarla Karşı Karşıya Oldu",
     "summary": "Alejandro Betancourt birçok soruşturmanın hedefi oldu. Artık kendisi, Başkan Trump'ın Venezüella petrol kaynaklarını kontrol etme hedefinde ABD hükümetinin rakipsiz ortağıdır.",
     "timeAgo": "En Guncel (API)",
@@ -754,149 +898,5 @@
     "summary": "Washington'un Caracas'la ilişkisinin nasıl samimi bir durumdan 'yırtıcı' bir hale geldiğine görsel bir bakış Trump'ın müttefiki, 'silah zoruyla diplomasi' eleştirisine rağmen Venezuela petrol anlaşmas...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "İşçi Partisi, halk sağlığı alarmının ortasında, koalisyonun tütün vergisini yüzde 80 oranında azaltma planının 'insanları öldüreceğini' söyledi",
-    "summary": "Angus Taylor ve Matt Canavan, sigara fiyatlarında ciddi kesintiler ve elektronik sigaraları yasallaştırma hamlelerinin yasa dışı tütün ticaretiyle mücadele edeceğini iddia ediyor En son güncellemeler ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/society/2026/sep/03/coalition-plan-cut-tobacco-excise-legalise-vapes-price-cigarettes-illegal-trade"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Felaketle lekelenmiş ellerle",
-    "summary": "Dünyanın bazı bölgeleri yıkıcı kuraklıklara veya kıyamet benzeri sellere maruz kalsa da, Brezilya seçimlerindeki iki ana program petrol üretiminin artırılmasını savunuyor",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-09-02/con-las-manos-manchadas-de-catastrofe.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "ABD'nin İran'daki yeni gerilimi bir düğünde beş kişinin ölümüne neden oluyor ve çatışmayı körükleme tehlikesi yaratıyor",
-    "summary": "Trump müzakere masasına dönmeyi reddediyor ve İran halkını rejime karşı isyana teşvik ediyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/01/6a973d46fdddff822f8b45ae.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump'ın Venezüella petrol şirketi devasa bir sondaj kampanyası planlıyor",
-    "summary": "Alejandro Betancourt liderliğindeki şirket, ülkenin cansız ham petrol üretimini artırmak için 50'den fazla sondaj kulesi göndermeyi planlıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/02/6a96e4fae4d4d870388b45a1.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Kim Jong-un'un altın çağı: Her zamankinden daha zengin, daha silahlı ve daha az izole",
-    "summary": "Pyongyang üç yıldır güçlü bir büyüme kaydetti, Ukrayna'daki savaştan milyarlarca dolar kazandı, nükleer cephaneliğini genişletti ve eş zamanlı olarak bir kez daha Putin ve Xi Jinping'in desteğini aldı...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Yargıç, Trump'ın doğuştan vatandaşlık hakkını sınırlamaya yönelik son girişimini engelledi",
-    "summary": "Yargıç Deborah Boardman, bugün verdiği 35 sayfalık kararda, Yüksek Mahkeme'nin \"çocukların\" \"doğuştan vatandaş\" olduğuna karar vermesi nedeniyle \"neredeyse kesinlikle anayasaya aykırı\" olduğuna işaret...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/03/6a9908fde4d4d8a7078b457f.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Tarihi Hong Kong rehinci dükkanı canlı bir topluluk alanı olarak yeniden hayata dönüyor",
-    "summary": "Hong Kong'un hareketli Wan Chai bölgesinin kalbindeki savaş öncesi bir binada, kahve, antikalar ve Cantopop, iki yıl önce kapılarını kapatan tarihi bir rehinci dükkanına yeni enerji veren yeni cazibe ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3366250/historic-hong-kong-pawn-shop-gets-new-lease-life-vibrant-community-space?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Tai Po yangınından zarar görmeyen bloktaki daire sahiplerinin %75,8'i yetkililere satış yapmayı kabul etti",
-    "summary": "Geçtiğimiz Kasım ayında Wang Fuk Court'ta çıkan ölümcül yangından kurtulan tek bloktaki ev sahiplerinin yüzde 75'inden fazlası, dairelerini Hong Kong hükümetine satmayı kabul etti ve yetkililer satın ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3366233/758-flat-owners-block-unscathed-tai-po-fire-agree-sell-authorities?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "İran savaşı, yapay zeka şoku ve faiz kaygısı teknoloji listelemelerini yavaşlattığından Japonya daha az halka arz görüyor",
-    "summary": "Tokyo Menkul Kıymetler Borsası'nın temel dayanak noktası olan Prime, Growth ve Standard bölümlerinde yılın ilk yarısında 17 şirket halka açıldı; bu rakam bir önceki yıla göre yaklaşık %30 düşüş göster...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/03/markets/ipo-japan-slowdown/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Vocaloid nasıl eşik alanların müziği haline geldi?",
-    "summary": "\"Arka Odalar\" bir film haline gelmeden önce şarkı söyleme-sentezleme yazılımı Vocaloid, Japonya'daki eşik ve huzursuzluğun ayırt edici özelliğiydi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/culture/2026/09/03/music/vocaloid-backrooms-liminal-horror/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Mitsui OSK, Hürmüz nakliyesindeki kesintinin 2026'nın ötesine uzanacağını öngörüyor",
-    "summary": "Son saldırılar, petrolü su yolu üzerinden taşımaya çalışan tankerlerin riskini artırdı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/03/companies/mitsui-osk-hormuz-shipping-risk/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japonya, ABD'den taze patates ithalatına uygulanan yasağın tamamen kaldırılmasına doğru ilerliyor",
-    "summary": "Tarım bakanlığı bu ay patates zararlıları ve yerli tarıma tehdit oluşturduğu tespit edilen hastalıklar hakkında bir brifing düzenlemeyi planlıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/03/economy/japan-us-potato-ban-lift/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Mahkeme, Trump'ın yeni doğum hakkı vatandaşlık kısıtlamalarını durdurdu",
-    "summary": "ABD Başkanı Donald Trump'ın katı göçmenlik gündemindeki yeni aksaklık, doğuştan vatandaşlık hakkı konusundaki mücadeleyi Yüksek Mahkeme'ye dönme yoluna sokuyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/03/world/trump-us-birthright-citizenship/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Fibromiyalji hastası, hastalık konusunda daha fazla farkındalık ve anlayış çağrısında bulunuyor",
-    "summary": "Çoğunlukla yanlış anlaşılan hastalık, vücutta şiddetli ağrı ile karakterizedir.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/03/japan/science-health/japanese-fibromyalgia-patients/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Küçük İran Kasabasında ABD Saldırısı Bir Düğünü Trajediye Dönüştürdü",
-    "summary": "Bir silah uzmanına ve The Times'ın görsel analizine göre yerleşim bölgesini vuran bomba Amerikan bombasıydı. İranlı yetkililer, saldırıda beş kişinin öldüğünü ve 67 kişinin de yaralandığını söyledi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog İran Savaşı: İran yine Kuveyt'teki hedeflere saldırdı",
-    "summary": "İran: Saldırılar “Amerika'nın suçlarına” yanıttır +++ Trump, Hürmüz Boğazı'nın adını “Trump Boğazı” olarak değiştirmek istiyor +++ Trump: İran'la anlaşma “Umrumda değil” +++ canlı blogdaki tüm gelişme...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-greift-abermals-ziele-in-kuwait-an-faz-200583539.html"
   }
 ]
