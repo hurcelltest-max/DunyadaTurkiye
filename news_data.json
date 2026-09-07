@@ -3,6 +3,96 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "A.I. Planlamaya Başlar",
+    "summary": "Yayınlanmamış bir model insan kontrolünden kaçtı ve bir yapay zeka sürüsü oluşturdu. ajanlar. Bir dahaki sefere kaosa neden olabilecek türden bir ihlaldi bu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrayna Savaşı: Kushner ve Witkoff: Savaşın sona ermesi için “daha ​​etkili” öneriler",
+    "summary": "Zelenskyj: Güvenlik ve ekonomik garantilere ilişkin görüşmeler +++ Witkoff ve Kushner ile yapılan görüşmeler “çok önemli” +++ Leipzig saldırısından sonra Lavrov: Genel olarak konuşursak, gerçek bir sa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-kushner-und-witkoff-effektivere-vorschlaege-fuer-kriegsende-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Almanya'nın aşırı sağcı AfD'si, Fransa'nın eyalet seçimlerinin \"ciddi bir an\" kazandığı konusunda uyarması üzerine Elon Musk'a teşekkür etti",
+    "summary": "Saksonya-Anhalt'taki lider aday, Fransız bakanın \"tarihimizi unutamayız\" demesi nedeniyle Musk ile daha fazla \"güçlü\" iş birliğini memnuniyetle karşılıyor. AfD, Almanya'daki önemli eyalet seçimlerini ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Şeytanın dışkısı",
+    "summary": "Latin Amerika milliyetçilerinin tahayyülünde başka hiçbir doğal kaynak petrolden daha büyük bir güce sahip olmamıştır.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-07/el-excremento-del-diablo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, sosyal ağında New Mexico eyaletinin adının \"Yeni Amerika\" olarak değiştirilmesi olasılığını gündeme getiriyor",
+    "summary": "Amerika Birleşik Devletleri başkanı, Ontario Gölü'nün yeniden adlandırılmasına ilişkin kararnameyi imzaladıktan günler sonra Truth'ta değiştirilmiş bir haritanın resmini yayınladı",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-06/trump-deja-caer-en-su-red-social-la-posibilidad-de-cambiar-el-nombre-del-estado-de-nuevo-mexico-por-el-de-nuevo-america.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "İsrail ateşkese rağmen Lübnan'ın güneyini bombaladı: \"Kendimizi hâlâ savaştaymış gibi hissediyoruz\"",
+    "summary": "Müzakerelerin durması ve İsrail ordusunun kara operasyonlarını genişletmesi nedeniyle yaklaşık 330.000 kişi zorla yerinden edilmiş durumda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-07/israel-bombardea-el-sur-de-libano-pese-a-la-tregua-sentimos-que-aun-estamos-en-guerra.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong'un yerel okulları en kötüsüne hazırlanmamalı",
+    "summary": "Hong Kong'daki öğrencilerin büyük çoğunluğu artık okula geri döndü. Trafiğin geçen hafta korkunç olması beklenirken, hükümetin uyarıyı erken yapması ve sakinleri sabah işe gidip gelmeleri için daha fa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366393/hong-kongs-local-schools-should-not-have-brace-worst?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "AB, Trump'ın ilhak hamlesi sırasında Grönland'a nakit desteği verecek",
+    "summary": "Avrupa Komisyonu Başkanı Ursula von der Leyen, Trump'ın bölgeyi ilhak etme kampanyasını geri çeviren bölgeye destek göstermek amacıyla Grönland'ı ziyaret ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/07/world/politics/eu-greenland-trump-annexation/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Bakan, Netanyahu'nun Batı Şeria'daki bazı yerleşim yerlerinin boşaltılması emrini verdiğini söyledi",
+    "summary": "Batı Şeria'daki tüm İsrail yerleşimleri uluslararası hukuka göre yasa dışı kabul edilirken, İsrail, hükümetin onayı olmadan kurulan bazı yerleşim birimlerinin yasa dışı olduğunu düşünüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/07/world/netanyahu-evacuation-west-bank/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "ABD'deki ekonomik daralmanın etkisiyle İran'ın Hürmüz nüfuzu zayıflıyor",
+    "summary": "Yıllarca süren yaptırımlardan sonra Tahran, şimdi İslam Cumhuriyeti tarihindeki en sert baskılardan biriyle karşı karşıya.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/07/world/iran-hormuz-leverage-us-economic/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Arılar İçin Kötü Bir Yıl, Trump'ın Tarifelerinin Kanada'nın Bal Kuşağını Etkilemesiyle Daha da Kötüleşiyor",
     "summary": "Alberta, Kanada balının yüzde 40'ını üretiyor. Bu yıl yağmur ve Başkan Trump'ın ticaret savaşı birleşerek sektörü tehdit etti.",
     "timeAgo": "En Guncel (API)",
@@ -808,95 +898,5 @@
     "summary": "Prefabrik evlerden oluşan çıplak kemik köy, yaldızlı Trump estetiğinden hiçbirine sahip değil ve oradaki İsrailliler, ülkelerinin başkana yönelik inişli çıkışlı görüşünün bir göstergesi olarak görülme...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump Elçileri Ukrayna Savaşı Konulu Görüşmeler İçin Moskova'ya Geldi",
-    "summary": "Başkan Trump'ın özel elçisi Steve Witkoff ve damadı Jared Kushner, Rusya ile Ukrayna arasındaki barış müzakerelerini canlandırmak amacıyla bir sonraki aşamada Kiev'i ziyaret etmeyi planlıyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Manzaralı Rota",
-    "summary": "Sezonun yeni çıkanları bize kültürel bir yol haritası veriyor ama en ödüllendirici okuma, dinleme ve izleme dolambaçlı yollardan geliyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kenyalılar Üniversite Denemeleri Yazarak Geçimlerini Sağladılar. Daha sonra A.I. Ulaşmış.",
-    "summary": "Binlerce Kenyalı, yurtdışındaki öğrenciler için makaleler yazarak geçimini sağlıyordu. Yapay zeka ile iş kurudu; bu, küresel bir cankurtaran halatı olan çevrimiçi işlere yönelik bir uyarıdır.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Rusya'da baskı: Ölümcül hastalığa sahip çocuklara yardım eden herkes de zulme uğruyor",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/auch-wer-in-russland-todkranken-kindern-hilft-wird-verfolgt-accg-201187457.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-05/estados-unidos-aprueba-una-venta-de-bombas-a-arabia-saudi-por-4300-millones-de-euros.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/05/6a9bae7dfdddffe7088b4572.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366468/3-arrested-over-allegedly-seditious-memorial-outside-prince-edward-mtr-station?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3366465/middle-east-war-drives-35-rise-hongkongers-overseas-help-requests?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/05/japan/rain-yakushima-kagoshima-landslides/"
   }
 ]
