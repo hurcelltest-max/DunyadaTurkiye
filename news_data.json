@@ -1,5 +1,68 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/atomenergiebehoerde-das-geheimnis-des-syrischen-atomprogramms-201210799.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/11/ireland-president-catherine-connolly-meet-donald-trump-dublin"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/11/6aa41439e85eceaa1f8b45a2.html"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -835,68 +898,5 @@
     "summary": "Neredeyse iki saatlik bir konuşmayla kendisini partisinin seçimleri kazanmasını sağlayabilecek tek kişi olarak satan başkan, Dallas kongresindeki ilk mitinginde \"Bu seçimlere ben adaymışım gibi davran...",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/us/2026-09-10/trump-promete-en-el-trump-a-palooza-un-bono-de-5000-dolares-si-los-republicanos-ganan-las-midterms.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Cumhuriyetçilerin Kasım ayındaki yasama seçimlerini kurtarmaya çalıştığı olağandışı kongre olan 'Trump-a-palooza'ya hoş geldiniz",
-    "summary": "Yakın bölgelerden düzinelerce aday, başkanın toksik etkisinden korktuğu için Trump'ın daha büyük zaferi çağrısı yapılan MAGA kardinaller toplantısını atladı",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-09/bienvenidos-a-la-trump-a-palooza-la-insolita-convencion-con-la-que-los-republicanos-tratan-de-salvar-las-elecciones-legislativas-de-noviembre.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trumpapalooza, liderle fotoğrafların yer aldığı bir kongre festivali 80.000 $",
-    "summary": "Başkan Teksas'ta alışılmadık bir kongre düzenliyor: Kasım yasama seçimlerini kendisi ve gündemi hakkında bir referandum haline getirmeye çalışıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/08/6aa02046e9cf4a70348b4584.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "USS Abraham Lincoln'de denizde dokuz ay: yalnızlık, yorgunluk ve gurur",
-    "summary": "Çeşitli röportajlarda denizciler, bir savaş bölgesinde uzun süreli konuşlanmanın gerilimini hissettiklerini ancak aynı zamanda görevi tamamlamış olmanın gururunu da dile getirdiler. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/09/6aa01c56e85ece2e118b458a.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong, Mart ayından itibaren sade sigara paketlerini piyasaya sürecek, Aralık ayına kadar ise tam uygulamaya geçecek",
-    "summary": "Hong Kong, paketlerdeki tüm markalama ve dekoratif tasarımları kaldırıp sigara içme oranlarını azaltmak için sağlık uyarılarını güncellerken, Aralık ayında tam yürürlüğe girmeden önce dokuz aylık bir ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3367037/hong-kong-roll-out-plain-cigarette-packs-march-full-enforcement-december?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong'da 15 yaş altı intiharları, sosyal medyanın incelemeye alınmasıyla on yılın en yüksek seviyesine ulaştı",
-    "summary": "Yerel bir üniversitenin araştırmasına göre, Hong Kong'da 15 yaşın altındakiler arasındaki intihar oranı 2025'te son on yılın en yüksek seviyesine çıktı ve genel düşüş eğilimine meydan okudu. Sosyal me...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367030/hku-raises-alarm-over-suicide-rate-among-under-15s-warns-social-media-impact?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bolt'u geride bırakan Çin'in robot şampiyonu, gerçek dünyadaki çalışmalara doğru yarışıyor",
-    "summary": "Amaç, göz kamaştırıcı gösterileri yararlı işçilere dönüştürmeye çalışan robot endüstrisinin karşı karşıya olduğu daha zorlu görevin altını çiziyor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/10/tech/bolt-china-robot-champion-work/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "NATO müttefikleri Rusya'nın denizaltı kablo sabotaj planını engelledi",
-    "summary": "Rus denizaltıları, denizaltı kablolarını gizlice devre dışı bırakmak için tasarlanmış gizli bir silahı serbest bırakmak üzere Kuzey Kutbu sularında bahar eğitimi sırasında yakalandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/10/world/nato-russia-subsea-cable-sabotage/"
   }
 ]
