@@ -1,5 +1,158 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "'Giydiğimiz Elbiselerle Çıktık': Yemenliler Yeni Çatışmalardan Kaçtı",
+    "summary": "Açlık ve hastalık Yemen'e yıllardır eziyet ediyor. Şimdi Suudi destekli hükümet ile İran destekli Husiler arasındaki çatışmalar onu uçurumun eşiğine getiriyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Doonbeg'de Trump'ın İrlanda Açık Ziyareti Protestolara ve Övgülere Yol Açtı",
+    "summary": "ABD başkanı İrlanda Açık için Doonbeg oteline giderken, yerel halk hem tesisin ekonomik faydalarını takdir ettiğini hem de siyasetine karşı olduğunu ifade etti.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Vize Sorunu Suç Konusunda ABD-Brezilya İşbirliğini Tehdit Ediyor",
+    "summary": "Yetkililer, Trump yönetiminin Brezilya'nın sınıraşan suçlarla mücadelede işbirliğini genişletme çabalarının bir kısmını engellediğini söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Petrol Fiyatları Yükselirken BRICS Liderleri ABD'de Olmayan Şeylere Sahip: İran Masada",
+    "summary": "Öyle olsa bile, Orta Doğu'daki savaş kendi çıkarlarını zorladığından, gelişmekte olan ekonomilerin gevşek gruplaşması arasında birlik bulmak zor olacak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Kahve Ticaretini Şekillendiren Tarihi Liman Mokha Neden Yemen Savaşında Ödül?",
+    "summary": "Kızıldeniz'deki stratejik konumu, şehre yüzyıllar boyunca ticari hakimiyet kazandırdı ve onu günümüzün Orta Doğu'daki savaşında imrenilen bir hedef haline getirdi.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Podcast “Doğru noktaya”: AfD kamusal söylemi belirliyor – peki neden?",
+    "summary": "Siyaset bilimci Teresa Völker, medyanın ve diğer partilerin AfD'yi ele alma biçiminin AfD'nin yükselişini desteklediğini söylüyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-afd-sachsen-anhalt-diskurs-extreme-rechte-li.3545894"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Türkiye: Erdoğan'ın rakibi İmamoğlu'na 2 yıl hapis cezası",
+    "summary": "İmamoğlu, Türkiye cumhurbaşkanının en büyük siyasi rakibi olarak kabul ediliyor. Mart 2025'te İstanbul belediye başkanı tutuklandı. Şimdi tartışmalı bir karar var.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/tuerkei-recep-tayyip-erdogan-ekrem-imamoglu-buergermeister-istanbul-haft-li.3546242"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Boru hattı kapatıldı: Suudi petrol ihracatı büyük baskı altında",
+    "summary": "Kıskaç Suudi Arabistan'a yaklaşıyor: Batıda Husi milisleri ihracat rotasını tehdit ediyor, doğuda ise İran Hürmüz Boğazı'nı kapatıyor. Saldırıların ardından önemli bir boru hattı kapatıldı. Uzmanlar p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/saudische-oelexporte-massiv-unter-druck-accg-201220167.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "5.000 Dolarlık Teklif: Trump'ın Pipeti",
+    "summary": "ABD Başkanı, partisi çoğunluğunu korursa her Amerikalıya 5.000 dolar vermek istiyor. Bu vaat, Donald Trump'ın vaatleri kadar hafif.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-verspricht-5000-dollar-ein-leeres-versprechen-201213118.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Filipinler'deki feribot yangınında ölü sayısı 35'e yükseldi, yetkililer ölü sayısının artacağı konusunda uyardı",
+    "summary": "Ölümcül yangın feribotun kargo ambarında başlamış, ardından saniyeler içinde gemiyi parçalamıştı. Filipinler açıklarında çıkan feribot yangınında ölen yolcuların cesetleri, ülkenin sahil güvenliğinin ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump, canlı yayında Dublin'i ziyaret ederken İrlanda'nın birliğini görmeyi \"seveceğini\" ve \"bunun şimdi de gerçekleşebileceğini\" söyledi",
+    "summary": "ABD başkanı, İrlanda'ya yaptığı iki günlük gezi sırasında politikacılar ve iş dünyası liderleriyle buluşuyor ve golf oynuyor Reuters, Trump'ın son yorumlarına ilişkin bir dizi uyarı yayınladı (şu anda...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Güvenlik duvarı tehlikeye girdi: Friedrich Merz 'demokrasinin son atışını' mı kaçırdı?",
+    "summary": "Pek çok kişi, Almanya'nın aşırı sağa karşı savunmasının çöktüğü bir dönemde Şansölye'nin bu iş için yanlış adam olduğundan korkuyor. 9.0 büyüklüğünde bir deprem. Beş alarmlı bir yangın. Almanya'nın ot...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Toplantıların onaylanması için 'kırmızı çizgi' yok ancak güvenlik tehditleri devam ediyor: polis şefi",
+    "summary": "Hong Kong polis şefi, halka açık toplantıların onaylanması için belirlenmiş bir \"kırmızı çizgi\" bulunmadığını söylerken, kentin yıllık Tiananmen Meydanı nöbetini yıkımı kışkırtmaktan dolayı düzenleyen...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367291/no-red-line-approving-assemblies-security-threats-remain-police-chief?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Aşılanmamış çocuklar ve yaşlılar, ciddi grip komplikasyonları açısından çok daha yüksek riskle karşı karşıya: resmi",
+    "summary": "Hong Konglu bir sağlık yetkilisi, şehirdeki grip vakalarının artmaya devam etmesi nedeniyle, aşılanmamış çocuk ve yaşlıların grip enfeksiyonlarından kaynaklanan ciddi komplikasyon veya ölüm riskiyle k...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367281/unvaccinated-children-elderly-face-much-higher-risk-major-flu-complications-official?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Milyar dolarlık yaptırımlar Çin mallarının İran'a akışını nasıl engelledi?",
+    "summary": "İran petrolünün Çin'den ithal edilen kredilerle takas edildiği gizli ticaret mekanizması, Tahran'a finansal bir cankurtaran halatı sağladı.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/09/12/china-iran-secret-trade-mechanism/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Suudi Arabistan'ın Husilerle gerilimi tırmanırken Pakistan taraf seçme baskısıyla karşı karşıya",
+    "summary": "Yemen'in İran destekli Husi hareketi ile Suudi güçleri arasındaki çatışmalar, Pakistan'ın her iki pozisyonu aynı anda ne kadar uzun süre elinde tutabileceğini giderek daha fazla test ediyor.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/12/asia-pacific/politics/pakistan-pressure-choose-side/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Dallas kongresinde bazı sadıklar Trump merkezli ara sınav stratejisini sorguluyor",
+    "summary": "Trump, Teksas'taki iki günlük toplantı sırasında seçmenlere \"oy pusulasındaymış gibi davranmaları\" çağrısında bulundu.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/12/world/politics/trump-loyalists-midterm-strategy/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -745,158 +898,5 @@
     "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Gazze Şeridi sınırında Nahal Oz'da görev yapan dört askerin takası, 15 ay süren esaret ve ailelerinin yürüttüğü kampanyanın ardından gerçekleşti.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-russland-infrastruktur-li.3524928"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Ukrayna: Rusya'ya karşı insansız hava araçlarıyla yapılan en geniş kapsamlı saldırı",
-    "summary": "Yaklaşık 3.000 kilometre uzaklıktaki iki hedefin vurulduğu söyleniyor +++ Kiev: İHA olayında Zelenskyj için risk “abartılı” +++ Ukrayna deniz dronları Soçi'yi vurdu +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-weitreichendster-angriff-mit-drohnen-gegen-russland-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "'Burada olmak istemiyorum': Andrew Hastie, Ben Roberts-Smith'e hakaret davasında isteksiz ama 'açık sözlü' bir tanıktı",
-    "summary": "Liberal milletvekili ve eski SAS askeri, başarısız 2022 hukuk davasında delil sunmak için mahkeme celbine uyduktan sonra One Nation'ın saldırısına uğradı Yeni siyasi e-postamızı, ücretsiz uygulamamızı...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-reluctant-witness-ben-roberts-smith-case-one-nation-traitor-attack-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Malta, Daphne Caruana Galizia kararına duyulan 'tamamen inançsızlığın' ardından yolsuzluk krizi konusunda uyardı",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-10/los-huties-toman-el-puerto-estrategico-de-moca-y-amenazan-con-un-doble-estrangulamiento-del-suministro-global-de-hidrocarburos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-09/trump-regalo-mas-de-38000-euros-en-efectivo-a-natalie-harp-y-a-dos-colaboradoras-mas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "İran'ın ABD deniz varlıklarına saldırma girişimleri, rejimin daha gelişmiş silahlar kullandığı ve Çin veya Rusya'dan yardım alabileceği yönündeki endişeleri artırıyor. Okumak",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/09/6aa120b2fc6c832b3d8b45c5.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3367080/mtr-corp-warns-prosecution-tour-guide-identified-fare-evasion-probe?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/10/japan/japan-lowers-travel-alerts-middle-east/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yetkililer, Yemen'deki Husilerin Stratejik Kızıldeniz Limanı'nı Ele Geçirdiğini Söyledi",
-    "summary": "İran destekli milisler, Yemen hükümet güçlerini Mokha'da bozguna uğratarak grubu, küresel ticaret için hayati öneme sahip bir su yolundaki gemilere saldırmak için daha güçlü bir konuma getirdi.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Afganistan'daki 'Sonsuz Savaş': Fotoğraflarla 25 Yıl",
-    "summary": "TK harika özeti buraya gelecek",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Yemen Neden Savaşın Eşiğinde?",
-    "summary": "Husi milislerinin, Yemen hükümetinin, İran ve Suudi Arabistan'ın çatışmayı tırmandırmak için nedenleri var.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Gander Amerikalıları 2001'de Karşıladı. Şimdi ABD-Kanada Gerginliği Tüm Ülkeyi Vurdu",
-    "summary": "Newfoundland kasabası, 11 Eylül'de binlerce korkmuş havayolu yolcusunu karşıladı, ancak 25 yıl sonra, tırmanan ticaret savaşının ortasında yıldönümü planlarında karışık duygular hakim oldu.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Carney Kabine Toplantısında ABD'ye Karşı Daha Fazla Ticari Grevi Düşünüyor",
-    "summary": "Kanada'nın bu hafta Başkan Trump'ın tarifelerine karşı misillemesi, daha fazla Amerikan tarifesi ve bazı Kanada ürünlerine ABD sınırının kapatılmasıyla karşılandı.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Pekin, Trump'ın Ekibiyle ve Eski Düşmanlarıyla Bile Konuşmaya Hazır Olduğunun Sinyalini Verdi",
-    "summary": "Çin dışişleri bakanı, Pekin'i eleştiren yeni dışişleri bakanı Marco Rubio ile telefonda görüştü.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   }
 ]
