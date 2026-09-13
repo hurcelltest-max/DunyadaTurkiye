@@ -1,5 +1,86 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Trump weist Sicherheitsbedenken zu KI zurück",
+    "summary": "Laut dem US-Präsidenten gebe es derzeit viele „sehr negative Kräfte“, die unbegründet Sorgen schürten. Die USA seien China bei künstlicher Intelligenz voraus – und das solle auch so bleiben.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/trump-ki-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Trump fordert von Selenskyj Stopp der Angriffe auf russische Raffinerien",
+    "summary": "US-Präsident macht Ukraine für weltweite Dieselknappheit verantwortlich +++Nachtzug von Kiew nach Warschau von russischer Drohne getroffen +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-fordert-von-selenskyj-stopp-der-angriffe-auf-russische-raffinerien-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Schifffahrt bedroht: Der Jemen wird zum Albtraum",
+    "summary": "Iran und die Huthi-Rebellen bedrohen jetzt zwei wichtige Meerengen am Golf. Es droht eine lange Blockade.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/huthi-rebellen-es-droht-dem-welthandel-eine-lange-blockade-201218581.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
+    "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’The US secretary of state, Marco Rubio, gave new clarity on the approach toward combatin...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+    "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics traffickingThe US has designated Ecuador’s Los Tiguerones gang, which stormed a television station...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Sweden election live: results too close to call, with projections narrowing as more votes are counted",
+    "summary": "Projection taking in latest results has opposition bloc on 175 seats and the government parties on 174Swedish election – full reportIf you’re looking just for a single story to quickly catch up on the...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Donald Trump doubles down on support for united Ireland",
+    "summary": "US president says ‘many people agree’ with his view on unification, brushing off Andy Burnham’s opposition to referendumDonald Trump has reiterated his support for Irish unification and brushed off An...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono",
+    "summary": "El presidente de Estados Unidos defiende el conflicto e insiste en que Teherán “nunca tendrá un arma nuclear”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-11/la-sombra-de-la-guerra-de-iran-planeo-sobre-la-conmemoracion-de-trump-del-11-s-en-el-pentagono.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Irán reconoce estar en una fase \"crítica y peligrosa\" por la presión de EEUU",
+    "summary": "El presidente iraní urge en el foro de los BRICS a diversificar socios y canales de pago para esquivar las sanciones, mientras India equilibra sus lazos económicos con Teherán y Moscú y su alianza est...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/11/6aa41439e85eceaa1f8b45a2.html"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -817,86 +898,5 @@
     "summary": "Irak, Suudi boru hattına yapılan insansız hava aracı saldırısının ardından İran sınır kapısını kapattı +++ Suudilerin ABD'yi Husi milislerine saldırmaya çağırdığı söyleniyor +++ tüm gelişmeler canlı b...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-saudi-arabien-schliesst-nach-angriffen-wichtige-ost-west-pipeline-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrayna Savaşı: Putin Ukrayna'daki Avrupalı ​​askerler hakkında uyarıyor: \"Rusya'ya karşı savaş\" anlamına gelir.",
-    "summary": "Rusya'nın alışveriş merkezine saldırısı: Kiev, Pavlohrad şehrinde en az yedi kişinin öldüğünü bildirdi +++ Zelenskyj: Eylül sonunda New York'ta Trump ile görüşme +++ tüm haberler canlı blogda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-europaeischen-soldaten-in-ukraine-wuerden-krieg-gegen-russland-bedeuten-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Türkiye: Erdoğan'ın rakibi İmamoğlu'na 2 yıl hapis cezası",
-    "summary": "Pek çok kişi onu Türkiye cumhurbaşkanının en büyük rakibi ve hükümet yanlısı yargının kurbanı olarak görüyor. İstanbul'un görevden alınan belediye başkanına verilecek bir sonraki karar onun siyasi son...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/erdogan-rivale-imamoglu-zu-zwei-jahren-haft-verurteilt-accg-201219995.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-12/quien-manda-en-al-qaeda-por-que-no-hay-otro-osama-bin-laden.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-12/putin-envia-a-sus-tropas-las-reliquias-del-principe-donskoi-mito-de-su-guerra-milenaria-contra-occidente.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/12/6aa41a3ee9cf4af8388b456e.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/11/6aa403f5e85ece9d1c8b45a6.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/12/world/ukraine-killer-robots/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668"
   }
 ]
