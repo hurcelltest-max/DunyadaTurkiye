@@ -3,6 +3,69 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "summary": "Two Israeli drone strikes hit a residential neighborhood, a civil defense official said. Israel is under international pressure to curtail its attacks.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "How Electric Cars Took Hold in Australia",
+    "summary": "Rising oil prices helped push E.V. sales ahead of gas cars for the first time, even in a country that loves long road trips.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/15/world/australia/electric-cars-iran-war-gas-australia.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: US-Energieminister: Saudische Pipeline nach Angriff bald wieder in Betrieb",
+    "summary": "Chris Wright spricht über Reparaturen +++ USA machen unterschiedliche Angaben zu explodiertem Öltanker in Straße von Hormus +++ Österreich verweigert Visum auf US-Druck +++  alle Entwicklungen im Live...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-energieminister-saudische-pipeline-nach-angriff-bald-wieder-in-betrieb-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Niederlage für Trump bei Krypto-Gesetz im Senat",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-niederlage-fuer-trump-bei-krypto-gesetz-im-senat-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Drohne über Litauen: Der Krieg trifft auch NATO-Mitglieder",
+    "summary": "Der Abschuss einer aus Belarus kommenden Drohne über Litauen ist der jüngste Vorfall in einer langen Serie besorgniserregender Ereignisse.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/drohne-ueber-litauen-russlands-krieg-trifft-auch-die-nato-201229449.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australian politics live: Lambie compares ‘dangerous’ Hanson to Trump; NSW One Nation leader wants abortion ‘stopped’",
+    "summary": "Follow the day’s news liveGet our new political email, free app or daily news podcastThe head of One Nation in New South Wales has fronted a rally opposing “abortion up to birth” ahead of an expected ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Una ONG israelí acusa al Gobierno de Netanyahu de tratar de “eliminar” las condiciones de vida en Cisjordania",
+    "summary": "B’Tselem culpa a las autoridades israelíes de combinar la violencia, las barreras a la movilidad y la asfixia económica para desmantelar “las condiciones necesarias para la existencia colectiva palest...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-14/una-ong-israeli-denuncia-el-proyecto-de-eliminacion-en-cisjordania.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Yemen’s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
     "summary": "The Houthis are increasingly using artificial intelligence and other tools to produce advanced weaponry on their own, making them less reliant on Iran.",
     "timeAgo": "En Guncel (API)",
@@ -835,68 +898,5 @@
     "summary": "El presidente de Estados Unidos considera que la escultura modernista “Infinity” de José de Rivera, instalada en 1967, “no dice nada a los visitantes ni inspira”",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-09-12/trump-ordena-al-smithsonian-cambiar-una-estatua-moderna-por-otra-de-washington.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Russian Strike on Train Station Near Poland Seen as Warning to Kyiv’s Allies",
-    "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-    "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
-    "summary": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Is A.I. Raising the Chances of Biological Warfare?",
-    "summary": "Current chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What?",
-    "summary": "As global temperature increase shoots past 1.5 degrees Celsius, the vulnerable countries that fought for that Paris Agreement target face a brutal new reality.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Autokratie: Wie Erdoğan die Türkei zur Scheindemokratie macht",
-    "summary": "Ein Istanbuler Bezirk wählt eine Bürgermeisterin von der Opposition, trotzdem regiert dort nun ein Mann von Erdoğans AKP.  Der Fall zeigt, mit welchen Mitteln der geschwächte Präsident um die Macht kä...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/tuerkei-erdogan-kommunalwahlen-ueskuedar-demokratie-opposition-li.3544777"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: Russland greift Zug an – britischer Ex-Premier Johnson in der Nähe",
-    "summary": "Die polnische Regierung wirft Moskau eine Verschärfung des Konflikts vor. Die ukrainische Bahngesellschaft spekuliert, dass möglicherweise ein anderer, mit westlichen Diplomaten besetzter Zug, das Zie...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-boris-johnson-li.3524928"
   }
 ]
