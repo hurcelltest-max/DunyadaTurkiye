@@ -3,6 +3,249 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
+    "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Living Next to Mexico’s Toxic Reservoir",
+    "summary": "Our reporter Emiliano Rodríguez Mega visits the highly polluted Endhó Dam, which some call Mexico’s toilet bowl. People who live nearby say that sickness is everywhere.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/video/world/americas/100000011093259/living-next-to-mexicos-toxic-reservoir.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Russland: Krieg ist nicht das beste Wahlkampfthema",
+    "summary": "Kurz vor den Wahlen reist Präsident Putin durch ein verunsichertes Russland. Immer wieder wirbt er für seine „Militäroperation“ in der Ukraine – und behindert damit den Wahlkampf seiner eigenen Partei...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/russland-putin-wahl-duma-li.3546751"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Iran und die Golfstaaten: Angriffe ja, aber kein Krieg",
+    "summary": "Iran greift seit Monaten US-Stützpunkte und andere Ziele in den Golfstaaten an – sieht die Nachbarn aber nicht als Feinde. Offenbar hofft das Regime sogar darauf, die Beziehungen durch die Attacken zu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-usa-konflikt-golf-einfluss-golfstaaten-li.3547874"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Politics: Trump’s Secret Points System for Cabinet Members",
+    "summary": "The White House held a summer contest to see who could appear in the most congressional districts and states with competitive midterm elections.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/trump-s-secret-points-system-for-cabinet-members-e090330/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Libanons Präsident will Sicherheitsabkommen mit Israel",
+    "summary": "Treffen am Donnerstag mit Macron und dem jordanischen König +++ USA räumen erstmals Munitionsknappheit im Irankrieg ein +++ Irans Außenminister macht sich über US-Verluste lustig +++ alle Entwicklunge...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-libanons-praesident-will-sicherheitsabkommen-mit-israel-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Babiš fordert ein „Airbus“ für Europas Luftverteidigung",
+    "summary": "Prager Regierungschef will System wie „Patriot“ aus Europa +++ US-Kongress stimmt für verschärfte Russland-Sanktionen +++ Wadephul nennt Beschluss „ein starkes Signal“ +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-babis-fordert-ein-airbus-fuer-europas-luftverteidigung-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Russland-Sanktionen: Ein schaler Beigeschmack auch für Europa",
+    "summary": "Mit neuen Russland-Sanktionen bekennt Washington endlich Farbe – einerseits. Andererseits darf Trump einen neuen Zoll-Knüppel schwingen. Er wird dabei nicht nur an Kiew denken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/die-neuen-russland-sanktionen-der-usa-staerken-trump-201235495.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Konfliktforschung: Weit entfernt von einem Bürgerkrieg",
+    "summary": "Vertreter der Neuen Rechten sagen für Deutschland einen Bürgerkrieg voraus. Eine renommierte Politikwissenschaftlerin tat dies schon 2023 für die USA.  Wie definieren Konfliktforscher einen Bürgerkrie...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/vertreter-der-neuen-rechten-sagen-einen-buergerkrieg-voraus-was-sagen-konfliktforscher-accg-201182249.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Drohne über Litauen: Der Krieg trifft auch NATO-Mitglieder",
+    "summary": "Der Abschuss einer aus Belarus kommenden Drohne über Litauen ist der jüngste Vorfall in einer langen Serie besorgniserregender Ereignisse.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/drohne-ueber-litauen-russlands-krieg-trifft-auch-die-nato-201229449.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Carney calls for closer ‘strategic autonomy’ and trade as Trump threatens EU over associate member offer – Europe live",
+    "summary": "In an address to European parliamentarians, the Canadian prime minister speaks about his hopes for what a new relationship with the EU could look likeMeanwhile, we are getting some interesting lines f...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Mark Carney, tras las nuevas amenazas arancelarias de Trump: “Europa y Canadá son más fuertes juntos”",
+    "summary": "El jefe de gobierno canadiense aboga en la Eurocámara por una “alianza profunda” que se convierta en un “faro para otras democracias”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/mark-carney-tras-las-nuevas-amenazas-arancelarias-de-trump-europa-y-canada-son-mas-fuertes-juntos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
+    "summary": "El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel y Marruecos elevan el nivel de sus relaciones diplomáticas en plena crisis de Ceuta",
+    "summary": "Los dos países sellan en Nueva York un acuerdo que incluye la apertura de embajadas, el nombramiento de embajadores y ampliar sus conexiones aéreas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/israel-y-marruecos-elevan-el-nivel-de-sus-relaciones-diplomaticas-bajo-los-auspicios-de-estados-unidos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Hallado muerto Nicholas Brandram, sospechoso del ‘caso Putney Pusher’, uno de los mayores misterios policiales de Londres",
+    "summary": "El sospechoso, trabajador de la banca emparentado con la familia real británica, había servido en la Guardia Escocesa y participado en la guerra de Afganistán",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/hallado-muerto-nicholas-brandram-sospechoso-del-caso-putney-pusher-uno-de-los-mayores-misterios-policiales-de-londres.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump saca a Venezuela de la lista de países que no luchan contra el narcotráfico y mantiene a Colombia",
+    "summary": "Estados Unidos destaca los “pasos positivos” dados por Delcy Rodríguez en Caracas y anticipa que podrá rever su posición hacia Bogotá tras la llegada de De la Espriella al poder",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america-colombia/2026-09-16/trump-saca-a-venezuela-de-la-lista-de-paises-que-no-luchan-contra-el-narcotrafico-y-mantiene-a-colombia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La ofensiva relámpago con la que los hutíes se apoderaron de un corredor petrolero crucial",
+    "summary": "Los militantes yemeníes se habían mantenido al margen de la guerra de Irán, hasta que el grupo vio una oportunidad&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/16/6aa94556e4d4d89f588b4588.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Carney acepta la invitación de Von der Leyen para que Canadá se convierta en el primer miembro asociado de la UE:  \"Sería un faro para otras democracias\"",
+    "summary": "El primer ministro canadiense acoge \"con satisfacción esta ambición\", ignoras las amenazas de Trump y ofrece a otros países a sumarse a la alianza&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aabbfbde85ece2a778b45a4.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Marruecos e Israel refuerzan su alianza política, económica y de \"seguridad\" con patrocinio de EEUU en plena crisis de Ceuta",
+    "summary": "Anuncian envío de embajadores, acuerdos de protección de inversiones y califican a Trump de \"líder visionario capaz de encontrar la paz allá donde nadie más creía que fuera posible\"&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aabbb2121efa0b4218b45b4.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Un ataque con drones ucranianos daña una refinería rusa en Yaroslavl",
+    "summary": "El gobernador regional confirma un incendio en la planta, sin concretar los daños, días después de que Trump anunciara una supuesta \"tregua energética\"&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aab823221efa05b188b456d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S. allies fret over how Trump might play his Taiwan hand with Xi",
+    "summary": "Even a subtle change in U.S. rhetoric about Taiwan could embolden Beijing and risk the region's fragile peace.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/17/world/politics/us-allies-trump-taiwan-xi/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "India warns U.S. new tariffs to deter buyers of Russian oil could impact ties",
+    "summary": "The U.S. House of Representatives has passed a bill authorizing tariffs of up to 100% to increase pressure on Russia over its invasion of Ukraine.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/india-energy-security-us-tariffs/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S., China security experts propose nuclear-style safeguards for AI risks",
+    "summary": "The proposals, which neither governments has endorsed, come ahead of a meeting between U.S. President Donald Trump and Chinese President Xi Jinping.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/17/world/politics/us-china-nuclear-ai-safeguards/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "The Japan Times to hold its first school fair in Taiwan, showcasing Japan-based boarding and international schools",
+    "summary": "The Japan Times, Ltd. (Head office: Chiyoda Ward, Tokyo; Chairperson and Publisher: Minako Suematsu) will hold The Japan Times School Fair Taipei, bringing together boarding schools and international ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/press/2026/09/17/school-fair-taipei-2026/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Nomura warns of slowing trading revenue growth as boom cools",
+    "summary": "Japan's biggest brokerage said revenue from its wholesale division was \"progressing slightly above year-on-year\" for the quarter as of Sept. 14.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/09/17/companies/nomura-slow-growth-warning/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
     "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
     "timeAgo": "En Guncel (API)",
@@ -655,248 +898,5 @@
     "summary": "Selbst entwickelte Waffen können laut Präsident Selenskij auch  „Shahed“-Drohnen zerstören.  Das ukrainische Militär spricht von Rückeroberungen im Donbass.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-drohnen-abwehr-selenskij-shahed-donbass-li.3524928"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kriegsverbrechen: „Ich hatte den Eindruck, er war starr vor Angst“",
-    "summary": "Als EU-Sonderbeauftragter während des Kosovokriegs erlebte Wolfgang Petritsch Hashim Thaçi aus der Nähe. Im Gespräch mit der F.A.Z. erinnert er sich an damals.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/nach-kosovo-urteil-thaci-war-starr-vor-angst-accg-201230442.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "25 Jahre Haft: Kosovo-Tribunal spricht Hashim Thaçi schuldig",
-    "summary": "Der frühere kosovarische Präsident Hashim Thaçi ist zu 25 Jahren Haft verurteilt worden. Für den Westen könnte das heißen, dass er mit einem Kriegsverbrecher kooperiert hat.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/kriegsverbrechen-in-kosovo-thaci-zu-25-jahren-verurteilt-accg-201229090.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "US to bar some South Africans over claims of anti-white discrimination",
-    "summary": "Announcement of visa restrictions comes after Trump alleges ‘white genocide’ taking place in South AfricaThe US has announced visa restrictions on some South Africans as Donald Trump’s administration ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-    "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’  AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a s...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "‘Anywhere, anytime’: Victoria police and PSOs to get random stop and search powers after Labor backflip",
-    "summary": "Premier Ben Carroll adopts Coalition’s stance on Jack’s Law, which gives police and PSOs power to randomly search people for knives with metal detectorsFollow our Australia news live blog for latest u...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/victoria-police-pso-stop-and-search-powers-jacks-law-labor-backflip"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
-    "summary": "Thaçi held criminally responsible for war crimes during the violent break from Serbia in the 1990s Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "European Union opens door for Canada to become first associate member",
-    "summary": "Commission president says partnership will create ‘common prosperity’ based on shared democratic valuesEurope live – latest updatesThe European Commission president, Ursula von der Leyen, told the Can...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Von der Leyen apuesta por que Canadá sea “el primer miembro asociado de la UE”",
-    "summary": "El primer ministro del país norteamericano Mark Carney acude a la Eurocámara en plena guerra comercial con Washington",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/von-de-leyen-apuesta-por-que-canada-sea-el-primer-miembro-asociado-de-la-ue.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
-    "summary": "El fallo supone un revés para el plan del Gobierno de influir en los comicios a base de amenazas a funcionarios, presiones a los Estados y colocación de negacionistas electorales en puestos clave",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Amnistía acusa a Irán de crímenes contra la humanidad por los asesinatos, torturas y violaciones durante las protestas de 2022",
-    "summary": "La organización documenta la “oleada de atrocidades” cometidas por el régimen iraní durante las manifestaciones en el país por la muerte de la joven Yina Mahsa Amini, de la que se cumplen cuatro años",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/una-oleada-de-atrocidades-amnistia-acusa-a-iran-de-cometer-crimenes-contra-la-humanidad-en-la-represion-de-las-protestas-de-2022.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Condenado a 25 años de cárcel el expresidente de Kosovo Hashim Thaçi por crímenes de guerra",
-    "summary": "El Tribunal Especial para Kosovo culpa al exdirigente kosovar del asesinato de 96 opositores políticos y presuntos colaboradores de las fuerzas de seguridad serbias",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/condenado-a-25-anos-de-carcel-el-expresidente-de-kosovo-hashim-thaci-por-crimenes-de-guerra.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis",
-    "summary": "El encuentro reúne este jueves en Madrid a Albares, Robles y la industria de defensa, con las guerras de Ucrania e Irán abiertas y Washington presionando a Europa para que aumente su gasto militar",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/el-pais-organiza-la-tercera-edicion-de-dialogos-para-la-seguridad-centrada-en-el-papel-de-europa-en-un-mundo-en-crisis.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Al menos 16 gazatíes mueren al derrumbarse el edificio en el que se refugiaban, parcialmente destruido por los bombardeos israelíes",
-    "summary": "Los rescatistas buscan con sus propias manos supervivientes entre el centenar de desaparecidos bajo los escombros, debido a la negativa de Israel a permitir la entrada de maquinaria pesada",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/varios-muertos-por-el-derrumbe-de-un-edificio-en-gaza-previamente-bombardeado-por-israel.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Estados Unidos prepara la venta a Israel de 40.000 bombas de casi una tonelada muy destructivas",
-    "summary": "La Administración ha informado de la operación a los comités pertinentes del Congreso que supervisan las grandes ventas de armamento",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-16/estados-unidos-prepara-la-venta-a-israel-de-40000-bombas-de-casi-una-tonelada-muy-destructivas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump ordena al Smithsonian cambiar una estatua moderna por otra de Washington",
-    "summary": "El presidente de Estados Unidos considera que la escultura modernista “Infinity” de José de Rivera, instalada en 1967, “no dice nada a los visitantes ni inspira”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-12/trump-ordena-al-smithsonian-cambiar-una-estatua-moderna-por-otra-de-washington.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El ex líder kosovar Hashim Thaçi, condenado en La Haya a 25 años de cárcel por crímenes de guerra",
-    "summary": "El panel de jueces internacionales declara que es culpable del asesinato a manos de fuerzas del ELK durante la guerra de 96 opositores políticos y personas a las que consideraban colaboradores de las ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaa3e92fdddff9f6d8b4585.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Von der Leyen ofrece a Carney que \"Canadá se convierta en el primer miembro asociado de la UE\"",
-    "summary": "La presidenta de la Comisión lanza su propuesta en pleno enfrentamiento entre el primer ministro canadiense y Trump. \"Vemos el mundo de la misma manera\", defiende la alta funcionaria alemana&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaa5b84fc6c837f578b4585.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Turquía detiene a casi un centenar de personas en una protesta contra la represión al colectivo LGTBI",
-    "summary": "Una redada policial contra asociaciones, activistas y locales de ambiente homosexual realizada el domingo bajo el nombre 'Mi familia está segura', acabó con la detención de unas 70 personas&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaa31a021efa01b768b456e.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong must prepare for the impact of heat-related work stoppages",
-    "summary": "At the beginning of August, when temperatures in Hong Kong hit highs not seen for at least 140 years, the Labour Department’s Heat Stress at Work Warning system remained at the amber level, the lowest...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367306/hong-kong-must-prepare-impact-heat-related-work-stoppages?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump has few good options to slow China’s rise as AI superpower",
-    "summary": "The main challenge for the U.S. is keeping China at bay without prompting Beijing to further restrict rare earths.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/trump-china-rise-ai-superpower/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump’s North Korea outreach is about U.S. politics",
-    "summary": "Pyongyang's shifting priorities leave Washington with little leverage.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/09/16/world/trump-north-korea-outreach/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Chinese defense chief warns against militarism and revisionism in veiled jab at Japan",
-    "summary": "Defense Minister Dong Jun's remarks at the Xiangshan Forum came days after a rare visit to Beijing by a delegation of Japanese lawmakers.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/16/japan/china-defense-minister-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "America’s Iran war forgot about nukes",
-    "summary": "When the war was launched, a resolution of the nuclear dispute was prominent among the dizzying array of U.S. and Israeli aims to explain the attack.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/09/16/world/america-forgets-iran-nukes/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-    "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-    "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Nahost-Krieg: „In Stücke geschossen“ – Irans Außenminister macht sich über US-Verluste lustig",
-    "summary": "Dutzende Flugzeuge sind zerstört, Hunderte Militärstützpunkte beschädigt – der Krieg gegen Iran kommt dem US-Militär teuer zu stehen. Die Führung in Teheran reagiert mit Spott.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Kennedy Center wird laut Trump umgehend geschlossen",
-    "summary": "Der US-Präsident wollte seinen Namen an das berühmte Kulturzentrum in Washington anbringen, doch ein Gericht blockiert den Schritt mehrfach. Jetzt versucht er erneut, die Einrichtung lange Zeit stillz...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kennedy-center-geschlossen-li.3530667"
   }
 ]
