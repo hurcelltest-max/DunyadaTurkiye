@@ -3,6 +3,177 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+    "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+    "summary": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
+    "summary": "The conflict underscored the distance between world powers over the United States’ pressure campaign on Iran.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
+    "summary": "The carrier, Mahan Air, said it would stop flying to neighboring countries just over a week after the United States imposed sweeping sanctions on Iran’s aviation industry.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Polens Regierungschef rechnet mit mehr russischen Angriffen",
+    "summary": "Donald Tusk sieht im russisch-ukrainischen Krieg einen besonders kritischen Moment auf Europa zukommen. Geheimdienste erwarten auch mehr Angriffe auf Unterstützerländer der Ukraine.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-angriffe-polen-russland-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
+    "summary": "Der US-Präsident wollte die US-Streitkräfte eigentlich stärker auf dem amerikanischen Kontinent konzentrieren. Für Polen könnte es jetzt eine Ausnahme geben.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-polen-us-armee-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Scheinwahl in Russland: Kriegsveteran gegen Kriegsgegner",
+    "summary": "Putin inszeniert die Duma-Wahl als Votum über den Krieg. Ein Besuch in Moskaus Osten, wo der Kandidat der Jabloko-Partei für Frieden wirbt und gegen einen Frontkämpfer antritt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/duma-wahl-in-russland-wo-ein-kriegsgegner-gegen-einen-veteranen-antritt-201227953.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Italien beschließt Alleingang an blockierter Meerenge Bab al-Mandab",
+    "summary": "Marine soll Durchfahrt italienischer Schiffe gewährleisten +++ UN-Ermittler sehen mögliche Kriegsverbrechen der USA +++ Libanons Präsident will Sicherheitsabkommen mit Israel +++ alle Entwicklungen im...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-blockierte-meerenge-bab-al-mandab-italien-will-durchfahrt-gewaehrleisten-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Tusk warnt vor „hybriden Angriffen“ Russlands auf Verbündete der Ukraine",
+    "summary": "Polnischer Ministerpräsident: Russland will Zusammenhalt innerhalb der NATO schwächen +++ Babiš fordert ein „Airbus“ für Europas Luftverteidigung +++ US-Kongress stimmt für verschärfte Russland-Sankti...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-warnt-vor-hybriden-angriffen-russlands-auf-verbuendete-der-ukraine-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+    "summary": "Passionate documentary maker  won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s blood...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘I’m genuinely sorry’: Australian Hyrox athlete who soiled herself apologises to China and rivals",
+    "summary": "Joanna Wietrzyk ‘regrets’ decision to keep racing She forfeits points from her win in the Beijing raceGet our new political email, free app or daily news podcastThe Australian athlete who caused a sto...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/sport/2026/sep/17/im-genuinely-sorry-australian-hyrox-athlete-who-soiled-herself-apologises-to-china-and-rivals"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+    "summary": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Wa...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel autorizará más de 2.000 nuevas viviendas en la polémica colonia que divide Cisjordania en dos",
+    "summary": "El estratégico asentamiento E1 ha sido criticado por diversos países europeos por hacer imposible la futura creación de un Estado palestino",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/israel-autorizara-mas-de-2000-nuevas-viviendas-en-polemica-colonia-que-divide-cisjordania-en-dos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Democracia en venta",
+    "summary": "No es la primera vez que Trump ofrece cheques en tiempo electoral, pero esta vez se trata de un cínico y descarado soborno que promete dinero a cambio de retener poder",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-13/democracia-en-venta.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump carga contra sus jueces en el Supremo tras su fallo sobre el voto por correo: “Estas no fueron las personas que entrevisté”",
+    "summary": "Esa corte impidió que el presidente ponga en vigor su decreto de cara a las elecciones de mitad de período",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-15/trump-carga-contra-sus-jueces-en-el-supremo-tras-su-fallo-sobre-el-voto-por-correo-esta-no-es-la-gente-que-entreviste.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Aparato represivo y torturas permanecen con el chavismo trumpista de Delcy Rodríguez",
+    "summary": "La ONU ratifica que, a pesar de los cambios limitados tras la caída de Nicolás Maduro, la opresión y crímenes de lesa humanidad continúan intactos en Venezuela bajo la cúpula de Diosdado Cabello&nbsp;...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaac080e85ece323e8b4571.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "EEUU concede en plena guerra con Irán visados a este país para que asista a la Asamblea General de la ONU",
+    "summary": "Una fuente citada por AFP asegura que la autorización incluirá al presidente iraní&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aac3584fdddff2b1e8b457d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Unos 300 surcoreanos preparan reclamaciones a la Administración Trump por la redada masiva de 2025",
+    "summary": "En septiembre de 2025 una redada en la planta de baterías conjunta de Hyundai y LG Energy Solution en Georgia dejó 475 detenidos. 316 de ellos eran surcoreanos que fueron deportados, la mayoría emplea...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aac1525fdddffbb638b457e.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
     "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
     "timeAgo": "En Guncel (API)",
@@ -727,176 +898,5 @@
     "summary": "La pareja ha confirmado que Umar Kremlev se hizo cargo de las facturas. “Esto debería ser impensable para el hijo del presidente. Y punto”, apunta un antiguo alto cargo del FBI",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump saca a Venezuela del grupo de países que incumplen en la lucha contra el narcotráfico",
-    "summary": "El mandatario estadounidense excluye a la nación latinoamericana de la lista negra del tráfico de narcóticos, aunque la mantiene en el registro de países de tránsito de drogas ilícitas&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaad108e9cf4ac1388b4576.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Así financió en secreto un oligarca ruso la boda del hijo de Trump: isla alquilada en Bahamas y fuegos artificiales",
-    "summary": "La investigación sobre la fiesta celebrada en Bahamas por la boda entre Don Jr., el primogénito de Donald Trump, y la modelo Bettina Anderson revela que parte de la celebración fue financiada por Umar...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/15/6aa8e95ee9cf4af41d8b4579.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the precarious conditions for people living among Gaza’s ruins.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Belarus Releases 25 Political Prisoners in Exchange for U.S. Easing of Sanctions",
-    "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-    "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
-    "summary": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-    "summary": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Palestinians Stream Back to Northern Gaza on Foot",
-    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Parlamentswahl in Russland: „Je mehr die Behörden manipulieren, desto weniger glauben die Menschen an die Wahl“",
-    "summary": "Weil die russische Partei Jabloko den Krieg kritisiert, drangsaliert und sanktioniert sie der Staat. Einen Wahlkampf und mutige junge Wahlhelfer gibt es trotzdem – doch die Angst vor dem Kreml ist gro...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/russland-jabloko-parlamentswahl-manipulation-li.3546750"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Gaza: Mindestens 20 Tote bei Einsturz von Wohnhaus",
-    "summary": "In dem durch israelische Luftangriffe beschädigten Gebäude hatten vertriebene Familien Zuflucht gesucht. Nach Angaben des Zivilschutzes werden noch fast 100 Menschen unter den Trümmern vermutet.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/gaza-wohnhaus-einsturz-luftangriffe-li.3548482"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Polen: Auch an Ostseeküste gefundene Drohne trug Sprengsatz",
-    "summary": "Über Litauen abgeschossene Drohne stammt ebenfalls aus Russland +++ Ukraine meldet erfolgreichen Test neuer Drohnenabwehrwaffe +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-polen-auch-an-ostseekueste-gefundene-drohne-trug-sprengsatz-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "„Guter Freund“: Warum ein russischer Oligarch für Don Juniors Hochzeit zahlte",
-    "summary": "Umar Kremljow soll für Donald Trump Juniors Hochzeitswochenende Hunderttausende Dollar ausgegeben haben. Warum, wollen auch die Demokraten im Kongress wissen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-ein-russischer-oligarch-fuer-die-hochzeit-von-trumps-sohn-zahlte-201232201.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-    "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us"
   }
 ]
