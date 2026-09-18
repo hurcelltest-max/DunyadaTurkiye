@@ -3,6 +3,240 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
+    "summary": "The catastrophe set off alarms in a region with thousands of glaciers spanning eight nations. Better monitoring and cooperation between the countries could save lives, experts say.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+    "summary": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Can Two Friends Complete a Game No One Has Ever Finished?",
+    "summary": "The Campaign for North Africa, a staggeringly complicated World War II board game, has stymied players for decades. Now two guys in England are giving it a serious go.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/18/world/europe/campaign-for-north-africa-game.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ölrouten: Wie die Huthi die globale Energieversorgung bedrohen",
+    "summary": "Die islamistische Miliz aus Jemen kontrolliert die Wasserstraße zwischen Rotem und Arabischem Meer. Sie schadet damit dem Erdölexporteur Saudi-Arabien – und gefährdet den Schiffsverkehr zwischen Europ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/huthi-meerenge-blockade-saudi-arabien-jemen-li.3547876"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Nahost-Krieg: UN-Untersuchungskommission wirft USA Kriegsverbrechen vor",
+    "summary": "Die Führung in Teheran habe ihrerseits Verbrechen gegen die Menschlichkeit begangen, heißt es in einem Bericht. Aus dem Weißen Haus gibt es scharfe Kritik.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-kriegsverbrechen-un-bericht-li.3530668"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Seoul: indirekte militärische Beteiligung im Irankrieg möglich",
+    "summary": "Lee spricht über Ausweitung des Einsatzbereiches von Kriegsschiffen in Golf von Aden +++ Iranische Delegation darf zur UN-Generalversammlung reisen +++ UN-Ermittler sehen mögliche Kriegsverbrechen der...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-seoul-indirekte-militaerische-beteiligung-im-irankrieg-moeglich-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Republikanische Abgeordnete attackiert Trump",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-republikanische-abgeordnete-attackiert-trump-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Film über Gazakrieg: Warum Netanjahu in der Debatte über „Naza“ eskaliert",
+    "summary": "Die Drohungen gegen die Macher der Gaza-Doku „Naza“ werden immer drastischer. Auch Netanjahu schlägt scharfe Töne an – will er von anderen Themen ablenken?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/warum-netanjahu-in-der-debatte-ueber-naza-eskaliert-accg-201236173.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+    "summary": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policyBusiness live – latest updatesJapan’s central bank has increased interest rates to a fresh 31-y...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+    "summary": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’South Korea’s president, Lee Jae Myung, has said he will ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
+    "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purposeIndonesia has received its first aircraft carrier, a former Italia...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
+    "summary": "Liberal MP speaks of AI’s shortcomings as cyber chief tells inquiry the tech is needed to fend off ‘highly capable malicious cyber actors’Get our new political email, free app or daily news podcastWhe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘We have something that will kill Elliott’: Icac questions former Labor councillor over message",
+    "summary": "Sharangan Maheswaran denies message he received about NSW minister was related to work for fugitive property developerFollow our Australia news live blog for latest updatesGet our new political email,...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/18/icac-labor-sharangan-maheswaran-david-elliot-message-jean-nassif-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Labor visa overstayer detention centre plan branded a ‘Donald Trump twist’ on immigration",
+    "summary": "Australian Greens senator compares government’s policy to ICE as Tony Burke calls it a ‘ridiculous claim’Get our new political email, free app or daily news podcastThe federal government’s move to reo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/18/labors-plans-for-visa-overstayer-detention-centres-a-donald-trump-twist-on-australian-immigration-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La guerra de la ultraderecha contra la Bauhaus",
+    "summary": "Los partidos como AfD siempre libran guerras culturales, erigidos en representantes de eso que denominan “pueblo real”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-10/la-guerra-de-la-ultraderecha-contra-la-bauhaus.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel se acerca al Partido de la Libertad austriaco, fundado por exmiembros de las SS y del partido nazi",
+    "summary": "El Gobierno de Netanyahu mantenía hasta ahora un boicot a esa formación con la que ahora quiere establecer “un puente político”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-18/israel-se-acerca-al-partido-de-la-libertad-austriaco-fundado-por-exmiembros-de-las-ss-y-del-partido-nazi.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Vídeo | ¿Será Canadá miembro de la Unión Europea?",
+    "summary": "Bruselas y Ottawa acercan posturas para forjar una nueva alianza pese a las amenazas de Trump",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-18/video-sera-canada-miembro-de-la-union-europea.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El coste de la guerra contra Irán complica las perspectivas de Trump antes de las elecciones de medio mandato",
+    "summary": "Un informe del Congreso calcula que el gasto hasta agosto ha rondado los 40.000 millones de dólares, mientras el inspector general del Pentágono reconoce escasez en los arsenales de munición",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-17/el-coste-de-la-guerra-contra-iran-complica-las-perspectivas-de-trump-antes-de-las-elecciones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas",
+    "summary": "La reforma del republicano ponía en riesgo el sufragio de millones de personas por no haber tiempo suficiente para que los Estados implementaran las nuevas normas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-15/el-tribunal-suprema-rechaza-por-ahora-las-restricciones-de-trump-al-voto-por-correo-antes-de-las-elecciones-legislativas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Un oligarca ruso del círculo de Putin pagó los festejos tras la boda del hijo mayor de Trump en Bahamas",
+    "summary": "La pareja ha confirmado que Umar Kremlev se hizo cargo de las facturas. “Esto debería ser impensable para el hijo del presidente. Y punto”, apunta un antiguo alto cargo del FBI",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La UE busca con Canadá una nueva alianza económica y militar ante la ruptura del orden mundial decretada por Trump",
+    "summary": "Von der Leyen le ofrece a Carney convertirse en el \"primer estado asociado de la UE\" y desde Bruselas explican que esto conllevaría una relación muy estrecha también en IA, seguridad tecnológica o el ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/17/6aaa9953fdddff305a8b459d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ojo por ojo, la guerra total: \"Rusia y Ucrania se están empujando mutuamente hacia la Edad de Piedra\"",
+    "summary": "Moscú intensifica los bombardeos aéreos contra la economía ucraniana, atacando almacenes, gasolineras, plantas metalúrgicas y puertos locales, al tiempo que acentúa el acoso a Kiev&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaaa53821efa05a438b4596.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Las reglas de la Guerra Fría ya no se aplican: Rusia externaliza una red de sicarios en territorio de EEUU por 40.000 dólares por objetivo",
+    "summary": "El FBI identifica a cinco operativos ahora en paradero desconocido que tenían la misión de matar disidentes&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaac411e4d4d84e0e8b4589.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Cientos de miles de iraníes participan en un desfile militar  frente a EEUU:  \"No tenemos miedo de las amenazas de Trump contra nuestra patria\"",
+    "summary": "El gobierno de Irán ha tratado de movilizar a la población y subrayar la unidad nacional, incluso mientras la economía se deteriora debido a un bloqueo naval de Estados Unidos.&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/18/6aad064ee9cf4afd068b459e.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "FWD Hong Kong backs HKSAR’s Five-Year Plan, Healthy Greater Bay Area healthcare, and responsible AI in insurance.",
+    "summary": "[The content of this article has been produced by our advertising partner.]\nKen Lau, Managing Director, Greater China, & Chief Executive Officer, Hong Kong, said: “FWD Hong Kong warmly welcomes the HK...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/presented/news/hong-kong/topics/fwd-supports-hong-kongs-future/article/3367975/fwd-hong-kong-backs-hksars-five-year-plan-healthy-greater-bay-area-healthcare-and-responsible-ai?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "2025 Tokyo Deaflympics helped raise awareness, but challenges remain, survey finds",
+    "summary": "While the event was significant for working toward an inclusive society, the survey also highlighted issues remaining after it was done.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/18/japan/society/deaflympics-public-recognition/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
     "summary": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage.",
     "timeAgo": "En Guncel (API)",
@@ -664,239 +898,5 @@
     "summary": "El jefe de gobierno canadiense aboga en la Eurocámara por una “alianza profunda” que se convierta en un “faro para otras democracias”",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-09-17/mark-carney-tras-las-nuevas-amenazas-arancelarias-de-trump-europa-y-canada-son-mas-fuertes-juntos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
-    "summary": "El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Israel y Marruecos elevan el nivel de sus relaciones diplomáticas en plena crisis de Ceuta",
-    "summary": "Los dos países sellan en Nueva York un acuerdo que incluye la apertura de embajadas, el nombramiento de embajadores y ampliar sus conexiones aéreas",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-17/israel-y-marruecos-elevan-el-nivel-de-sus-relaciones-diplomaticas-bajo-los-auspicios-de-estados-unidos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Hallado muerto Nicholas Brandram, sospechoso del ‘caso Putney Pusher’, uno de los mayores misterios policiales de Londres",
-    "summary": "El sospechoso, trabajador de la banca emparentado con la familia real británica, había servido en la Guardia Escocesa y participado en la guerra de Afganistán",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-17/hallado-muerto-nicholas-brandram-sospechoso-del-caso-putney-pusher-uno-de-los-mayores-misterios-policiales-de-londres.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump saca a Venezuela de la lista de países que no luchan contra el narcotráfico y mantiene a Colombia",
-    "summary": "Estados Unidos destaca los “pasos positivos” dados por Delcy Rodríguez en Caracas y anticipa que podrá rever su posición hacia Bogotá tras la llegada de De la Espriella al poder",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america-colombia/2026-09-16/trump-saca-a-venezuela-de-la-lista-de-paises-que-no-luchan-contra-el-narcotrafico-y-mantiene-a-colombia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "La ofensiva relámpago con la que los hutíes se apoderaron de un corredor petrolero crucial",
-    "summary": "Los militantes yemeníes se habían mantenido al margen de la guerra de Irán, hasta que el grupo vio una oportunidad&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aa94556e4d4d89f588b4588.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Carney acepta la invitación de Von der Leyen para que Canadá se convierta en el primer miembro asociado de la UE:  \"Sería un faro para otras democracias\"",
-    "summary": "El primer ministro canadiense acoge \"con satisfacción esta ambición\", ignoras las amenazas de Trump y ofrece a otros países a sumarse a la alianza&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/17/6aabbfbde85ece2a778b45a4.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Marruecos e Israel refuerzan su alianza política, económica y de \"seguridad\" con patrocinio de EEUU en plena crisis de Ceuta",
-    "summary": "Anuncian envío de embajadores, acuerdos de protección de inversiones y califican a Trump de \"líder visionario capaz de encontrar la paz allá donde nadie más creía que fuera posible\"&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/17/6aabbb2121efa0b4218b45b4.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Un ataque con drones ucranianos daña una refinería rusa en Yaroslavl",
-    "summary": "El gobernador regional confirma un incendio en la planta, sin concretar los daños, días después de que Trump anunciara una supuesta \"tregua energética\"&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/17/6aab823221efa05b188b456d.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. allies fret over how Trump might play his Taiwan hand with Xi",
-    "summary": "Even a subtle change in U.S. rhetoric about Taiwan could embolden Beijing and risk the region's fragile peace.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/17/world/politics/us-allies-trump-taiwan-xi/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "India warns U.S. new tariffs to deter buyers of Russian oil could impact ties",
-    "summary": "The U.S. House of Representatives has passed a bill authorizing tariffs of up to 100% to increase pressure on Russia over its invasion of Ukraine.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/india-energy-security-us-tariffs/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S., China security experts propose nuclear-style safeguards for AI risks",
-    "summary": "The proposals, which neither governments has endorsed, come ahead of a meeting between U.S. President Donald Trump and Chinese President Xi Jinping.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/17/world/politics/us-china-nuclear-ai-safeguards/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "The Japan Times to hold its first school fair in Taiwan, showcasing Japan-based boarding and international schools",
-    "summary": "The Japan Times, Ltd. (Head office: Chiyoda Ward, Tokyo; Chairperson and Publisher: Minako Suematsu) will hold The Japan Times School Fair Taipei, bringing together boarding schools and international ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/press/2026/09/17/school-fair-taipei-2026/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Nomura warns of slowing trading revenue growth as boom cools",
-    "summary": "Japan's biggest brokerage said revenue from its wholesale division was \"progressing slightly above year-on-year\" for the quarter as of Sept. 14.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/17/companies/nomura-slow-growth-warning/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
-    "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Human-Caused Warming Played ‘Very Strong’ Role in Himalayan Floods, Report Finds",
-    "summary": "Rising temperatures contributed to the disaster by destabilizing the permafrost and ice around the collapsed rock, scientists concluded.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/climate/nepal-tibet-flood-climate-change.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
-    "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-    "summary": "Neben direkten Strafmaßnahmen gegen russische Politiker und Firmen soll das Gesetz die russischen Öl- und Gas-Exporte stärker eindämmen, mit denen Russland seinen Angriffskrieg finanziert.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-usa-sanktionen-energie-export-li.3524928"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Trump droht EU wegen geplanter Annäherung an Kanada",
-    "summary": "Der Plan, Kanada zum ersten „assoziierten Mitglied“ der Europäischen Union zu machen, sei „lächerlich“, sagt der US-Präsident. Als Antwort könne er hohe Zölle verhängen oder den Handel mit Europa in v...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-drohung-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: US-Kongress stimmt für verschärfte Russland-Sanktionen",
-    "summary": "Nach Senat stimmt auch Repräsentantenhaus für Sanktionsgesetz +++ Über Litauen abgeschossene Drohne stammt ebenfalls aus Russland +++ Ukraine meldet erfolgreichen Test neuer Drohnenabwehrwaffe +++ all...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-kongress-stimmt-fuer-verschaerfte-russland-sanktionen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump droht EU mit Handelsstopp wegen Annäherung an Kanada",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-droht-eu-mit-handelsstopp-wegen-annaeherung-an-kanada-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Briefwahl-Urteil: Trump verliert – und gewinnt",
-    "summary": "Der US-Präsident darf die Post vorerst nicht zu seiner Briefwahl-Aufsichtsbehörde machen. Na und? Für ihn zählt, dass die Bürger den Wahlen misstrauen. Da kommt er gut voran.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-verliert-bei-der-briefwahl-reform-und-gewinnt-trotzdem-201228938.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Nicaragua: Die Diktatur, für die sich Trump nicht interessiert",
-    "summary": "Der Diktator von Nicaragua, Daniel Ortega, schafft die Wahlen ab. In den Vereinigten Staaten kümmert das in Zeiten von Donald Trump kaum jemanden.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/nicaraguas-diktator-ortega-zu-uninteressant-fuer-trump-201182389.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
-    "summary": "Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflationFollow our Australia news live blog for latest updatesGet our breaking news email, free ap...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Turkey detains dozens in crackdown on LGBTQ+ activists and journalists",
-    "summary": "Protesters teargassed as minister claims widespread raids and arrests under obscenity laws were to ‘protect families’ Turkish authorities have used accusations of obscenity to justify a wave of raids ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump calls EU offer to Canada of associate membership ‘laughable’, while threatening tariffs",
-    "summary": "The US president call the move a ‘hostile act’, as Canada seeks to move closer to the EU and diversify its defence tiesDonald Trump has threatened the European Union with “serious tariffs” and a cut t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
   }
 ]
