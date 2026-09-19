@@ -1,5 +1,221 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Trumps neueste Attacke auf die Pressefreiheit",
+    "summary": "Der US-Präsident will die Sender CNN und MS NOW sowie Politico aus dem Weißen Haus werfen, weil ihm deren Berichterstattung nicht gefällt. Die Verbannten erinnern an die Verfassung.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-trump-angriff-pressefreiheit-cnn-politico-weisses-haus-li.3550389"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Putin wirft Ukraine Störung der Parlamentswahl vor",
+    "summary": "Russlands dreitägige Parlamentswahl läuft. Kremlchef Putin erhebt schwere Vorwürfe und wirft der ukrainischen Führung vor, eine Diktatur zu sein.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahl-parlament-russland-putin-stoerung-vorwurf-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Arktisinsel: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+    "summary": "Präsident Trump sorgte mit seinen Ansprüchen auf Grönland für erhebliche Spannungen innerhalb der Nato. Nun soll es eine Einigung geben.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-daenemark-groenland-streit-druchbruch-nato-li.3550407"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Abkommen mit Donald Trump: Dänemark und USA verkünden Durchbruch im Streit um Grönland",
+    "summary": "Dänemark und die USA wollen den Streit um die Arktisinsel mit einem Abkommen beenden. Die Vereinbarung sei „gut für die NATO und für Europa“, teilt die dänische Regierung mit.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/daenemark-und-usa-verkuenden-durchbruch-im-streit-um-groenland-201242417.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "EU und Kanada: Druckmittel gegen Trump",
+    "summary": "Die Kritik an einer „assoziierten Mitgliedschaft“ Kanadas in der EU ist berechtigt. Aber es kommt nicht auf den Begriff an. Und womöglich hilft er sogar.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/eu-und-kanada-ein-druckmittel-gegen-trump-201237092.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+    "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violenceTwo men that the Trump administration expelled to Equatorial Guinea were bound, fitted with b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+    "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the European ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+    "summary": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determinationDonald Trump announced on Friday that th...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+    "summary": "Edgars Rinkēvičs says drone warfare in Ukraine is moving at ‘lightning speed’ and efforts to prepare for an aerial war could be obsolete by next yearLatvia’s president has warned that Europe is not ke...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La Alemania que quiere a Rusia de aliada abraza a la extrema derecha",
+    "summary": "El gas de Moscú que alimentaba a la economía alemana llegó al municipio de Lubmin hasta que la guerra en Ucrania cerró el grifo. Desde entonces, AfD arrasa electoralmente en el pueblo",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-19/la-alemania-que-quiere-a-rusia-de-aliada-abraza-a-la-extrema-derecha.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Marruecos sella una entente con EE UU e Israel para apuntalar su peso internacional",
+    "summary": "Los gobiernos estadounidense e israelí respaldan la soberanía de Rabat sobre el Sáhara Occidental y ven “inaceptable” cualquier solución distinta de la autonomía",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-19/marruecos-sella-una-entente-con-ee-uu-e-israel-para-apuntalar-su-peso-internacional.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "De Airbnb a refugio de gatos callejeros: dos millones de dólares por la casa de la infancia de Trump en Queens",
+    "summary": "La vivienda neoyorquina donde el presidente vivió hasta los cuatro años se alquilaba con ‘merchandising’ del republicano y luego pasó una época abandonada. Ahora una familia anónima la ha comprado",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-19/de-airbnb-a-refugio-de-gatos-callejeros-dos-millones-de-dolares-por-la-casa-de-la-infancia-de-trump-en-queens.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump redobla su persecución a las instituciones culturales de Washington",
+    "summary": "Tras forzar el cierre sin reapertura a la vista del Kennedy Center, la Casa Blanca pone en el punto de mira al Museo Smithsonian de Historia de Estados Unidos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-17/trump-redobla-su-persecucion-a-las-instituciones-culturales-de-washington.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump anuncia un acuerdo con Dinamarca que otorga a Estados Unidos el \"control permanente\" de la seguridad de Groenlandia",
+    "summary": "\"Ningún adversario de Estados Unidos podrá NUNCA tener una base en Groenlandia\", ha asegurado el mandatario estadounidense&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/19/6aadb39f21efa00e708b4583.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump veta de la Casa Blanca a los medios CNN, MSNOW y Politico, a los que acusa de mentir",
+    "summary": "\"Los medios de comunicación no deberían poder escribir o difundir constantemente ficción y mentiras\", asegura el mandatario&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/18/6aad9123e85ece29758b45a1.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Foreign carer scheme may drive up wages, leave poor without help, employers warn",
+    "summary": "A new pilot scheme to bring in foreign domestic carers for the elderly to deal with an ageing population could disrupt Hong Kong’s existing helper market, driving up wages and putting care beyond the ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3368043/foreign-carer-scheme-may-drive-wages-leave-poor-without-help-employers-warn?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong civil servants to get hourly leave but businesses unlikely to follow",
+    "summary": "Hong Kong civil servants could receive flexible hourly family care leave next year as part of the government’s wider drive to boost birth rates, the South China Morning Post has learned, though busine...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3367885/hong-kong-civil-servants-get-hourly-leave-businesses-unlikely-follow?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S. warns allies of missile delivery delays due to shortage",
+    "summary": "Multiple European nations are expecting deliveries of key missile and air defense capabilities to be pushed back as a result of the Iran war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/us-allies-missile-delivery-delays/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Iran war drives bigger diesel supply loss despite Trump’s claims",
+    "summary": "The global energy market was thrown into disarray this year, with a widely expected oil glut erased by the Iran conflict.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/09/19/economy/iran-war-diesel-supply-loss/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump’s beef policies irk Texas ranchers, testing their loyalty",
+    "summary": "The U.S. president's move to allow additional imports of ground beef could cost him the support of cattle ranchers.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/09/19/trump-beef-policies-texas/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump extends push for $100,000 H-1B visas by another year",
+    "summary": "Trump, who has pursued an aggressive immigration crackdown, has criticized the program and wants to permanently raise the fee.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/trump-extends-100000-h1b-visas/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump claims ‘infinite’ Greenland security deal with Denmark",
+    "summary": "The move aims to bar Russia and China from setting up bases in the Arctic territory — a prospect the U.S. president has repeatedly warned about.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/trump-greenland-security-deal/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump says CNN, Politico and MS NOW banned from White House",
+    "summary": "The 80-year-old Republican warned that other outlets could face a similar fate but did not say which ones.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/trump-cnn-politico-ms-now-banned/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Takaichi to meet Trump on U.N. sidelines ahead of U.S.-China summit",
+    "summary": "Prime Minister Sanae Takaichi will be aiming to convey Tokyo's views on Beijing while highlighting the strength of the Japan-U.S. alliance.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/19/japan/politics/trump-takaichi-un-meeting/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -682,221 +898,5 @@
     "summary": "The conflict underscored the distance between world powers over the United States’ pressure campaign on Iran.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
-    "summary": "The carrier, Mahan Air, said it would stop flying to neighboring countries just over a week after the United States imposed sweeping sanctions on Iran’s aviation industry.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Polens Regierungschef rechnet mit mehr russischen Angriffen",
-    "summary": "Donald Tusk sieht im russisch-ukrainischen Krieg einen besonders kritischen Moment auf Europa zukommen. Geheimdienste erwarten auch mehr Angriffe auf Unterstützerländer der Ukraine.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-angriffe-polen-russland-li.3549696"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
-    "summary": "Der US-Präsident wollte die US-Streitkräfte eigentlich stärker auf dem amerikanischen Kontinent konzentrieren. Für Polen könnte es jetzt eine Ausnahme geben.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-polen-us-armee-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Scheinwahl in Russland: Kriegsveteran gegen Kriegsgegner",
-    "summary": "Putin inszeniert die Duma-Wahl als Votum über den Krieg. Ein Besuch in Moskaus Osten, wo der Kandidat der Jabloko-Partei für Frieden wirbt und gegen einen Frontkämpfer antritt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/duma-wahl-in-russland-wo-ein-kriegsgegner-gegen-einen-veteranen-antritt-201227953.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: Italien beschließt Alleingang an blockierter Meerenge Bab al-Mandab",
-    "summary": "Marine soll Durchfahrt italienischer Schiffe gewährleisten +++ UN-Ermittler sehen mögliche Kriegsverbrechen der USA +++ Libanons Präsident will Sicherheitsabkommen mit Israel +++ alle Entwicklungen im...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-blockierte-meerenge-bab-al-mandab-italien-will-durchfahrt-gewaehrleisten-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Tusk warnt vor „hybriden Angriffen“ Russlands auf Verbündete der Ukraine",
-    "summary": "Polnischer Ministerpräsident: Russland will Zusammenhalt innerhalb der NATO schwächen +++ Babiš fordert ein „Airbus“ für Europas Luftverteidigung +++ US-Kongress stimmt für verschärfte Russland-Sankti...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-warnt-vor-hybriden-angriffen-russlands-auf-verbuendete-der-ukraine-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-    "summary": "Passionate documentary maker  won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s blood...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "‘I’m genuinely sorry’: Australian Hyrox athlete who soiled herself apologises to China and rivals",
-    "summary": "Joanna Wietrzyk ‘regrets’ decision to keep racing She forfeits points from her win in the Beijing raceGet our new political email, free app or daily news podcastThe Australian athlete who caused a sto...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/sport/2026/sep/17/im-genuinely-sorry-australian-hyrox-athlete-who-soiled-herself-apologises-to-china-and-rivals"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
-    "summary": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Wa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Israel autorizará más de 2.000 nuevas viviendas en la polémica colonia que divide Cisjordania en dos",
-    "summary": "El estratégico asentamiento E1 ha sido criticado por diversos países europeos por hacer imposible la futura creación de un Estado palestino",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-17/israel-autorizara-mas-de-2000-nuevas-viviendas-en-polemica-colonia-que-divide-cisjordania-en-dos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Democracia en venta",
-    "summary": "No es la primera vez que Trump ofrece cheques en tiempo electoral, pero esta vez se trata de un cínico y descarado soborno que promete dinero a cambio de retener poder",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-13/democracia-en-venta.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump carga contra sus jueces en el Supremo tras su fallo sobre el voto por correo: “Estas no fueron las personas que entrevisté”",
-    "summary": "Esa corte impidió que el presidente ponga en vigor su decreto de cara a las elecciones de mitad de período",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-15/trump-carga-contra-sus-jueces-en-el-supremo-tras-su-fallo-sobre-el-voto-por-correo-esta-no-es-la-gente-que-entreviste.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Aparato represivo y torturas permanecen con el chavismo trumpista de Delcy Rodríguez",
-    "summary": "La ONU ratifica que, a pesar de los cambios limitados tras la caída de Nicolás Maduro, la opresión y crímenes de lesa humanidad continúan intactos en Venezuela bajo la cúpula de Diosdado Cabello&nbsp;...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/16/6aaac080e85ece323e8b4571.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "EEUU concede en plena guerra con Irán visados a este país para que asista a la Asamblea General de la ONU",
-    "summary": "Una fuente citada por AFP asegura que la autorización incluirá al presidente iraní&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/17/6aac3584fdddff2b1e8b457d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Unos 300 surcoreanos preparan reclamaciones a la Administración Trump por la redada masiva de 2025",
-    "summary": "En septiembre de 2025 una redada en la planta de baterías conjunta de Hyundai y LG Energy Solution en Georgia dejó 475 detenidos. 316 de ellos eran surcoreanos que fueron deportados, la mayoría emplea...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/17/6aac1525fdddffbb638b457e.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-    "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Nahost-Krieg: Diplomaten: US-Delegation traf Huthi-Vertreter im Oman",
-    "summary": "Bei dem Treffen in der US-Botschaft im Oman hätten die Huthi zugesichert, keine Schiffe der USA und Israels anzugreifen. Die Miliz hatte zuvor eine Blockade für saudische Schiffe angekündigt und dann ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "SZ-Podcast „Deutsch-Amerikanische Freundschaft\": „Der Spam-König sitzt im Weißen Haus“",
-    "summary": "Warum überschüttet Donald Trump jeden auf seiner Mailingliste mit Auszeichnungen? Und hat sich Kanzler Friedrich Merz sein Amt vielleicht einfacher vorgestellt? Die neue Folge des Podcasts zwischen Ne...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/sz-podcast-deutsch-amerikanische-freundschaft-der-spam-koenig-sitzt-im-weissen-haus-li.3549209"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Gerrymandering in USA: Trump hat die Tricks überreizt",
-    "summary": "Die Midterms im November könnten für die Republikaner ein Debakel werden. Mit neuem Zuschnitt der Wahlbezirke versucht Präsident Trump das abzubiegen. Doch jetzt sperrt sich die Justiz gegen dieses „G...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/usa-gerrymandering-midterms-trump-justiz-e329490/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Israel vor der Wahl: Jung, jüdisch – und gegen den Krieg",
-    "summary": "Der Teenager Oren Roll lebt in Israel und setzt sich für Frieden ein. Damit ist er in seiner Generation eine Ausnahme. Die Mehrheit junger Israelis sieht sich selbst als rechts und religiös.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-jugend-wahlverhalten-oktoberwahl-li.3547879"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Migrantische Wähler: „Ich merke einen großen Unterschied, wenn ich Menschen auf Türkisch anspreche“",
-    "summary": "In Berlin kommt fast jeder fünfte Wahlberechtigte aus einer Zuwandererfamilie. Die Parteien beginnen gerade erst, darauf ernsthaft einzugehen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/berlin-wahlkampf-migrantische-waehler-linke-li.3545842"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-us-kongress-beschliesst-gesetz-fuer-russland-sanktionen-li.3549473"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: UN-Ermittler sehen mögliche Kriegsverbrechen der USA",
-    "summary": "Bericht zu Vorfällen in Iran +++ Libanons Präsident will Sicherheitsabkommen mit Israel +++ USA räumen erstmals Munitionsknappheit ein +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-un-ermittler-sehen-moegliche-kriegsverbrechen-der-usa-faz-200583539.html"
   }
 ]
