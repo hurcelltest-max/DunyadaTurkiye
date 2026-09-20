@@ -3,6 +3,87 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+    "summary": "The Iranian-backed militia was engaged in fierce battles with Saudi-backed government forces in Yemen on Sunday, as it seeks to maintain momentum in the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Selenskij kündigt Treffen mit Trump für kommende Woche an",
+    "summary": "Der ukrainische Staatschef nimmt in New York an der Generalversammlung der Vereinten Nationen teil. Dabei ist nun auch ein Treffen mit US-Präsident Trump geplant.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahl-parlament-russland-putin-selenskij-treffen-trump-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Selenskyj kündigt Treffen mit Trump an",
+    "summary": "Zusammentreffen wohl nächste Woche in New York +++ Russland beklagt Cyberattacken auf Parlamentswahl +++ Ukraine greift Großraum Moskau am letzten Wahltag an +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-kuendigt-treffen-mit-trump-an-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+    "summary": "Exclusive: Intelligence officers say Russian campaign could intensify ‘in months, not years’ – but that panic risks playing into Kremlin psy-opsEuropean intelligence officials have raised the possibil...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Putin finiquita unas elecciones plagadas de irregularidades y abre un nuevo capítulo de la guerra",
+    "summary": "El partido del Kremlin, Rusia Unida, obtiene un 57,5% de los votos con el primer recuento en unos comicios donde solo el Gobierno tiene acceso al sistema de voto electrónico",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-20/putin-finiquita-una-elecciones-plagadas-de-irregularidades-y-abre-un-nuevo-capitulo-de-la-guerra.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump anuncia que el gigantesco arco del triunfo de Washington será un complejo militar con drones y francotiradores",
+    "summary": "El presidente de EE UU da una nueva justificación al proyecto después de que conservacionistas y arquitectos criticaran que rompe la armonía de la ciudad y acaba con unas vistas históricas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/actualidad/2026-09-20/trump-anuncia-que-el-gigantesco-arco-del-triunfo-de-washington-sera-un-complejo-militar-con-drones-y-francotiradores.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump redobla su persecución a las instituciones culturales de Washington",
+    "summary": "Tras forzar el cierre sin reapertura a la vista del Kennedy Center, la Casa Blanca pone en el punto de mira al Museo Smithsonian de Historia de Estados Unidos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-17/trump-redobla-su-persecucion-a-las-instituciones-culturales-de-washington.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Emmanuel Macron y Mark Carney respaldan \"la alianza de futuro\" entre Canadá y la UE desde la única isla francesa en Norteamérica",
+    "summary": "Ambos líderes desafían a Trump en un simbólico encuentro en el San Pedro y Miquelón&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/20/6ab00220fc6c83022b8b458e.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Foreign carer scheme may drive up wages, leave poor without help, employers warn",
+    "summary": "A new pilot scheme to bring in foreign domestic carers for the elderly to deal with an ageing population could disrupt Hong Kong’s existing helper market, driving up wages and putting care beyond the ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3368043/foreign-carer-scheme-may-drive-wages-leave-poor-without-help-employers-warn?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
     "summary": "The Israeli officials said an arrest had been made. The attack was on the eve of Yom Kippur, the holiest day in the Jewish calendar. Violence in the territory has grown recently.",
     "timeAgo": "En Guncel (API)",
@@ -817,86 +898,5 @@
     "summary": "This weekend, Hong Kong mourns the loss of former chief executive and elder statesman Tung Chee-hwa.\nThe shipping tycoon who became the city’s first leader after its transfer of sovereignty to China i...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.scmp.com/news/hong-kong/society/article/3368071/friend-leader-mentor-how-political-veterans-remember-tung-chee-hwa?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "North Korean hackers behind crypto thefts across 100 countries, including Japan",
-    "summary": "The North Korean group, called WaterPlum, infected more than 30,000 devices with malware between December last year and July this year.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/19/japan/crime-legal/north-korean-hackers-crypto-thefts-japan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Russians fear Putin will send them to war once election is over",
-    "summary": "Three days of voting began Friday in Russia's first parliamentary elections since the start of the 2022 full-scale invasion.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/russians-putin-war-election/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Trumps neueste Attacke auf die Pressefreiheit",
-    "summary": "Der US-Präsident will die Sender CNN und MS NOW sowie Politico aus dem Weißen Haus werfen, weil ihm deren Berichterstattung nicht gefällt. Die Verbannten erinnern an die Verfassung.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-trump-angriff-pressefreiheit-cnn-politico-weisses-haus-li.3550389"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: Putin wirft Ukraine Störung der Parlamentswahl vor",
-    "summary": "Russlands dreitägige Parlamentswahl läuft. Kremlchef Putin erhebt schwere Vorwürfe und wirft der ukrainischen Führung vor, eine Diktatur zu sein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahl-parlament-russland-putin-stoerung-vorwurf-li.3549696"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Arktisinsel: Dänemark und USA verkünden Durchbruch im Grönland-Streit",
-    "summary": "Präsident Trump sorgte mit seinen Ansprüchen auf Grönland für erhebliche Spannungen innerhalb der Nato. Nun soll es eine Einigung geben.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-daenemark-groenland-streit-druchbruch-nato-li.3550407"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Abkommen mit Donald Trump: Dänemark und USA verkünden Durchbruch im Streit um Grönland",
-    "summary": "Dänemark und die USA wollen den Streit um die Arktisinsel mit einem Abkommen beenden. Die Vereinbarung sei „gut für die NATO und für Europa“, teilt die dänische Regierung mit.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/daenemark-und-usa-verkuenden-durchbruch-im-streit-um-groenland-201242417.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "EU und Kanada: Druckmittel gegen Trump",
-    "summary": "Die Kritik an einer „assoziierten Mitgliedschaft“ Kanadas in der EU ist berechtigt. Aber es kommt nicht auf den Begriff an. Und womöglich hilft er sogar.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/eu-und-kanada-ein-druckmittel-gegen-trump-201237092.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-    "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violenceTwo men that the Trump administration expelled to Equatorial Guinea were bound, fitted with b...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-    "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the European ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney"
   }
 ]
