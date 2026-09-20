@@ -3,6 +3,123 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
+    "summary": "The Israeli officials said an arrest had been made. The attack was on the eve of Yom Kippur, the holiest day in the Jewish calendar. Violence in the territory has grown recently.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in Nahost: Irans Militär droht den USA",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/krieg-in-nahost-irans-militaer-droht-den-usa-li.3550892"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Trump will Triumphbogen zum Militärkomplex machen",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-trump-will-triumphbogen-zum-militaerkomplex-machen-li.3550889"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Trump verkündet Einigung: Neues, altes Abkommen mit Grönland",
+    "summary": "Donald Trump feiert ein Abkommen mit Dänemark, das sich von der bereits existierenden Vereinbarung kaum unterscheidet. Grönland schwankt zwischen Erleichterung und Misstrauen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-daenemark-verteidigungsabkommen-groenland-li.3550725"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Die wandernde Trump-Epstein-Bibliothek",
+    "summary": "Eine Initiative hat alle bisher öffentlichen Dokumente des Skandals um den Sexualverbrecher ausgedruckt, reist damit durch die USA und fordert Aufklärung. Ein Besuch mit Opfern in Dallas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/trump-epstein-wanderausstellung-dallas-missbrauchsskandal-li.3545579"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Grönland-Abkommen: Das war es nicht wert",
+    "summary": "Trump feiert seinen Grönland-Deal. China und Russland sollen es nun schwerer haben in der Arktis. Warum hat er den Rivalen dann das Geschenk gemacht, die NATO zu schwächen?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/donald-trumps-groenland-deal-war-es-das-wert-fuer-die-nato-201244796.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Iran droht Amerika mit Konsequenzen",
+    "summary": "Gerüchte über neue Angriffe seitens der USA +++ Türkei prüft militärische Unterstützung für Saudi-Arabien +++ Teheran fordert Einstellung der Kämpfe und Aufhebung der Seeblockade +++ alle Entwicklunge...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-droht-amerika-mit-konsequenzen-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump: Triumphbogen wird Plattform für Drohnen und Scharfschützen",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-triumphbogen-wird-plattform-fuer-drohnen-und-scharfschuetzen-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Drohnen gegen Moskau: Kiews Kommentar zur Scheinwahl in Russland",
+    "summary": "Dem Kreml gelingt es immer schlechter, den Krieg von den Russen fernzuhalten. Welche Schlüsse zieht er daraus nach der Scheinwahl vom Wochenende?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/drohnenangriff-auf-russland-kiews-kommentar-zur-scheinwahl-201244839.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Emmanuel Macron prepara una respuesta de Estado a la guerra híbrida rusa",
+    "summary": "El presidentes francés celebra una reunión de urgencia con los aspirantes a su sucesión en el Elíseo&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/18/6aad0772e9cf4a06768b45a2.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Philippine tribe in limbo over U.S.-led tech hub",
+    "summary": "Philippines pushes ahead with semiconductor hub while local tribe warns of unclear boundaries and forced relocation.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/philippine-tribe-us-tech-hub/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
     "summary": "Israeli lawmakers have promoted visits to an ancient reservoir in the West Bank that was refilled this summer with water diverted from Palestinian-owned farms.",
     "timeAgo": "En Guncel (API)",
@@ -781,122 +898,5 @@
     "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the European ...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-    "summary": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determinationDonald Trump announced on Friday that th...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-    "summary": "Edgars Rinkēvičs says drone warfare in Ukraine is moving at ‘lightning speed’ and efforts to prepare for an aerial war could be obsolete by next yearLatvia’s president has warned that Europe is not ke...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La Alemania que quiere a Rusia de aliada abraza a la extrema derecha",
-    "summary": "El gas de Moscú que alimentaba a la economía alemana llegó al municipio de Lubmin hasta que la guerra en Ucrania cerró el grifo. Desde entonces, AfD arrasa electoralmente en el pueblo",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-19/la-alemania-que-quiere-a-rusia-de-aliada-abraza-a-la-extrema-derecha.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Marruecos sella una entente con EE UU e Israel para apuntalar su peso internacional",
-    "summary": "Los gobiernos estadounidense e israelí respaldan la soberanía de Rabat sobre el Sáhara Occidental y ven “inaceptable” cualquier solución distinta de la autonomía",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-19/marruecos-sella-una-entente-con-ee-uu-e-israel-para-apuntalar-su-peso-internacional.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "De Airbnb a refugio de gatos callejeros: dos millones de dólares por la casa de la infancia de Trump en Queens",
-    "summary": "La vivienda neoyorquina donde el presidente vivió hasta los cuatro años se alquilaba con ‘merchandising’ del republicano y luego pasó una época abandonada. Ahora una familia anónima la ha comprado",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-19/de-airbnb-a-refugio-de-gatos-callejeros-dos-millones-de-dolares-por-la-casa-de-la-infancia-de-trump-en-queens.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump redobla su persecución a las instituciones culturales de Washington",
-    "summary": "Tras forzar el cierre sin reapertura a la vista del Kennedy Center, la Casa Blanca pone en el punto de mira al Museo Smithsonian de Historia de Estados Unidos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-17/trump-redobla-su-persecucion-a-las-instituciones-culturales-de-washington.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump anuncia un acuerdo con Dinamarca que otorga a Estados Unidos el \"control permanente\" de la seguridad de Groenlandia",
-    "summary": "\"Ningún adversario de Estados Unidos podrá NUNCA tener una base en Groenlandia\", ha asegurado el mandatario estadounidense&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/19/6aadb39f21efa00e708b4583.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump veta de la Casa Blanca a los medios CNN, MSNOW y Politico, a los que acusa de mentir",
-    "summary": "\"Los medios de comunicación no deberían poder escribir o difundir constantemente ficción y mentiras\", asegura el mandatario&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/18/6aad9123e85ece29758b45a1.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Foreign carer scheme may drive up wages, leave poor without help, employers warn",
-    "summary": "A new pilot scheme to bring in foreign domestic carers for the elderly to deal with an ageing population could disrupt Hong Kong’s existing helper market, driving up wages and putting care beyond the ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3368043/foreign-carer-scheme-may-drive-wages-leave-poor-without-help-employers-warn?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong civil servants to get hourly leave but businesses unlikely to follow",
-    "summary": "Hong Kong civil servants could receive flexible hourly family care leave next year as part of the government’s wider drive to boost birth rates, the South China Morning Post has learned, though busine...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3367885/hong-kong-civil-servants-get-hourly-leave-businesses-unlikely-follow?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. warns allies of missile delivery delays due to shortage",
-    "summary": "Multiple European nations are expecting deliveries of key missile and air defense capabilities to be pushed back as a result of the Iran war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/19/world/us-allies-missile-delivery-delays/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Iran war drives bigger diesel supply loss despite Trump’s claims",
-    "summary": "The global energy market was thrown into disarray this year, with a widely expected oil glut erased by the Iran conflict.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/19/economy/iran-war-diesel-supply-loss/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump’s beef policies irk Texas ranchers, testing their loyalty",
-    "summary": "The U.S. president's move to allow additional imports of ground beef could cost him the support of cattle ranchers.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/19/trump-beef-policies-texas/"
   }
 ]
