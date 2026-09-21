@@ -3,6 +3,177 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+    "summary": "The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+    "summary": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Let’s Talk Climate",
+    "summary": "World leaders are mostly silent and President Trump is pushing fossil fuels. We’ll explore the stakes at this week’s Climate Forward event.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Experte: Neues Parlament in Russland wird „Duma des Krieges“",
+    "summary": "Bei der Wahl in Russland siegt wenig überraschend die Partei von Präsident Putin - die Opposition durfte nicht antreten. Ein Politologe warnt: „Der Kreml formiert nun eine Duma zur endgültigen Zerstör...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahl-parlament-russland-putin-wahl-duma-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
+    "summary": "Obwohl der US-Präsident den New Yorker Bürgermeister regelmäßig als „Kommunisten“ bezeichnet und mit dem Entzug von Geldern droht, verliefen die Treffen der beiden bislang sehr zivil. Nun steht eine w...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/trump-mamdani-new-york-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Russlands Kremlpartei zur Wahlsiegerin erklärt",
+    "summary": "Interfax: Geeintes Russland kann wohl mit Zweidrittelmehrheit weiterregieren +++ Selenskyj kündigt Treffen mit Trump nächste Woche in New York an +++ Russland beklagt Cyberattacken auf Parlamentswahl ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russlands-kremlpartei-zur-wahlsiegerin-erklaert-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: ICE-Beamter schießt Mann in Texas nieder – Proteste",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-ice-beamter-schiesst-mann-in-texas-nieder-proteste-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Medien über die Wahlen: „Türkische Kandidatin sprengt die Urnen“",
+    "summary": "In Mecklenburg-Vorpommern fällt die CDU auf unter fünf Prozent, in Berlin unterliegt sie der Linken. Über diese Niederlagen für Merz berichten auch internationale Medien – ein Überblick.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/presseschau-zu-den-wahlen-in-mv-und-berlin-tuerkische-kandidatin-sprengt-die-urnen-201246351.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+    "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violenceTwo men that the Trump administration expelled to Equatorial Guinea were bound, fitted with b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+    "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with USThe leaders of France and Canada have pledged closer ties to grapple with ris...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australia news live: Wong speaks to Palestinian foreign minister about Gaza; Queensland premier says plans to reduce visas are ‘nuts’",
+    "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastDan Tehan says fuel excise cut when oil price high a ‘sensible’ planDan Tehan, the shadow minister for energy, said...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump visitará a Mamdani el lunes en Nueva York",
+    "summary": "El alcalde demócrata ha bajado la retórica contra el presidente de EE UU, con el que asegura que tiene que hablar para resolver los problemas de los neoyorquinos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-20/trump-visitara-a-mamdani-el-lunes-en-nueva-york.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Una ONU débil y partida frente a un mundo \"feroz\" y \"amenazado\"",
+    "summary": "El organismo internacional celebra su semana grande entre guerras enquistadas, parálisis en el Consejo de Seguridad, falta de recursos y con la mirada puesta en un cambio de líder&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/21/6aafdf41e4d4d8855d8b456d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Oil exploration in Brazilian Amazon offers wealth but puts communities at risk",
+    "summary": "While oil could fund a shift to clean energy and help address poverty, the search to find it disturbs the environment and could cause lasting damage.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/environment/2026/09/21/sustainability/brazil-amazon-hunt-oil/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Macron and Carney pledge closer ties amid strains with Trump",
+    "summary": "The French president and Canadian prime minister's meeting came weeks after the U.S. president made a controversial post on social media.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/21/world/politics/macron-carney-ties-atlantic-meeting-trump/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Powerful Typhoon Dujuan zeroes in on Tokyo area",
+    "summary": "The storm is forecast to bring heavy rains to the region before moving east, with Level 4 danger warnings issued for some areas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/21/japan/typhoon-dujuan-japan/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Clinical trials for Alzheimer’s treatment face global shortage of participants",
+    "summary": "The shortage of trial participants risks slowing progress in dementia therapies, Alzheimer's Disease International warns.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/21/japan/science-health/alzheimers-day/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump administration prepares sanctions against ICC",
+    "summary": "U.S. officials want the court to drop its arrest warrants against Israeli leaders as well as a past probe into American troops in Afghanistan.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/21/world/politics/trump-sanctions-international-criminal-court/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S. warns of rapid escalation in Middle East war",
+    "summary": "A recent Houthi offensive seized swathes of Yemeni territory, left hundreds dead and displaced more than 110,000 people.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/21/world/us-escalation-middle-east-war/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
     "summary": "The Iranian-backed militia was engaged in fierce battles with Saudi-backed government forces in Yemen on Sunday, as it seeks to maintain momentum in the war.",
     "timeAgo": "En Guncel (API)",
@@ -727,176 +898,5 @@
     "summary": "Donald Trumps Anspruch auf Grönland wurde zu einer Zerreißprobe für die NATO. Der Präsident hatte in der Vergangenheit mit einigen Aussagen für Aufregung gesorgt.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-und-groenland-die-wichtigsten-aussagen-im-ueberblick-accg-201242810.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
-    "summary": "Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world warJewish heirs of Holocaust victims and their representatives have filed two lawsuits in Califo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Yuli Novak, directora de la ONG israelí B’Tselem: “Ningún pueblo que ha cometido un genocidio era consciente de que lo hacía”",
-    "summary": "La responsable de la organización de derechos humanos lamenta el “mensaje claro” de impunidad que el mundo ha dado al sistema político de su país al seguirle tratando como “legítimo” después de tres a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-18/yuli-novak-directora-de-la-ong-israeli-btselem-ningun-pueblo-que-ha-cometido-un-genocidio-era-consciente-de-que-lo-hacia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Arabia Saudí activa alertas por una \"amenaza aérea hostil\" mientras se recrudece la tensión en Oriente Próximo",
-    "summary": "Irán ejecuta a un condenado por espionaje para Israel, Gaza registra nuevas muertes y Turquía revoca la licencia de un banco iraní&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/19/6aae878cfc6c83180e8b45bb.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Cathay Pacific retains third-best airline title, wins cabin crew and lounge awards",
-    "summary": "Hong Kong flag carrier Cathay Pacific Airways has been ranked the world’s third-best airline for the second consecutive year, while also taking top awards for best cabin crew and first-class lounge in...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3368112/cathay-pacific-retains-third-best-airline-title-wins-cabin-crew-and-lounge-awards?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Small Country’s Huge Windfall from the War in Iran",
-    "summary": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
-    "summary": "President Trump signed the legislation, named for Senator Lindsey Graham, at the White House, but he has broad leeway to waive its requirements.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "How Guyana Is Feeding the Profits of Exxon Mobil, the Largest U.S. Oil Company",
-    "summary": "Exxon Mobil found a coveted growth engine in Guyana. Now it must navigate Guyana’s fractious politics and a territorial dispute with Venezuela.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Hunderte demonstrieren gegen Kennedy-Center-Pläne Trumps – Foto zeigt ihn mit Abrissplänen",
-    "summary": "Am Freitag demonstrierten Hunderte Menschen gegen die sofortige Schließung des Gebäudes, die der US-Präsident angeordnet hatte. Er möchte das Zentrum unbedingt nach sich benennen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedy-center-abrissplaene-demonstration-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Ukraine meldet Tote nach russischem Gleitbombenangriff",
-    "summary": "In der Stadt Sumy ist ein Wohnhaus nach Behördenangaben schwer beschädigt worden +++ Auch in der Region Charkiw gibt es Tote +++ Tusk warnt vor „hybriden Angriffen“ Russlands +++  alle Neuigkeiten im ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-warnt-vor-hybriden-angriffen-russlands-auf-verbuendete-der-ukraine-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-    "summary": "Passionate documentary maker  won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s blood...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump anuncia un acuerdo con Dinamarca para asumir el “control permanente de la seguridad” de Groenlandia",
-    "summary": "La primera ministra danesa, Mette Frederiksen, confirma el compromiso, pero habla de “seguridad compartida en el Ártico”. El pacto entre las tres partes incluye el veto a países enemigos, según la ver...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Democracia en venta",
-    "summary": "No es la primera vez que Trump ofrece cheques en tiempo electoral, pero esta vez se trata de un cínico y descarado soborno que promete dinero a cambio de retener poder",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-13/democracia-en-venta.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Delcy Rodríguez se reunirá con Trump en Nueva York en un gesto inédito de acercamiento",
-    "summary": "La visita será la primera de un jefe de Estado de Venezuela a Naciones Unidas desde el discurso del presidente Maduro en 2018",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-09-18/delcy-rodriguez-se-reunira-con-trump-en-nueva-york-en-un-gesto-inedito-de-acercamiento.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump anuncia el veto al acceso a la Casa Blanca de CNN, MSNBC y Politico",
-    "summary": "El presidente de Estados Unidos lanza una amenaza que supone una escalada en sus ataques a la libertad de prensa y que promete acabar impugnada en los tribunales",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-18/trump-veta-el-acceso-a-la-casa-blanca-de-cnn-msnbc-y-politico.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "La alucinación de una IA que casi abrió fuego entre EEUU y China",
-    "summary": "Trump y Xi llegan a su cumbre de Washington atrapados entre el temor a que un algoritmo provoque una guerra y la carrera por dominar la tecnología que decidirá las próximas batallas&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/19/6aae618bfdddff8b0a8b4570.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Irán ejecuta a un hombre condenado por supuesto espionaje y colaboración con Israel",
-    "summary": "Las autoridades iraníes aseguran que entregó al Mosad información sobre instalaciones militares y de misiles atacadas durante la guerra de junio de 2025&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/19/6aae34d6e85ece2a058b45b7.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Patriot dedicated to Hong Kong: business heavyweights remember Tung Chee-hwa",
-    "summary": "This weekend, Hong Kong mourns the loss of former chief executive and elder statesman Tung Chee-hwa.\nThe shipping tycoon who became the city’s first leader after its transfer of sovereignty to China i...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3368072/patriot-dedicated-hong-kong-business-heavyweights-remember-tung-chee-hwa?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Friend, leader, mentor: how political veterans remember Tung Chee-hwa",
-    "summary": "This weekend, Hong Kong mourns the loss of former chief executive and elder statesman Tung Chee-hwa.\nThe shipping tycoon who became the city’s first leader after its transfer of sovereignty to China i...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3368071/friend-leader-mentor-how-political-veterans-remember-tung-chee-hwa?utm_source=rss_feed"
   }
 ]
