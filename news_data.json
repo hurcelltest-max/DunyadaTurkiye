@@ -3,6 +3,348 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Stanislas Hutin, Who Denounced Torture in France’s Algerian War, Dies at 95",
+    "summary": "He was among the first to chronicle the French force’s systematic abuse of Algerians, brutal encounters that he documented in his journal and with his photography.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/23/world/middleeast/stanislas-hutin-dead.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Zelensky Is Expected to Warn Russia’s Aggression Won’t Stop at Ukraine’s Borders",
+    "summary": "President Volodymyr Zelensky is seeking to convey the critical urgency of his nation’s plight to world leaders increasingly distracted by competing global crises and domestic political pressures.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/23/world/europe/ukraine-russia-zelensky-unga.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Walkouts at the U.N. General Assembly Are Somewhat of a Tradition",
+    "summary": "As President Masoud Pezeshkian of Iran delivered his speech, the lone U.S. diplomat sitting in the hall left.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/23/world/un-general-assembly-walkout.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Iran-Krieg: Frachtschiff in der Straße von Hormus in Flammen",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/iran-krieg-frachtschiff-in-der-strasse-von-hormus-in-flammen-li.3552858"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Horn von Afrika: In Äthiopien stehen die Zeichen wieder auf Krieg",
+    "summary": "Der Bürgerkrieg in der Region Tigray kostete Hunderttausende Menschenleben, ehe er 2022 beendet werden konnte. Nun droht eine Neuauflage, die sogar noch verheerender ausfallen könnte.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/aethiopien-rebellen-allianz-tigray-kriegsgefahr-li.3552615"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Irans Präsident hält Bild von Chamenei während UN-Generaldebatte hoch",
+    "summary": "Massud Peseschkian wirft Israel „Genozid“ in Gaza vor +++ Erster Auftritt von Staatschef eines mit den USA Krieg führenden Landes in New York +++ Vertreter der USA und Irans treffen sich zu Gesprächen...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-irans-praesident-haelt-bild-von-chamenei-waehrend-un-generaldebatte-hoch-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Trump lädt Putin zu G-20-Gipfel in Miami ein",
+    "summary": "Selenskyj: Ukraine bereit zu Teilwaffenruhe für Angriffe auf Energieanlagen +++  Kremlsprecher Dmitri Peskow lehnt Vorschlag ab +++ Kiew verurteilt Aufhebung von Sanktionen gegen russische Oligarchen ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-laedt-putin-zu-g-20-gipfel-in-miami-ein-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: USA laden OSZE nicht zur Wahlbeobachtung ein",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-usa-laden-osze-nicht-zur-wahlbeobachtung-ein-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-MINSK-KALI-DEAL?: Litauen lehnt Lockerung von EU-Sanktionen gegen Belarus ab",
+    "summary": "Donald Trump kündigt einen Deal mit Belarus an. Doch Litauen will keinen Kali-Transport aus dem Nachbarland über EU-Wege genehmigen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/litauen-will-keine-aufhebung-der-sanktionen-gegen-belarus-201254777.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Sekundärsanktionen: USA legen Irans Fluggesellschaften lahm",
+    "summary": "Nach US-Drohungen stellen viele Länder ihre Flugverbindungen nach Iran ein. Für Iraner bedeutet das noch mehr Isolation.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/iran-vom-flugverkehr-abgeschnitten-usa-machen-druck-201255244.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Grönland: Trumps Gewaltdrohung gegen Verbündete wird lange nachwirken",
+    "summary": "Was Trumps Unterschrift unter der Grönland-Vereinbarung wert ist, wird man sehen. Folgen wird die Sache so oder so haben. Nicht alle sind schlecht für Europa.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trumps-groenland-drohungen-haben-trotz-einigung-folgen-201255606.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Banished to alien lands: Trump’s secret deportation deals",
+    "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy dea...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+    "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violenceTwo men that the Trump administration expelled to Equatorial Guinea were bound, fitted with b...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
+    "summary": "Venezuela’s interim president hails ‘historic meeting’ and does not say whether she will visit snatched predecessorVenezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting w...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Japanese islands brace for Dujuan to become a typhoon again",
+    "summary": "Storm system expected to hit Izu Islands as it strengthens. Meanwhile, Atlantic hurricane season is unusually quietTropical Storm Dujuan is skirting the coast of Japan and despite avoiding a direct la...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Gas lobby ‘scare campaign’ urges Victoria to scrap ban in new homes, leaked documents show",
+    "summary": "Exclusive: Australian Gas Infrastructure Group lobbying campaign warns energy bills could increase by $100 unless ban is reversed, despite experts disagreeingGet our breaking news email, free app or d...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/24/gas-lobby-scare-campaign-urges-victoria-to-scrap-ban-in-new-homes-leaked-documents-show-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Victorian Labor puts reproductive rights on election agenda as it warns One Nation could try to wind back abortion access",
+    "summary": "Exclusive: ‘We don’t want to see any winding back of women’s rights,’ health minister says ahead of state electionGet our breaking news email, free app or daily news podcastThe Victorian Labor governm...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/24/victorian-labor-election-one-nation-abortion-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Germany commits for first time to phasing out fossil fuels by 2045",
+    "summary": "Campaigners say plan marks a ‘notable shift’ away from oil and gas as previously pledges were only for carbon neutralityEurope’s biggest economy, Germany, has committed to phasing out fossil fuels by ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
+    "summary": "While Brussels and Ottawa desire a deeper partnership born of Trump-era volatility, ​the EU has no legal framework to accommodate itDon’t get This Is Europe delivered to your inbox? Sign up hereThe EU...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "UK to join EU ocean science scheme to better predict extreme weather events",
+    "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new ocean science programme, led by the EU, to better f...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Irán abre la vía diplomática sin descartar seguir adelante con la guerra",
+    "summary": "Las autoridades iraníes afirman que el encuentro de su ministro de Exteriores en Nueva York tuvo el objetivo de comunicar las condiciones del país para reabrir Ormuz",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/iran-abre-la-via-diplomatica-sin-descartar-seguir-adelante-con-la-guerra.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El Reino Unido cede a la presión de Trump y anuncia que revisará la devolución del archipiélago de Chagos",
+    "summary": "El presidente estadounidense calificó de “terrible” el acuerdo en Nueva York y reiteró que no lo apoyaría",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/el-reino-unido-cede-a-la-presion-de-trump-y-anuncia-que-revisara-la-devolucion-del-archipielago-de-chagos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La guerra civil vuelve a estallar en Etiopía",
+    "summary": "Combatientes del TPLF lanzan una ofensiva contra el Ejército federal en Afar y Amhara y toman el aeropuerto de Mekele, en Tigray",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/la-guerra-civil-vuelve-a-estallar-en-etiopia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La cumbre entre Trump y Xi Jinping comienza con mucho oropel y pocas expectativas",
+    "summary": "La extensión de la tregua comercial entre EE UU y China, la IA y Taiwán serán algunos de los principales asuntos a tratar en el encuentro de los dos líderes en la Casa Blanca",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/la-cumbre-entre-trump-y-xi-jinping-comienza-con-mucho-oropel-y-pocas-expectativas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Curas contra el Genocidio: cardenales, obispos, sacerdotes y monjas contra la ofensiva de Gaza",
+    "summary": "El movimiento, apoyado por 2.600 prelados de 67 países, se manifestó el martes en el Vaticano llevando un sudario con los nombres de 330 niños muertos en ataques israelíes",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/curas-contra-el-genocidio-cardenales-obispos-sacerdotes-y-monjas-contra-la-ofensiva-de-gaza.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El segundo día de la Asamblea General de la ONU, en imágenes",
+    "summary": "Las guerras de Ucrania e Irán toman el foco en la segunda jornada de la Asamblea General de la ONU, con las intervenciones de los presidentes Volodímir Zelenski y Masud Pezeshkian",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-23/el-segundo-dia-de-la-asamblea-general-de-la-onu-en-imagenes.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Así le hemos contado la primera jornada de la Asamblea General de la ONU",
+    "summary": "Macron pide “revivir el multilateralismo” y alerta del riesgo de una guerra en Europa | Kast y Fujimori claman por la unidad contra el crimen organizado en América Latina",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump corona a su Miss",
+    "summary": "Nada queda de la Delcy revolucionaria que lideró manifestaciones contra el actual presidente de EEUU&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab38785e9cf4ac3498b458e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Donald Trump, en la Asamblea General de la ONU: \"Aniquilaré Irán y Cuba caerá\"",
+    "summary": "\"EEUU ya no permitirá que las amenazas contra el país se afiancen en ningún lugar del continente americano. Y, si es necesario, utilizaremos nuestro poderío militar sin igual\", advierte&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/22/6ab29280fdddffb6528b45ad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Reino Unido, primer país occidental en apoyar a Arabia Saudí en su guerra contra los hutíes",
+    "summary": "Burnham anuncia el envío de un avión-cisterna para que los bombarderos saudíes puedan repostar en vuelo cuando llevan a cabo misiones de combate contra la milicia aliada de Irán&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/22/6ab2714921efa022738b459a.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Rusia intensifica el bombardeo en Kiev",
+    "summary": "Tras el espectacular ataque de los drones ucranianos contra Moscú, la llamada \"guerra de las ciudades\" sigue su escalada y los UAV a reacción rusos siembran de nuevo el terror en la capital de Ucrania...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab3938dfdddff290e8b45af.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Delcy Rodríguez escondió su puño cerrado junto a Trump en apoyo a Maduro",
+    "summary": "Replica la V de Victoria que realizó el dictador cuando fue arrestado y que se ha convertido en un símbolo de apoyo al 'hijo de Chávez'&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab3e86de4d4d8553a8b4573.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El presidente iraní, Masoud Pezeshkian, ante la Asamblea General de la ONU: \"Hemos sido víctimas de terrorismo. EEUU e Israel nos atacaron\"",
+    "summary": "Asegura que \"las armas atómicas están en manos de Israel\", pero que los inspectores están en Irán&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab3cb77fdddff40488b4590.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Abused children at higher risk of long-term health problems, Hong Kong NGO warns",
+    "summary": "Child abuse can impair victims’ development and increase their risk of long-term health problems such as obesity and heightened inflammatory responses, a Hong Kong NGO has said, calling for a tiered p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3368541/abused-children-higher-risk-long-term-health-problems-hong-kong-ngo-warns?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong on way to securing green fuel supply to safeguard aviation hub status",
+    "summary": "Hong Kong risks losing its status as an international aviation hub if it fails to secure a reliable, credibly certified supply of sustainable aviation fuel (SAF), the head of the government’s think ta...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368421/hong-kong-urged-secure-sustainable-fuel-supply-safeguard-aviation-hub-status?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat",
     "summary": "Masoud Pezeshkian is the first leader whose country is at war with the United States to travel to New York to address the General Assembly. President Trump said he faced a choice over whether to “anni...",
     "timeAgo": "En Guncel (API)",
@@ -556,347 +898,5 @@
     "summary": "In a ‌statement, Iran's Armed Forces dismissed Trump's comments at the U.N. as \"propaganda.\"",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/trump-iran-diplomats-deal-un/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Takaichi and Trump discuss China ahead of Xi’s visit to U.S.",
-    "summary": "The talks — the leaders' first formal summit since March — focused on issues surrounding China, including economic security.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/japan/politics/us-japan-trump-takaichi-un-meeting/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "In first U.N. speech, Takaichi calls for removal of Japan’s wartime ‘enemy state’ label",
-    "summary": "Beijing has latched on to the clause in its row with Tokyo, insisting it remains legally binding and serves as safeguard of the postwar order.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/japan/politics/japan-takaichi-un-speech-china/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Might makes right will end Pax Americana",
-    "summary": "Far from bolstering U.S. dominance, Donald Trump's embrace of coercive militarism has eroded it.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/09/23/world/end-pax-americana/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "China’s drive for AI self-sufficiency rewarding firms with global focus",
-    "summary": "AI companies with a more inward focus have lost steam in recent years amid cut-throat domestic competition.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/23/tech/china-ai-trade-global-local-winners/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "The next inflation shock: $1 million-a-day oil tankers",
-    "summary": "The world's VLCC fleet is relatively small, with about 925 tankers controlled by a handful of shipping tycoons.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/09/23/world/1-million-oil-tankers/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump’s White House media ban faces long odds in court, legal experts say",
-    "summary": "U.S. courts have long held that the government cannot condition press access on favorable coverage once it has opened a space to the media.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/white-house-media-ban-court/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. team meets with Iranians despite Trump’s annihilation threat",
-    "summary": "The U.S. president described the meeting as \"very good.\" Iran has yet to comment on the meeting or say who attended.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/us-team-meets-iran-trump-threat/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Indonesia to develop earthquake early warning system with Japan’s help",
-    "summary": "Indonesia plans to conduct trial runs for the envisioned warning system in Jakarta and some other regions by 2030.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/japan/indonesia-quake-warning-system-japan-help/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Asia to face sustained inflation pressure into 2027, ADB warns",
-    "summary": "Wars in Europe and the Middle East and a severe El Nino are amplifying price pressures across the continent.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/23/economy/asia-inflation-2027-adb/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Turkey’s environment minister lays out agenda for COP31 summit",
-    "summary": "Amid artificial intelligence and war concerns, the head of 2026's U.N. climate summit appealed to global business leaders to keep emissions in focus.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Ethiopian Rebel Groups Join Forces Against the Government",
-    "summary": "Half a dozen groups, accusing the prime minister of being dictatorial, announced the formation of a coalition in a country already scarred by war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Cold War Lessons for A.I.",
-    "summary": "The U.S. and Soviet Union managed to avert nuclear catastrophe. Can Washington and Beijing do the same for A.I.?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/world/ai-cold-war-iran-un.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Vietnam’s leader is likely to warn of threats to middle powers.",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/vietnams-leader-is-likely-to-warn-of-threats-to-middle-powers"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Macron Criticizes Israel and Russia in Final U.N. Speech as France’s President",
-    "summary": "In his farewell address to the General Assembly, the French president criticized Russia, Israel and, in more veiled terms, the United States.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/world/europe/macron-farewell-united-nations-speech.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War ‘Before Winter’",
-    "summary": "The remarks by President Volodymyr Zelensky of Ukraine came during a meeting with President Trump as an effort to restart talks with Russia has gone nowhere.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "At U.N., Trump Says He Will Strike a Deal With Iran or ‘Annihilate’ It",
-    "summary": "President Trump’s statement to the U.N. General Assembly that he could “drive them into hell with no chance of survival” was a jarring departure in a forum devoted to world peace.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/world/americas/trump-annihilate-iran-unga.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Departing U.N. Chief’s Dire Warning on Climate Change",
-    "summary": "As he nears the end of his term as the Secretary General of the United Nations, António Guterres looks back on his efforts to stop climate change.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Trump bei den UN: „Soll ich sie zur Hölle schicken?“",
-    "summary": "Einmal mehr legt der US-Präsident einen bizarren Auftritt vor den Vereinten Nationen hin – und kündigt ein mögliches Kriegsverbrechen gegen Iran an.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/trump-un-rede-iran-ki-klimawandel-li.3551641"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump: Vertreter der USA und Irans haben sich getroffen",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-offenbar-treffen-zwischen-vertretern-der-usa-und-irans-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trumps UN-Rede: Der Ukrainekrieg ist bald vorbei, das Öl wieder billig und Kuba frei",
-    "summary": "Donald Trump legt vor den UN dar, was er für die Welt getan habe und noch tun werde. Das soll vor allem amerikanische Wähler beeindrucken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-ruehmt-sich-bei-den-vereinten-nationen-als-friedensstifter-201253417.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
-    "summary": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member stateDonald Trump has a habit of discomfiting delegates to the United Nations general assemb...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Australia news live: ABC watchdog criticises ‘culture of secrecy’ and factchecking at Four Corners",
-    "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastDonald Trump has lashed out at countries seeking to rein in artificial intelligence, even suggesting the technology...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
-    "summary": "Alisher Usmanov and Mikhail Fridman delisted in what Ireland’s EU presidency calls ‘a difficult compromise’ for the blocThe EU has agreed to remove two Russian billionaires, Alisher Usmanov and Mikhai...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump amenaza con aniquilar Irán en un discurso en la Asamblea General de la ONU con tintes electorales",
-    "summary": "El presidente de EE UU dice que la guerra terminará tras las elecciones de noviembre, un nuevo plazo para un conflicto que se alarga ya siete meses pese a su promesa de que sería muy corto",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-22/trump-amenaza-con-aniquilar-iran-en-un-discurso-en-la-asamblea-general-de-la-onu-con-tintes-electorales.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Guterres, en su último discurso ante la Asamblea General de la ONU: “Las grietas del mundo se han convertido en abismos”",
-    "summary": "El secretario general defiende el derecho frente a un presente de guerras y alerta sobre la IA: “Los robots asesinos no tienen lugar en nuestro futuro”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-22/guterres-en-su-ultimo-discurso-ante-la-asamblea-general-de-la-onu-las-grietas-del-mundo-se-han-convertido-en-abismos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Lula a Trump: “Brasil no cabe en el patio trasero de nadie”",
-    "summary": "El mandatario rechaza ante la ONU las injerencias de Estados Unidos y defiende el multilateralismo en vísperas de las reñidas elecciones en Brasil",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-09-22/lula-a-trump-brasil-no-se-mete-en-el-patio-trasero-de-nadie.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Estados Unidos construirá dos nuevas bases en Groenlandia tras el pacto de seguridad",
-    "summary": "Trump, Dinamarca y la isla firman el acuerdo tras meses de negociación en una ceremonia en Naciones Unidas",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-22/trump-firma-el-acuerdo-de-seguridad-con-dinamarca-y-groenlandia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Acusan a Trump de exagerar las concesiones a Estados Unidos del acuerdo sobre Groenlandia",
-    "summary": "Dinamarca matiza que la OTAN seguirá jugando un papel clave en la seguridad de la isla, mientras que medios daneses afirman que los estadounidenses establecerán dos bases nuevas y niegan su  derecho d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/21/6ab1365de85ece73438b45a3.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump moldea su política exterior en los márgenes de la ONU: diplomacia personal y amenazas bélicas",
-    "summary": "El primer mandatario estadounidense impone el control de EEUU sobre Groenlandia y agita la Asamblea de las Naciones Unidas entre promesas de paz para Ucrania y pulsos con Irán&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/22/6ab2d61de85ece402a8b45ad.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los detalles del acuerdo firmado por Trump, Groenlandia y Dinamarca: EEUU abrirá dos bases en la isla",
-    "summary": "El acuerdo de defensa otorga a Washington de forma indefinida una amplia presencia militar y pretende blindar a Groenlandia de crecientes actividades de \"adversarios\"&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/22/6ab2cd9afc6c83551f8b45ae.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Andy Burnham: paseo con Sánchez por Central Park, reunión con Trump y cumbre sobre Oriente Próximo",
-    "summary": "El 'premier' británico celebra la \"buena conexión\" que tiene con el presidente estadounidense, pese al choque sobre la base conjunta de Diego García&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/22/6ab2c868e9cf4a0b438b45b2.html"
   }
 ]
