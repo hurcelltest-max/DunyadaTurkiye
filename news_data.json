@@ -3,6 +3,231 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+    "summary": "Attacks on Saudi cities on the Red Sea by the Iran-backed Houthi militia in Yemen have added to pressure on global oil supplies.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Iran Proposes 7-Day Plan to End War",
+    "summary": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Palestinians Stream Back to Northern Gaza on Foot",
+    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Vereinte Nationen: Netanjahu und die „größte Lüge des Jahrhunderts“",
+    "summary": "Wenige Wochen vor der Wahl in Israel spricht Benjamin Netanjahu vor den Vereinten Nationen – und wähnt sich in einem „Krieg um die Wahrheit“.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-un-generalversammlung-netanjahu-rede-proteste-new-york-li.3553221"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Iran ist laut Peseschkian zur Herausgabe des Urans bereit",
+    "summary": "Iranischer Präsident: USA müssen über Kriegsende entscheiden +++Saudi-Arabien, Türkei und Pakistan planen Krisentreffen nach Huthi-Angriffen +++ Macron: Frankreich will Truppen nach Saudi-Arabien schi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-ist-laut-peseschkian-zur-herausgabe-des-urans-bereit-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Kanadas Hauptstadt Ottawa will „Trump Avenue“ umbenennen",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-kanadas-hauptstadt-ottawa-will-trump-avenue-umbenennen-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Proteste: Eklat bei Netanjahus UN-Rede – Diplomaten verlassen den Saal",
+    "summary": "Israels Ministerpräsident Netanjahu schlägt in New York Kritik entgegen. Vor den UN verteidigt er seinen Kurs, nachdem Palästinenserpräsident Abbas Vorwürfe gegen Israel erhoben hat.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/benjamin-netanjahu-bei-un-rede-diplomaten-verlassen-den-saal-accg-201260900.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+    "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+    "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponentsLuiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wan...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
+    "summary": "President lays out red carpet as treasury secretary announces extension of ‘Busan agreement’ pausing trade war hostilitiesAI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi su...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australia news live: PM says he learned of OpenAI’s Medicare breach in New York; NSW renters to benefit from new laws",
+    "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastAI hack of Medicare exposes Australia’s vulnerabilitiesTechnology experts have warned revelations an artificial int...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "UK food and drink trade deficit largest since 2000 at £21bn",
+    "summary": "Industry leaders call on government to protect homegrown produce in the interest of national securityThe gap between Britain’s food and drink exports and imports has neared its highest this century, a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Delcy Rodríguez y Trump, la imagen del nuevo mundo",
+    "summary": "Los herederos de Chávez sonríen junto al pirata que se ha llevado el botín petrolífero",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Últimas noticias de la Asamblea General de la ONU, en directo | La Asamblea de la ONU se vacía antes del discurso de Netanyahu y él les llama “cobardes”",
+    "summary": "Netanyahu agradece a Trump su valentía “para salvar a la civilización” y defiende que acusar a Israel de genocidio es “la mayor mentira del siglo” | Abbas denuncia la limpieza étnica de los palestinos...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La distancia no garantiza la seguridad: España no está preparada para la guerra híbrida rusa",
+    "summary": "Mientras Polonia se pertrecha para defenderse y Francia cambia sus protocolos, España no tiene medios para proteger su infrastructura crítica&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab4115421efa0ed1d8b4585.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Delcy Rodríguez en la ONU: \"En Venezuela habrá elecciones, pero una elección debe ser una solución, no un generador de conflictos irreconciliables\"",
+    "summary": "La presidenta interina se pliega en público a Trump, no menciona a Maduro y asume ante la Asamblea General \"la responsabilidad histórica de conducir al país desde una etapa de incertidumbre y conflict...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab465e6fc6c83685b8b457d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Zohran Mamdani, estrella inesperada en la semana grande de la ONU",
+    "summary": "El joven regidor de Nueva York, con menos de un año en el cargo, se ha convertido en un ícono del progresismo mundial. Los líderes lo buscan y su carisma conquista incluso a Trump&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4261cfdddff40488b45a6.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump y Xi Jinping brindan por un mundo que ya no cabe en una sola superpotencia",
+    "summary": "Trump recibe a Xi con honores, vino histórico y una escultura del águila calva, mientras defiende que ambos representan sistemas distintos pero que \"los lazos entre nuestros pueblos perduran\" y que EE...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab5bd95fdddff2d038b4587.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump pide al Supremo permitir las deportaciones de migrantes a terceros países",
+    "summary": "Más de 25.000 migrantes han sido enviados a terceros países desde que Trump puso en marcha esta política, según datos de organizaciones de derechos humanos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab5b04cfc6c83900e8b459d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Thai court case risks election rerun and renewed political turmoil",
+    "summary": "An adverse ruling could force Thailand back to the polls within months, ending a period of unusual political stability.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/thai-court-case-election/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "White House says banned media outlets allowed to return",
+    "summary": "CNN, MS NOW and Politico said their journalists were readmitted after a federal court ordered a suspension of U.S. President Donald Trump's ban.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/banned-media-white-house-return/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S., Iran said to be exploring phased deal to open Hormuz",
+    "summary": "The two countries — which have refused to make similar deals before — were pushing for a breakthrough on the sidelines of the U.N. General Assembly.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/hormuz-phased-reopening/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump tells countries to quit ICC. Few follow his lead.",
+    "summary": "U.S. President Donald Trump's appeal capped an escalating U.S. campaign against the Hague-based court, which Washington says oversteps its authority.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/trump-quit-icc/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Israel prevented genocide, Netanyahu says in defense of country’s actions",
+    "summary": "In his U.N. speech, the leader sought to counter growing international isolation ahead of elections he could lose, as dozens of delegates walked out.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/netanyahu-defends-israel-actions/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+    "summary": "Trump hailed the superpowers' \"common interests\" that he said made the two \"allies in World War II\" — remarks likely to raise eyebrows in Tokyo.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
     "summary": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document sho...",
     "timeAgo": "En Guncel (API)",
@@ -673,230 +898,5 @@
     "summary": "The president fantasizes about a capital city full of memorials—to himself.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/projekte/artikel/politik/trump-s-monumental-obsession-e628597/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Die AfD und die Hochschulen: „Eigentlich sind das die Idealzuwanderer“",
-    "summary": "Machen AfD-Erfolge Deutschland für ausländische Studierende weniger attraktiv? Der Rektor der Uni Köln ist besorgt – auch wegen massiver Kürzungen bei Austauschprogrammen. Das sei „nicht im Interesse ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/hochschulpolitik-afd-wahlsieg-sachsen-anhalt-joybrato-mukherjee-li.3545431"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: Russland beschießt Kiew und die Region Charkiw: Tote und Verletzte",
-    "summary": "In der Region Charkiw wird ein Landwirtschaftsbetrieb in einem Dorf getroffen. Schwere Explosionen erschüttern zudem Kiew. Viele Bewohner müssen wegen des Luftalarms erneut Schutz suchen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-kiew-charkiw-li.3549696"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA und China: Chinas Präsident Xi zu Staatsbesuch in den USA eingetroffen",
-    "summary": "Zu Beginn des Besuchs verkündet die US-Regierung, die bis November geplante Aussetzung von Zöllen auf chinesische Produkte bis Januar verlängern zu wollen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-china-xi-staatsbesuch-trump-zoelle-li.3553131"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Richter hebt Trumps Ausschluss von US-Medien vorerst auf",
-    "summary": "Die US-Regierung muss den Journalisten der Sender CNN, MS Now sowie des Nachrichtenportals „Politico“ vorerst wieder Zugang zum Weißen Haus gewähren. Ein Richter nannte den Ausschluss „wahrscheinlich ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Grönland-Abkommen: Ist Dänemark ein „diplomatisches Meisterwerk“ gegen Trump gelungen?",
-    "summary": "Dänemark vermeidet jede Geste des Triumphs, hat sich aber bei dem Abkommen über Grönland in vielen Punkten durchgesetzt. Was genau wurde mit den USA vereinbart?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/groenland-abkommen-ist-daenemark-ein-diplomatisches-meisterwerk-gegen-trump-gelungen-accg-201254633.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: Iranisches Passagierflugzeug muss wegen US-Sanktionen umkehren",
-    "summary": "Turkmenistan verweigert Überflugerlaubnis +++ UN-Generaldebatte: Irans Präsident hält Bild von Chamenei hoch +++ Massud Peseschkian wirft Israel „Genozid“ in Gaza vor +++ alle Entwicklungen im Liveblo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iranisches-passagierflugzeug-muss-wegen-sanktionen-umkehren-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Feuer in Starlink-Station war „Sabotage“",
-    "summary": "Polnischer Digitalminister: Internet-Zugang auch der ukrainischen Armee gestört +++ Ukraine: Sechs Tote bei russischem Angriff auf Bauernhof +++ Ukraine und Finnland schließen Abkommen zur Drohnen-Pro...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-feuer-in-starlink-station-in-polen-war-sabotage-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump muss verbannte Medien wieder ins Weiße Haus lassen",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gericht-trump-muss-verbannte-medien-wieder-ins-weisse-haus-lassen-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Türkischer Fußball: Wie ein Fußballklub zum Symbol kurdischer Selbstbehauptung wurde",
-    "summary": "Jeder dritte Kurde in der Türkei ist ein Fan von Amedspor. Dieses Potential will die Regierung im Friedensprozess mit der PKK nutzen. Doch es gibt auch Risiken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/amedspor-kurdischer-tabellenfuehrer-in-der-tuerkei-accg-201249720.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Deutschland-Stimmung: Ein verunsichertes Land",
-    "summary": "Die aktuellen Krisen belasten die Bevölkerung. Vor allem AfD-Sympathisanten sehen die Lösung in einem anderen politischen System, wie eine Allensbach-Umfrage im Auftrag der F.A.Z. zeigt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/deutschland-in-der-krise-waechst-der-zuspruch-zur-afd-accg-201254399.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kriegsszenarien: Wo würde Russland das Baltikum angreifen?",
-    "summary": "Bedrohung der NATO: Wie könnte ein russischer Angriff auf den Westen aussehen? Planspiele zeigen es",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/wie-wuerde-ein-russischer-angriff-aufs-baltikum-aussehen-accg-201219086.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
-    "summary": "Explosive growth in imported vehicles omitted from EV tariffs fuels concern for future of European carmakersEU imports three times more from China than bloc exports thereBusiness news – live updatesSa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
-    "summary": "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outagesTyphoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Venezuela being ‘reborn’, Rodríguez tells UN – as it happened",
-    "summary": "Acting president says Venezuela returning strongly after ‘setbacks’. This blog is now closed – see our full reports:Trump greets Xi Jinping on arrival in rare move as US-China trade truce extendedIran...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Elif Eralp: ‘Germany’s Zohran Mamdani’ who vows to be a mayor for all Berliners",
-    "summary": "Die Linke candidate, a lawyer affected by her experiences as the child of political migrants from Turkey, poised to head Berlin coalition governmentElif Eralp launched her election bid last autumn wit...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/24/elif-eralp-germany-zohran-mamdani-mayor-berlin-die-linke"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Un juez ordena a Trump levantar la prohibición de acceso a la Casa Blanca a CNN, MS NOW y Politico",
-    "summary": "El magistrado alega que el veto a estos tres medios de comunicación “carece de sustento fáctico” para afirmar que protege la seguridad nacional",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Logros y descalabros geopolíticos de Trump: un balance",
-    "summary": "El presidente de EE UU presumió en la ONU de sus éxitos. La realidad es que sus victorias se ven desbordadas por los fracasos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Alfombra roja, flores y Trump: así ha sido la llegada de Xi Jinping a Washington",
-    "summary": "Los líderes de EE UU y China se reúnen este jueves para tratar sobre comercio, inteligencia artificial, Taiwán y la guerra en Irán, entre otros asuntos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-23/alfombra-roja-flores-y-trump-asi-ha-sido-la-llegada-de-xi-jinping-a-washington.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
-    "summary": "Cercado por el precio récord del combustible, el republicano trata de mover ficha antes de las elecciones. La espiral de precios empeorará fuera de EE UU, con el Viejo Continente y América Latina en e...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/economia/2026-09-24/la-amenaza-de-trump-de-vetar-las-exportaciones-de-diesel-deja-en-el-alambre-a-america-latina-y-a-europa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Delcy Rodríguez agradece a Trump su papel en Venezuela y asegura que habrá elecciones sin concretar la fecha",
-    "summary": "La presidenta vuelve a la Asamblea General, foro en el que arremetió contra EE UU, sin mencionar a Maduro, encarcelado a tan solo 14 kilómetros de la sede de la ONU",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-09-23/delcy-rodriguez-agradece-a-trump-su-cooperacion-con-venezuela-y-anuncia-que-habra-elecciones-sin-concretar-la-fecha.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Para reformar la Casa Blanca o vetar a periodistas: la seguridad nacional, el ardid de Trump para desbloquear sus planes más polémicos",
-    "summary": "El presidente republicano recurre a este argumento para vetar nuevos parques eólicos, desplegar al ICE, movilizar a la Guardia Nacional o incluso para aprobar los aranceles",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-24/para-reformar-la-casa-blanca-o-vetar-a-periodistas-la-seguridad-nacional-el-ardid-de-trump-para-desbloquear-sus-planes-mas-polemicos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "EEUU reconoce ocho intentos de suicidio en el portaviones Abraham Lincoln durante el despliegue para la guerra en Irán",
-    "summary": "En agosto, legisladores y las familias de los militares alertaron sobre condiciones preocupantes para la tripulación por el despliegue excepcionalmente prolongado&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4baafe9cf4aca678b459b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "De los campos de Iowa a la alfombra roja de Trump: el regreso de Xi Jinping a EEUU con una cálida bienvenida y una prórroga comercial",
-    "summary": "El presidente estadounidense recibió a su homólogo chino en la pista del aeropuerto, un gesto excepcional antes de una cumbre en la que Pekín llega reforzado&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4b90fe9cf4a9a4e8b4589.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Un juez levanta el veto de Trump a CNN, MS NOW y Politico en la Casa Blanca",
-    "summary": "En un importante revés para Trump en una de sus mayores disputas con los medios de comunicación, el juez federal de distrito Tim Kelly emitió su decisión en el marco de una demanda presentada por las ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4b734e85ece264d8b45a0.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Israel dice haber matado al jefe de finanzas de Hamas en un ataque en Gaza",
-    "summary": "\"No permitiremos que recupere su fuerza y no nos detendremos hasta que deje de existir en Gaza\", señala el comunicado del Gobierno&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/23/6ab3adc9e9cf4ab02f8b4582.html"
   }
 ]
