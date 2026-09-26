@@ -3,6 +3,132 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Trump Rejects Iranian Proposal for Cease-Fire and Opening of Strait",
+    "summary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Palestinians Stream Back to Northern Gaza on Foot",
+    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Wadephul und Lawrow treffen sich zu Gesprächen",
+    "summary": "Der deutsche Außenminister und der russische Außenminister haben sich am Rande der UN-Generalversammlung in New York getroffen. Es ist das erste bilaterale Treffen der beiden.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lawrow-wadephul-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Israel: Neuer Bericht: Netanjahu soll vor Hamas-Angriff gewarnt worden sein",
+    "summary": "Recherchen der „New York Times“ bestätigen einen Bericht der Zeitung „Haaretz“. Die Aufarbeitung des Angriffs vom 7. Oktober 2023 spielt eine wichtige Rolle im israelischen Wahlkampf.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/netanjahu-warnung-hamas-angriffe-berichte-israel-li.3554307"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: USA und China vereinbaren Zollsenkungen in Höhe von 30 Milliarden Dollar",
+    "summary": "Beim US-Besuch des chinesischen Präsidenten haben sich Trump und Xi auf den gegenseitigen Abbau von Zöllen sowie einen KI-Dialog geeinigt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-china-zollsenkungen-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Trump: Habe iranischen Vorschlag für Waffenruhe abgelehnt",
+    "summary": "Irans Außenminister: Entscheidung liegt bei den USA +++ UN verurteilt Angriffe der Huthi-Miliz auf Saudi-Arabien +++ Dubai stellt Flugverkehr nach Iran ein +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-habe-iranischen-vorschlag-fuer-waffenruhe-abgelehnt-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Wadephul trifft Lawrow zu Gesprächen in New York",
+    "summary": "Erstes Treffen der Außenminister seit Beginn der russischen Vollinvasion 2022 +++ Vučić telefoniert mit Putin +++ Selenskyj: Russland eskaliert jeden Tag +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-trifft-lawrow-in-new-york-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+    "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+    "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponentsLuiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wan...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Pocock calls for AI safety act after Medicare breach – as it happened",
+    "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastAI hack of Medicare exposes Australia’s vulnerabilitiesTechnology experts have warned revelations an artificial intell...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Delcy Rodríguez y Trump, la imagen del nuevo mundo",
+    "summary": "Los herederos de Chávez sonríen junto al pirata que se ha llevado el botín petrolífero",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Así le contamos lo sucedido en la segunda jornada de la 81ª Asamblea General de la ONU",
+    "summary": "El primer ministro israelí agradece a Trump su valentía “para salvar a la civilización” y defiende que acusar a Israel de genocidio es “la mayor mentira del siglo” | Abbas denuncia la limpieza étnica ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump cree que habrá un acuerdo con Cuba y no será \"necesaria\" una intervención militar",
+    "summary": "El presidente de Estados Unidos dice que quiere \"ayudar a Cuba\" y \"abrir\" el país porque hay \"cubano-estadounidenses que quieren regresar\".&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab7eb97e4d4d87f408b458e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La Casa Blanca desafía la orden de un juez federal y vuelve a vetar a la CNN",
+    "summary": "Donald Trump, tras impedir que la cadena suba al avión presidencial en un viaje: \"No se debería permitir la difusión de noticias falsas, ha durado demasiado tiempo con un coste tremendo para nuestro p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab7c63be9cf4a472d8b457a.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
     "summary": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
     "timeAgo": "En Guncel (API)",
@@ -772,131 +898,5 @@
     "summary": "Wie seine Vorgänger wollte Trump sich eigentlich der chinesischen Herausforderung stellen. Doch der Präsident lässt sich umschmeicheln.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ausland/donald-trump-und-china-warum-er-den-konflikt-scheut-201260349.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kriegsszenarien: Wo würde Russland das Baltikum angreifen?",
-    "summary": "Bedrohung der NATO: Wie könnte ein russischer Angriff auf den Westen aussehen? Planspiele zeigen es",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/wie-wuerde-ein-russischer-angriff-aufs-baltikum-aussehen-accg-201219086.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-    "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific watersHurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacifi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
-    "summary": "Explosive growth in imported vehicles omitted from EV tariffs fuels concern for future of European carmakersEU imports three times more from China than bloc exports thereSales of Chinese hybrid cars h...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Pope Leo warns against AI creating ‘paradise of machines’ in first visit to France – Europe live",
-    "summary": "The pope is set to deliver a landmark speech on AI development and discuss Europe’s futureLater today, Pope Leo will go to the Élysée Palace for (another) formal welcome and a meeting with authorities...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
-    "summary": "El presidente chino ha llamado a Washington y Pekín a explorar nuevas vías de colaboración entre potencias",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Logros y descalabros geopolíticos de Trump: un balance",
-    "summary": "El presidente de EE UU presumió en la ONU de sus éxitos. La realidad es que sus victorias se ven desbordadas por los fracasos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Un fotógrafo español sale ileso del impacto de un dron ruso contra su coche en el este de Ucrania",
-    "summary": "Diego Herrera, reportero ‘freelance’ con amplia experiencia en la cobertura de la guerra, busca estos días vehículo y cámaras para seguir su trabajo en el este del país. Su coche no llevaba el distint...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-25/un-fotografo-espanol-sale-ileso-del-impacto-de-un-dron-ruso-contra-su-coche-en-el-este-de-ucrania.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Los periodistas vetados acceden a la Casa Blanca tras el desacato de Trump a la orden del juez que levantó la prohibición",
-    "summary": "CNN, MS NOW y Politico solicitaron al magistrado una audiencia urgente para forzar a la Administración a cumplir con su orden de restitución “inmediata” de las acreditaciones",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "De los campos de Iowa a la alfombra roja de Trump: el regreso de Xi Jinping a EEUU con una cálida bienvenida y una prórroga comercial",
-    "summary": "El presidente estadounidense recibió a su homólogo chino en la pista del aeropuerto, un gesto excepcional antes de una cumbre en la que Pekín llega reforzado&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4b90fe9cf4a9a4e8b4589.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Muere el hombre que resultó herido de bala durante el atentado contra Trump en 2024",
-    "summary": "Otro espectador, el bombero Corey Comperatore, de 50 años, murió el mismo día del atentado en el que Trump sufrió lesiones en una oreja&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab606cdfdddff26078b456d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El presidente de Irán asegura que sigue dispuesto a alcanzar un acuerdo con Estados Unidos",
-    "summary": "Pezeshkian indicó que Teherán estaría dispuesto a reducir sus niveles de enriquecimiento de uranio y a permitir la verificación externa para aliviar las tensiones nucleares&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab603e5e9cf4a59518b45a7.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Over 1,000 visitors flock to Po Pin Chau trail as Mid-Autumn Festival holiday begins",
-    "summary": "More than 1,000 visitors flocked to one of Hong Kong’s most popular geological attractions on the morning of the Mid-Autumn Festival, putting a new real-name reservation system through its first major...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3368778/over-1000-visitors-flock-po-pin-chau-trail-mid-autumn-festival-holiday-begins?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Why Russia’s Potemkin election actually matters",
-    "summary": "There's little purpose to parsing who won the vote; the point is that opponents of Putin and his war were jailed, exiled or banned from running.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/09/25/world/russias-potemkin-election/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "The Japan Times Prep School Fair set for Oct. 24; registration now open",
-    "summary": "The Japan Times, Ltd. (Head office: Chiyoda Ward, Tokyo; Chairperson and Publisher: Minako Suematsu) will hold The Japan Times Prep School Fair, bringing together boarding schools and international sc...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/press/2026/09/25/prep-school-fair-oct-24/"
   }
 ]
