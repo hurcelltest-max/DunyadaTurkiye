@@ -1,5 +1,68 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Kriegsszenarien: Wo würde Russland das Baltikum angreifen?",
+    "summary": "Bedrohung der NATO: Wie könnte ein russischer Angriff auf den Westen aussehen? Planspiele zeigen es",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wie-wuerde-ein-russischer-angriff-aufs-baltikum-aussehen-accg-201219086.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+    "summary": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’While the US secretary of state, Marco Rubio, was being decorated in Quito by ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+    "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific watersHurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacifi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+    "summary": "Explosive growth in imported vehicles omitted from EV tariffs fuels concern for future of European carmakersEU imports three times more from China than bloc exports thereSales of Chinese hybrid cars h...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Logros y descalabros geopolíticos de Trump: un balance",
+    "summary": "El presidente de EE UU presumió en la ONU de sus éxitos. La realidad es que sus victorias se ven desbordadas por los fracasos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
+    "summary": "El presidente chino ha llamado a Washington y Pekín a explorar nuevas vías de colaboración entre potencias",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Over 1,000 visitors flock to Po Pin Chau trail as Mid-Autumn Festival holiday begins",
+    "summary": "More than 1,000 visitors flocked to one of Hong Kong’s most popular geological attractions on the morning of the Mid-Autumn Festival, putting a new real-name reservation system through its first major...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3368778/over-1000-visitors-flock-po-pin-chau-trail-mid-autumn-festival-holiday-begins?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -835,68 +898,5 @@
     "summary": "Executives from a Russian-owned company are accused of misrepresentation in order to secure U.S. government contracts.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Pope Leo Signals Support for Journalists Targeted by Trump",
-    "summary": "Asked about the Trump administration’s restrictions on journalists, Leo told reporters accompanying him on a flight to France that they were “all welcome.”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-media-trump.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Nahost-Krieg: Berichte: Iran legt Sieben-Tage-Plan zur Beendigung des Krieges vor",
-    "summary": "Der iranische Außenminister Araghtschi sagt laut „New York Times“ und „Financial Times“, Vermittler hätten der US-Regierung einen Plan vorgelegt, der die Öffnung der Straße von Hormus vorsieht. Die Be...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-li.3530668"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Präsident Macron: Frankreichs neues Gefühl der Ohnmacht",
-    "summary": "Präsident Macron will Militär nach Saudi-Arabien senden, um eine Ölpipeline zu sichern und die Spritpreise zu Hause zu senken. Doch angesichts der vielen Krisen in der Welt offenbart er auch Ratlosigk...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/frankreich-macron-spritpreise-protestwelle-li.3553366"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Vereinte Nationen: Netanjahu und die „größte Lüge des Jahrhunderts“",
-    "summary": "Wenige Wochen vor der Wahl in Israel spricht Benjamin Netanjahu vor den Vereinten Nationen – und wähnt sich in einem „Krieg um die Wahrheit“.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-un-generalversammlung-rede-netanjahu-proteste-new-york-li.3553221"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Straße von Hormus: Was hinter Irans Angebot für einen neuen Deal steckt",
-    "summary": "Ein neuer Vorschlag von Iran stellt eine Öffnung der Straße von Hormus innerhalb von sieben Tagen in Aussicht. Die kurze Frist soll ein Anreiz sein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/strasse-von-hormus-irans-neuer-vorschlag-an-donald-trump-accg-201261469.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Russland stellt Treffen mit USA und Ukraine in Aussicht",
-    "summary": "Noch keine Details über mögliche Gespräche genannt +++ CIA warnt Mittelmeeranrainer laut Bericht vor russischen Angriffen +++ Polen: Feuer in Starlink-Station war „Sabotage“ +++ alle Neuigkeiten im Li...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-stellt-treffen-mit-usa-und-ukraine-in-aussicht-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "XI-Trump-Gipfel: Xi und auch Putin spielen Spielchen mit Trump",
-    "summary": "Wie seine Vorgänger wollte Trump sich eigentlich der chinesischen Herausforderung stellen. Doch der Präsident lässt sich umschmeicheln.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/donald-trump-und-china-warum-er-den-konflikt-scheut-201260349.html"
   }
 ]
