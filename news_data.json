@@ -3,6 +3,222 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+    "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
+    "summary": "Trump hat ein Problem mit Berichterstattung, die ihm nicht gefällt. Nachdem Reporter mancher Medien zeitweise nicht ins Weiße Haus durften, folgt nun die nächste Machtprobe des US-Präsidenten.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-zugang-tennessee-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Trump lehnt Waffenruhe mit Iran laut Medienbericht ab",
+    "summary": "Irans Außenminister: Entscheidung liegt bei den USA +++ UN verurteilt Angriffe der Huthi-Miliz auf Saudi-Arabien +++ Dubai stellt Flugverkehr nach Iran ein +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-lehnt-waffenruhe-mit-iran-laut-medienbericht-ab-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Ukraine bittet die Partner um weitere 27 Milliarden Dollar",
+    "summary": "Selenskyj: USA gibt grünes Licht für Patriot-Produktion +++ Putin zweifelt an Wiederaufnahme der Verhandlungen für ein Kriegsende +++ Putin: Russland bereitet sich „nicht auf irgendeine Art von Kampf ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-bittet-die-partner-um-weitere-27-milliarden-dollar-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Streit geht weiter – CNN darf Trump nicht auf Reise begleiten",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Antisemitismus: Am Brandenburger Tor zur Hölle",
+    "summary": "Die SPD will dem Antisemitismus „keinen Millimeter“ Platz geben. Dann müsste sie eine Koalition mit der Linkspartei in Berlin rundweg ablehnen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/spd-und-linke-am-brandenburger-tor-zur-hoelle-201255449.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+    "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with CanadaThe CEO of a Michigan credit union is no longer employed there...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+    "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutionsA group of 31 Democratic members of the US Congress has sent a letter to the secretary of sta...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
+    "summary": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tipsOne is an authoritarian who represses the media and has a strong al...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”",
+    "summary": "Las autoridades iraníes acusaron a esta profesional, pendiente de un recurso, de espiar para Israel y Estados Unidos por cubrir para medios internacionales las protestas contra el régimen de enero",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”",
+    "summary": "El primer ministro israelí, que se juega su futuro el próximo mes en las elecciones, lanza un mensaje de dureza frente a las críticas. Abbas denuncia una “limpieza étnica” contra los palestinos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Sanders, Ocasio-Cortez y casi 30 congresistas reclaman a Trump que no interfiera en las elecciones de Brasil",
+    "summary": "Demócratas estadounidenses piden a su Gobierno que reconozca el resultado oficial de los comicios que disputan Lula y Bolsonaro hijo",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-09-24/sanders-ocasio-cortez-y-casi-30-congresistas-reclaman-a-trump-que-no-interfiera-en-las-elecciones-de-brasil.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Siete candidatos, algún tapado y cinco vetos: la batalla por el próximo secretario general de la ONU entra en su fase decisiva",
+    "summary": "Rebeca Grynspan y Carolyn Rodrigues-Birkett parecen ser las mejor situadas, pero los movimientos entre Pekín y Washington, como en el pasado, decidirán el resultado&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab6b73b21efa0e4148b4595.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El Supremo de EEUU autoriza una base de datos del gobierno de Trump para verificar la nacionalidad de los votantes",
+    "summary": "La resolución llega a menos de 90 días de los comicios, un plazo en el que la ley federal prohíbe purgas masivas en los censos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab6c1adfdddffc6208b45d9.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Francia pone en marcha un plan frente a la \"guerra híbrida\" de Rusia",
+    "summary": "El Ministerio del Interior galo imparte órdenes para proteger las infraestructuras críticas, mientras crece la preocupación por las \"injerencias extranjeras\" en la campaña presidencial&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab5231ae9cf4ab02f8b45c4.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
+    "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cau...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
+    "summary": "Prime Minister Sanae Takaichi is believed to be seeking a call with U.S. President Donald Trump to dispel Tokyo's concerns.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump rejects Iranian peace proposal, report says",
+    "summary": "U.S. President Donald Trump told aides he expects to resume bombing after November congressional elections.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/trump-rejects-iranian-peace-proposal/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump administration to meet Ukraine assistance deadline",
+    "summary": "As of early this week, $307 million of the $400 million of the Ukraine Security Assistance Initiative funding had been obligated, sources said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/trump-meet-ukraine-assistance-deadline/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "TV networks resume covering White House as press access fight continues",
+    "summary": "Trump last week banned CNN, MS NOW and Politico from the White House, before a judge ordered the administration to restore their access.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/tv-networks-white-house-coverage/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "China pushes to fill Trump’s void across range of U.N. activities",
+    "summary": "As U.S. President Donald Trump withholds millions of dollars in U.S. dues and pulls out of dozens of agencies, China is filling the gap.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/asia-pacific/politics/china-trump-un-activities/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Xi seizes Trump detente to seek lasting gains on trade and Taiwan",
+    "summary": "Underneath many of U.S. President Donald Trump's grand gestures at his summit with Xi Jinping, there were signs of the limits to their relationship.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/xi-trump-us-china-focus/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
     "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
     "timeAgo": "En Guncel (API)",
@@ -682,221 +898,5 @@
     "summary": "La presidenta interina se pliega en público a Trump, no menciona a Maduro y asume ante la Asamblea General \"la responsabilidad histórica de conducir al país desde una etapa de incertidumbre y conflict...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/09/24/6ab465e6fc6c83685b8b457d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Zohran Mamdani, estrella inesperada en la semana grande de la ONU",
-    "summary": "El joven regidor de Nueva York, con menos de un año en el cargo, se ha convertido en un ícono del progresismo mundial. Los líderes lo buscan y su carisma conquista incluso a Trump&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab4261cfdddff40488b45a6.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump y Xi Jinping brindan por un mundo que ya no cabe en una sola superpotencia",
-    "summary": "Trump recibe a Xi con honores, vino histórico y una escultura del águila calva, mientras defiende que ambos representan sistemas distintos pero que \"los lazos entre nuestros pueblos perduran\" y que EE...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab5bd95fdddff2d038b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump pide al Supremo permitir las deportaciones de migrantes a terceros países",
-    "summary": "Más de 25.000 migrantes han sido enviados a terceros países desde que Trump puso en marcha esta política, según datos de organizaciones de derechos humanos&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab5b04cfc6c83900e8b459d.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Thai court case risks election rerun and renewed political turmoil",
-    "summary": "An adverse ruling could force Thailand back to the polls within months, ending a period of unusual political stability.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/thai-court-case-election/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "White House says banned media outlets allowed to return",
-    "summary": "CNN, MS NOW and Politico said their journalists were readmitted after a federal court ordered a suspension of U.S. President Donald Trump's ban.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/banned-media-white-house-return/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S., Iran said to be exploring phased deal to open Hormuz",
-    "summary": "The two countries — which have refused to make similar deals before — were pushing for a breakthrough on the sidelines of the U.N. General Assembly.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/hormuz-phased-reopening/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump tells countries to quit ICC. Few follow his lead.",
-    "summary": "U.S. President Donald Trump's appeal capped an escalating U.S. campaign against the Hague-based court, which Washington says oversteps its authority.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/trump-quit-icc/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Israel prevented genocide, Netanyahu says in defense of country’s actions",
-    "summary": "In his U.N. speech, the leader sought to counter growing international isolation ahead of elections he could lose, as dozens of delegates walked out.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/netanyahu-defends-israel-actions/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
-    "summary": "Trump hailed the superpowers' \"common interests\" that he said made the two \"allies in World War II\" — remarks likely to raise eyebrows in Tokyo.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-    "summary": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document sho...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’",
-    "summary": "Prime Minister Benjamin Netanyahu also reserved some of his ire for the mayor of the city hosting him, Zohran Mamdani.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Netanyahu Lashes Out at Foes in U.N. Speech, Including Mamdani",
-    "summary": "Prime Minister Benjamin Netanyahu of Israel lashed out at a litany of enemies but took particular verbal aim at Mayor Zohran Mamdani.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
-    "summary": "The Israeli prime minister accused Mayor Zohran Mamdani, an outspoken critic of Israel, of antisemitism. The mayor has become a political foil for the prime minister.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Spirited Battle Over Data Centers",
-    "summary": "At the Climate Forward live event, policymakers, executives and activists debated the boom in data centers, the growing backlash and its environmental effects.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "In Trumpeting His Ballroom Project, Trump Has Used China as an Example",
-    "summary": "President Trump has repeatedly cited the Great Hall of the People in Beijing as inspiration and competition with his own design.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-ballroom-china-great-hall-beijing.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Abbas Presses Case for Palestinian State in Taped General Assembly Address",
-    "summary": "The Palestinian leader renewed his call for a two-state solution on Thursday, as he accused Israel of prosecuting “a genocidal war” against Palestinians.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   }
 ]
