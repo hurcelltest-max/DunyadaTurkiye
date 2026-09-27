@@ -1,5 +1,77 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Trump: Erwarte weitere Gespräche mit Iran",
+    "summary": "„Sie wollen ein Abkommen schließen“, so der US-Präsident +++ Iran stellt US-Unterwasserdrohne in der Straße von Hormus sicher +++ Trump lehnt iranischen Vorschlag für Waffenruhe ab +++ alle Entwicklun...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-trump-erwarte-weitere-gespraeche-mit-iran-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Wadephul: Mit Lawrow über Drohnen in Leipzig gesprochen",
+    "summary": "Außenminister: Wollte klarmachen, dass Deutschland sich wehren wird +++ Kiesewetter kritisiert Wadephuls Treffen mit Lawrow +++ Russland im Donbass unter Druck +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-mit-lawrow-ueber-drohnen-in-leipzig-gesprochen-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Streit geht weiter – CNN darf Trump nicht auf Reise begleiten",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Eskalation im Jemen: Jemeniten fliehen vor den Huthi bis nach Ostafrika",
+    "summary": "Die neu aufgeflammte Gewalt vergrößert die Not der Bevölkerung im Jemen. Zehntausende haben die Kampfgebiete verlassen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wie-die-bevoelkerung-im-jemen-unter-dem-krieg-leidet-201263667.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+    "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with CanadaThe CEO of a Michigan credit union is no longer employed there...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
+    "summary": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tipsOne is an authoritarian who represses the media and has a strong al...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”",
+    "summary": "Las autoridades iraníes acusaron a esta profesional, pendiente de un recurso, de espiar para Israel y Estados Unidos por cubrir para medios internacionales las protestas contra el régimen de enero",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
+    "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cau...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -826,77 +898,5 @@
     "summary": "Tote und Verletzte bei nächtlichen Angriffen in der Ukraine und in Russland ++++ Ukraine bittet die Partner um weitere 27 Milliarden Dollar +++ Putin zweifelt an Wiederaufnahme der Verhandlungen für e...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-russland-eskaliert-jeden-tag-faz-110683325.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump y Xi Jinping brindan por un mundo que ya no cabe en una sola superpotencia",
-    "summary": "Trump recibe a Xi con honores, vino histórico y una escultura del águila calva, mientras defiende que ambos representan sistemas distintos pero que \"los lazos entre nuestros pueblos perduran\" y que EE...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab5bd95fdddff2d038b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Irán confirma la condena a 74 latigazos de la cantante Parastoo Ahmadi por cantar sin velo en un concierto virtual",
-    "summary": "No podrá cantar ni salir del país durante los próximos dos años. Han sido condenados también cuatro músicos y cuatro personas&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab76f40e85ece53508b45b6.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump rechaza el plan de Irán para reabrir el estrecho de Ormuz en un plazo de siete días",
-    "summary": "Trump se muestra escéptico respecto a que Teherán cumpla sus exigencias y añade que considera probable nuevos bombardeos&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab761ace85ece0e4d8b458f.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong’s Paul Chan predicts positive market response to Xi-Trump summit",
-    "summary": "Hong Kong’s finance chief has predicted a positive market response to the Xi-Trump summit, saying the mitigation of geopolitical uncertainties will bolster investor confidence.\nFinancial Secretary Pau...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368886/hong-kongs-paul-chan-predicts-positive-market-response-xi-trump-summit?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "China and U.S. to open AI ‘communication channel’ after summit",
-    "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping discussed matters ranging from AI and trade to the stalled war in Iran.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-    "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   }
 ]
