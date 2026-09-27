@@ -1,5 +1,185 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+    "summary": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+    "summary": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+    "summary": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: USA lockern Spritsparvorgaben für Autos deutlich",
+    "summary": "Die Trump-Regierung kippt Vorgaben für Autos und Lastwagen aus der Biden-Ära. Das soll Neufahrzeuge billiger machen, schadet aber dem Klima.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-autos-sprit-trump-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "XI-Trump-Gipfel: Xi und auch Putin spielen Spielchen mit Trump",
+    "summary": "Wie seine Vorgänger wollte Trump sich eigentlich der chinesischen Herausforderung stellen. Doch der Präsident lässt sich umschmeicheln.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/donald-trump-und-china-warum-er-den-konflikt-scheut-201260349.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Europa se atrinchera frente a la guerra híbrida de Rusia",
+    "summary": "Los aliados europeos de Ucrania refuerzan su seguridad ante el aumento de los sabotajes y acciones hostiles del Kremlin",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-27/europa-se-atrinchera-frente-a-la-guerra-hibrida-de-rusia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Las obsesiones de Trump hunden a los republicanos en las encuestas de noviembre",
+    "summary": "Los sondeos dan la mayor ventaja hasta la fecha a los demócratas e indican que las prioridades del presidente no están en sintonía con las preocupaciones de los votantes",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-27/las-obsesiones-de-trump-hunden-a-los-republicanos-en-las-encuestas-de-noviembre.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump es un ‘loser’, un perdedor",
+    "summary": "El presidente de EE UU canta siempre victoria incluso en sus palmarias derrotas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Cómo Putin, Trump y Xi buscan que la UE fracase",
+    "summary": "La escalada de ataques rusos es inquietante; más aún si se lee en el contexto de las acciones de EE UU y China para torpedear a una Europa unida y fuerte",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-27/como-putin-trump-y-xi-buscan-que-la-ue-fracase.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Netanyahu y la víctima perpetua",
+    "summary": "Necesitamos un espacio común donde toda violencia pueda ser juzgada, también si la ejerce Israel",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-27/netanyahu-y-la-victima-perpetua.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La encrucijada de María Corina Machado: atrapada entre Washington y Caracas",
+    "summary": "Tras siete intentos fallidos de volver a su país, tres de ellos esta semana, la líder opositora está a un paso de romper con Trump, pero no lo da. Las promesas de retorno incumplidas desgastan su cred...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-09-27/la-encrucijada-de-maria-corina-machado-atrapada-entre-washington-y-caracas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel cambia aliados tradicionales por socios ideológicamente afines",
+    "summary": "El acuerdo con Marruecos para nombrar embajadores ilustra la política exterior de Netanyahu: actitud bronca, abierto cortejo de los ultras europeos y uso diplomático de la superioridad armamentística",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-27/israel-cambia-aliados-tradicionales-por-socios-ideologicamente-afines.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz",
+    "summary": "El presidente de Estados Unidos amenaza con nuevos bombardeos tras las elecciones de noviembre",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La visita de Xi Jinping a Trump: una “ventana de oportunidad” que deja pistas sobre la relación entre China y Estados Unidos",
+    "summary": "El encuentro entre los líderes de las dos principales potencias en Washington ha dejado imágenes de cercanía y disposición al entendimiento, sin dejar a un lado la permanencia de sus discrepancias de ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/videos/2026-09-26/la-visita-de-xi-jinping-a-trump-una-ventana-de-oportunidad-que-deja-pistas-sobre-la-relacion-entre-china-y-estados-unidos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La tormenta perfecta de vulnerabilidad europea que Vladimir Putin puede explotar",
+    "summary": "La Inteligencia europea adelanta los plazos de una posible acción rusa. El desprecio de Trump a la OTAN, la falta de munición y las crisis políticas abren una ventana de oportunidad para Rusia&nbsp;Le...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab6b852e4d4d84e738b45ab.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "'Operación nuevo orden': Así liquidó Israel al líder de Hizbulá, Hasan Nasrala",
+    "summary": "El jefe de la Sección de Operaciones del ejército israelí desvela a EL MUNDO detalles del ataque hace dos años contra el poderoso dirigente de Hizbulá en su búnker en Beirut&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/27/6ab6a20021efa0a5628b45dd.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "After U.S.-China summit, Trump says Xi ‘understands’ his position on Taiwan",
+    "summary": "Trump did not indicate any shift in Washington's position, despite Xi's explicit call at the summit for the U.S. to \"oppose\" Taiwan independence.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/27/asia-pacific/politics/trump-china-xi-taiwan-understands/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+    "summary": "Tehran said it would grant no concessions over its rights, including enriching uranium or shipping it uranium out of the country.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/iran-trump-rejects-peace-plan/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "At U.N., Russia and Germany’s top diplomats hold first talks since 2022",
+    "summary": "The ministers discussed bilateral ties and the war in Ukraine, officials from both sides said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/russia-germany-top-diplomats-talks/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Takaichi says Trump gave her ‘detailed’ briefing on U.S.-China summit",
+    "summary": "Xi's state visit to Washington has left Tokyo concerned that Beijing could seek to bolster its narrative against Japan.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/us-japan-takaichi-trump-china/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -718,185 +898,5 @@
     "summary": "",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/krieg-in-der-ukraine-vorschlag-fuer-dreiertreffen-li.3554071"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Weltordnung: Xi und Trump schweigen zu KI",
-    "summary": "Bei ihrem Gipfel sprechen die Präsidenten Chinas und der USA den brisanten Wettlauf um die Zukunftstechnologie nicht an. Dabei werden die Forderungen nach Risikomanagement immer lauter.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-china-ki-wettlauf-kontrolle-risiken-li.3553805"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: USA, Ukraine und Russland sollen sich in den VAE treffen",
-    "summary": "Das sollen die USA vorgeschlagen haben, wie Selenskij berichtet. Nach russischen  Angaben könnte das Dreiertreffen bald stattfinden.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-selenskij-vae-usa-treffen-li.3549696"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: Dubai stellt Flugverkehr nach Iran ein",
-    "summary": "Luftfahrtbehörde verweist auf US-Sanktionen +++ Kolumbien bricht diplomatische Beziehungen zu Iran ab +++ Iran wohl zur Herausgabe hochangereicherten Urans bereit +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-dubai-stellt-flugverkehr-nach-iran-ein-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Putins Hybrider Krieg: Die russischen Anschläge zielen auf die deutsche Kampfmoral",
-    "summary": "Die Wahlerfolge der AfD dürften Putin darin bestärken, seinen „hybriden“ Krieg gegen Deutschland fortzusetzen. Er liefert seinen nützlichen Idioten damit Munition.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/russische-anschlaege-zielen-auf-deutschlands-kampfmoral-201263029.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kolumbiens Kurswechsel: Bogotá bricht mit Teheran",
-    "summary": "Kolumbiens neue Regierung richtet die Außenpolitik neu aus. Der Bruch mit Iran passt zur Annäherung an Israel und die Vereinigten Staaten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/kolumbien-bricht-diplomatische-beziehungen-zu-iran-ab-accg-201262634.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Banished to alien lands: Trump’s secret deportation deals",
-    "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy dea...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
-    "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issuesKey takeaways from the Trump-Xi summit in WashingtonIf the Beijing meeting between Donald...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-    "summary": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and tradeXi Jinping has called for extensive cooperation with Washington ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam",
-    "summary": "Former Yes musician plays at sanctuary to raise awareness of animals that remain stuck in cages at ‘bile farms’ Rick Wakeman has played to all kinds of people around the globe, but he has now performe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-    "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI raceWhen the Australian prime minister, Anthony Albanese, sat down for an interview ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-    "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a “paradise of machines” as he ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Irán envía a Estados Unidos un plan para la reapertura del estrecho de Ormuz en siete días",
-    "summary": "El ministro de Exteriores, Abbas Araqchi, condiciona el desbloqueo de la ruta marítima a que Washington vuelva a los compromisos del memorando de junio",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-25/iran-envia-a-estados-unidos-un-plan-para-la-reapertura-del-estrecho-de-ormuz-en-siete-dias.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El Comité Electoral de Israel aprueba excluir a todos los partidos árabes de los comicios de octubre",
-    "summary": "El organismo rechaza las peticiones de impedir que concurran varias formaciones judías. La decisión será previsiblemente tumbada por el Tribunal Supremo",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/el-comite-electoral-de-israel-aprueba-excluir-a-todos-los-partidos-arabes-de-los-comicios-de-octubre.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "\"La trampa de Tucídides puede ser evitada\": Trump recibe a Xi Jinping con pompa y circunstancia para tapar las tensiones entre las dos superpotencias",
-    "summary": "El estadounidense se vuelca apostando por la química personal para forjar \"una verdadera amistad\", pero el chino se limita a hablar de la importancia de la \"estabilidad estratégica\"&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab53e72e85ecef07b8b45ae.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El presidente palestino, Abu Mazen, ante la Asamblea General de la ONU: \"No abandonaremos nuestra patria. No dejaremos que nadie decida nuestro futuro en nuestro nombre\"",
-    "summary": "El presidente de la Autoridad Palestina denuncia que la violencia de los colonos israelíes en Cisjordania avanza hacia la \"limpieza étnica y el terrorismo de Estado\"&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab52a04e85ece264d8b45db.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Police arrest 3 over HK$70,000 Jellycat claw machine shop theft",
-    "summary": "Hong Kong police have arrested three men suspected of using crowbars to steal popular Jellycat dolls and other plush toys worth about HK$70,000 (US$8,923) from a claw machine shop to resell them.\nThe ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368859/police-arrest-3-over-hk70000-jellycat-claw-machine-shop-theft?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "HK Electric to cut fuel charge for first time in 4 months as CLP raises rate",
-    "summary": "HK Electric customers are set to pay less for electricity in October after the Hong Kong supplier cut its fuel charge for the first time in four months, but it warned that international energy prices ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3368847/hk-electric-cut-fuel-charge-first-time-4-months-clp-raises-rate?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
-    "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
-    "summary": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
-    "summary": "Executives from a Russian-owned company are accused of misrepresentation in order to secure U.S. government contracts.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html"
   }
 ]
