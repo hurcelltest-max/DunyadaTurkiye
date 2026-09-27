@@ -3,6 +3,195 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
+    "summary": "British counterterrorism police said the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
+    "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+    "summary": "The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials sai...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
+    "summary": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rebuff might not be a final position.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "You Get an Eagle, and You Get an Eagle: Xi Takes Home Trump’s Go-To Gift",
+    "summary": "The president has often reached for statues of the national bird on diplomatic occasions in his second term. (Ronald Reagan favored them, too.)",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/09/25/world/americas/trump-bald-eagle-gift-xi.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Volksabstimmung: Schweizer lehnen Abschottung durch strikte Neutralität ab",
+    "summary": "Die Initiative „Pro Schweiz“ wollte Sanktionen gegen Kriegsparteien verhindern. Doch die Mehrheit setzt auf internationale Zusammenarbeit.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/schweiz-volksabstimmung-neutralitaet-krieg-sanktionen-li.3554734"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Abgeriegelte Frontstadt Oleschky erhält Lebensmittel aus der Luft",
+    "summary": "Ukrainische Truppen haben mit Lastdrohnen vier Tonnen Lebensmittel in die Stadt gebracht. Seit Monaten ist die Frontstadt mit 2000 Menschen auf russischem Besatzungsgebiet abgeriegelt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lebensmittel-oleschky-lastdrohnen-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Gazastreifen: Israel meldet Tötung von Hamas-Kommandeur",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/gazastreifen-israel-meldet-toetung-von-hamas-kommandeur-li.3554729"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Terrorverdacht: Festnahmen nahe US-genutzter Militärbasis in Großbritannien",
+    "summary": "Die britische Regierung hatte den USA die Genehmigung erteilt, von dem Stützpunkt aus Angriffe auf iranische Raketenstellungen zu fliegen. Am Sonntag gab es dann einen Polizeigroßeinsatz. Fünf Männer ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/polizei-vorfall-fairford-militaerstuetzpunkt-li.3554649"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Äthiopien: Die Rückkehr des Krieges nach Tigray",
+    "summary": "Vier Jahre nach Ende des Bürgerkrieges wird wieder gekämpft in Äthiopien. Manches ist wie damals, manches ganz anders. Lässt sich dieser Krieg aufhalten, bevor er richtig losgeht?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/afrika-aethiopien-krieg-tigray-li.3553882"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Trotz Mekka-Pakts: Warum die Türkei keine Truppen nach Riad schickt",
+    "summary": "Saudi-Arabien drängt seine Bündnispartner zu militärischer Unterstützung im Konflikt gegen die Huthi. Pakistan zeigt sich willig. Doch Ankara hält sich bedeckt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/warum-die-tuerkei-bei-militaerhilfe-fuer-riad-zoegert-201263205.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Iran: US-Unterwasserdrohne in der Straße von Hormus sichergestellt",
+    "summary": "Iranische Spezialisten sollen nun Daten sichern +++ Trump: Habe iranischen Vorschlag für Waffenruhe abgelehnt +++ UN verurteilt Angriffe der Huthi-Miliz auf Saudi-Arabien +++ Dubai stellt Flugverkehr ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-us-unterwasserdrohne-in-der-strasse-von-hormus-sichergestellt-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Kiesewetter kritisiert Wadephuls Treffen mit Lawrow",
+    "summary": "CDU-Politiker: Telefonat wäre klüger gewesen +++ SPD-Außenpolitiker Stegner lobt Wadephul für Gespräch mit Lawrow +++ Russland im Donbass unter Druck +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kiesewetter-kritisiert-wadephuls-treffen-mit-lawrow-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Xi Jinping bei Trump: Es geht nur noch darum, wie der Konflikt geführt wird",
+    "summary": "Xi bei Trump: Die Schmeicheleien überdecken, dass der Konflikt unvermeidbar ist",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/xi-bei-trump-der-konflikt-ist-unvermeidbar-201254810.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "At least 27 dead after two mass shootings in South Africa, police say",
+    "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+    "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+    "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governmentsTwo giant pandas departed Chengdu in south-western China early on Sunday for their new hom...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
+    "summary": "‘People care about the songs, books and pictures that influence the critical moments in their lives,’ says the architect of the fightback in the UKGet our breaking news email, free app or daily news p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump y Xi sellan su ‘entente cordiale’ tras tres días de gran pompa y escasa sustancia",
+    "summary": "Los presidentes de China y Estados Unidos volverán a reunirse en sus respectivos países en noviembre y diciembre, según ha confirmado el inquilino de la Casa Blanca",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-25/trump-y-xi-sellan-su-entente-cordiale-tras-tres-dias-de-gran-pompa-y-escasa-sustancia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Detenidos cinco hombres con explosivos cerca de una base británica utilizada por el ejército estadounidense: \"Querían causar grandes daños\"",
+    "summary": "Trump señala que los sospechosos estaban en el punto de mira de Estados Unidos \"desde hacía mucho tiempo\"&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/09/27/6ab8ceeffc6c83dc348b4570.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japanese film ‘Muyou no Hito’ wins International Critics Award",
+    "summary": "The film \"Muyou no Hito\" will be released in Japan next January.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/09/27/japan/japanese-film-wins-critics-award/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
     "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
     "timeAgo": "En Guncel (API)",
@@ -709,194 +898,5 @@
     "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
-    "summary": "Trump hat ein Problem mit Berichterstattung, die ihm nicht gefällt. Nachdem Reporter mancher Medien zeitweise nicht ins Weiße Haus durften, folgt nun die nächste Machtprobe des US-Präsidenten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-zugang-tennessee-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: Trump lehnt Waffenruhe mit Iran laut Medienbericht ab",
-    "summary": "Irans Außenminister: Entscheidung liegt bei den USA +++ UN verurteilt Angriffe der Huthi-Miliz auf Saudi-Arabien +++ Dubai stellt Flugverkehr nach Iran ein +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-lehnt-waffenruhe-mit-iran-laut-medienbericht-ab-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Ukraine bittet die Partner um weitere 27 Milliarden Dollar",
-    "summary": "Selenskyj: USA gibt grünes Licht für Patriot-Produktion +++ Putin zweifelt an Wiederaufnahme der Verhandlungen für ein Kriegsende +++ Putin: Russland bereitet sich „nicht auf irgendeine Art von Kampf ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-bittet-die-partner-um-weitere-27-milliarden-dollar-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Streit geht weiter – CNN darf Trump nicht auf Reise begleiten",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Antisemitismus: Am Brandenburger Tor zur Hölle",
-    "summary": "Die SPD will dem Antisemitismus „keinen Millimeter“ Platz geben. Dann müsste sie eine Koalition mit der Linkspartei in Berlin rundweg ablehnen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/spd-und-linke-am-brandenburger-tor-zur-hoelle-201255449.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
-    "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with CanadaThe CEO of a Michigan credit union is no longer employed there...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
-    "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutionsA group of 31 Democratic members of the US Congress has sent a letter to the secretary of sta...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
-    "summary": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tipsOne is an authoritarian who represses the media and has a strong al...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”",
-    "summary": "Las autoridades iraníes acusaron a esta profesional, pendiente de un recurso, de espiar para Israel y Estados Unidos por cubrir para medios internacionales las protestas contra el régimen de enero",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”",
-    "summary": "El primer ministro israelí, que se juega su futuro el próximo mes en las elecciones, lanza un mensaje de dureza frente a las críticas. Abbas denuncia una “limpieza étnica” contra los palestinos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Sanders, Ocasio-Cortez y casi 30 congresistas reclaman a Trump que no interfiera en las elecciones de Brasil",
-    "summary": "Demócratas estadounidenses piden a su Gobierno que reconozca el resultado oficial de los comicios que disputan Lula y Bolsonaro hijo",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-09-24/sanders-ocasio-cortez-y-casi-30-congresistas-reclaman-a-trump-que-no-interfiera-en-las-elecciones-de-brasil.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Siete candidatos, algún tapado y cinco vetos: la batalla por el próximo secretario general de la ONU entra en su fase decisiva",
-    "summary": "Rebeca Grynspan y Carolyn Rodrigues-Birkett parecen ser las mejor situadas, pero los movimientos entre Pekín y Washington, como en el pasado, decidirán el resultado&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/26/6ab6b73b21efa0e4148b4595.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El Supremo de EEUU autoriza una base de datos del gobierno de Trump para verificar la nacionalidad de los votantes",
-    "summary": "La resolución llega a menos de 90 días de los comicios, un plazo en el que la ley federal prohíbe purgas masivas en los censos&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/25/6ab6c1adfdddffc6208b45d9.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Francia pone en marcha un plan frente a la \"guerra híbrida\" de Rusia",
-    "summary": "El Ministerio del Interior galo imparte órdenes para proteger las infraestructuras críticas, mientras crece la preocupación por las \"injerencias extranjeras\" en la campaña presidencial&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/09/24/6ab5231ae9cf4ab02f8b45c4.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
-    "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cau...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
-    "summary": "Prime Minister Sanae Takaichi is believed to be seeking a call with U.S. President Donald Trump to dispel Tokyo's concerns.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump rejects Iranian peace proposal, report says",
-    "summary": "U.S. President Donald Trump told aides he expects to resume bombing after November congressional elections.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/trump-rejects-iranian-peace-proposal/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump administration to meet Ukraine assistance deadline",
-    "summary": "As of early this week, $307 million of the $400 million of the Ukraine Security Assistance Initiative funding had been obligated, sources said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/trump-meet-ukraine-assistance-deadline/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "TV networks resume covering White House as press access fight continues",
-    "summary": "Trump last week banned CNN, MS NOW and Politico from the White House, before a judge ordered the administration to restore their access.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/tv-networks-white-house-coverage/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "China pushes to fill Trump’s void across range of U.N. activities",
-    "summary": "As U.S. President Donald Trump withholds millions of dollars in U.S. dues and pulls out of dozens of agencies, China is filling the gap.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/asia-pacific/politics/china-trump-un-activities/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Xi seizes Trump detente to seek lasting gains on trade and Taiwan",
-    "summary": "Underneath many of U.S. President Donald Trump's grand gestures at his summit with Xi Jinping, there were signs of the limits to their relationship.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/xi-trump-us-china-focus/"
   }
 ]
