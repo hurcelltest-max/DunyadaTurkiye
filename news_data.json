@@ -1,5 +1,176 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Musk soll für Pentagon „Zukunft der Kriegsführung“ erforschen",
+    "summary": "US-Verteidigungsminister Pete Hegseth will „mit einem kreativen Blick auf die Zukunft schauen“ – und sieht in Elon Musk den richtigen Mann, um autonome Kriegsführung weiterzuentwickeln.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Flydubai-Maschine: Netanjahu nennt den angegriffenen Piloten einen „wahren Helden“",
+    "summary": "Der Flug von Dubai nach Tel Aviv ist offenbar nur knapp einer Katastrophe entronnen, Israel spricht von einem Terroranschlag. Nun werden immer mehr Details dazu bekannt, was sich im Cockpit abspielte.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/nach-notlandung-von-flydubai-maschine-netanjahu-nennt-angegriffenen-piloten-einen-wahren-helden-accg-201278451.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: NATO verurteilt russische Gewaltandrohung „aufs Schärfste“",
+    "summary": "Russland warnt in Brief vor möglichen Angriffen auf Mitgliedstaaten +++ Tote in Sumy bei Angriff mit Gleitbomben +++ Ukrainischer Verteidigungsminister sagt Besuch in Deutschland ab +++ alle Neuigkeit...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Angriffe der Huthi: Trump wird es nicht für die Europäer richten",
+    "summary": "Die Handelsschifffahrt im Roten Meer braucht mehr Schutz. Den müssen die Europäer schon selbst stellen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/huthi-angriffe-trump-wird-es-nicht-fuer-europa-richten-201269778.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "At least 27 dead after two mass shootings in South Africa, police say",
+    "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australia at risk from major global financial shock, Reserve Bank warns",
+    "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worthFollow our Australia news live blog for latest updatesGet our breaking news email, free app...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
+    "summary": "Un piloto apuñala al otro y los pasajeros logran evitar un desastre. Israel quiere intensificar los controles de los pilotos que vuelen al país tras el “intento de atentado yihadista”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-02/panico-a-bordo-del-vuelo-fz1073-con-destino-a-tel-aviv-acabamos-de-neutralizar-al-terrorista-necesitamos-ayuda.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Algo se mueve en Ormuz: el tránsito de petroleros roza las cifras preguerra",
+    "summary": "El flujo de crudo por esta arteria clave de la energía mundial se recupera con fuerza, pero los ataques a buques continúan e impiden que el precio del crudo descienda",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-01/algo-se-mueve-en-ormuz-el-transito-de-petroleros-roza-las-cifras-preguerra.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Japón refuerza alianzas militares en el Pacífico mientras Trump suaviza el tono con Pekín",
+    "summary": "Tokio afianza acuerdos de defensa con Australia e India frente a lo que considera incursiones en su territorio de China y Rusia",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-01/japon-refuerza-alianzas-militares-en-el-pacifico-mientras-trump-suaviza-el-tono-con-pekin.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología",
+    "summary": "El presidente de Estados Unidos asegura que nunca frenará el desarrollo de la IA porque quiere ganar la carrera a China",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-29/trump-apuesta-por-que-las-empresas-de-ia-se-autorregulen-para-evitar-el-descontrol-de-la-tecnologia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ilya Ponomarev, disidente ruso: \"Me han intentado matar nueve veces. Me persiguen en Kiev, EEUU y Europa. Estoy en guerra\"",
+    "summary": "Admite que la descripción de los dos inmuebles encaja con él, porque posee dos casas en Washington. Conoce detalles de la investigación estadounidense, pero asegura que no puede hacer comentarlos ni c...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/01/6abd1725fdddffe30f8b458a.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Retailers expect ‘golden week’ sales growth, but trade groups warn of modest gains",
+    "summary": "Some Hong Kong retailers are forecasting double-digit sales growth over the National Day “golden week” holiday, but industry leaders have warned that the expected influx of mainland Chinese visitors m...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369384/retailers-expect-golden-week-sales-growth-trade-groups-warn-modest-gains?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump says he raised case of Hong Kong’s Jimmy Lai with Xi",
+    "summary": "The U.S. president was under pressure to raise high-profile humanitarian cases when he met with the Chinese leader in Washington last week.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/trump-hong-kong-jimmy-lai-xi/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.K. PM says ‘strong indications’ Iran involved in airbase incident",
+    "summary": "Iran's embassy in London earlier said it \"categorically rejects and strongly condemns\" speculation it was involved in the incident near RAF Fairford.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/uk-pm-iran-airbase-incident/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump unveils $200 billion South Korean investment in U.S. projects",
+    "summary": "Trump said the investment will include the construction of nuclear power plants, an LNG pipeline in Alaska and a power generation facility in Texas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/trump-200-billion-south-korea-investment/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
+    "summary": "\"If Europe attacks Russia, it will be a completely different sort of war — a very short war,\" said a Russian Foreign Ministry spokesperson.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/russia-nuclear-nato-baltic/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+    "summary": "After passengers and crew overpowered the co-pilot, a second pair of pilots aboard the flight landed the jet safely in Tabuk, Saudi Arabia.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/dubai-tel-aviv-flight-co-pilot-stabs/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Abu Dhabi’s crown prince is spending billions to bypass Iran’s grip on Hormuz",
+    "summary": "Abu Dhabi's sovereign wealth fund is likely to spend tens of billions of dollars on new port infrastructure outside the embattled strait, sources say.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/abu-dhabi-prince-iran-hormuz/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Joy mixed with fear as U.S. forces depart Iraq leaving potential security vacuum",
+    "summary": "The withdrawal of troops ended the largest U.S. war of the century, which brought devastation and chaos from which Iraq has yet to fully emerge.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/us-forces-iraq-security-vacuum/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -727,176 +898,5 @@
     "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zu KI: Trump und Tech-Chefs unterschreiben „moralisch bindendes“ KI-Dokument",
-    "summary": "Der US-Präsident spricht gar von einer Art „Verfassung“ und stellt mehr nationale Aufsicht für die Branche in Aussicht. Internationale KI-Regeln lehnt er weiter ab.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-open-trump-ki-verfassung-ai-chat-gpt-sicherheitsbedenken-li.3547133"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Oberster Gerichtshof erlaubt vorerst wieder Abschiebungen in Drittstaaten",
-    "summary": "Die US-Regierung schob Menschen in Länder ab, die nicht ihre Heimat sind – ohne die Chance auf Einwände. Der Rechtsstreit über diese Praxis geht nach einem Etappensieg für US-Präsident Trump weiter.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-supreme-court-drittstaaten-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Neukölln: Links, linker, Neukölln",
-    "summary": "Es gibt die Linke Berlin, und als eine Art Steigerung gibt es noch die Linke Neukölln. Seit ihrem Wahlsieg hört man über sie alle nur das Schlechteste. Zeit, mal hinter all die Warnungen und Beleidigu...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/neukoelln-die-linke-elif-eralp-berlin-clankriminalitaet-antisemitismus-e061164/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: USA verhängen Sanktionen gegen Unterstützer Irans",
-    "summary": "Die Personen und Organisationen sollen Waffenteile für das iranische Verteidigungsministerium beschafft haben +++ Teheran warnt eigene Bevölkerung vor Energieengpässen +++ Trump dementiert Bericht übe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-verhaengen-sanktionen-gegen-unterstuetzer-irans-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Führungskräfte von KI-Unternehmen verpflichten sich zur Selbstkontrolle",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-fuehrungskraefte-von-ki-unternehmen-verpflichten-sich-zur-selbstkontrolle-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Anstieg der Ausgaben: Putins Krieg wird für die Russen immer teurer",
-    "summary": "Moskau will den Verteidigungsetat im Haushaltsentwurf kräftig ausweiten. Die Russen müssen sich auf weitere Belastungen einstellen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/russlands-kriegskosten-wladimir-putins-teurer-feldzug-201271961.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Gipfel mit Xi: Plauderte Trump so vor sich hin?",
-    "summary": "In Taiwan hofft man, dass Trump endlich einem Rüstungsdeal seine Zustimmung erteilt. Stattdessen wird in Washington über Waffenverkäufe an China geredet.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/waffenverkaeufe-trump-dementiert-angebot-an-peking-201272371.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
-    "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persistsHurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat o...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-    "summary": "David Perdue’s remarks come after a Taiwanese minister spoke of the ‘severe’ military threat posed by Beijing to the self-ruled islandDonald Trump offered to sell weapons to China while hosting its le...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "From One Nation to fossil fuels, Adam Bandt and Bob Brown reveal vision for Greens ahead of leadership showdown",
-    "summary": "No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One NationFollow our Australia news live blog for latest updatesGet our...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
-    "summary": "President of Marine Le Pen’s far-right party faces calls to resign over comments he allegedly wrote as a teenagerJordan Bardella, the head of Marine Le Pen’s far-right National Rally (RN), has claimed...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-    "summary": "European and Nato leaders express support for Estonia after August attack on manufacturer in TallinnEurope live – latest updatesEuropean and Nato leaders have expressed full support for Estonia and Uk...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Tres soldados israelíes sobre Gaza: “Llegó un momento en que ya no parecía tan grave matar a decenas de personas”",
-    "summary": "Los militares refuerzan los testimonios del documental ‘NAZA’ sobre los daños colaterales de la guerra. Decidieron hablar tras las críticas al filme en su país",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-29/tres-soldados-israelies-sobre-gaza-llego-un-momento-en-que-ya-no-parecia-tan-grave-matar-a-decenas-de-personas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Claves de Fairford | ¿Qué se sabe del supuesto plan de atentado contra la base en Reino Unido?",
-    "summary": "Estados Unidos, cuyos bombarderos también utilizan la instalación, atribuye el intento a un actor extranjero e Irán niega cualquier implicación",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-29/claves-de-fairford-que-se-sabe-del-supuesto-plan-de-atentado-contra-la-base-en-reino-unido.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Más republicanos alertan del “error” que representa la nominación de Paxton y creen que perderán el puesto en el Senado por Texas",
-    "summary": "Las elecciones de medio término están a un mes de celebrarse y, pese a los esfuerzos del presidente Trump por impulsar al fiscal general, no logra despegar en las encuestas ante su contrincante demócr...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-29/mas-republicanos-alertan-del-error-que-representa-la-nominacion-de-paxton-y-creen-que-perderan-el-puesto-en-el-senado-por-texas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "“Esta es la batalla final”: Trump publica un nuevo anuncio pagado por los contribuyentes",
-    "summary": "La Casa Blanca defiende el comercial como un mensaje de servicio público, mientras algunos legisladores y organizaciones cuestionan el uso de fondos públicos para ello",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-28/esta-es-la-batalla-final-trump-publica-un-nuevo-anuncio-pagado-por-los-contribuyentes.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Dare to try: A visibly rewarding creative journey into Disney",
-    "summary": "[The content of this article has been produced by our advertising partner.]\nInside Chloe Tong Tsam-yu’s sketchbook is a world of her own making, populated by characters with distinct personalities and...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/hkmu-disney-magic/article/3369005/dare-try-visibly-rewarding-creative-journey-disney?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
-    "summary": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The Migrants Being Shipped Back to a War Zone",
-    "summary": "Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html"
   }
 ]
