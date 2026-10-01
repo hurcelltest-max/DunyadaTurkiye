@@ -1,5 +1,230 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+    "summary": "The trends pushing up yields, including the war in Iran and high government debt levels, are unlikely to dissipate soon.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "How fraught Middle East geopolitics could complicate FlyDubai investigation.",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/how-fraught-middle-east-geopolitics-could-complicate-flydubai-investigation"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Präsidentschaftswahl: Brasilien ist das letzte Puzzlestück für Trump",
+    "summary": "Mit Brutalität und wirtschaftlichem Druck hat sich der US-Präsident weite Teile Lateinamerikas gefügig gemacht. Nun hofft er auf einen Sieg des ultrarechten Flávio Bolsonaro.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/wahl-brasilien-lula-bolsonaro-trump-li.3556383"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Auf dem Weg nach Tel Aviv: Wie Flug FZ1073 nur knapp der Katastrophe entkam",
+    "summary": "Gut 180 Passagiere eines Flydubai-Flugs nach Tel Aviv sind wohl gerade so einer Entführung entgangen. Videos zeigen Verletzte an Bord und die Angst der Passagiere. Israels Regierung spricht von Terror...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-katastrophe-li.3556670"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ideas: The Two-Year Temper Tantrum to Come",
+    "summary": "Trump’s recent kerfuffle with the press is a preview of his next era.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/the-two-year-temper-tantrum-to-come-e042894/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: USA verhängen Sanktionen gegen Unterstützer Irans",
+    "summary": "Unternehmen und Personen aus China und Saudi-Arabien betroffen +++ Teheran warnt eigene Bevölkerung vor Energieengpässen +++ Trump dementiert Bericht über Sanktionserleichterungen für Iran +++ alle En...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-verhaengen-sanktionen-gegen-unterstuetzer-irans-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Drohnen treffen Schule und Atomforschungsanlage in Kiew",
+    "summary": "Selenskyj: „Russische Bastarde greifen Leben unseres Landes an“ +++ Russland weist ungarische Diplomaten aus +++ Wadephul will „partielle Waffenruhe“ für Getreideexport +++ alle Neuigkeiten im Liveblo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-drohnen-treffen-schule-und-atomforschungsanlage-in-kiew-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Frau überlebt versuchte Hinrichtung mit Giftspritze",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-frau-ueberlebt-versuchte-hinrichtung-mit-giftspritze-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
+    "summary": "Diehard Hugo Chávez supporters struggle to comprehend ideological U-turn being executed by Delcy Rodríguez’s interim administrationHe was one of the most passionate propagandists for Hugo Chávez’s Bol...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+    "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persistsHurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat o...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australian couple on plane diverted after flydubai pilot’s alleged attack on co-pilot",
+    "summary": "Two people from Sydney were on board flight to Tel Aviv that was dramatically diverted to Saudi Arabia after one pilot allegedly stabbed the otherFollow our Australia news live blog for latest updates...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed",
+    "summary": "Major Sydney hospital also warns recent injuries from ebikes include fractures, internal bleeding, as well as ‘perforation of certain organs’Get our breaking news email, free app or daily news podcast...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/01/this-is-where-ebikes-go-to-die-first-ebikes-seized-under-new-laws-crushed"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Russia ‘poses rapidly increasing threat’ to Nato, warns Dutch prime minister – Europe live",
+    "summary": "Rob Jetten says that European countries are working closer together on intelligence ‘to an unprecedented level’ to combat threatsThe ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ukraine persists with Russian oil refinery strikes, defying Trump on fuel price warnings",
+    "summary": "Kyiv’s long-range strikes are headache for Trump before crucial midterms, while analysts’ claim war in Iran is responsible for rising pricesEurope live – latest updatesUkraine is pressing on with stri...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
+    "summary": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese importsDrivers have been warned that the smart features built into modern cars such as micr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
+    "summary": "Un piloto apuñala al otro y los pasajeros logran evitar un desastre. Israel quiere intensificar los controles de los pilotos que vuelen al país tras el “intento de atentado yihadista”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-01/panico-a-bordo-del-vuelo-fz1073-con-destino-a-tel-aviv-acabamos-de-neutralizar-al-terrorista-necesitamos-ayuda.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Cautela y silencio en los países del Golfo tras el “incidente” en el vuelo de Flydubai con destino a Israel",
+    "summary": "La Fiscalía de Emiratos Árabes Unidos investigará si la agresión de uno de los pilotos tuvo un “trasfondo terrorista” y pide no difundir “información no comprobada”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-01/cautela-y-silencio-en-los-paises-del-golfo-tras-el-incidente-en-el-vuelo-de-flydubai-con-destino-a-israel.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "¿Se le acabó la suerte a Trump? Ahora, quién seduce al voto latino",
+    "summary": "Si los demócratas confunden el voto castigo con lealtad, cometerán el mismo error que el republicano",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-01/se-le-acabo-la-suerte-a-trump-ahora-quien-seduce-al-voto-latino.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump sale al rescate de los republicanos para las ‘midterms’ pero Paxton duda sobre su efectividad",
+    "summary": "Mientras que el presidente anuncia un tour de 32 días de campaña, el fiscal general y candidato republicano al Senado por Texas admite en un audio que la convención de Dallas perjudicó al partido, seg...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-01/trump-sale-al-rescate-de-los-republicanos-para-las-midterms-pero-paxton-duda-sobre-su-efectividad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Los demócratas recuperan terreno entre el electorado latino de cara a las midterms",
+    "summary": "Una encuesta señala que el partido reconquistará entre seis y 10 puntos del voto hispano que apoyó a Trump en 2024, mientras que más de 200 líderes bipartidistas piden a Trump la legalización de migra...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-09-30/los-democratas-recuperan-terreno-entre-el-electorado-latino-de-cara-a-las-midterms.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Uno de los pasajeros del vuelo de Flydubai a EL MUNDO: \"Fue aterrador, pero mantuvimos la sangre fría\"",
+    "summary": "El israelí Almog Italie cuenta los angustiosos momentos del vuelo de Dubái a Tel Aviv y elogia al capitán y pasajeros que evitaron una tragedia en el avión desviado a Arabia Saudí&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe4778e9cf4a002a8b45a4.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Elon Musk trabajará en el diseño de las futuras guerras de EEUU",
+    "summary": "El Project Meridian, que según Pete Hegseth reúne a \"tres de las mentes más brillantes de la nación\", tiene previsto operar durante 120 días&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe376bfdddff8b0a8b4589.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El testimonio de un italo-israelí en el vuelo de FlyDubai: \"Los gritos, la sangre... Cogí los cables de los auriculares para atar al hombre\"",
+    "summary": "Daniel Schlichter, de 60 años, y su esposa ocupaban la fila número 2 del vuelo de la compañía aérea FlyDubai que se vio obligado a aterrizar en Arabia Saudí después de un intento de secuestro&nbsp;Lee...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe0700fdddff1f778b45a0.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Health chief warns overstated claims of job shortages could lead to fewer new nurses",
+    "summary": "Hong Kong’s health minister has warned that the city will need to “bear the consequences” of exaggerating concerns over the employment prospects of nurses, as such remarks could deter new blood from j...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369431/health-chief-warns-overstated-claims-job-shortages-could-lead-fewer-new-nurses?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Bangladesh warns dengue outbreak could worsen after deadly September",
+    "summary": "The warning is piling pressure on hospitals already fighting the world's worst measles outbreak.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/bangladesh-dengue-outbreak-worsening/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -673,230 +898,5 @@
     "summary": "El presidente de EEUU sitúo está medida dentro de una estrategia para acelerar el uso de sistemas avanzados en áreas como la investigación científica, la medicina, la energía y la industria&nbsp;Leer",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/09/30/6abc9a3921efa0ba578b45bc.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong to expand IP financing sandbox after 7 firms secure cheaper loans",
-    "summary": "The Hong Kong government has pledged to expand its intellectual property (IP) financing sandbox scheme by adding more banks and enterprises, after seven corporate users found that a nine-month trial h...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369312/hong-kong-expand-ip-financing-sandbox-after-7-firms-secure-cheaper-loans?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "China’s shift to electric trucks offers resilience as diesel prices rise",
-    "summary": "E-truck sales surged almost 80% in the first half from a year earlier, amid the U.S.-Iran war and Ukrainian attacks on Russian refineries.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/30/tech/china-ev-global-diesel/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Suntory’s collaborative approach to water stewardship",
-    "summary": "The region comprising the city of Kumamoto and 10 surrounding municipalities is a rare example of an area where the tap water for approximately 1 million residents is sourced almost entirely from grou...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/esg-consortium/2026/09/30/suntorys-collaborative-approach-to-water-stewardship/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. forces exit Iraq, emboldening Iran’s proxies and Islamic State",
-    "summary": "The departure, celebrated as a victory by Tehran and its allies, was agreed in 2024 under President Biden and carried out by the Trump administration.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/us-forces-iraq-iran-islamic-state/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Polar oceans transformed as warming melts ice habitats, research shows",
-    "summary": "As temperatures rise, Arctic sea ice has shrunk by nearly half a million square kilometers per decade since 1979.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/environment/2026/09/30/climate-change/polar-oceans-warming-ice-habitats/"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
-    "summary": "Capital city submerged in waist-high flood water, while elsewhere Hurricane Nolo threatens Hawaii’s Big IslandBangkok was declared a disaster zone by its city officials towards the end of last week, a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
-    "summary": "Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%Inflation has jumped to 4% in the year to August, from 3.5%, as Jim C...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Beau Lamarre-Condon trial: crime scene photos paint harrowing picture of alleged murder victims’ final moments",
-    "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in early 2024Warning: graphic contentFollow our Australia news live blog for latest updatesGet our breaking news e...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/crime-scene-photos-released-in-beau-lamarre-condon-double-murder-trial-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Missile alerts cost Ukraine $45m for every hour they halt businesses",
-    "summary": "Figure cited by minister highlights trade-offs Kyiv faces as it tries to keep normal life moving amid Russian strikesMissile alerts are costing Ukraine an estimated $45m (£34m) for every hour they bri...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La guerra civil en Etiopía amenaza con saltar más allá de sus fronteras",
-    "summary": "Adís Abeba acusa a Eritrea, Sudán y Egipto de prestar apoyo a los rebeldes de Tigray y a sus aliados",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-30/la-guerra-civil-en-etiopia-amenaza-con-saltar-mas-alla-de-sus-fronteras.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Uno de los cinco detenidos cerca de la base británica de Fairford llamó él mismo a la policía antes de su detención",
-    "summary": "Trump vuelve a expresar su “decepción” por la puesta en libertad bajo fianza  de los sospechosos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-09-29/uno-de-los-cinco-detenidos-cerca-de-la-base-britanica-de-fairford-llamo-el-mismo-a-la-policia-antes-de-su-detencion.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Quebec separatists tipped to win Canada regional vote",
-    "summary": "The rise defies Canadian political trends, with the country seeing a surge of patriotism due to Trump's punishing trade war and annexation threats.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/politics/quebec-separatists-canada-vote/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japan’s output falls for second month due to impact from quake and Iran war",
-    "summary": "Wednesday's data suggest Japanese manufacturers may be feeling the impact of a major quake that hit Kyushu and the Iran war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/09/30/economy/industrial-output-august/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Knicks undecided on White House visit",
-    "summary": "If the Knicks go to the nation's capital, they would be the first NBA champions to visit the White House during Trump's two terms.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/09/30/basketball/nba/knicks-white-house-visit/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Settler attack on West Bank village injures Israeli forces, drawing rare rebuke",
-    "summary": "The raid came amid mounting international criticism of settler violence, which Israeli Prime Minister Benjamin Netanyahu downplayed last week.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/settler-west-bank-israeli-forces/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Supreme Court lets Trump’s third-country deportations resume",
-    "summary": "The high court put on hold a federal judge's order that required people who are being deported to get notice and a chance to argue their case.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/supreme-court-trump-deportations/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "NATO condemns ‘nuclear rhetoric’ in tense exchange with Russia",
-    "summary": "NATO was responding to a warning by Russia that the alliance's approach to Kaliningrad \"sharply increases the risks\" of a military confrontation.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/politics/nato-nuclear-rhetoric-russia/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.K. police find fuel but no explosives at Fairford scene",
-    "summary": "Investigators still believe it may be a plot involving proxies for Iran but are keeping an open mind to other possibilities.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/09/30/world/uk-police-fuel-explosives-fairford/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-    "summary": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
-    "summary": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
-    "summary": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The Latin American Right’s Big Bet",
-    "summary": "The Trump administration is exerting new levels of control over the region. What’s the next move?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/29/world/latin-america-brazil-election-trump-openai.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Turkish Confectioner Hands Out Doughnuts to Honor the Dead",
-    "summary": "In Turkey, People who have recently lost loved ones hire doughnut makers to hand out fried dough balls, known as lokma, to honor the dead and spread their blessings.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/video/world/asia/100000011182398/turkey-doughnuts-lokma-honor-dead.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
   }
 ]
