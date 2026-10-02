@@ -3,6 +3,231 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz",
+    "summary": "Iran has been launching drones and missiles at commercial ships in the waterway each week, though it has often failed to strike its targets, according to a Western security official.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Who Are the Israeli Hostages Released by Hamas?",
+    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Nahost-Krieg: Bericht: Tanker in der Straße von Hormus unter Beschuss",
+    "summary": "Erneut ist ein Schiff auf der Handelsroute in Brand geraten. Die Besatzung soll sich gerettet haben.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Trump: Machen guten Job, aber schlechte PR",
+    "summary": "Wenige Wochen vor den Kongresswahlen sieht es in Umfragen nicht gut aus für Trumps Republikaner. Der US-Präsident findet: Man muss seine „phänomenale Arbeit“ einfach besser verkaufen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlen-kongress-republikaner-kongresswahlen-zwischenwahlen-li.3530667"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Irankrieg: Behörden nehmen britisch-iranischen Doppelstaatler fest",
+    "summary": "Nach Vorfällen um den britischen Luftwaffenstützpunkt Fairford +++ Iran bestellt britischen Botschafter ein +++ Bericht: Erneut Schiff in Straße von Hormus unter Beschuss +++ alle Entwicklungen im Liv...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-militaerstuetzpunkt-behoerden-nehmen-britisch-iranischen-doppelstaatler-fest-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump: Machen guten Job, aber schlechte PR",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-machen-guten-job-aber-schlechte-pr-faz-19444916.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Cómo Putin, Trump y Xi buscan que la UE fracase",
+    "summary": "La escalada de ataques rusos es inquietante; más aún si se lee en el contexto de las acciones de EE UU y China para torpedear a una Europa unida y fuerte",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-09-27/como-putin-trump-y-xi-buscan-que-la-ue-fracase.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El aterrizaje del avión en Arabia Saudí muestra los límites de su cooperación con Israel",
+    "summary": "Sin relaciones diplomáticas entre los dos países, Riad atendió a los pasajeros, pero denegó a Israel el envío de aeronaves militares para recoger a sus ciudadanos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-02/el-aterrizaje-del-avion-en-arabia-saudi-muestra-los-limites-de-su-cooperacion-con-israel.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump mide hoy en la OEA la deriva norcoreana de la dictadura sandinista",
+    "summary": "El Consejo Permanente de la organización se reúne para dar respuesta al anuncio del régimen de Ortega de que \"no habrá más elecciones\"&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/02/6abe86d7e85eceb3628b456f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Investing in Hong Kong’s mental health makes good economic sense",
+    "summary": "Chief Executive John Lee Ka-chiu’s recent policy address set out an ambitious reform agenda designed to sharpen Hong Kong’s competitive edge while enhancing people’s livelihoods. As we enter Mental He...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369189/investing-hong-kongs-mental-health-makes-good-economic-sense?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Nearly 150 firms in Hong Kong cut packaging waste equal to weight of 900 buses",
+    "summary": "Nearly 150 companies have reduced packaging material equivalent to the weight of about 900 double-decker buses over the past year after taking part in a government charter on waste reduction launched ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369367/nearly-150-firms-hong-kong-cut-packaging-waste-equal-weight-900-buses?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "South Korea warns ‘further measures’ if Ukraine refuses public apology",
+    "summary": "Seoul has taken a hard stance on Ukraine disclosing the transfer of North Korean soldiers to South Korea, warning their families could be targeted.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/ukraine-official-south-korea/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "U.S. may add carrier and 10,000 troops to Middle East, official says",
+    "summary": "The carrier movements unfold as U.S. President Donald Trump said increased military strikes against Iran were \"possible\" after the midterm elections.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/us-carrier-troops-mideast/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Chinese judoka accused of biting as home hope wins Asian Games gold",
+    "summary": "Maeda was awarded victory in the quarterfinal bout in Nagoya when Tang Jing was disqualified just over a minute into the contest.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/02/asian-games/japan-judo-gold-asian-games/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "No lights and no radio: Getting oil through Hormuz is a risky job",
+    "summary": "Ships are engaged in shuttle runs through the Strait of Hormuz, ferrying barrels often at night and with strict instructions about what can be used.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/hormuz-oil-risky-job/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Iran offers to allow nuclear inspectors if sanctions are eased",
+    "summary": "Inflation in Iran is now almost 90% year over year, and the rial has weakened 30% against the dollar as sanctions begin to bite.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rodman joins Trump as he eyes meeting with North Korea’s Kim",
+    "summary": "Basketball star Dennis Rodman has traveled to North Korea multiple times and joined the U.S. president at an event in Texas Thursday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/dennis-rodman-trump-kim/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Alaska LNG could cost more than double Gulf Coast rivals",
+    "summary": "U.S. President Donald Trump unveiled the plan as part of a broader South Korean package, though Seoul said it had not yet decided whether to fund it.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/10/02/alaska-lng-cost-projection/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
     "summary": "British police said a 25-year-old British-Iranian dual national was arrested Thursday. British officials have said they believe Iran played a part in planning the incident at R.A.F. Fairford.",
     "timeAgo": "En Guncel (API)",
@@ -673,230 +898,5 @@
     "summary": "After passengers and crew overpowered the co-pilot, a second pair of pilots aboard the flight landed the jet safely in Tabuk, Saudi Arabia.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/news/2026/10/01/world/dubai-tel-aviv-flight-co-pilot-stabs/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Abu Dhabi’s crown prince is spending billions to bypass Iran’s grip on Hormuz",
-    "summary": "Abu Dhabi's sovereign wealth fund is likely to spend tens of billions of dollars on new port infrastructure outside the embattled strait, sources say.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/abu-dhabi-prince-iran-hormuz/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Joy mixed with fear as U.S. forces depart Iraq leaving potential security vacuum",
-    "summary": "The withdrawal of troops ended the largest U.S. war of the century, which brought devastation and chaos from which Iraq has yet to fully emerge.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/us-forces-iraq-security-vacuum/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-    "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Moth Swarms Sweep Across Australia. That’s Good News.",
-    "summary": "Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
-    "summary": "“I don’t deserve to die like this,” said one passenger on Flight 1073 from Dubai to Tel Aviv. The motive of the cockpit stabbing remains unknown, officials said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
-    "summary": "Prime Minister Benjamin Netanyahu of Israel said one of the pilots may have been attempting to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israel and Saudi Arabia don’t have formal ties, but Israelis have occasionally landed there.",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "FlyDubai Provides Key Link for Israeli Air Travelers",
-    "summary": "The low-cost carrier operates up to 10 daily flights between Dubai and Tel Aviv.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flights-dubai-tel-aviv-israel.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Palestinians Stream Back to Northern Gaza on Foot",
-    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Auf dem Weg nach Tel Aviv: Wie Flug „FZ1073“ nur knapp der Katastrophe entkam",
-    "summary": "Gut 180 Passagiere eines Flydubai-Flugs nach Tel Aviv sind wohl gerade so einer Entführung entgangen. Videos zeigen Verletzte an Bord und die Angst der Passagiere. Israels Regierung spricht von Terror...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/fz1073-flug-israel-flydubai-entfuehrung-li.3556670"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Rot-grün-rote Sondierungsgespräche: „Das wird das Land Berlin in den Ruin treiben“",
-    "summary": "Erstmals seit 25 Jahren muss in Neukölln die SPD das Rathaus räumen. Noch-Bezirksbürgermeister Martin Hikel blickt besorgt auf das, was nach ihm kommt – etwa ein mögliches Bündnis der SPD mit der Link...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/artikel-e822312/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Südafrika: Trump geht es nicht schnell genug",
-    "summary": "Die amerikanische Regierung erhöht den Druck auf Südafrika, fünf Forderungen zur Innenpolitik zu erfüllen. Pretoria arbeitet daran – und bestellt den US-Botschafter ein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/suedafrika-und-usa-der-diplomatische-streit-geht-weiter-201275308.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Möglicher Anschlag: Premierminister sieht „starke Hinweise“ auf iranische Beteiligung",
-    "summary": "Andy Burnham vermutet Teheran hinter dem Vorfall am Luftwaffenstützpunkt Fairford. Die Umstände des möglichen Terroranschlags zeigen sich zunehmend bizarr.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/terrorattacke-in-england-rief-ein-taeter-die-polizei-accg-201275313.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "US-Abzug: Trump überlässt den Iranern ein Schlüsselland",
-    "summary": "Der Präsident zieht aus dem Irak ab, die mit Teheran verbündeten Milizen bleiben. Nur er kann das für eine Politik der Stärke halten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/us-abzug-trump-ueberlaesst-teheran-den-irak-201276270.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Notlandung: Israelischer Minister spricht von „dschihadistischem Anschlag“",
-    "summary": "Während eines Fluges nach Tel Aviv soll der Ko-Pilot den Piloten mit einem Messer verletzt haben. Israelische Passagiere berichten von Blut, Schreien und Panik an Bord.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/israelischer-minister-terrorist-wollte-flugzeug-zum-absturz-bringen-accg-201275551.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "RIAS-Publikation: Wie verbreitet ist Antisemitismus unter Muslimen?",
-    "summary": "Der Terrorangriff der Hamas auf Israel jährt sich bald zum dritten Mal. Ein Sammelband untersucht seine Auswirkungen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/wie-verbreitet-ist-antisemitismus-unter-muslimen-201275470.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-    "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direc...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
-    "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other cou...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-    "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-    "summary": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’While the US secretary of state, Marco Rubio, was being decorated in Quito by ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
-    "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing researchThe...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
-    "summary": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligenceMI5 China alert will send chill through UK’s cash-strapped universitiesMI5 has issued...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Australian colleges warned ‘do not try to game’ student visas after last-minute enrolments for cancelled diploma soar",
-    "summary": "Julian Hill says educational providers are being closely watched by government after course attracted non-genuine studentsFollow our Australia news live blog for latest updatesGet our new political em...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/australia-private-colleges-student-visa-enrolments-soar-for-cancelled-diploma-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Macron says ‘welcome back’ to Burnham suggestion UK could rejoin EU",
-    "summary": "French president, speaking alongside Spanish counterpart Pedro Sánchez, says EU bid would be good news for UK and EuropeansUK politics live – latest updatesThe French president, Emmanuel Macron, has r...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump es un ‘loser’, un perdedor",
-    "summary": "El presidente de EE UU canta siempre victoria incluso en sus palmarias derrotas",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html"
   }
 ]
