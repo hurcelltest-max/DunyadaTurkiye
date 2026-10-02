@@ -3,6 +3,204 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
+    "summary": "The attack, on a flight from Dubai to Tel Aviv, halted the only direct service between the two cities since the war in Iran disrupted air traffic.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+    "summary": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Palestinians Stream Back to Northern Gaza on Foot",
+    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Israel: Oberstes Gericht erlaubt arabischen Parteien Wahlteilnahme",
+    "summary": "Das Zentrale Wahlkomitee hatte sämtliche arabischen Parteien von der Parlamentswahl im Oktober ausgeschlossen, nicht aber eine rechtsextreme jüdische Partei.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-knesset-wahl-li.3557612"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Spritpreise: Die Europäer sollen Trumps Dieselproblem lösen",
+    "summary": "Wegen der hohen Spritpreise fordert das Weiße Haus von Europa, Marktreserven freizugeben. Berlin reagiert zurückhaltend, doch die USA haben ein mächtiges Druckmittel.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-diesel-spritpreise-trump-europa-deutschland-li.3557096"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Nach Ausschluss: Gericht lässt arabische Parteien zur Wahl in Israel zu",
+    "summary": "Das Zentrale Wahlkomitee wollte arabische Parteien von der wegweisenden Parlamentswahl ausschließen. Das Oberste Gericht kippt den Beschluss nun.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-israel-oberstes-gericht-erlaubt-arabischen-parteien-teilnahm-accg-201283556.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Abzug: Trump überlässt den Iranern ein Schlüsselland",
+    "summary": "Der Präsident zieht aus dem Irak ab, die mit Teheran verbündeten Milizen bleiben. Nur er kann das für eine Politik der Stärke halten.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/us-abzug-trump-ueberlaesst-teheran-den-irak-201276270.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+    "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to di...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+    "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other cou...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+    "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+    "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing researchThe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
+    "summary": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligenceMI5 China alert will send chill through UK’s cash-strapped universitiesMI5 has issued...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
+    "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officerWarning: graphic image below Follow our Australia news live blog for latest updatesGe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Minister denies UK faces diesel shortage after Trump threatens to ban exports",
+    "summary": "In effort to avoid panic at pumps, Keir Mather insists supply of fuel to Britain is ‘inherently resilient’UK diesel price hits record high of £2 a litreBusiness live – latest updatesThe government has...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/oct/02/uk-is-not-facing-diesel-shortage-despite-fears-of-trump-export-ban-minister-says"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Eastern Spain braces for torrential rain and flooding",
+    "summary": "Up to 300mm of rain could fall in places, while extreme downpours bring landslides and deaths in NepalTorrential rain and potentially damaging flooding are forecast in eastern Spain over the coming da...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás”",
+    "summary": "El comandante Smit Machchhar, calificado como “héroe” en India e Israel, habla por videollamada con su primer ministro, Narendra Modi, desde una cama de hospital en Abu Dabi",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-02/el-piloto-apunalado-en-el-vuelo-de-flydubai-entre-dubai-y-tel-aviv-me-dije-que-la-puerta-estaba-ahi-que-solo-tenia-que-abrirla.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump es un ‘loser’, un perdedor",
+    "summary": "El presidente de EE UU canta siempre victoria incluso en sus palmarias derrotas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Netanyahu y la víctima perpetua",
+    "summary": "Necesitamos un espacio común donde toda violencia pueda ser juzgada, también si la ejerce Israel",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/opinion/2026-09-27/netanyahu-y-la-victima-perpetua.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El Supremo israelí permite a los partidos árabes ir a las elecciones pese a veto del Comité Electoral",
+    "summary": "Los palestinos con ciudadanía israelí suponen más del 20 % de la población total de Israel&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/02/6abf912ffdddffd4568b4590.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump, sorprendido por la ejecución fallida de Christa Pike: \"No debería ser tan difícil\"",
+    "summary": "La mujer se encuentra en estado crítico después de sobrevivir a dos inyecciones letales de  pentobarbital&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/02/6abf6a1c21efa001308b459d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Takaichi told during Trump talks that weak yen was hurting U.S. trade",
+    "summary": "U.S. Treasury Secretary Scott Bessent has repeatedly suggested the BOJ should raise interest rates to help the yen find an appropriate level.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/02/japan/politics/takaichi-trump-talks-weak-yen/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Why is oil close to $100 if Trump is winning the battle in Hormuz?",
+    "summary": "A couple of months ago, the surge in oil shipments would have been seen as a major American victory.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/10/02/world/iran-war-100-crude-prices/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz",
     "summary": "Iran has been launching drones and missiles at commercial ships in the waterway each week, though it has often failed to strike its targets, according to a Western security official.",
     "timeAgo": "En Guncel (API)",
@@ -700,203 +898,5 @@
     "summary": "Una encuesta señala que el partido reconquistará entre seis y 10 puntos del voto hispano que apoyó a Trump en 2024, mientras que más de 200 líderes bipartidistas piden a Trump la legalización de migra...",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/us/2026-09-30/los-democratas-recuperan-terreno-entre-el-electorado-latino-de-cara-a-las-midterms.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Uno de los pasajeros del vuelo de Flydubai a EL MUNDO: \"Fue aterrador, pero mantuvimos la sangre fría\"",
-    "summary": "El israelí Almog Italie cuenta los angustiosos momentos del vuelo de Dubái a Tel Aviv y elogia al capitán y pasajeros que evitaron una tragedia en el avión desviado a Arabia Saudí&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe4778e9cf4a002a8b45a4.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Elon Musk trabajará en el diseño de las futuras guerras de EEUU",
-    "summary": "El Project Meridian, que según Pete Hegseth reúne a \"tres de las mentes más brillantes de la nación\", tiene previsto operar durante 120 días&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe376bfdddff8b0a8b4589.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El testimonio de un italo-israelí en el vuelo de FlyDubai: \"Los gritos, la sangre... Cogí los cables de los auriculares para atar al hombre\"",
-    "summary": "Daniel Schlichter, de 60 años, y su esposa ocupaban la fila número 2 del vuelo de la compañía aérea FlyDubai que se vio obligado a aterrizar en Arabia Saudí después de un intento de secuestro&nbsp;Lee...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/01/6abe0700fdddff1f778b45a0.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Health chief warns overstated claims of job shortages could lead to fewer new nurses",
-    "summary": "Hong Kong’s health minister has warned that the city will need to “bear the consequences” of exaggerating concerns over the employment prospects of nurses, as such remarks could deter new blood from j...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369431/health-chief-warns-overstated-claims-job-shortages-could-lead-fewer-new-nurses?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bangladesh warns dengue outbreak could worsen after deadly September",
-    "summary": "The warning is piling pressure on hospitals already fighting the world's worst measles outbreak.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/bangladesh-dengue-outbreak-worsening/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Musk soll für Pentagon „Zukunft der Kriegsführung“ erforschen",
-    "summary": "US-Verteidigungsminister Pete Hegseth will „mit einem kreativen Blick auf die Zukunft schauen“ – und sieht in Elon Musk den richtigen Mann, um autonome Kriegsführung weiterzuentwickeln.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Flydubai-Maschine: Netanjahu nennt den angegriffenen Piloten einen „wahren Helden“",
-    "summary": "Der Flug von Dubai nach Tel Aviv ist offenbar nur knapp einer Katastrophe entronnen, Israel spricht von einem Terroranschlag. Nun werden immer mehr Details dazu bekannt, was sich im Cockpit abspielte.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/nach-notlandung-von-flydubai-maschine-netanjahu-nennt-angegriffenen-piloten-einen-wahren-helden-accg-201278451.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: NATO verurteilt russische Gewaltandrohung „aufs Schärfste“",
-    "summary": "Russland warnt in Brief vor möglichen Angriffen auf Mitgliedstaaten +++ Tote in Sumy bei Angriff mit Gleitbomben +++ Ukrainischer Verteidigungsminister sagt Besuch in Deutschland ab +++ alle Neuigkeit...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verurteilt-russische-gewaltandrohung-aufs-schaerfste-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Angriffe der Huthi: Trump wird es nicht für die Europäer richten",
-    "summary": "Die Handelsschifffahrt im Roten Meer braucht mehr Schutz. Den müssen die Europäer schon selbst stellen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/huthi-angriffe-trump-wird-es-nicht-fuer-europa-richten-201269778.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "At least 27 dead after two mass shootings in South Africa, police say",
-    "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape TownTwo separate mass shootings near South Africa’s ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Australia at risk from major global financial shock, Reserve Bank warns",
-    "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worthFollow our Australia news live blog for latest updatesGet our breaking news email, free app...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
-    "summary": "Un piloto apuñala al otro y los pasajeros logran evitar un desastre. Israel quiere intensificar los controles de los pilotos que vuelen al país tras el “intento de atentado yihadista”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-02/panico-a-bordo-del-vuelo-fz1073-con-destino-a-tel-aviv-acabamos-de-neutralizar-al-terrorista-necesitamos-ayuda.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Algo se mueve en Ormuz: el tránsito de petroleros roza las cifras preguerra",
-    "summary": "El flujo de crudo por esta arteria clave de la energía mundial se recupera con fuerza, pero los ataques a buques continúan e impiden que el precio del crudo descienda",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-01/algo-se-mueve-en-ormuz-el-transito-de-petroleros-roza-las-cifras-preguerra.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Japón refuerza alianzas militares en el Pacífico mientras Trump suaviza el tono con Pekín",
-    "summary": "Tokio afianza acuerdos de defensa con Australia e India frente a lo que considera incursiones en su territorio de China y Rusia",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-01/japon-refuerza-alianzas-militares-en-el-pacifico-mientras-trump-suaviza-el-tono-con-pekin.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología",
-    "summary": "El presidente de Estados Unidos asegura que nunca frenará el desarrollo de la IA porque quiere ganar la carrera a China",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-09-29/trump-apuesta-por-que-las-empresas-de-ia-se-autorregulen-para-evitar-el-descontrol-de-la-tecnologia.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ilya Ponomarev, disidente ruso: \"Me han intentado matar nueve veces. Me persiguen en Kiev, EEUU y Europa. Estoy en guerra\"",
-    "summary": "Admite que la descripción de los dos inmuebles encaja con él, porque posee dos casas en Washington. Conoce detalles de la investigación estadounidense, pero asegura que no puede hacer comentarlos ni c...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/01/6abd1725fdddffe30f8b458a.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Retailers expect ‘golden week’ sales growth, but trade groups warn of modest gains",
-    "summary": "Some Hong Kong retailers are forecasting double-digit sales growth over the National Day “golden week” holiday, but industry leaders have warned that the expected influx of mainland Chinese visitors m...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369384/retailers-expect-golden-week-sales-growth-trade-groups-warn-modest-gains?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump says he raised case of Hong Kong’s Jimmy Lai with Xi",
-    "summary": "The U.S. president was under pressure to raise high-profile humanitarian cases when he met with the Chinese leader in Washington last week.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/trump-hong-kong-jimmy-lai-xi/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.K. PM says ‘strong indications’ Iran involved in airbase incident",
-    "summary": "Iran's embassy in London earlier said it \"categorically rejects and strongly condemns\" speculation it was involved in the incident near RAF Fairford.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/uk-pm-iran-airbase-incident/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump unveils $200 billion South Korean investment in U.S. projects",
-    "summary": "Trump said the investment will include the construction of nuclear power plants, an LNG pipeline in Alaska and a power generation facility in Texas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/trump-200-billion-south-korea-investment/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
-    "summary": "\"If Europe attacks Russia, it will be a completely different sort of war — a very short war,\" said a Russian Foreign Ministry spokesperson.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/russia-nuclear-nato-baltic/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
-    "summary": "After passengers and crew overpowered the co-pilot, a second pair of pilots aboard the flight landed the jet safely in Tabuk, Saudi Arabia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/01/world/dubai-tel-aviv-flight-co-pilot-stabs/"
   }
 ]
