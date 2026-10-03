@@ -1,5 +1,32 @@
 [
   {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Svetlana Tijanóvskaya: “Si dejamos que Ucrania pierda la guerra, la pregunta será quién es el siguiente”",
+    "summary": "La líder de la oposición democrática de Bielorrusia asegura en A Toxa que el futuro de su país está vinculado al éxito de Kiev y a que Rusia quede debilitada",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-03/svetlana-tijanovskaya-si-dejamos-que-ucrania-pierda-la-guerra-la-pregunta-sera-quien-es-el-siguiente.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Los demócratas demandan al Gobierno de Trump por cambiar el formulario de voto de los estadounidenses en el extranjero",
+    "summary": "El Pentágono eliminó una casilla utilizada por ciudadanos que nunca han vivido en Estados Unidos, en medio de una ofensiva republicana para restringir su participación electoral",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-02/los-democratas-demandan-al-gobierno-de-trump-por-cambiar-el-formulario-de-voto-de-los-estadounidenses-en-el-extranjero.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump publica el número de móvil de un senador de su partido que no apoya una ley para eliminar el cambio de hora",
+    "summary": "\"Casi todos quieren que se apruebe excepto Tom Cotton. Háganle saber que sería una gran victoria, llamen a su móvil\", insta a sus millones de seguidores&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/03/6ac13735e85ece34348b4582.html"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -871,32 +898,5 @@
     "summary": "Maeda was awarded victory in the quarterfinal bout in Nagoya when Tang Jing was disqualified just over a minute into the contest.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/sports/2026/10/02/asian-games/japan-judo-gold-asian-games/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "No lights and no radio: Getting oil through Hormuz is a risky job",
-    "summary": "Ships are engaged in shuttle runs through the Strait of Hormuz, ferrying barrels often at night and with strict instructions about what can be used.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/hormuz-oil-risky-job/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Iran offers to allow nuclear inspectors if sanctions are eased",
-    "summary": "Inflation in Iran is now almost 90% year over year, and the rial has weakened 30% against the dollar as sanctions begin to bite.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Rodman joins Trump as he eyes meeting with North Korea’s Kim",
-    "summary": "Basketball star Dennis Rodman has traveled to North Korea multiple times and joined the U.S. president at an event in Texas Thursday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/02/world/dennis-rodman-trump-kim/"
   }
 ]
