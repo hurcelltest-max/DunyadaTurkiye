@@ -3,6 +3,168 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
+    "summary": "Jonathan Powell, Britain’s national security adviser, visited Israel last week to try to negotiate over the looming closure of his country’s consulate in Jerusalem, according to three officials.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+    "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records",
+    "summary": "Two men were mistakenly arrested in the Bronx by Immigration and Customs Enforcement agents. Gary R. Brown, a federal judge, condemned the agency’s actions.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Palestinians Stream Back to Northern Gaza on Foot",
+    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zum Ukraine-Krieg: Selenskij warnt vor bevorstehendem Großangriff Russlands",
+    "summary": "Der ukrainische Präsident beruft sich auf entsprechende Geheimdienstinfos. Die Armee tue alles ihr Mögliche, die feindlichen Angriffe abzuwehren.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-warnung-grossangriff-russland-li.3549696"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Gaza: Selbst wenn keine Bomben fallen, geht der Krieg weiter",
+    "summary": "Kindergartenkinder, die vor Drohnen flüchten, Zivilisten, die von ausgebombten Häusern begraben werden – und jetzt noch die Angst vor dem Winter: Für die Menschen in Gaza ist der Stillstand der Verhan...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/gaza-stillstand-kinder-hunger-winter-e687274/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Vereint gegen Israel: Wo Berliner Linke mit Extremisten kooperieren",
+    "summary": "Im Internationalistischen Bündnis Berlin arbeiten drei Linkspartei-Gliederungen mit extremistischen Gruppen zusammen. Wer ist dabei?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/wo-berliner-linke-mit-extremisten-kooperieren-201292106.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Hybride Bedrohung: Wegwerfagenten im Auftrag Teherans",
+    "summary": "Mutmaßliche Anschläge auf einen Fliegerhorst, Brandsätze und Messerattacken in London: Iran steht im Zentrum von Terrorvorwürfen in Großbritannien.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/plaene-fuer-anschlag-auf-fairford-welche-rolle-spielt-iran-201292363.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Mekka-Bündnis: Schickt die Türkei jetzt Truppen nach Saudi-Arabien?",
+    "summary": "Im Rahmen ihres Verteidigungspakts wollen Pakistan und die Türkei Soldaten und Gerät bereitstellen. An einer öffentlichen Debatte hat Ankara aber kein Interesse.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/tuerkei-und-pakistan-wollen-saudi-arabien-gegen-die-huthis-unterstuetzen-201291878.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Militärbasen: Endet die amerikanische Hegemonie im Nahen Osten?",
+    "summary": "Irans Raketen haben Amerikas Militärbasen am Golf schwer getroffen. Nun steht die Schließung von Stützpunkten zur Debatte. Das könnte die Ordnung in der Region umwälzen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/zerstoerte-us-basen-am-golf-endet-die-amerikanische-hegemonie-accg-201270549.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
+    "summary": "Relations have soured between the two countries over a number of issues since 2023, but Hillel Newman says a ‘reset’ is possibleGet our new political email, free app or daily news podcastIsrael’s amba...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+    "summary": "Angus Taylor’s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitiveGet our new political email, free app or daily ne...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "State parliament elects Germany’s first far-right speaker since second world war",
+    "summary": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD’s election breakthroughEurope live – latest updatesAlternative für Deutschland has become Germany’s first far-right party to secure t...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La policía británica detiene a un séptimo sospechoso por el presunto intento de atentado en la base aérea de Fairford",
+    "summary": "El primer ministro británico señala a Irán. Los medios estadounidenses hablan de un ataque con un dron iraní",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-06/la-policia-britanica-detiene-a-un-septimo-sospechoso-por-el-presunto-intento-de-atentado-en-la-base-aerea-de-fairford.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "En los túneles de Hamas: \"Los terroristas pueden estar muchos meses bajo tierra\"",
+    "summary": "EL MUNDO entra en la zona controlada por Israel en la Franja de Gaza y ampliada en los últimos meses: \"Hacemos lo posible para evitar infiltraciones\", indica un oficial en el devastado enclave palesti...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/04/6ac284a7fc6c83b46f8b458f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Adi Marciano, madre de una soldado israelí secuestrada el 7-O: \"Un médico en Gaza asesinó a mi hija inyectándole aire en una vena\"",
+    "summary": "Noa Marciano fue la única uniformada israelí secuestrada en el ataque de Hamas contra la base de Nahal Oz que no volvió con vida del cautiverio. Su madre Adi recibe en su casa a EL MUNDO en el tercer ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/06/6ac50b0d21efa0bc7e8b45ba.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ucrania afirma que ha destruido más de la mitad de la capacidad de Rusia para refinar petróleo",
+    "summary": "Este mismo martes, según un bloguero ruso, un ataque de Ucrania ha alcanzado un depósito en uno de los nodos de distribución más importantes de la región de Moscú&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/06/6ac53591fdddff93768b45b7.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El oligarca ruso que pagó la boda de Donald Trump Jr. asegura que ya le ha devuelto el dinero",
+    "summary": "Umar Kremlev afirma que el hijo mayor del presidente estadounidense le ha reembolsado los cientos de miles de dólares que gastó en la celebración en Bahamas&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/06/6ac528b421efa0ed088b4592.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
     "summary": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”",
     "timeAgo": "En Guncel (API)",
@@ -736,167 +898,5 @@
     "summary": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Australia experiences second hottest September on record as El Niño and climate crisis combine",
-    "summary": "Alpine areas also experience record-breaking heat with snow depth recorded at zero in Kosciuszko national parkGet our breaking news email, free app or daily news podcastAustralia had its second hottes...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/05/australia-weather-el-nino-climate-crisisseptember-record"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
-    "summary": "RMIT confirms co-pilot was a student as Australian authorities examine his time in country between 2015 and 2017An Australian university has confirmed a flydubai co-pilot who allegedly tried to hijack...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Authorities issue shark warning over whale that swam 11km upstream in Clarence River and later died",
-    "summary": "Juvenile humpback was spotted near Bundjalung national park in what experts say is a rare but not unprecedented eventGet our breaking news email, free app or daily news podcastWhile the case of a whal...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/oct/05/nsw-shark-warning-whale-death-clarence-river"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "15-year-old loses hand during French schools protest as clashes with police continue – Europe live",
-    "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the countryThe conservative People’s Party is very pleased with the announcement.“At last,” they say on their X, with a s...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa",
-    "summary": "El español ha sido el referente de la izquierda europea con su postura sobre Gaza, la defensa, Trump y la agenda verde",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Dos tripulantes muertos y 11 rescatados tras el ataque con dron a un carguero turco en el mar Negro",
-    "summary": "La espiral de agresiones rusas y ucranias a buques mercantes se ha cobrado ya la vida de medio centenar de marineros",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-05/dos-tripulantes-muertos-y-11-rescatados-tras-el-ataque-con-dron-a-un-carguero-turco-en-el-mar-negro.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Del Sánchez \"debilitado\" al posible adiós del \"principal crítico de Trump\": así ve la prensa internacional las elecciones en España",
-    "summary": "Los periódicos y cadenas más relevantes realizan una cobertura especial del adelanto electoral español, centrándose en la figura del presidente, sus datos desfavorables en las encuestas y los escándal...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/05/6ac38e7ce9cf4a253c8b45b6.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los servicios secretos alemanes alertan del riesgo de un conflicto violento con Moscú: \"Rusia libra una guerra en la sombra contra nosotros\"",
-    "summary": "Piden más capacidad operativa y alertan de un peligro real de atentados contra Alemania&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/05/6ac389d3e4d4d84d6d8b4594.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El líder del Partido Verde británico no podrá entrar en Israel tras declarar al sionismo como racismo",
-    "summary": "El Ministerio de Exteriores de Israel ha prohibido la entrada al país a Zack Polanski por considerar que la moción es un \"texto claramente antisemita\" que trasciende \"los límites del debate político l...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/05/6ac356a0fc6c831f748b459d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump pierde apoyos entre los votantes latinos a un mes de las elecciones legislativas",
-    "summary": "Un 78% de votantes latinos desaprueba la gestión de Trump en lo relativo al costo de vida, un 74% en el tema económico, el 68% en materia de política exterior y un 69% respecto a las políticas de inmi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/05/6ac33857e85ecefc568b4575.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Mainland Chinese arrivals to Hong Kong surged at start of ‘golden week’ holiday",
-    "summary": "Mainland Chinese arrivals to Hong Kong surged at the start of the National Day “golden week” holiday before easing towards last year’s levels, with a lawmaker attributing the early rush partly to the ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3369821/mainland-chinese-arrivals-hong-kong-surged-start-golden-week-holiday?utm_source=rss_feed"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "The Iraq War is finally over. It did some good.",
-    "summary": "About 4,500 Americans died in Iraq since 2003, around 3,500 in combat, and more than 30,000 were wounded.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/10/05/world/iraq-war-finally-over/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Preventing artificial intelligence from triggering a world war",
-    "summary": "A mechanism for distinguishing unintended harm from deliberate attacks is urgently needed.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/10/05/world/ai-world-war/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-    "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
-    "summary": "The conflict is raising fears of a regional war in the Horn of Africa, drawing in foreign powers including Eritrea, Egypt, the United Arab Emirates and Saudi Arabia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
-    "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: USA ziehen alle Bomber vom britischen Stützpunkt Fairford ab",
-    "summary": "Das US-Militär hatte die Flugzeuge wegen des Iran-Kriegs nach Großbritannien verlegt. Nach einem mutmaßlichen Anschlag auf die Basis werden sie nun zurückbeordert.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-grossbritannien-abzug-kampfflugzeuge-li.3558046"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Desalojos y 436 colegios atacados: el trauma y la guerra en Líbano golpean a una generación de estudiantes",
-    "summary": "La ocupación israelí del sur dificulta el retorno de 100.000 niños a las aulas en el séptimo curso consecutivo con interrupciones escolares",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-05/desalojos-y-436-colegios-atacados-el-trauma-y-la-guerra-en-libano-golpean-a-una-generacion-de-estudiantes.html"
   }
 ]
