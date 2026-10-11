@@ -1,5 +1,194 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Wringing Hope From the Rubble of Gaza",
+    "summary": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+    "summary": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Ukraine shrugs off Trump call to ditch Zelensky for energy strikes",
+    "summary": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he‘ll stop — if Russia does too.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+    "summary": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in Nahost: Das gewaltige Dilemma mit den Huthi",
+    "summary": "Der Angriff auf den Flughafen in Riad mit zwölf Toten war der heftigste Anschlag auf Saudi-Arabien seit Jahrzehnten. Kronprinz Mohammed bin Salman muss reagieren. Aber wie?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/saudi-arabien-angriff-nahost-krieg-huthi-jemen-usa-li.3561725"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Drei Bücher zum Pazifismus: Wunschdenken in einer schwankenden Welt",
+    "summary": "In kriegerischen Zeiten haben es Idealisten schwer, mit ihren Plädoyers für eine friedliche Welt durchzudringen. Drei Autoren bewegen sich dabei auf einem schmalen Grat zwischen Völkerrechtsdiskurs un...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/pazifismus-buecher-rezension-das-politische-buch-li.3558565"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump: Deutschland stand zwei Tage vor der Auslöschung",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-deutschland-stand-zwei-tage-vor-der-ausloeschung-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+    "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in GazaThe Nobel peace prize has been awarded to Navi Pillay, the South African former...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+    "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuationsPanama’s government has declared a state of emergency on Saturday as the aftersho...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+    "summary": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promised...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+    "summary": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hearsGet our breaking news email, free app or daily news podcastA Sydney currency trader who was ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor",
+    "summary": "Preferences proved the sticking point at the conference as conservatives face the prospect of a third successive election defeatGet our new political email, free app or daily news podcastMany mainstre...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ben Roberts-Smith attends Canberra event honouring Australian troops who served in Afghanistan",
+    "summary": "Anthony Albanese speaks at Australian War Memorial event commemorating 25th anniversary of country’s involvement in the conflictGet our breaking news email, free app or daily news podcastAnthony Alban...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/11/ben-roberts-smith-attends-canberra-event-honouring-australian-troops-who-served-in-afghanistan-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Two Carlton players treated in hospital after off-season night out",
+    "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fallAn off-season night out for Carlton football club teammates ended with two players...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+    "summary": "Defence secretary backs Ukrainian president and says priority is to maintain western unity over Russia conflictBritain stands behind Volodymyr Zelenskyy, the defence secretary has said, after Donald T...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Una docena de muertos y más de 300 heridos en un ataque hutí contra el aeropuerto de Riad, la capital de Arabia Saudí",
+    "summary": "Entre los fallecidos hay cuatro saudíes y un estadounidense. Las autoridades locales han suspendido todas las operaciones aéreas en el aeródromo. Es el bombardeo más letal contra un país del Golfo des...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La ola conservadora de América Latina llega a Brasil",
+    "summary": "Un triunfo del candidato afín a Trump cambiaría la relación con Washington menos de lo que parece",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Polonia reúne a sus servicios de seguridad tras el aviso de un posible atentado contra su primer ministro y su viceprimer ministro",
+    "summary": "Las autoridades del Ministerio de Interior se reunirán este domingo en una convocatoria de emergencia&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/11/6acb68a8fdddff0a2e8b459d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El ministro de Exteriores ucraniano responde a Trump que Zelenski cuenta con el apoyo del pueblo",
+    "summary": "Según Sibiga, las declaraciones procedentes del extranjero muestran justamente que Zelenski está desempeñando bien su trabajo&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/11/6acb563421efa0b44a8b4590.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Spirit of Hong Kong Awards: Gaza nurse’s obstacle-laden road to becoming a professor",
+    "summary": "On six occasions, Hammoda Abu-Odah, a Gaza nurse-turned Hong Kong scholar was offered an opportunity to study overseas. But each time, border closures and travel restrictions prevented him from taking...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3370480/spirit-hong-kong-awards-gaza-nurses-obstacle-laden-road-becoming-professor?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Three years after Oct. 7, Netanyahu’s legacy is isolation",
+    "summary": "The shift in attitudes toward Israel is not unique to the U.S., with international polling showing negative views among voters in several countries.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/10/11/world/netanyahu-isolation-legacy/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -709,194 +898,5 @@
     "summary": "The choice drew condemnation from Israel over Ms. Pillay’s role leading a U.N. commission that said the country had committed genocide against Palestinians.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-    "summary": "U.S. officials announced the new, sweeping punishments just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Trump will Diesel von Russland beziehen",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-trump-will-diesel-von-russland-beziehen-li.3561346"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
-    "summary": "Er habe mit dem russischen Präsidenten unter anderem vereinbart, dass „umgehend“ mehr als 300 000 Tonnen Diesel für die USA und den Weltmarkt zur Verfügung gestellt würden, so der US-Präsident. Dafür ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Völkerrecht: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
-    "summary": "Außenminister Marco Rubio fordert die Beschäftigten auf, ihre Arbeit umgehend niederzulegen. Das Gericht reagiert empört – und kündigt an, seine Ermittlungen fortzuführen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-internationaler-strafgerichtshof-beschaeftigte-sanktionen-li.3560921"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast „Auf den Punkt“: Friedensnobelpreis für Navi Pillay: Gegen das Recht des Stärkeren",
-    "summary": "Die südafrikanische Juristin wird für ihren Einsatz für das Völkerrecht und gegen Kriegsverbrechen geehrt. Die Auszeichnung ist auch ein Fingerzeig in Richtung Trump.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-friedensnobelpreis-navi-pillay-voelkerrecht-donald-trump-li.3561053"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Irankrieg: Iran: Haben Flüssiggastanker in Straße von Hormus beschossen",
-    "summary": "Teheran: Schiff fuhr auf „nicht genehmigter Durchfahrtsroute“ +++ Drei Tote bei Angriffen auf Flughafen in Riad +++ Trump schließt Angriff auf Iran vor den Zwischenwahlen aus +++ alle Entwicklungen im...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-haben-fluessiggastanker-in-strasse-von-hormus-beschossen-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Selenskyj: Russen beschädigten  Stromnetz der Ukraine „erheblich“",
-    "summary": "Nach jüngsten russischen Angriffen auf die Ukraine +++ Balten fordern Transitverbot von russischem Getreide in EU +++ Gründer von kremlnahem Blog in Montenegro festgenommen +++ alle Neuigkeiten im Liv...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-russen-beschaedigten-stromnetz-der-ukraine-erheblich-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump: Habe mit Putin russische Diesel-Lieferung für USA und Weltmarkt vereinbart",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-habe-mit-putin-russische-diesel-lieferung-fuer-usa-und-weltmarkt-vereinbart-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Flydubai-Flug: Ko-Pilot plante laut Ermittlern Selbstmordanschlag auf Flughafen Tel Aviv",
-    "summary": "Nach der versuchten Entführung eines Flugzeugs auf dem Weg von Dubai nach Tel Aviv bestätigen Ermittler Informationen, wonach der tatverdächtige Ko-Pilot das Flugzeug auf den Flughafen der israelische...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/flydubai-flug-ko-pilot-plante-selbstmordanschlag-auf-flughafen-tel-aviv-201304651.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Schülerproteste: Ein Drama gelungener Integration",
-    "summary": "Für Trump sind die Proteste in Frankreich die Folge einer unkontrollierten Masseneinwanderung. Doch der Grund ist ein anderer: Eine neue Generation fordert Aufstiegschancen ein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/schulprotest-in-frankreich-warum-trump-falschliegt-201296656.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-    "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newbor...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-    "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reportedA powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along th...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-    "summary": "Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the casesSouth Korea will take legal action if it finds that shipme...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "New spate of stabbings, overdoses and fires at Australian immigration detention centres run by ICE-linked US prison firm",
-    "summary": "Exclusive: Federal government under scrutiny as documents reveal serious security lapses at Melbourne and Villawood immigration detention centresGet our breaking news email, free app or daily news pod...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/09/australia-immigration-detention-centres-overdoses-fires-prison-ice-ntwnfb"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-    "summary": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plantsThe EU is “pulling out all the stops” to fend off an imminent potential trade crisis...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La Administración de Trump sanciona al Tribunal Penal Internacional horas después del Nobel de la Paz a una de sus exjuezas",
-    "summary": "El presidente de EE UU ha declarado repetidamente que él merece el galardón, que este año ha recaído en Navi Pillay",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-09/la-administracion-de-trump-impone-sanciones-el-tribunal-penal-internacional.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Los candidatos a senador por Míchigan protagonizan un diálogo de sordos: uno habla de inflación y otro del fantasma islamista",
-    "summary": "El demócrata Abdul El-Sayed acusa al republicano Mike Rogers de ser una marioneta de Trump mientras que este reprocha a su rival, musulmán, una supuesta cercanía con Hamás y Hezbolá",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-09/los-candidatos-a-senador-por-michigan-protagonizan-un-dialogo-de-sordos-uno-habla-de-inflacion-y-otro-del-fantasma-islamista.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "María Corina Machado entra en las ‘midterms’ de Estados Unidos con su apoyo a la republicana María Elvira Salazar, enemistada con Trump",
-    "summary": "La líder opositora venezolana respalda la reelección de la congresista por Florida en medio de las tensiones de esta con el presidente por su política migratoria",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-09/maria-corina-machado-entra-en-las-midterms-de-estados-unidos-con-su-apoyo-a-la-republicana-maria-elvira-salazar-enemistada-con-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Estados Unidos amenaza con \"desmontar ladrillo a ladrillo\" el Tribunal Penal Internacional tras el Nobel a Navi Pillay",
-    "summary": "El secretario de Estado, Marco Rubio, justifica las nuevas sanciones como una respuesta a las actuaciones del tribunal el mismo día en que el Nobel de la Paz le vuelve a ser esquivo a Trump&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/09/6ac9035821efa0895b8b45ca.html"
   }
 ]
