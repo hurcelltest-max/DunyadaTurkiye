@@ -3,6 +3,141 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+    "summary": "In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
+    "summary": "Die vorübergehende Drosselung des militärisch genutzten Satelliteninternets sorgt im US-Senat für parteiübergreifende Kritik. US-Präsident Trump weißt die Schuld von sich - doch ein Bericht widerspric...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Trump trennt sich von Katie Zacharia",
+    "summary": "Nach nur einer Woche ist die neue Pressesprecherin von Donald Trump ihren Job  bereits wieder los. Sie hatte einen holprigen Start hingelegt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA-Newsblog: Medien: Trump trennt sich nach wenigen Tagen von neuer Pressesprecherin",
+    "summary": "„Vielleicht ist das nichts für sie“, sagte der US-Präsident laut Medien. Katie Zacharia war wegen ihrer beruflichen Qualifikationen unter Druck geraten.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
+    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Katie Zacharia gibt Amt als Pressesprecherin nach wenigen Tagen auf",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-zacharia-gibt-amt-als-pressesprecherin-auf-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+    "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-offDeforestation in the Brazilian Amazon has fallen to its lowest level since records began...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+    "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+    "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Zelenski lanza un dardo a Trump al hablar de los europeos como “verdaderos líderes”",
+    "summary": "La UE promete mantener la presión sobre Rusia y critica el acuerdo del diésel entre Washington y Moscú",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-16/zelenski-lanza-un-dardo-a-trump-al-hablar-de-los-europeos-como-verdaderos-lideres.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El Gobierno de Trump demanda a California alegando que hay 20.000 votantes no ciudadanos en el padrón",
+    "summary": "La titular de la oficina electoral del Estado calificó la situación como “una emergencia creada por el propio Departamento de Justicia”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-15/el-gobierno-de-trump-demanda-a-california-alegando-que-hay-20000-votantes-no-ciudadanos-en-el-padron.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump enmienda a su secretario de Defensa y cancela la retransmisión de la ejecución del soldado que mató a 13 compañeros",
+    "summary": "\"Podría haber sido un fuerte elemento disuasorio que el mundo presenciara cómo Estados Unidos trata a terroristas y escoria como Hasan, pero muchas personas buenas y bienintencionadas prefieren no ver...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/15/6ad0e4e7fdddff302f8b45ad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump fulmina a Katie Zacharia, su nueva portavoz, tras apenas cinco días en el cargo: \"Quizás esto no es para ella\"",
+    "summary": "Zacharia, que tuvo un debut desastroso ante las cámaras, lleva años presentándose como abogada, aunque nunca pasó el examen, y defendiendo teorías disparatadas y peligrosas contra los Demócratas y \"la...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/16/6ad1ee03fdddff59428b4574.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
     "summary": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
     "timeAgo": "En Guncel (API)",
@@ -763,140 +898,5 @@
     "summary": "Damit vollzieht der US-Präsident eine Kehrtwende. Die geplante Liveübertragung der Erschießung hatte weltweit für Kritik gesorgt.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kein-livestream-hinrichtung-attentaeter-todesstrafe-li.3558046"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Erzbistum Köln: Rekordsumme für Missbrauchsopfer angekündigt",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/erzbistum-koeln-rekordsumme-fuer-missbrauchsopfer-angekuendigt-li.3564205"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Geplantes Attentat: Hohe Haftstrafen für iranische Spione",
-    "summary": "Zwei Männer wollten Josef Schuster und Volker Beck ermorden, die Chefs des Zentralrats der Juden und der Deutsch-Israelischen Gesellschaft. In Hamburg werden sie dafür verurteilt. „Aber der Plan beste...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-mordkomplott-antisemitismus-volker-beck-josef-schuster-li.3563921"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Iran-Krieg: Trump-Regierung erwägt offenbar Einsatz von „Mutter aller Bomben“",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-krieg-trump-regierung-erwaegt-offenbar-einsatz-von-mutter-aller-bomben-li.3564181"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Westjordanland: Mit Beginn der Olivenernte eskaliert die Siedlergewalt",
-    "summary": "Im Westjordanland attackieren radikale Siedler Palästinenser, die ihre Olivenbäume ernten wollen. Die israelische Armee verstärkt ihre Präsenz.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/westjordanland-siedlergewalt-eskaliert-mit-beginn-der-olivenernte-201296066.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Deutschland Liveblog: Linke mit Eilantrag gegen Katherina Reiche erfolgreich",
-    "summary": "Ministerin muss Video mit Antisemitismusvorwurf gegen Linkspartei entfernen +++ Zwei Agenten Irans in Hamburg verurteilt +++ Bundestag beschließt Reform der Notfallmedizin +++ alle Entwicklungen im Li...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-mit-eilantrag-gegen-katherina-reiche-erfolgreich-faz-110093143.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Ukraine hat Angriffe auf Raffinerien in Russland wieder aufgenommen",
-    "summary": "Drohnenangriff kam nach entsprechender Ankündigung von Selenskyj +++ Auch Musk fordert Selenskyj zum Rücktritt auf +++ Starshield funktioniert in der Ukraine wieder uneingeschränkt +++ alle Neuigkeite...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-hat-angriffe-auf-raffinerien-in-russland-wieder-aufgenommen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump: Hinrichtung wird doch nicht live übertragen",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-hinrichtung-wird-doch-nicht-live-uebertragen-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Nach Wahl in Berlin: Wer ist die Frau, an der Rot-Grün-Rot zu scheitern droht?",
-    "summary": "Die Linke Vanessa Emde wurde aus Neukölln ins Berliner Abgeordnetenhaus gewählt. Und verschreckt dort nun SPD und Grüne. Warum polarisiert sie derartig?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/wahl-in-berlin/vanessa-emde-die-linke-die-rot-rot-gruen-in-berlin-wackeln-laesst-201339159.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Im Auftrag von Iran: Haftstrafen wegen geplanter Ermordung Volker Becks",
-    "summary": "Im Auftrag von Iran hatten zwei gebürtige Afghanen die Ermordung des Grünen-Politikers Beck geplant. Der fordert nun Konsequenzen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/geplanter-mord-an-volker-beck-haftstrafen-fuer-iranische-agenten-201339204.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Katie Zacharia: Wie Trumps neue Sprecherin ihr Debüt verstolpert hat",
-    "summary": "Kurz nach ihrem Amtsantritt hat Katie Zacharia eine Affäre ausgelöst. Bei der neuen Sprecherin des US-Präsidenten werden Fragen zum Lebenslauf laut.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/katie-zacharia-wie-trumps-sprecherin-ihr-debuet-verstolpert-hat-201339824.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trump hilft nicht: Selenskyj redet sich in Fahrt – und handelt",
-    "summary": "Ungewöhnlich deutlich kritisiert Wolodymyr Selenskyj den amerikanischen Präsidenten. Und lässt seinen Ankündigungen Taten folgen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-warum-selenskyj-von-trump-frustriert-ist-201339741.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
-    "summary": "Exclusive: Aleksandar Vučić personally intervened to push plans for controversial $500m Trump Tower in Belgrade, which sparked protests and a criminal caseSerbia’s authoritarian ruler personally inter...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Un juez federal ratifica el acceso a la Casa Blanca de CNN, Politico y MS Now que vetó Trump",
-    "summary": "El magistrado garantiza que los 78 periodistas afectados de las tres redacciones podrán entrar en el complejo presidencial al menos hasta que dictamine la sentencia definitiva",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-14/un-juez-federal-ratifica-el-acceso-a-la-casa-blanca-de-cnn-politico-y-ms-now-que-veto-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Turek contra Hinson, una de las batallas más reñidas de las ‘midterms’ se libra en Iowa",
-    "summary": "Los dos aspirantes al Senado se enfrentan en el último debate de campaña exhibiendo sus diferencias respecto a los aranceles, impuestos e inmigración y marcando distancias respecto a Trump",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-14/turek-contra-hinson-una-de-las-batallas-mas-renidas-de-las-midterms-se-libra-en-iowa-donde-los-candidatos-marcan-distancia-con-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "¿Qué es Moab, la \"madre de todas las bombas\", y por qué podría ser la salida de Estados Unidos del conflicto en Irán?",
-    "summary": "La GBU-43/B podría utilizarse contra infraestructuras críticas o en una incursión contra la montaña Pickaxe, el gran búnker que alberga una instalación vinculada al programa nuclear&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/15/6ad0f96efdddff3f1e8b45a4.html"
   }
 ]
