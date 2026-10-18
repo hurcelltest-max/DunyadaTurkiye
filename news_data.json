@@ -1,5 +1,149 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
+    "summary": "Die mit Iran verbündete Huthi-Miliz setzt ihre Angriffe mit Drohnen, Raketen und Marschflugkörpern auf Ziele im benachbarten sunnitischen Königreich Saudi-Arabien fort.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+    "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+    "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in GazaThe Nobel peace prize has been awarded to Navi Pillay, the South African former...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ucrania, en punto muerto: asediada por Putin y abandonada por Trump",
+    "summary": "Tras una semana calamitosa, Kiev trata de retomar las negociaciones. Zelenski asegura que el presidente ruso quiere la “destrucción” y no solo la “rendición”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-18/ucrania-en-punto-muerto-asediada-por-putin-y-ninguneada-por-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El despido de la portavoz de Trump desliza a la Casa Blanca hacia el caos  a dos semanas de las ‘midterms’",
+    "summary": "El ‘show’ de la salida de Zacharia tras solo cinco días en el cargo revive, en mitad de una campaña descarrilada, las turbulencias de la primera Administración del republicano",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-18/el-despido-de-la-portavoz-de-trump-desliza-a-la-casa-blanca-hacia-el-caos-a-dos-semanas-de-las-midterms.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump apuñala a Ucrania por la espalda",
+    "summary": "Putin ha perdido su condición de apestado gracias al presidente de Estados Unidos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-18/trump-apunala-a-ucrania-por-la-espalda.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Medio centenar de fortificaciones en Gaza: así toma Israel el control de la Franja",
+    "summary": "EL PAÍS identifica, con inteligencia artificial, decenas de puestos militares israelíes que evidencian la ocupación, el asedio a la población palestina y la destrucción sistemática para convertir el e...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-18/medio-centenar-de-fortificaciones-en-gaza-asi-toma-israel-el-control-de-la-franja.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ocho décadas después, un anciano de 105 años debe responder por los crímenes del nazismo",
+    "summary": "Guardia en un campo de prisioneros de guerra alemán, la fiscalía investiga a J. S. como cómplice de asesinatos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-18/ocho-decadas-despues-un-anciano-de-105-anos-debe-responder-por-los-crimenes-del-nazismo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La América rural mide el alcance de la ola demócrata en Estados Unidos: “Me gustaría ver algún cambio político”",
+    "summary": "Los aranceles y la guerra contra Irán han disparado los precios y alimentado la decepción de los agricultores con Trump. Este Estado agrícola emerge como uno de los territorios decisivos para que los ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-17/los-granjeros-de-iowa-miden-el-alcance-de-la-ola-democrata-en-estados-unidos-me-gustaria-ver-algun-cambio-politico.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Escepticismo y desencanto en Iowa: la siderúrgica prometida por Trump despierta viejos fantasmas",
+    "summary": "Los vecinos de Fort Madison dudan de que el anuncio para instalar la mayor acería de Estados Unidos, con una inversión de 15.000 millones, vaya a cambiar el voto",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-16/escepticismo-y-desencanto-en-iowa-la-siderurgica-prometida-por-trump-despierta-viejos-fantasmas.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Spirit of Hong Kong Awards finalist bridges the gap in accessible dental care",
+    "summary": "Hong Kong social worker Mark Cheung Kai-yuen is working to make dental care more accessible for cancer survivors, people with disabilities and children with special needs who often struggle to find su...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3371166/spirit-hong-kong-awards-finalist-bridges-gap-accessible-dental-care?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "All Toyota models to be software-based by 2030",
+    "summary": "The move will help Toyota generate revenue through software update fees after delivery.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+    "summary": "The trauma of Oct. 7, 2023, remains raw across Israel.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/israeli-election-war-right-shift/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Saudi Arabia reports incoming fire as Egypt weighs sending help",
+    "summary": "Saudi Arabia has faced sustained Houthi missile and drone attacks targeting its oil installations, tankers and transit hubs.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/18/world/saudi-arabia-attack-egypt-help/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump-Zelenskyy rift threatens vital support for Kyiv",
+    "summary": "The widening rift has sparked concerns that Trump and Zelenskyy's tumultuous relationship could lead to even worse outcomes for Kyiv.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-zelenskyy-ukraine-support-analysis/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump’s Russia sanctions waiver called mistake by GOP allies",
+    "summary": "At least eight Republican senators and several House lawmakers have spoken out against Trump's diesel deal with Russia or the sanctions waiver.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -754,149 +898,5 @@
     "summary": "Außenminister und CDU-Politiker Johann Wadephul meint, seine Partei sei vielleicht zu ängstlich. Sie könne stärker für die Unterstützung der Ukraine werben.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/inland/johann-wadephul-russland-wird-groessere-schwierigkeiten-haben-ukraine-krieg-durchzuhalten-accg-201339551.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Volker Beck: Durchsetzungstarker Kämpfer für Minderheitenrechte",
-    "summary": "Sein Engagement für den Zionismus und Juden in Deutschland brachte Volker Beck ins Fadenkreuz der iranischen Revolutionsgarden. Die Gefahr schwebt weiter über ihm.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/nach-terrorprozess-gefahr-fuer-volker-beck-bleibt-bestehen-accg-201465566.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-    "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newbor...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-    "summary": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White HouseEurope live – latest updatesVolodymyr Zelenskyy has said the U...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveable",
-    "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozenEurope live – latest updatesAs Russian missiles and drones have systematically slammed into power plant...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
-    "summary": "Johannes Kongsnes Natland, 19, was arrested in Huddersfield with two guns and live ammunition A teenage hitman who travelled from Norway to the UK with the intention of carrying out a murder on behalf...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Decenas de colonos enmascarados atacan una aldea de Cisjordania durante la recogida de la aceituna y dan una paliza a una fotógrafa",
-    "summary": "Los jóvenes israelíes llegaron de un asentamiento cercano y quemaron olivos en Abu Falah, cerca de Ramala. La fotógrafa estadounidense agredida, Heidi Levine, tiene 63 años y trabaja para ‘The Washing...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-16/decenas-de-colonos-enmascarados-atacan-una-aldea-de-cisjordania-durante-la-recogida-de-la-aceituna-y-dan-una-paliza-a-una-fotografa.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La justicia británica condena a un adolescente noruego que trabajaba para una organización criminal a sueldo de Irán",
-    "summary": "Johannes Natland, de 19 años, viajó hace poco más de un año hasta el Reino Unido para asesinar a alguien cuya identidad se desconoce",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-16/la-justicia-britanica-condena-a-un-adolescente-noruego-que-trabajaba-para-una-organizacion-criminal-a-sueldo-de-iran.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Un Trump desaforado emprende una huida hacia delante para salvar las ‘midterms’",
-    "summary": "El presidente de EE UU está embarcado en una gira de mítines en los que da rienda suelta a sus obsesiones sin importarle la influencia de sus devaneos en las encuestas",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-15/la-desenfrenada-huida-hacia-delante-de-trump-para-salvar-las-midterms.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Los latinos que se alejaron de Trump, pero desconfían de los demócratas: “Necesito ver hechos para volver a creer”",
-    "summary": "Casi 4 de cada 10 votantes hispanos forman parte del “grupo de interés moderado”, que aún no sabe por quién votar en las ‘midterms’ de noviembre, de acuerdo a un estudio de UnidosUS",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-14/los-latinos-que-se-alejaron-de-trump-pero-desconfian-de-los-democratas-necesito-ver-hechos-para-volver-a-creer.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Zelenski recibe \"apoyo y nada más que apoyo\" de la UE tras las críticas de Trump y confía en que Starlink restaure su servicio a Ucrania",
-    "summary": "\"No es momento de retirar nuestro ayuda a Ucrania\", afirma Costa en un discurso que contrasta con el del presidente de EEUU. Pero al mismo tiempo, algunas voces en Bruselas no acaban de aprobar cómo e...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/16/6ad2245bfdddff28478b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "China planta cara a Israel por los asentamientos en Cisjordania y se ofrece como mediador en Gaza",
-    "summary": "Pekín exige al Gobierno israelí que frene la expansión de las colonias judías y denuncia la \"mayor injusticia histórica de este siglo\" contra los palestinos&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/16/6ad208aee9cf4a8e568b4578.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ucrania ataca una refinería rusa a 200 kilómetros de Moscú",
-    "summary": "El líder ucraniano no ocultó su enfado con EEUU por la evidente distancia que Trump ha tomado con su gobierno al retirar al ejército ucraniano información de inteligencia, lo que les ha privado de sis...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/15/6ad08812e4d4d877328b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Mueren dos personas a causa de las lluvias torrenciales en Estambul",
-    "summary": "Las autoridades han anunciado la creación de \"un centro de gestión de crisis\" para abordar la situación, incluida la suspensión de clases presenciales este jueves y el despliegue de 8.000 agentes y 2....",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/15/6ad08d9cfc6c834e108b459c.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
-    "summary": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zu den Landtagswahlen: Berliner Linken-Abgeordnete Emde: Stehe zu meinen Aussagen",
-    "summary": "Nach der Wiederaufnahme der rot-grün-roten Sondierungen in Berlin hat die Linken-Politikerin eine ihrer umstrittenen Aussagen in einem Instagram-Video wiederholt. Kritiker werfen ihr vor, nicht zum Ex...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-vanessa-emde-li.3540501"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
-    "summary": "Die vorübergehende Drosselung des militärisch genutzten Satelliteninternets sorgt im US-Senat für parteiübergreifende Kritik.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-li.3563283"
   }
 ]
