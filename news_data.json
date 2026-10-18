@@ -1,5 +1,113 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+    "summary": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Russland: Ein Toter und mehrere Verletzte bei Drohnenangriff auf Sankt Petersburg",
+    "summary": "Ziele der ukrainischen Attacke waren Ölanlagen, Logistik- und Datenzentren. Nach russischen Angaben sind an einem Ölterminal, einem Öldepot und in Industriehallen Brände ausgebrochen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-sankt-petersburg-angriff-li.3563283"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Nahost: Israelische Siedler attackieren EU-Diplomaten",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/nahost-israelische-siedler-attackieren-eu-diplomaten-li.3565413"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Äthiopien: Zieht der Friedensnobelpreisträger in den Krieg?",
+    "summary": "Vor sieben Jahren wurde Äthiopiens Ministerpräsident für seine Annäherung an Eritrea ausgezeichnet. Nun stehen die Nachbarstaaten an der Schwelle zu einer neuen bewaffneten Auseinandersetzung.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/aethiopien-eritrea-horn-von-afrika-krieg-abiy-ahmed-li.3564033"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Hunger als Waffe: Nagende Gewalt",
+    "summary": "Hunger ist ein billiges, effizientes Mittel, das vor allem in Kriegszeiten bewusst gegen die Zivilbevölkerung eingesetzt wird. Ein Aufsatzband erklärt erstmals, welche entscheidende Rolle der Faktor Z...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/hunger-kriegswaffe-nahrungsentzug-zweiter-weltkrieg-gaza-chronogewalt-li.3551480"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Nahost: Jetzt sind wir am Zug",
+    "summary": "Syriens Eisenbahn ist so geschunden wie das ganze Land. Aber jetzt soll es einen Neuanfang geben. Eine Fahrt mit Menschen, die eine Hoffnung haben: Bleibt die Straße von Hormus blockiert, könnten sie ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/syrien-eisenbahn-strasse-von-hormus-oelpreis-e298904/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump: Einwanderung schuld an Gewalt in Frankreich",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-einwanderung-schuld-an-gewalt-in-frankreich-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Selenskyj: Erhalten wieder Geheimdienstinformationen von den USA",
+    "summary": "US-Außenminister Rubio: Satelliteninternet Starshield „im Moment für die Ukraine nicht verfügbar“ +++ Kiew: In Litauen abgestürzte Drohne kam aus der Ukraine +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-erhalten-wieder-geheimdienstinformationen-von-den-usa-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Attacke von Siedlern: „Kommt schnell“, lautete der folgenlose Hilferuf",
+    "summary": "Journalisten und Diplomaten werden von israelischen Siedlern attackiert. Die Armee versucht, die Verantwortung abzuwälzen. Ministerpräsident Netanjahu stellt die Ereignisse sogar infrage.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/netanjahu-stellt-siedlerattacken-auf-diplomaten-und-journalisten-infrage-accg-201598165.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+    "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentresTwo people have been killed and at least 17 injured as Russia and Ukraine continue to trade strike...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El Gobierno de Trump demanda a California alegando que hay 20.000 votantes no ciudadanos en el padrón",
+    "summary": "La titular de la oficina electoral del Estado calificó la situación como “una emergencia creada por el propio Departamento de Justicia”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-15/el-gobierno-de-trump-demanda-a-california-alegando-que-hay-20000-votantes-no-ciudadanos-en-el-padron.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Huanggang Port swarmed by holiday rush with reports of 2-hour waits",
+    "summary": "Massive holiday crowds swamped the revamped Huanggang Port on Sunday during its first real test over the festival long weekend, with some travellers reporting two-hour waits.\nOutbound passenger traffi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/transport/article/3371299/alert-raised-holiday-crowds-overwhelm-hong-kongs-revamped-huanggang-crossing?utm_source=rss_feed"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -790,113 +898,5 @@
     "summary": "La GBU-43/B podría utilizarse contra infraestructuras críticas o en una incursión contra la montaña Pickaxe, el gran búnker que alberga una instalación vinculada al programa nuclear&nbsp;Leer",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/10/15/6ad0f96efdddff3f1e8b45a4.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump’s new press secretary out after less than a week",
-    "summary": "A series of blunders that added to distractions for her embattled boss led to her dismissal.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/17/world/politics/white-house-press-secretary-ousted/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-    "summary": "In the latest surge of violence, settlers targeted Palestinians during the olive harvest, a cultural touchstone and economic lifeline in the Israeli-occupied area.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
-    "summary": "Die vorübergehende Drosselung des militärisch genutzten Satelliteninternets sorgt im US-Senat für parteiübergreifende Kritik. US-Präsident Trump weißt die Schuld von sich - doch ein Bericht widerspric...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Trump trennt sich von Katie Zacharia",
-    "summary": "Nach nur einer Woche ist die neue Pressesprecherin von Donald Trump ihren Job  bereits wieder los. Sie hatte einen holprigen Start hingelegt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA-Newsblog: Medien: Trump trennt sich nach wenigen Tagen von neuer Pressesprecherin",
-    "summary": "„Vielleicht ist das nichts für sie“, sagte der US-Präsident laut Medien. Katie Zacharia war wegen ihrer beruflichen Qualifikationen unter Druck geraten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-sprecherin-zacharia-li.3558046"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
-    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Katie Zacharia gibt Amt als Pressesprecherin nach wenigen Tagen auf",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-zacharia-gibt-amt-als-pressesprecherin-auf-faz-19444916.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-    "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-offDeforestation in the Brazilian Amazon has fallen to its lowest level since records began...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-    "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-    "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
   }
 ]
