@@ -1,5 +1,104 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Nach Razzia bei Abgeordneter: Obama wirft Trump-Regierung Einschüchterungsversuch vor",
+    "summary": "Kurz vor den Kongresswahlen durchsuchten Bundesbeamte jüngst das Zuhause der Abgeordneten Ilhan Omar, die als Trump-Kritikerin gilt. Ex-Präsident Obama sieht einen Verstoß gegen demokratische Grundpfe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-obama-razzia-omar-trump-einschuechterungsversuch-li.3564887"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Trump: Will Russland am Verhandlungstisch halten",
+    "summary": "Selenskyj: Erhalten wieder Geheimdienstinformationen von USA  +++ Ukraine: U-Bahn-Station in Kiew bei russischem Angriff beschädigt +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-will-russland-am-verhandlungstisch-halten-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Revolutionsgarden: Öltanker trifft in Straße von Hormus auf Seemine und brennt",
+    "summary": "Trump spricht Wahlempfehlung für Netanjahu aus  +++ Iran: Angebot zur Öffnung der Straße von Hormus steht +++  alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-revolutionsgarden-oeltanker-trifft-in-strasse-von-hormus-auf-seemine-und-brennt-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+    "summary": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’Get our new political email, free app or daily news podcastAn inquiry into a Sydne...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+    "summary": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+    "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group findsBritish steelmakers have been pushed further behind European rivals on electricity costs aft...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Carlos García, ex alcalde de la ciudad venezolana de Mérida: Hui de Venezuela para evitar la cárcel del régimen y acabé en una cárcel de EEUU\"",
+    "summary": "El dirigente opositor ha relatado a EL MUNDO su odisea, paradigma de lo que hoy ocurre a miles de sus paisanos, huidos de la revolución pero hostigados por la Administración de Donald Trump en la que ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/19/6ac90a51e9cf4a65238b4596.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Spirit of Hong Kong Awards: medical student draws from experience of volunteer work",
+    "summary": "Years of volunteering to serve elderly people and disadvantaged communities have informed medical student Alfred Lam’s approach to medicine, teaching the University of Hong Kong undergraduate to look ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3371291/spirit-hong-kong-awards-medical-student-draws-experience-volunteer-work?utm_source=rss_feed"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rays beat Guardians in Game 5 to take another step toward World Series",
+    "summary": "Yandy Diaz had three hits and scored a run, and Drew Rasmussen carried a shutout into the sixth inning",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "As obstacles to peace go, Zelenskyy ranks below Trump",
+    "summary": "In the hierarchy of politicians responsible for the continuation of Russia's invasion of Ukraine, Zelenskyy ranks only third, after Putin and Trump.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/10/19/world/zelenskyy-trump-peace-obstacles/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Zelenskyy says Trump is pushing Ukraine to capitulate to Russia",
+    "summary": "The Ukrainian leader also offered to accede to Trump's request to stop targeting Russian refineries in exchange for Patriot missile deliveries.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/19/world/politics/zelenskyy-trump-ukraine-russia-war/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -799,104 +898,5 @@
     "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in Nahost: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
-    "summary": "Die iranische Revolutionsgarde berichtet von einer Explosion und einem Brand an Bord des Schiffes.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-supertanker-strasse-von-hormus-seemine-li.3560260"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: „Auf den Punkt“: Wird Trump bei den Midterms zur „Lame Duck“?",
-    "summary": "Anfang November finden die US-Zwischenwahlen statt. Die Demokraten können sich Hoffnungen machen – obwohl Elon Musk wieder viel Geld in Trumps Kampagne pumpt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/midterms-2026-donald-trump-elon-musk-spenden-podcast-li.3563986"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Trump legt geplante Russland-Zölle auf Eis",
-    "summary": "Der Kongress wollte mit weitreichenden Sanktionen den Kreml wegen des Ukraine-Kriegs unter Druck setzen. Der US-Präsident stoppt die Maßnahmen jetzt per Dekret.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-russland-zoelle-sanktionen-li.3564887"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
-    "summary": "Raketen treffen Flughafen Aden – Angriff auf Saudi-Ölstadt abgewehrt +++  Gaza erhält derzeit keine kommerziellen Güterlieferungen +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-supertanker-faehrt-in-strasse-von-hormus-auf-seemine-faz-200583539.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-    "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
-    "summary": "El republicano justifica la medida, que llega una semana después del acuerdo para comprar diésel a Moscú, en el “interés nacional” de Estados Unidos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Kathleen Belew, historiadora: “Trump utiliza y se beneficia de los supremacistas blancos”",
-    "summary": "La especialista advierte de los peligros que entraña abrir las puertas de la política a grupos racistas y violentos, un movimiento que gana terreno en todo el mundo",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-17/kathleen-belew-historiadora-trump-utiliza-y-se-beneficia-de-los-supremacistas-blancos.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Arrestos, despidos y escupitajos: los profesores israelíes perseguidos por sus opiniones fuera del aula",
-    "summary": "Educadores árabes y judíos sufren una caza de brujas por expresar puntos de vista a contracorriente de la ola de nacionalismo que despertó el letal ataque de Hamás",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-17/arrestos-despidos-y-escupitajos-los-profesores-israelies-perseguidos-por-sus-opiniones-fuera-del-aula.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump despide a la portavoz de prensa de la Casa Blanca tras cinco días en el cargo",
-    "summary": "La salida llega después de que el presidente dijera que había pedido a Katie Zacharia que reconsiderase si quería seguir tras una semana de escándalos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html"
   }
 ]
