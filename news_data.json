@@ -3,6 +3,186 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+    "summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Israel: Massenfestnahme ultraorthodoxer Wehrdienstverweigerer",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/israel-massenfestnahme-ultraorthodoxer-wehrdienstverweigerer-li.3566339"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Trump: „Selenskij weiß nicht, wovon er spricht“",
+    "summary": "Der US-Präsident weist Andeutungen seines ukrainischen Amtskollegen, wonach Trump mit seinem kremlfreundlichen Kurs auf der falschen Seite der Geschichte stehe, zurück.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-trump-waffenlieferungen-patriot-li.3563283"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Selenskyj spricht mit Rubio über Starlink",
+    "summary": "Kommunikationssysteme „müssen wiederhergestellt werden“ +++ Witkoff zu Gesprächen mit Selenskyj in Oslo eingetroffen +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle N...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-spricht-mit-rubio-ueber-starlink-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Berichte über Treffen zwischen Hegseth und Netanjahu in Israel",
+    "summary": "Besuch kurz vor der israelischen Parlamentswahl +++ Zehn Verdächtige wegen Gewalt gegen Siedler festgenommen +++ Lawrow reist nach Iran +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-berichte-ueber-treffen-zwischen-hegseth-und-netanjahu-in-israel-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Sudan: UN zeigen sich wegen tödlicher Drohnenangriffe alarmiert",
+    "summary": "Drohnenangriffe treffen Märkte und Sudans Hauptstadt Khartum. Die UN warnt vor zivilen Opfern. Für die Angriffe werden beide Kriegsparteien verantwortlich gemacht.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/sudan-un-zeigen-sich-wegen-toedlicher-drohnenangriffe-alarmiert-accg-201604953.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Alberta voters reject plan for referendum to leave Canada",
+    "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, deliverin...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+    "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+    "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal caseA Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps bu...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Los republicanos moderados temen verse arrastrados por la impopularidad de Trump",
+    "summary": "Mike Lawler, de los pocos congresistas conservadores en un Estado abrumadoramente demócrata como Nueva York, trata de distanciarse del presidente en una de las grandes batallas de las ‘midterms’",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-20/los-republicanos-moderados-temen-verse-arrastrados-por-la-impopularidad-de-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump insiste en cambiar el nombre del Estado de Nuevo México por Nueva América pese a que no tiene potestad para hacerlo",
+    "summary": "El presidente estadounidense firmó órdenes ejecutivas para sustituir el nombre del lago Ontario y el golfo de México. Ha puesto su nombre a edificios históricos, monedas y hasta un cóctel",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-19/trump-insiste-en-cambiar-el-nombre-del-estado-de-nuevo-mexico-por-nueva-america-pese-a-que-no-tiene-potestad-para-hacerlo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump utiliza a Melania para tratar de conectar con el voto femenino desencantado por sus excesos",
+    "summary": "El mandatario tiene un largo historial de desprecio por algunas mujeres, mientras que los republicanos reciben menos votos femeninos, según las encuestas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-20/trump-utiliza-a-melania-para-tratar-de-conectar-con-el-voto-femenino-desencantado-por-sus-excesos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La Casa Blanca redobla su presión a California como laboratorio para sus injerencias de cara a las ‘midterms’",
+    "summary": "La ofensiva de la Administración de Trump se enfoca en alegatos de que miles de no ciudadanos están registrados en el padrón electoral del Estado",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-20/la-casa-blanca-redobla-su-presion-a-california-como-laboratorio-para-sus-injerencias-de-cara-a-las-midterms.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Culpabilizados y engañados: los latinos que votaron por Trump se rebelan contra el Partido Republicano",
+    "summary": "“Yo creo que se le metió el diablo”, dice la peluquera Celia Salmerón, una de las electoras que cambiará su elección en las ‘midterms’",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-19/culpabilizados-y-enganados-los-latinos-que-votaron-por-trump-se-rebelan-contra-el-partido-republicano.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN",
+    "summary": "Dice que quiere lograr la paz \"pero no tanto por Ucrania\", sostiene que \"Rusia ha estado francamente bien\" y arremete contra los europeos por la inmigración, los disturbios en Francia e Irán&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/20/6ad6f70821efa0b3548b459d.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "‘Risks tilted to the downside’ amid geopolitical tensions, Paul Chan says",
+    "summary": "Geopolitical tensions and uncertainty over trade policies pose downside risks to the global economy, Hong Kong’s finance chief has warned, calling for regional efforts to safeguard stability and keep ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/politics/article/3371461/john-lee-pledges-showcase-hong-kongs-financial-strengths-apec-meeting"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Spirit of Hong Kong Awards: medical student draws from experience of volunteer work",
+    "summary": "Years of volunteering to serve elderly people and disadvantaged communities have informed medical student Alfred Lam’s approach to medicine, teaching the University of Hong Kong undergraduate to look ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3371291/spirit-hong-kong-awards-medical-student-draws-experience-volunteer-work"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Under pledge to U.S., Japan’s chip investment divided between home and abroad",
+    "summary": "The $550 billion commitment to the Trump administration, in return for lower tariffs, won't do much to resurrect Japan's chip industry, experts say.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/10/20/tech/japan-chip-industry-reboot/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Electronic warrant system to be rolled out in Tokyo and nearby areas by March",
+    "summary": "Currently, police officers need to visit courts in person to obtain printed arrest and search warrants.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/20/japan/crime-legal/japan-courts-online-arrest-warrants/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Top NPB slugger Teruaki Sato set to test MLB market",
+    "summary": "Teruaki Sato, the reigning Central League MVP and presumptive favorite for the award this year, won the CL Triple Crown this season.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/20/baseball/japanese-baseball/teruaki-sato-mlb-posting/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Oil-Rich Alberta Votes on Its Future in Canada",
     "summary": "Electors have been asked if they wish to remain in Canada or to hold another vote on breaking away in a referendum that left both sides unhappy.",
     "timeAgo": "En Guncel (API)",
@@ -718,185 +898,5 @@
     "summary": "Prime Minister Benjamin Netanyahu of Israel has downplayed accounts of recent extremist attacks on Palestinians in the West Bank amid the annual olive harvest.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
-    "summary": "„Wir sind dafür sehr dankbar“, sagt der ukrainische Präsident. Zuletzt sei der Austausch der US-Informationen unterbrochen worden. Sein Land ist auf die Daten angewiesen, um ballistische Raketen zu or...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Trump spricht Wahlempfehlung für Netanjahu aus",
-    "summary": "US-Präsident mischt sich in Israels Wahlkampf ein: „Netanjahu wird Euch niemals in Stich lassen“ +++ USA fordern Israel zu Vorgehen gegen Siedlergewalt auf +++  alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-spricht-wahlempfehlung-fuer-netanjahu-aus-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
-    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-    "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’Four people have been killed and dozens more seriously injured after a “violent, ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-    "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-offDeforestation in the Brazilian Amazon has fallen to its lowest level since records began...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-    "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-    "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
-    "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’Get our breaking news email, free app or daily news podcastJordon Steele...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump respalda a Netanyahu a nueve días de las elecciones israelíes: “Es un gran guerrero, fuerte, valiente y brillante”",
-    "summary": "El presidente de EE UU, que había rechazado pronunciarse sobre los comicios del próximo 27, dice ahora que elegir a cualquier otro líder sería un error",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-18/trump-respalda-a-netanyahu-a-nueve-dias-de-las-elecciones-israelies-es-un-gran-guerrero-fuerte-valiente-y-brillante.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Zelenski afirma que Trump busca la rendición de Ucrania ante Rusia",
-    "summary": "Kiev lanza un intenso ataque contra San Petersburgo y golpea una terminal petrolera, un centro de datos y un nodo logístico",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-18/ucrania-lanza-un-intenso-ataque-sobre-san-petersburgo-y-golpea-una-terminal-petrolera-un-centro-de-datos-y-un-centro-logistico.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump fulmina a Katie Zacharia, su nueva portavoz, tras apenas cinco días en el cargo: \"Quizás esto no es para ella\"",
-    "summary": "Zacharia, que tuvo un debut desastroso ante las cámaras, lleva años presentándose como abogada, aunque nunca pasó el examen, y defendiendo teorías disparatadas y peligrosas contra los Demócratas y \"la...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/16/6ad1ee03fdddff59428b4574.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
-    "summary": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Russland: Ein Toter und mehrere Verletzte bei Drohnenangriff auf Sankt Petersburg",
-    "summary": "Ziele der ukrainischen Attacke waren Ölanlagen, Logistik- und Datenzentren. Nach russischen Angaben sind an einem Ölterminal, einem Öldepot und in Industriehallen Brände ausgebrochen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-sankt-petersburg-angriff-li.3563283"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Nahost: Israelische Siedler attackieren EU-Diplomaten",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/nahost-israelische-siedler-attackieren-eu-diplomaten-li.3565413"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Äthiopien: Zieht der Friedensnobelpreisträger in den Krieg?",
-    "summary": "Vor sieben Jahren wurde Äthiopiens Ministerpräsident für seine Annäherung an Eritrea ausgezeichnet. Nun stehen die Nachbarstaaten an der Schwelle zu einer neuen bewaffneten Auseinandersetzung.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/aethiopien-eritrea-horn-von-afrika-krieg-abiy-ahmed-li.3564033"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Hunger als Waffe: Nagende Gewalt",
-    "summary": "Hunger ist ein billiges, effizientes Mittel, das vor allem in Kriegszeiten bewusst gegen die Zivilbevölkerung eingesetzt wird. Ein Aufsatzband erklärt erstmals, welche entscheidende Rolle der Faktor Z...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/hunger-kriegswaffe-nahrungsentzug-zweiter-weltkrieg-gaza-chronogewalt-li.3551480"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Nahost: Jetzt sind wir am Zug",
-    "summary": "Syriens Eisenbahn ist so geschunden wie das ganze Land. Aber jetzt soll es einen Neuanfang geben. Eine Fahrt mit Menschen, die eine Hoffnung haben: Bleibt die Straße von Hormus blockiert, könnten sie ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/syrien-eisenbahn-strasse-von-hormus-oelpreis-e298904/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump: Einwanderung schuld an Gewalt in Frankreich",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-einwanderung-schuld-an-gewalt-in-frankreich-faz-19444916.html"
   }
 ]
