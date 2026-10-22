@@ -3,6 +3,114 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+    "summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Midterms in den USA: Angst vor Trumps Manipulationen",
+    "summary": "Schickt der Präsident die Einwanderungsbehörde vor die Wahllokale? Lässt er Urnen beschlagnahmen? Die Zwischenwahlen in den USA werden von vielen Befürchtungen begleitet. Womit zu rechnen ist – und wo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/midterms-usa-2026-donald-trump-wahlmanipulation-li.3567175"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Gadi Eisenkot: Reicht es für den Sieg, das Gegenteil Netanjahus zu sein?",
+    "summary": "Gadi Eisenkots Partei steht in den Umfragen vor der Wahl in Israel an der Spitze. Das liegt vor allem am unprätentiösen Charakter des ehemaligen Armeechefs.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-gadi-eisenkot-inszeniert-sich-als-anti-netanjahu-201604227.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: US-Richterin fordert Trump zu Aussage im Prozess gegen BBC auf",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-richterin-fordert-trump-zu-aussage-im-prozess-gegen-bbc-auf-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Putin nennt Ostukraine „historisch russisches Land“",
+    "summary": "Putin: Russland bereitet sich nicht auf Krieg mit Europa vor +++ Musk soll Starlink laut Trump für Ukraine wiederhergestellt haben +++ Mutmaßlicher Russland-Spion in Brandenburg gefasst +++ alle Neuig...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-nennt-ostukraine-historisch-russisches-land-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Zwischenwahlen: Er will Trumps Gegenspieler im Kongress werden",
+    "summary": "Hakeem Jeffries hoffte schon vor zwei Jahren auf das Amt des Speakers in Washington. Nun ist es zum Greifen nah. Verderben könnte es ihm auch die eigene Fraktion.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-hakeem-jeffries-will-trumps-gegenspieler-werden-201597036.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El coqueteo de Trump con Putin incomoda a los candidatos republicanos en la recta final de las ‘midterms’",
+    "summary": "El presidente respalda al enviado especial que calificó a Putin como “humanitario” al tiempo que levanta las sanciones a Moscú para tratar de abaratar el diésel",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-22/el-coqueteo-de-trump-con-putin-incomoda-a-los-candidatos-republicanos-en-la-recta-final-de-las-midterms.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Israel detiene y luego libera a un político demócrata de EEUU que ayudaba a agricultores palestinos en Cisjordania",
+    "summary": "Otros voluntarios, entre los que figuran rabinos estadounidenses, continúan detenidos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/21/6ad8eb1421efa0af128b458c.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
     "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
     "timeAgo": "En Guncel (API)",
@@ -790,113 +898,5 @@
     "summary": "Kremlfreundliche Netzwerke haben die Unzufriedenheit der französischen Bevölkerung genutzt, um Stimmung gegen Ukraine-Hilfen zu machen. Das zeigt eine neue Studie.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/frankreich-russland-bots-studie-ukraine-li.3566511"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in Nahost: Warum es Netanjahu nutzen könnte, Iran erneut anzugreifen",
-    "summary": "Israels Ministerpräsident redet davon, den „Job zu beenden“ – und auch Donald Trump denkt laut darüber nach. Welche Rechnungen mit Teheran beide noch offen haben.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-wahl-2026-iran-krieg-netanjahu-vorteil-li.3566802"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: EU verlangt von SpaceX volle Starlink-Dienste für die Ukraine",
-    "summary": "Sprecher von der Leyens nennt Drosselung „äußerst besorgniserregend“ +++ Moskau zu neuen Verhandlungen Ukraine und USA bereit +++ Putin schlägt Treffen mit Trump in China vor +++ alle Neuigkeiten im L...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verlangt-von-spacex-volle-starlink-dienste-fuer-ukraine-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Vor der Israel-Wahl: Netanjahu soll auf weitere Angriffe gegen Iran dringen",
-    "summary": "Israels Regierungschef lässt laut Medienberichten eine neue Offensive gegen Iran planen. Donald Trump scheint noch zu zögern.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-laut-berichten-dringt-netanjahu-auf-weitere-iran-angriffe-201607992.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-    "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detai...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-    "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Su...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-    "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Europe live – latest updatesUS politics live – latest updatesVladimir...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
-    "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other citiesMeanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US preside...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-    "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekendEmmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comment...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Zelenski se abre a un alto el fuego que “congele” temporalmente las líneas del frente",
-    "summary": "El enviado de Trump a Moscú califica a Putin de “humanitario” por la liberación de un estadounidense detenido desde 2022",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-21/zelenski-se-abre-a-un-alto-el-fuego-que-congele-temporalmente-las-lineas-del-frente.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Netanyahu alimenta el temor a un nuevo ataque a Irán a días de las elecciones en Israel y EE UU",
-    "summary": "Las frecuentes amenazas del primer ministro y una reunión secreta con el secretario de Defensa de Trump en una base aérea alertan de una posible ofensiva inminente",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-21/netanyahu-alimenta-el-temor-a-un-nuevo-ataque-a-iran-a-dias-de-las-elecciones-en-israel-y-ee-uu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Macron acusa a Trump y Netanyahu de azuzar las protestas con fines electorales",
-    "summary": "Francia se blinda para las movilizaciones previstas el próximo sábado mientras las grandes ciudades del país mantienen los toques de queda parciales nocturnos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-21/macron-acusa-a-trump-y-netanyahu-de-azuzar-las-protestas-con-fines-electorales.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Israel detiene brevemente en Cisjordania al candidato demócrata estadounidense Brad Lander",
-    "summary": "El político participaba, con varias docenas de rabinos y activistas, en la cosecha de la aceituna junto a agricultores palestinos a menudo hostigados por los colonos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-21/israel-detiene-en-cisjordania-a-brad-lander-candidato-democrata-al-congreso-estadounidense-y-aliado-de-mamdani.html"
   }
 ]
