@@ -2,6 +2,105 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+    "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+    "summary": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Kiew und Moskau stimmen Feuerpause für Oleschky zu – USA: Melania Trump hat vermittelt",
+    "summary": "Die Kämpfe in der Frontstadt sollen vorübergehend eingestellt werden. Die Ukraine erklärt, die Vereinbarung sei das Ergebnis eines langen Prozesses, an dem neben der First Lady auch der Papst beteilig...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-feuerpause-oleschky-melania-trump-papst-leo-li.3563283"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Was hat er erreicht?: Trumps Anspruch und die Wirklichkeit",
+    "summary": "„Tut einfach so, als stünde ich auf dem Wahlzettel“: Donald Trump hat die Kongresswahlen zu einer Volksabstimmung über seine Präsidentschaft erklärt. Wie fällt seine Bilanz aus?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-das-ist-donald-trumps-zwischenbilanz-accg-201292988.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Sullivan gegen Sullivan: Trump-Regierung klagt wegen Verwechslungsgefahr gegen Alaska",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-sullivan-gegen-sullivan-trump-regierung-klagt-wegen-verwechslungsgefahr-gegen-alaska-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Vermittelt von Melania Trump – Ukraine und Russland zu lokaler Feuerpause bereit",
+    "summary": "Von Russland besetzte Stadt Oleschky soll evakuiert werden +++ Flughäfen in Moskau setzen Betrieb wegen Drohnenalarms zwischenzeitlich aus +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-und-russland-stimmen-lokaler-feuerpause-fuer-oleschky-zu-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ukrainekrieg: Trumps verdrehte Sicht auf die Welt",
+    "summary": "Der amerikanische Präsident schlägt sich im Ukrainekrieg auf die Seite des Angreifers Russland. Wieder kann Deutschland hier einiges lernen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/donald-trump-lobt-russland-im-ukrainekrieg-eine-verdrehte-weltsicht-201605085.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+    "summary": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart withi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "US and Israel are warned against launching fresh strikes on Iran",
+    "summary": "Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisisForeign ministers at a summit of eight European and Middle Eastern countries have urged the US...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ucrania y Rusia intercambian prisioneros y anuncian un alto el fuego para evacuar la castigada Oleshki",
+    "summary": "La tregua para desalojar a los 6.000 civiles atrapados en la ciudad ucrania ha sido adelantada por Melania Trump y confirmada por Kiev",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-23/ucrania-y-rusia-intercambian-prisioneros-y-anuncian-un-alto-el-fuego-para-evacuar-la-castigada-oleshki.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Más de cuatro millones de jóvenes latinos, el electorado que más ha crecido, estrenan el derecho al voto en las ‘midterms’",
+    "summary": "Cada año más de un millón de hispanos cumple 18 años en Estados Unidos. La política migratoria de Trump definirá para muchos su voto en las elecciones de medio mandato",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-23/mas-de-cuatro-millones-de-jovenes-latinos-el-electorado-que-mas-ha-crecido-estrenan-el-derecho-al-voto-en-las-midterms.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
     "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
@@ -799,104 +898,5 @@
     "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Russischer Angriffskrieg: Nato erlaubt Ukraine Waffenkäufe über eigene Beschaffungsagentur",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/russischer-angriffskrieg-nato-erlaubt-ukraine-waffenkaeufe-ueber-eigene-beschaffungsagentur-li.3567607"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukraine ohne „Patriot“-Abwehrraketen: Trumps Launen ausgeliefert",
-    "summary": "Die Ukraine erhält keine „Patriot“-Abwehrraketen aus den USA mehr. Absicht oder dummer Zufall? Noch ist das nicht ganz klar. Aber die humanitären Folgen sind schon jetzt katastrophal.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-patriot-raketen-usa-donald-trump-russland-li.3567273"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in Nahost: So stellt Iran sich auf neue US-Angriffe ein",
-    "summary": "Die Trump-Regierung plant offenbar neue Bombardements nach den Zwischenwahlen. Teheran wiederum droht mit „kreativen“ Arten der Kriegsführung in der Straße von Hormus – aber ganz anders als bisher.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/iran-usa-donald-trump-strasse-von-hormus-krieg-in-nahost-midterms-li.3566496"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Die wichtigsten Duelle bei den Midterms",
-    "summary": "Wird Donald Trump Anfang November seine Mehrheit im Kongress verlieren? Das hängt vom Erfolg oder Misserfolg demokratischer Kandidaten bei den Zwischenwahlen ab. Chancen haben sie – auch dank Trump se...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/midterms-2026-trump-demokraten-kongress-mehrheit-duelle-e197069/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Bushs Bruder wählt in Texas den demokratischen Kandidaten",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-bushs-bruder-waehlt-in-den-us-midterms-2026-den-demokratischen-kandidaten-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Mutmaßlicher Russland-Spion in Brandenburg gefasst",
-    "summary": "Ukrainischer Staatsbürger Vadym Y. soll militärische Informationen zusammengetragen haben +++ Kiew wirft Moskau Einsatz von Streumunition vor ++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-mutmasslicher-russland-spion-in-brandenburg-gefasst-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Israel, USA und Iran: Zwei Wahlen und eine drohende Eskalation",
-    "summary": "Israel und die Vereinigten Staaten drohen Iran. In beiden Ländern stehen bald Wahlen an. Welche Folgen hat das für das Kalkül ihrer Regierungen?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-netanjahu-droht-iran-201611353.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-    "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "The great moth revival: how bogongs have bounced back",
-    "summary": "This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brinkIf you live anywhere on the eastern side of Australia, yo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-    "summary": "Treasury is revising all the numbers for the mid-year budget update as economists warn of a difficult six months aheadGet our new political email, free app or daily news podcastJim Chalmers has reveal...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El Tribunal Penal Internacional gana el premio Sájarov 2026 del Parlamento Europeo",
-    "summary": "La Eurocámara desafía a Trump y galardona a la corte de justicia con sede en La Haya en plena campaña de Estados Unidos en su contra",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-22/el-tribunal-penal-internacional-premio-sajarov-2026-del-parlamento-europeo.html"
   }
 ]
