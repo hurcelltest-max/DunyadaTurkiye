@@ -3,6 +3,87 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+    "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ukrainekrieg: Selenskyj geht auf Kollisionskurs mit Trump – weil er muss",
+    "summary": "Der Präsident der Ukraine nennt Trumps Illoyalität offen beim Namen. Es bleibt ihm nichts anderes übrig. Wer sollte ihn in Moskau noch ernst nehmen, wenn er vor Washington einknickte?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/selenskyj-geht-auf-kollisionskurs-mit-trump-weil-er-muss-201609010.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+    "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detai...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Un pastor metodista para obrar el milagro demócrata en Kansas: \"Jesús dice que hay que salir de la barca\"",
+    "summary": "Adam Hamilton, que dirige una Iglesia con nueve sedes y 25.000 fieles, salta a la política para desbancar a Roger Marshall, el favorito de Trump que mandó a prisión a sus pacientes pobres. Kansas no e...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/22/6ad9dcf3e85ece9b228b4593.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Miles de periodistas protestan contra la \"censura\" de la prensa en Turquía",
+    "summary": "La asociación de juristas MLSA estima que actualmente hay 30 periodistas o responsables de medios de comunicación encarcelados en Turquía&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/24/6adcb1d3fdddff68178b456e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "\"Ahora es el momento\", clama Marco Rubio tras ordenar Trump que los buques que regresan de Irán pasen por las costas cubanas",
+    "summary": "No es la primera vez que flirtea con esta posibilidad. En su operación para destronar a Maduro, el Comando Sur bombardeó la primera supuesta narcolancha a principios de septiembre&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/24/6adc8ddee4d4d863138b456f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong elderly urged to stay indoors as air pollution spikes to serious levels",
+    "summary": "Severe haze in Hong Kong over the past two days has prompted a government warning of serious health risks, with experts urging the elderly and vulnerable to stay indoors until sunset.\nAir quality heal...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3371819/hong-kong-elderly-urged-stay-indoors-air-pollution-spikes-serious-levels"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
     "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
     "timeAgo": "En Guncel (API)",
@@ -817,86 +898,5 @@
     "summary": "Documents show German party’s scramble to request support after president’s 2016 election win and co-leader’s pursuit of Steve BannonA data leak from Germany’s far-right German Alternative für Deutsch...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
-    "summary": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol• Business live – latest updatesHeineken has warned British bars and pubs that the boom in popularity o...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Netanyahu ordena el cierre de Cisjordania tras un ataque palestino días antes de las elecciones",
-    "summary": "El ejército israelí mata a dos presuntos agresores que hirieron a cinco israelíes cerca de la ciudad de Hebrón",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Sangre nueva para frenar a Trump",
-    "summary": "Un nuevo elenco de rostros demócratas ha encontrado un mensaje central: el impagable costo de vida para muchos en Estados Unidos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La gira de regreso de Kamala Harris: la exvicepresidenta entra en campaña mientras sopesa volver a presentarse",
-    "summary": "La política, que no descarta su candidatura en 2028, da, tras pasar por Nevada, un mitin con el candidato demócrata al senado en Mississippi, Estado en el que Trump le ganó por 22 puntos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-23/la-gira-de-regreso-de-kamala-harris-la-exvicepresidenta-entra-en-campana-y-coquetea-con-volver-a-presentarse.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump quiere hacer dinero con Rusia, pero el negocio de Putin es la guerra",
-    "summary": "El presidente de EEUU no oculta que las conversaciones de paz son un fin para llegar a acuerdos lucrativos, pero para Putin sólo son un medio para mantenerle en el juego&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6ada3bdbfc6c8372688b458c.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "\"Cero líneas rojas\": Irán advierte de que si se reanuda la guerra atacará la economía de hasta siete países del Golfo",
-    "summary": "Teherán amenaza con que su respuesta a un nuevo ataque será mucho más amplia que en choques anteriores, mientras se multiplican las señales de que Washington e Israel preparan una ofensiva.&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6adb37e1fc6c8384348b4589.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Una juez bloquea operaciones migratorias de la Administración Trump en nueve estados por intimidación electoral",
-    "summary": "La paralización de estas operaciones entrará en vigor a las 17.00 horas (hora local) de este viernes&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6adb00adfc6c83a13d8b4584.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong marks hottest ‘Frost’ solar term on record at 32.1 degrees Celsius",
-    "summary": "Hong Kong recorded its highest-ever temperature for the traditional Chinese calendar’s “Frost” solar term on Friday, with the weather forecaster warning of a very dry weekend ahead.\nThe Hong Kong Obse...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3371910/hong-kong-marks-hottest-frost-solar-term-record-321-degrees-celsius"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "India warms to French cooking as economic growth fuels fine-dining boom",
-    "summary": "The rise of a middle class that travels more and increasingly eats at plush establishments is creating demand for high-end hospitality workers.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/23/asia-pacific/society/india-french-cooking-schools/"
   }
 ]
