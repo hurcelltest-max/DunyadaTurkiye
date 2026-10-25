@@ -3,6 +3,132 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+    "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Bei Trump-Wahlkampf: Audi kündigt SUV-Werk in den USA an",
+    "summary": "Auf der Wahlkampftour von US-Präsident Trump gibt Audi-Manager Döllner den Bau eines Werks im Bundesstaat Georgia bekannt. Dort sollen jährlich 200 000 Autos produziert werden.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-trump-alaska-audi-li.3568285"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Musk: Ukraine hat Starlink für Offensivangriffe genutzt",
+    "summary": "Tech-Milliardär wirft Ukraine vor, gegen Nutzungsbedingungen verstoßen zu haben +++ Kiew: Starlink wieder stabil – Drosselung des Satelliteninternets offenbar aufgehoben +++ Friedensgespräche in Abu D...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-musk-ukraine-hat-starlink-fuer-offensivangriffe-genutzt-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: 2000 Palästinenser aus ihren Häusern in Hebron vertrieben",
+    "summary": "„Anti-Terror-Operation“ im Westjordanland +++ Netanjahu kündigt „große Überraschung“ für Palästinensische Autonomiebehörde an +++ Bericht: Iran soll Anschläge auf US-Diplomaten planen +++ alle Entwick...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-2000-palaestinenser-aus-ihren-haeusern-in-hebron-vertrieben-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+    "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met policeThe Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse i...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+    "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates loomsGet our new political email, free app or daily news podcastMore than a week a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Obama en su regreso a la batalla electoral: “La gente está harta de estar harta. Se respira un aire de cambio”",
+    "summary": "El expresidente arremetió con dureza contra “la indecencia” de Trump y contra “la crueldad” de Ramaswamy",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-24/obama-regresa-a-la-batalla-electoral-arremete-con-dureza-contra-la-indecencia-de-trump-y-contra-la-crueldad-de-ramaswamy.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump vota en Palm Beach a 10 días de las ‘midterms’ pese a cuestionar el voto anticipado y por correo",
+    "summary": "El presidente estadounidense está inscrito en su mansión de Mar-a-Lago en Florida",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-24/trump-vota-en-palm-beach-a-10-dias-de-las-midterms-pese-a-cuestionar-el-voto-anticipado-y-por-correo.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
+    "summary": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau.\nA youth ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump defends tariffs at rally as he says Audi to build U.S. plant",
+    "summary": "The Audi announcement marks a political win for Trump, who has been on the defensive about the domestic effects of his tariffs.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/10/25/economy/trump-tariffs-audi-factory-election/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Secretive Ukrainian deep-strike unit behind rapid expansion of campaign",
+    "summary": "Ukraine's ability to pummel targets well inside Russia has increased dramatically over the course of the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/25/world/ukraine-deep-strike-unit-focus/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump prepares for Iran escalation after U.S. and Israeli elections",
+    "summary": "A Middle East war that U.S. President Donald Trump said would be over in a matter of weeks now looks set to escalate as it enters its eighth month.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/iran-us-midterm-elections-war/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Iran has ramped up efforts to target U.S. personnel, intelligence memo warns",
+    "summary": "The alert from Director of National Intelligence Jay Clayton came after Washington scaled back staffing at its mission in Saudi Arabia last week.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/25/world/iran-target-us-personnel/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+    "summary": "Starshield's problems occurred after U.S. President Donald Trump announced a deal to buy Russian diesel.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/25/world/musk-starlink-ukraine-us-trump/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Why Is the U.S. Accusing Canada of Election Interference?",
     "summary": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
     "timeAgo": "En Guncel (API)",
@@ -772,131 +898,5 @@
     "summary": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-    "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Palestinians Stream Back to Northern Gaza on Foot",
-    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor",
-    "summary": "Ministerpräsident Benjamin Netanjahu reagiert damit auf einen Angriff mit mehreren Verletzten in dem besetzten Palästinensergebiet.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-li.3567934"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Der übelste Werbespot im amerikanischen Wahlkampf",
-    "summary": "Der Republikaner Vivek Ramaswamy lässt die Demokratin Amy Acton von deren Mutter als Lügnerin verleumden – dabei wurde sie als Kind von ihrem Stiefvater missbraucht. Selbst Konservative sind entsetzt....",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/wahlkampf-midterms-2026-kampagne-werbespot-sexualdelikt-trump-li.3567746"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kongo: Warum der Ebola-Ausbruch kaum zu stoppen ist",
-    "summary": "Helfer in Kongo klagen über ein dysfunktionales Gesundheitssystem. Auch deswegen müssen sie Vertrauen in der Bevölkerung erst aufbauen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/ebola-in-kongo-warum-der-ausbruch-kaum-zu-stoppen-ist-accg-201607684.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
-    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Iron-Maiden-Drummer lehnt Golfeinladung mit Trump ab",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-iron-maiden-drummer-lehnt-golfeinladung-mit-trump-ab-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Erster Diesel-Tanker auf dem Weg in die USA",
-    "summary": "40.000 Tonnen sollen an Bord sein +++ Hunderttausende Ukrainer ohne Strom +++ Putin nennt Ostukraine „historisch russisches Land“ +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-erster-diesel-tanker-auf-dem-weg-in-die-usa-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Israel will Westjordanland abriegeln",
-    "summary": "Auslöser ist ein Schusswaffenangriff an der Grenze +++ Wadephul: Nehmen nicht hin, dass Iran und die Huthi den Welthandel erpressen +++ Berichte: Israelische Kampfflugzeuge flogen an iranische Grenze ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-israel-will-westjordanland-abriegeln-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kongresswahlen 2026: Funktionieren Amerikas demokratische Reflexe noch?",
-    "summary": "Liegen die Demoskopen nicht daneben, wird Trump seine Mehrheiten im Kongress verlieren. Für den Rest der Welt könnte das paradoxerweise wenig Gutes bedeuten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-funktionieren-amerikas-demokratische-reflexe-noch-201603339.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Wahlkampfclip in Ohio: Die Mutter, von der sie das Jugendamt damals wegholte",
-    "summary": "Ein Wahlkampfvideo des Republikaners Vivek Ramaswamy aus Ohio entsetzt Demokraten wie Republikaner. Donald Trump sagt: Ich hätte das genauso gemacht.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-republikaner-empoert-ueber-wahlkampfvideo-trump-nicht-accg-201613640.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Controversial US-backed vaccine trial in African newborns halted",
-    "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backla...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"
   }
 ]
