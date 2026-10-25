@@ -2,6 +2,60 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Berichte: Ukraine greift russische Raketenfabrik an",
+    "summary": "Nach Angaben des Internetportals „Exilenova“ wird eine Fabrik im Westen Russlands von „Storm-Shadow“-Marschflugkörpern getroffen. Es soll „umfangreiche Zerstörungen“ geben.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-raketenfabrik-iskander-li.3563283"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Südamerika: Friedensnobelpreisträgerin Machado zurück in Venezuela",
+    "summary": "Nach Monaten im erzwungenen Exil kommt María Corina Machado in ihrer Heimat an. Sie ist die populärste Oppositionspolitikerin des Landes und kritisiert den Öl-Vertrag mit den USA.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/venezuela-maria-corina-machado-friedensnobelpreis-opposition-usa-li.3568814"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Was hat er erreicht?: Trumps Anspruch und die Wirklichkeit",
+    "summary": "„Tut einfach so, als stünde ich auf dem Wahlzettel“: Donald Trump hat die Kongresswahlen zu einer Volksabstimmung über seine Präsidentschaft erklärt. Wie fällt seine Bilanz aus?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-das-ist-donald-trumps-zwischenbilanz-accg-201292988.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump tolera el regreso de Machado, pero deja claras sus preferencias: \"Espero que esté a salvo, es una mujer muy amable. Pero nos va muy bien en Venezuela\"",
+    "summary": "El secretario de Estado, Marco Rubio, confirma el papel de Washington en la entrada del Premio Nobel a Venezuela&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/25/6ade3472fdddff53378b457b.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
     "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
     "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
@@ -844,59 +898,5 @@
     "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from IranMarco Rubio urged Cubans seeking political change in their country to act, saying “now is th...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-    "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelledTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
-    "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by SundayGet our breaking news email, free app or daily news podcastSevere thunders...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu",
-    "summary": "Decenas de miles de israelíes residentes en el extranjero vuelan estos días a Tel Aviv, desde lugares tan lejanos como EE UU o Australia, ante la imposibilidad de depositar la papeleta en los países d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El Gobierno de Trump pide bloquear los resultados en Alaska si el senador republicano pierde en las ‘midterms’",
-    "summary": "La contienda es clave para los demócratas hacerse con el control del Senado en noviembre",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-23/el-gobierno-de-trump-pide-bloquear-resultados-en-alaska-si-el-senador-republicano-pierde-en-las-midterms.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "¿Un pato cojo? Escenarios posibles para Donald Trump después de las midterms",
-    "summary": "¿Qué pasará si los republicanos ganan las dos Cámaras o si pierden alguna o las dos? Preguntamos a Carlota García Encina, investigadora del Real Instituto Elcano, y a José Antonio Gurpegui, director d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6ad9d284fc6c8383698b457e.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Government to review gasoline subsidies as costs mount",
-    "summary": "Japan is providing subsidies to oil wholesalers to curb the average retail price of regular gasoline in the nation at about ¥170 per liter.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/japan/gas-subsidies-review/"
   }
 ]
