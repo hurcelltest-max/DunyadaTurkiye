@@ -2,6 +2,150 @@
   {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+    "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Sieg über Vučić: Studentenliste gewinnt historische Wahl in Serbien",
+    "summary": "Trotz etlicher Berichte über Gewalt, Zwang und Manipulationen verliert die seit zwölf Jahren regierende Fortschrittspartei von Alexander Vučić die Parlamentswahl. In Belgrad feiern Tausende.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/wahl-in-serbien-2026-aleksandar-vucic-wahlmanipulation-gewalt-li.3568103"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Libyen bestellt nach Trump-Äußerungen Leiter der US-Vertretung ein",
+    "summary": "Forschungsinstitut: Rekordhoch bei Angriffen auf Schiffe in Straße von Hormus +++ Saudi-Arabien: Raketenangriff der Huthis auf Riad abgewehrt +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-heftiger-streit-zwischen-netanjahu-und-generalstabschef-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Zwischenwahlen: Zieht sich die Pro-Israel-Lobby zurück?",
+    "summary": "Die Interessengruppe AIPAC will im amerikanischen Wahlkampf künftig keine konkreten Kandidaten mehr unterstützen. Aber das muss nicht heißen, dass sie Einfluss verliert.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-pro-israel-lobby-aipac-aendert-strategie-201612855.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+    "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+    "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelledTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, a...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La remontada histórica de Lula es una derrota para Trump",
+    "summary": "La derrota de Flávio Bolsonaro abre la disputa por el liderazgo de la derecha brasileña",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "De los refugios a las urnas, los jóvenes israelíes que votan por primera vez: \"Votaré para que Bibi deje de ser primer ministro\"",
+    "summary": "Alrededor de 640.000 electores de entre 18 y 22 años tendrán la oportunidad de decidir el rumbo de su país este martes&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/26/6ade2e9ce4d4d868108b457b.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La rapera Nicki Minaj sube al avión presidencial, acompaña a Trump a un mitin en Michigan y él se refiere a su cuerpo en pleno discurso: \"Es difícil no verlo\"",
+    "summary": "El presidente mencionó a la cantante durante su discurso y elogió su \"culo precioso\"&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/10/25/6ade8043e85ece8b078b45a1.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong arbitration body eyes Mideast, Africa prospects amid global tensions",
+    "summary": "An international arbitration body in Hong Kong is exploring business opportunities in the Middle East and Africa, citing the city’s neutrality and predictability as key draws for new markets amid risi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump says decision nearing on Iran as he weighs diplomacy or renewed strikes",
+    "summary": "Trump has suggested that U.S. strikes on Iran could resume after the Nov. 3 midterm elections and he has sent additional forces to the region.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/trump-iran-deal/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+    "summary": "Polls have shown Benjamin Netanyahu and Gadi Eisenkot to be neck and neck as Israel heads into a consequential election.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/israel-election-eisenkot-netanyahu/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Convenience stores, toilets and the allure of everyday Japan",
+    "summary": "Forget the temples and the famous landmarks. For some visitors, the country's appeal lies in the infrastructure of daily life.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/life/2026/10/26/travel/everyday-tourism-famima-konbini/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "SoftBank’s Son plans $50 billion Malaysia tech outlay, PM Anwar Ibrahim says",
+    "summary": "A push in Malaysia would expand SoftBank's reach in Southeast Asia, a region that is emerging as a key hub for AI infrastructure such as data centers.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/10/26/softbank-malaysia-data-center-investments/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Machado returns to Venezuela to urge democratic transition",
+    "summary": "Opposition leader Maria Corina Machado's return risks complicating the administration of U.S. President Donald Trump's strategy for Venezuela.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/machado-venezuela-return/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "Wall Street Journal",
     "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
     "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
@@ -754,149 +898,5 @@
     "summary": "A tres días de las elecciones legislativas, el ejército israelí lanza una operación “casa por casa”, que el Gobierno prevé extender a toda Cisjordania. Las ONG denuncian “un castigo colectivo”",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Tatuajes nazis, abusos, incesto y un ‘Oh, cállate’: la batalla por el decisivo Estado de Maine baja al fango",
-    "summary": "El poco carismático Troy Jackson reemplazó a la estrella emergente de la izquierda, que fue denunciado por varias mujeres. La beneficiada tras una campaña llena de exabruptos puede ser la veterana Sus...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-24/tatuajes-nazis-abusos-incesto-y-un-oh-callate-la-batalla-por-el-decisivo-estado-de-maine-baja-al-fango.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump sale al rescate de candidatos republicanos en apuros con la exención de aranceles a algunos productos de Canadá",
-    "summary": "Susan Collins, la senadora que lucha por mantener su escaño en Maine, anuncia a 11 días de las elecciones que ha arrancado a la Casa Blanca que rebaje unas tasas especialmente dañinas para su Estado",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-23/la-senadora-republicana-que-lucha-por-su-escano-en-maine-anuncia-que-ha-arrancado-a-trump-exenciones-a-los-aranceles-a-canada.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El Gobierno ucraniano anuncia que Starlink vuelve a funcionar sin restricciones",
-    "summary": "Donald Trump afirmó este jueves que el consejero delegado de SpaceX, el multimillonario Elon Musk, ha \"restablecido\" las funciones completas del servicio militar de Starlink, aunque no quiso confirmar...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/24/6adc6171e4d4d89b3c8b459d.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Detienen a un hombre tras producirse un incendio en el Nido del Águila, la antigua residencia de montaña de Hitler en Baviera",
-    "summary": "Actualmente propiedad del estado federado de Baviera, el Kehlsteinhaus fue declarado monumento histórico después de la Segunda Guerra Mundial como recuerdo del periodo nazi&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/24/6adc5e6fe4d4d83e7e8b4571.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Irán informa de explosiones e incendios en otros dos superpetroleros en Ormuz",
-    "summary": "Según la Guardia Revolucionaria, las salas de máquinas de ambos buques quedaron fuera de servicio a causa de las explosiones y los intensos incendios, por lo que las embarcaciones quedaron inmovilizad...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/24/6adc5721e85ecebf648b459a.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Operación militar israelí en Hebrón tras la muerte de dos soldados en un ataque palestino",
-    "summary": "Los dos atacantes fueron abatidos tras abrir fuego y herir a varios soldados cerca de Hebrón&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/23/6adb233f21efa0232d8b45a1.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "North Korea’s Kim visits China ahead of key anniversary",
-    "summary": "Kim Jong Un arrived in the Chinese border city of Dandong on Saturday, a day ahead of the anniversary of Chinese troops' entry into the Korean War.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. has for years asked Musk to alter Starlink service in Ukraine and Middle East, sources say",
-    "summary": "The Biden and Trump administrations had several times asked SpaceX to turn its Starlink service on or off in various countries.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/world/starlink-access-alterations/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Melania Trump says she brokered truce in war-torn Ukrainian city",
-    "summary": "Her unusual intervention comes as her husband pursues a full end to Russia's war with a sudden pivot to Moscow that has alarmed Kyiv.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/world/melania-trump-ukraine-city-truce/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Israel launches major West Bank operation after soldiers killed",
-    "summary": "The operation comes after gunmen killed two soldiers days ahead of Israeli elections in which security has been a key focus.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/world/israel-west-bank-operation/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms",
-    "summary": "Voters are increasingly drawing a direct connection between the president's approach to world affairs and higher costs of living.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/24/world/politics/trump-foreign-policy-midterms/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-    "summary": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Wegen Namensähnlichkeit: Trump befiehlt Klage in Alaska",
-    "summary": "Zufall oder ein Trick der Demokraten? Im nördlichsten US-Bundesstaat konkurrieren zwei Republikaner um einen Senatsposten. Jetzt mischt sich der Präsident in den Wahlkampf ein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-trump-alaska-li.3568285"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
-    "summary": "Armee und Geheimdienst sollen das Gebiet nach Terrorinfrastruktur und Waffen durchsuchen, teilt die Armee mit. Damit reagiere Israel auf einen Angriff am Morgen. Am Dienstag wird im Land gewählt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Israel startet „Anti-Terror-Operation“ im Westjordanland",
-    "summary": "Einsatz in Hebron soll mehrere Tage dauern +++ Netanjahu: Reaktion Schusswaffenangriff an der Grenze +++ Bericht: Iran soll Anschläge auf US-Diplomaten in Nahost planen +++ alle Entwicklungen im Liveb...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-israel-startet-anti-terror-operation-im-westjordanland-faz-200583539.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-    "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from IranMarco Rubio urged Cubans seeking political change in their country to act, saying “now is th...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
   }
 ]
