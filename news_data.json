@@ -3,6 +3,78 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+    "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Demo in Berlin: „Die Reichen wollen Krieg, die Jungen eine Zukunft“",
+    "summary": "Tausende demonstrieren in Berlin für mehr Geld für Schulen und gegen die Wehrpflicht. Die Organisatoren sprechen sich gegen Gewalt aus, doch es ist nicht die einzige Demonstration in der Hauptstadt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/gen-z-demonstriert-in-berlin-gegen-wehrpflicht-und-fuer-bildung-accg-201638202.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
+    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Donald Trump um seine Macht fürchten? Das sagen die aktuellen Umfragen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-verlieren-donald-trumps-republikaner-aktuelle-umfragen-accg-201302007.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Oleschky-Flüchtlinge in der Ukraine angekommen",
+    "summary": "Präsident dankt den USA für Vermittlung der Waffenruhe +++ Russland: Zwei Menschen bei Drohnenangriffen ums Leben gekommen +++ US-Außenministerium genehmigt Patriot-Lieferung an Ukraine +++ alle Neuig...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-oleschky-fluechtlinge-in-der-ukraine-angekommen-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Starmer says UK must get closer to Europe as US relationship changes",
+    "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM saysThe UK and other European nations must draw closer together as the US becomes a less-reliable partner...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Las 300 mujeres de la tercera edad que rompen el molde de los cubanoamericanos en Miami: “Ni todos somos republicanos, ni todos trumpistas”",
+    "summary": "El grupo aboga por preservar la democracia de Estados Unidos para sus hijos y nietos. “La perdimos en Cuba y no queremos que se pierda acá”, dicen",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-10-31/las-300-mujeres-de-la-tercera-edad-que-rompen-el-molde-de-los-cubanoamericanos-en-miami-ni-todos-somos-republicanos-ni-todos-trumpistas.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
     "summary": "Prime Minister Benjamin Netanyahu is jockeying to stay in power, and President Trump is in a tough midterm fight, yet Iran’s leaders do not expect a major shift in Israeli or U.S. policy.",
     "timeAgo": "En Guncel (API)",
@@ -826,77 +898,5 @@
     "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’Get our breaking news email, free app or daily new...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El miedo de los colonos israelíes a un Gobierno con los partidos árabes: “Nadie nos protegerá”",
-    "summary": "Los habitantes de los asentamientos temen que si ministros más radicales dejan sus puestos se congelen los planes expansionistas en Cisjordania",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-30/el-miedo-de-los-colonos-israelies-a-un-gobierno-con-los-partidos-arabes-nadie-nos-protegera.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La remontada histórica de Lula es una derrota para Trump",
-    "summary": "La derrota de Flávio Bolsonaro abre la disputa por el liderazgo de la derecha brasileña",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
-    "summary": "Si el bloque anti-Netanyahu desea formar un Gobierno, está obligado a negociar con estas formaciones. El partido del primer ministro denuncia que “robaron las elecciones”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Las tres posibilidades ante el estancamiento político que dejan las elecciones en Israel",
-    "summary": "A la falta de los 'sobres dobles', 450.000 papeletas de diplomáticos, policías y militares, el actual 'premier' pierde la mayoría en la Knésset y la posibilidad de formar Gobierno con sus aliados ultr...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/28/6ae232bafdddffcf188b4597.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los líderes de Finlandia y Noruega hablan por teléfono con Putin y Frederiksen estalla: \"No sé qué creen que pueden conseguir\"",
-    "summary": "Helsinki y Oslo señalan que \"poner fin a la guerra requiere conversaciones directas\", y que la llamada estuvo coordinada con Ucrania y EEUU. Dinamarca cree que Rusia no quiere en ningún caso la paz&nb...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El Likud de Netanyahu acusa a los partidos árabes de \"robar las elecciones\" en Israel y pide a la Policía investigar sus votos",
-    "summary": "La formación derechista asegura haber presentado \"cientos de testimonios y pruebas\" ante la Comisión Electoral Central&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/28/6ae2293f21efa0a84e8b4588.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "France’s protests, like Hong Kong’s in 2019, risk being defined by violence",
-    "summary": "No protester sets out expecting a friend to be arrested, injured or caught in a confrontation with the police. Yet when that happens, the reasons for returning to the streets can change.\nPeople may re...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/opinion/world-opinion/article/3372437/frances-protests-hong-kongs-2019-risk-being-defined-violence"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kim urges drone dominance as North Korea fires missiles and rockets",
-    "summary": "According to KCNA, Kim said that pursuing superiority in drone technology was \"an indispensable option\" given the changing nature of modern warfare.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/kim-drone-dominance/"
   }
 ]
