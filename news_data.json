@@ -1,5 +1,32 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
+    "summary": "Die Bürgermeisterkandidatin der Berliner Linken wird mit Grünen und SPD über eine Koalition verhandeln. Es ist ein Erfolg nach Wochen des Drucks. Doch die Israel-Politik beschäftigt auch den Parteitag...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La remontada histórica de Lula es una derrota para Trump",
+    "summary": "La derrota de Flávio Bolsonaro abre la disputa por el liderazgo de la derecha brasileña",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El miedo de los colonos israelíes a un Gobierno con los partidos árabes: “Nadie nos protegerá”",
+    "summary": "Los habitantes de los asentamientos temen que si ministros más radicales dejan sus puestos se congelen los planes expansionistas en Cisjordania",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-30/el-miedo-de-los-colonos-israelies-a-un-gobierno-con-los-partidos-arabes-nadie-nos-protegera.html"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -871,32 +898,5 @@
     "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the ...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-    "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US electionsThe US ambassador has suggested Canada could be blamed if Republicans perform po...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
-    "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollarsGet our breaking news email, free app or daily news podcastAn unpublished government report on feral ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
-    "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’Get our breaking news email, free app or daily new...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb"
   }
 ]
