@@ -3,6 +3,258 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+    "summary": "Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+    "summary": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Who Are the Israeli Hostages Released by Hamas?",
+    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zu den Landtagswahlen: Linke will erneut über Vanessa Emde diskutieren",
+    "summary": "Wird die wegen Äußerungen zum Nahostkonflikt in der Kritik stehende Abgeordnete aus der Fraktion ausgeschlossen? Deren Vorstand will darüber am Dienstag erneut beraten.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-vanessa-emde-li.3540501"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Angriffskrieg gegen die Ukraine: Die Einschläge kommen näher, auch für die Russen",
+    "summary": "Nach Moskau fliegen so viele ukrainische Drohnen, dass die Russen den Krieg nicht mehr verdrängen können. Sie tun es aber. Die einen stehen bedingungslos hinter Putin, die anderen wollen sich nicht ve...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/putin-ukraine-drohnen-krieg-e511234/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
+    "summary": "Zu Beginn der Wahlwoche machen sich die Demokraten große Hoffnungen. Wie sehr muss Donald Trump um seine Macht fürchten? Das sagen die jüngsten Umfragen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-verliert-donald-trump-seine-macht-aktuelle-umfragen-kurz-vor-der-wahl-accg-201302007.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Russland soll die Feuerpause für den Ausbau von Stellungen genutzt haben",
+    "summary": "Umgruppierung von Truppen während Feuerpause um Oleschky +++ Atom-Warnung in Kiew durch gehackte App +++ Bericht: USA dringen auf Wiederaufnahme russischer Gasexporte nach Europa +++ alle Neuigkeiten ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-soll-feuerpause-fuer-ausbau-von-stellungen-genutzt-haben-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Tanker im Persischen Golf attackiert",
+    "summary": "Laut Bericht bekannte sich niemand zu dem Angriff +++ Trump bringt Angriffe auf weitere Ziele in Iran ins Spiel +++ Irans Außenminister: Keine Pläne für Gespräche mit den USA +++ alle Entwicklungen im...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-tanker-laut-bericht-im-persischen-golf-attackiert-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+    "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US presidentLake Ontario, the vast body of water that straddles the US-Canada border, has gone by many...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+    "summary": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hearsWarning: This article contains graphic contentGet our breaking news email, fre...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+    "summary": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house pricesGet our breaking news email, free app or daily news podcastAustra...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+    "summary": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+    "summary": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French storesSupermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of thei...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+    "summary": "Airline also weighs up reducing crew on flights and increasing use of AI as part of cost-cutting measuresBusiness live – latest updatesRyanair has said it is considering implementing pay freezes, sett...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+    "summary": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown partyEurope live – latest updatesUnknown hackers have targeted Ukraine’s nationwide emer...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Europe could face colder weather as polar vortex weakens",
+    "summary": "Disruption to winds above Arctic threatens to alter weather patterns across parts of continent in coming weeksThe stratospheric polar vortex over the northern hemisphere is facing the prospect of an u...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "¿Protestarán los jóvenes con su voto en Estados Unidos?",
+    "summary": "Los menores de 30 años podrían aprovechar las ‘midterms’ para enviar un mensaje muy claro al presidente Donald Trump",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-02/protestaran-los-jovenes-con-su-voto-en-estados-unidos.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Postres variados",
+    "summary": "En un menú gastronómico o en unas elecciones como las de Israel, la libertad de elegir importa incluso cuando ninguna opción resulta apetecible",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-10-27/postres-variados.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "189 periodistas asesinados en dos años en todo el mundo: las muertes de informadores crecen un 20%",
+    "summary": "La ONU denuncia la persecución a los reporteros en zonas en conflicto, especialmente en la Palestina ocupada por Israel, y constata un aumento de la impunidad",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-02/189-periodistas-asesinados-en-dos-anos-en-todo-el-mundo-las-muertes-de-informadores-crecen-un-20.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El Estados Unidos que no se mueve: un viaje a Tennessee, el corazón del trumpismo",
+    "summary": "Es un estado que vota republicano sin fisuras, funciona como un microcosmos de las contradicciones del país, de los grandes debates políticos y jurídicos y de las cuestiones que durante el último sigl...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/02/6ae7532dfdddff0c068b458b.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Karl Bushby regresa a casa tras una vuelta al mundo caminando de 28 años, cuatro continentes y 50.000 kilómetros",
+    "summary": "El ex paracaidista británico ha recorrido 50.000 kilómetros a pie a través de 30 países, ha cruzado selvas, desiertos y mares y ha superado guerras, detenciones y problemas burocráticos para regresar ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/02/6ae8766efdddff4d138b4579.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Meta says it met Hong Kong privacy watchdog over AI-enabled glasses concerns",
+    "summary": "Meta Platforms has confirmed it discussed privacy concerns surrounding smart glasses with the Hong Kong watchdog, as the US tech giant’s AI-enabled eyewear goes on sale in the city amid mounting inter...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3373007/meta-says-it-met-hong-kong-privacy-watchdog-over-ai-enabled-glasses-concerns"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "GMO execs apologize for inadequate response to cyberattacks",
+    "summary": "CEO Masatoshi Kumagai formally acknowledged failings at the firm's first public briefing since it became embroiled in a massive data breach scandal.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/japan/gmo-news-conference-kumagai/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Shock, vindication, regret: Scientists react to AI roiling life’s work",
+    "summary": "A string of AI results have shaken academia, setting off soul-searching, most notably among mathematicians, over the future of their profession.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/world/science-health/scientists-ai-life-work/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Gulf states fear fiercer Iran retaliation if U.S. strikes again",
+    "summary": "U.S. President Donald Trump has repeatedly said the U.S. and Israel would \"finish the job\" in Iran.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
     "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
     "timeAgo": "En Guncel (API)",
@@ -646,257 +898,5 @@
     "summary": "Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das wichtige Senatsrennen in Alaska noch ungeklärt. Die Regierung des Staates kritisiert die Trump-Regierung nun scharf.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Proteste der Generation Z: „Ich bin heute hier, weil ich Angst habe“",
-    "summary": "Vor verbarrikadierten Luxusläden und großem Polizeiaufgebot demonstrieren Zehntausende junge Menschen in deutschen Städten. Wie sieht es aus, wenn die Generation Z „regelt“? Eindrücke aus Berlin, Fran...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/gen-z-proteste-koeln-frankfurt-berlin-jugend-e722384/"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El tambaleante trono del rey ‘Bibi’",
-    "summary": "Los votantes israelíes han hablado con claridad, pero al primer ministro israelí, Benjamín Netanyahu, aún le quedan cartas para perpetuarse en el poder hasta una repetición electoral",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-01/el-tambaleante-trono-del-rey-bibi.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La oposición israelí se atasca tras su victoria electoral",
-    "summary": "Las negociaciones para formar Gobierno marchan paralelas a las señales de preparativos de un nuevo ataque de Netanyahu y Trump a Irán",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-01/la-oposicion-israeli-transforma-en-embrollo-su-victoria-sobre-netanyahu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Glosario ilustrado de las ‘midterms’: conceptos clave para entender las elecciones en EE UU",
-    "summary": "Las elecciones legislativas de medio mandato definirán el resto de la presidencia de Trump. Este es el abecé imprescindible para entender lo que hay en juego",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-11-01/glosario-ilustrado-de-las-midterms-conceptos-clave-para-entender-las-elecciones-en-ee-uu.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Freedom Fuel, la red de gasolineras MAGA promocionadas por Trump, acumula denuncias y sospechas de fraude",
-    "summary": "La mayoría de los clientes desconocen los vínculos de la compañía con el presidente y acuden porque tienen los precios más bajos pese a un servicio deficiente con aspecto descuidado",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-31/freedom-fuel-la-red-de-gasolineras-maga-promocionadas-por-trump-acumula-denuncias-y-sospechas-de-fraude.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Jesucristo, John Wayne y la batalla religiosa en las elecciones estadounidenses",
-    "summary": "El nacionalismo cristiano refuerza la alianza entre Trump y los evangélicos, mientras candidatos demócratas apelan a la fe para ganar terreno en estados conservadores&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/01/6ae4adace9cf4a7f048b4590.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los rostros clave de las midterms: del pastor de Kansas al heredero de Trump en Ohio",
-    "summary": "El martes los estadounidenses votan en cientos de elecciones en realidad. De un mecánico a un multimillonario, las caras de la cita redibujan el mapa político del país&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/31/6ae5fae5e85ece6f6c8b45a4.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Un juez estadounidense desestima la demanda de Trump contra The Wall Street Journal por una carta sobre Epstein",
-    "summary": "El mandatario reclamaba 10.000 millones de dólares de indemnización por daños y perjuicios&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/31/6ae656bbfdddff31678b4576.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los civiles ucranianos evacuados de Oleshky llegan a una zona segura: \"Comíamos lo que había disponible\"",
-    "summary": "La salida de civiles de la localidad asediada por Rusia ha sido posible gracias a un alto el fuego pactado con la mediación de Melania Trump&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/10/31/6ae62107fc6c83eb538b45a5.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "North Korea tests cluster bomb warheads in latest ‘major’ weapons test",
-    "summary": "Pyongyang claimed the warhead is \"capable of turning into ashes a target area of 12 to 13 hectares.\"",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kioxia warns flash memory prices stalling after outlook miss",
-    "summary": "The chipmaker's outlook suggests the unprecedented price spikes of the past year or so are starting to level off.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/11/01/companies/kioxia-chip-prices-stall/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-    "summary": "U.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Canelo Alvarez reaffirms love for boxing after reclaiming super-middleweight title",
-    "summary": "The bout went ahead in Riyadh after a week in which the Saudi-led coalition said it intercepted Iran-aligned Houthi missiles and drones aimed at the capital.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/canelo-alvarez-regains-title/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan",
-    "summary": "Trump last year issued travel bans for a number of countries, including Afghanistan, as part of a broad immigration crackdown.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/01/world/us-deport-afghan-immigrants/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
-    "summary": "Die Bürgermeisterkandidatin der Berliner Linken wird mit Grünen und SPD über eine Koalition verhandeln. Es ist ein Erfolg nach Wochen des Drucks. Doch die Israel-Politik beschäftigt auch den Parteitag...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "La remontada histórica de Lula es una derrota para Trump",
-    "summary": "La derrota de Flávio Bolsonaro abre la disputa por el liderazgo de la derecha brasileña",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El miedo de los colonos israelíes a un Gobierno con los partidos árabes: “Nadie nos protegerá”",
-    "summary": "Los habitantes de los asentamientos temen que si ministros más radicales dejan sus puestos se congelen los planes expansionistas en Cisjordania",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-30/el-miedo-de-los-colonos-israelies-a-un-gobierno-con-los-partidos-arabes-nadie-nos-protegera.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-    "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Demo in Berlin: „Die Reichen wollen Krieg, die Jungen eine Zukunft“",
-    "summary": "Tausende demonstrieren in Berlin für mehr Geld für Schulen und gegen die Wehrpflicht. Die Organisatoren sprechen sich gegen Gewalt aus, doch es ist nicht die einzige Demonstration in der Hauptstadt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/gen-z-demonstriert-in-berlin-gegen-wehrpflicht-und-fuer-bildung-accg-201638202.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
-    "summary": "Am 3. November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Donald Trump um seine Macht fürchten? Das sagen die aktuellen Umfragen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-verlieren-donald-trumps-republikaner-aktuelle-umfragen-accg-201302007.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Oleschky-Flüchtlinge in der Ukraine angekommen",
-    "summary": "Präsident dankt den USA für Vermittlung der Waffenruhe +++ Russland: Zwei Menschen bei Drohnenangriffen ums Leben gekommen +++ US-Außenministerium genehmigt Patriot-Lieferung an Ukraine +++ alle Neuig...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-oleschky-fluechtlinge-in-der-ukraine-angekommen-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Starmer says UK must get closer to Europe as US relationship changes",
-    "summary": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM saysThe UK and other European nations must draw closer together as the US becomes a less-reliable partner...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Las 300 mujeres de la tercera edad que rompen el molde de los cubanoamericanos en Miami: “Ni todos somos republicanos, ni todos trumpistas”",
-    "summary": "El grupo aboga por preservar la democracia de Estados Unidos para sus hijos y nietos. “La perdimos en Cuba y no queremos que se pierda acá”, dicen",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-31/las-300-mujeres-de-la-tercera-edad-que-rompen-el-molde-de-los-cubanoamericanos-en-miami-ni-todos-somos-republicanos-ni-todos-trumpistas.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-    "summary": "Prime Minister Benjamin Netanyahu is jockeying to stay in power, and President Trump is in a tough midterm fight, yet Iran’s leaders do not expect a major shift in Israeli or U.S. policy.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Lawrow wirft Wadephul „Familienfoto-Diplomatie“ vor",
-    "summary": "Am Rande eines G-20-Treffens kritisiert der russische Außenminister seinen deutschen Amtskollegen. Die Probleme mit den USA seien trotz Diesel-Deals ungelöst.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lawrow-wadephul-g20-li.3571967"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Belarus: Flüchtlinge aus Oleschky angekommen",
-    "summary": "Weiterreise in die Ukraine +++ Russland: Zwei Menschen bei Drohnenangriffen ums Leben gekommen +++ US-Außenministerium genehmigt Patriot-Lieferung an Ukraine +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-belarus-fluechtlinge-aus-oleschky-angekommen-faz-110683325.html"
   }
 ]
