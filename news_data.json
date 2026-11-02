@@ -3,6 +3,213 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+    "summary": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Hacker lösen über Warn-App falschen Atomalarm aus",
+    "summary": "„Air Alert“ warnt die Menschen in der Ukraine vor drohenden Angriffen. Jetzt meldete die App einen Notfall, den es nicht gab. Die ukrainischen Behörden gehen von einem Hack aus.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-alarm-angriffe-app-hacker-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "US-Midterms 2026: Wo bleibt der Demokrat, der Trump das Fürchten lehrt?",
+    "summary": "Die Kongresswahlen sind für die amerikanische Oppositionspartei auch ein Test. Sie werden zeigen, welche Themen ziehen – und welche Gesichter überzeugen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/us-midterms-2026-auf-diese-demokraten-kommt-es-an-accg-201624859.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: App für Notfall-Warnungen in Ukraine und Russland gehackt",
+    "summary": "Bericht: USA dringen auf Wiederaufnahme russischer Gasexporte nach Europa +++ Selenskyj knüpft Stopp von Angriffen auf russische Ölanlagen an US-Raketenlieferungen  +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-app-fuer-notfall-warnungen-in-ukraine-und-russland-gehackt-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Sondierungen: Noch ist es nicht zu spät für SPD und Grüne",
+    "summary": "Wenn SPD und Grüne in Berlin noch die Kurve kriegen wollen, dann müssen sie mit der CDU sondieren. Und die Koalitionsverhandlungen mit der Linkspartei absagen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/sondierungen-noch-ist-es-nicht-zu-spaet-fuer-spd-und-gruene-201636643.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ukrainekrieg: Eine Waffenruhe, die Trump umschmeicheln soll",
+    "summary": "Ob aus der Waffenruhe in Oleschky mehr als eine kurze Episode des Kriegs in der Ukraine wird, ist völlig offen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/waffenruhe-in-oleschky-schritt-zum-frieden-oder-kalkuel-fuer-trump-201637196.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+    "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implica...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Hezbolá se prepara para un posible regreso de la guerra con Israel",
+    "summary": "La incautación de armas por parte del Gobierno libanés y la recepción de fondos iraníes destapan la reorganización de la milicia en caso de que Trump y Netanyahu ataquen a Irán",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-02/hezbola-se-prepara-para-un-posible-regreso-de-la-guerra-con-israel.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La triple paradoja de Ormuz: más barcos cruzando, más ataques y el petróleo por las nubes",
+    "summary": "La mayor porosidad del estrecho, sobre el que sigue pesando un doble bloqueo, no se traduce en una relajación en los precios",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El apoyo de una demócrata al rival republicano de El-Sayed ahonda en la crisis del partido en Míchigan",
+    "summary": "Haley Stevens perdió en unas primarias en las que los votantes favorecieron la opción progresista. Trump celebra la “valentía” de la tránsfuga a dos días de las ‘midterms’",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-01/el-apoyo-de-una-democrata-de-michigan-al-rival-republicano-de-el-sayed-provoca-una-ruptura-en-el-partido.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Una legión de amputados: la herida sangrante de la guerra de Ucrania",
+    "summary": "En una clínica de la fundación estadounidense Protez, soldados que han perdido piernas y brazos estrenan prótesis y firman nuevos contratos para volver al frente&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/01/6ae75f14e4d4d8b8638b456f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Kathleen Belew, historiadora estadounidense: \"Bajo la Administración Trump, Estados Unidos está ensayando políticas de corte fascista\"",
+    "summary": "La académica y autora de 'Traed la guerra a casa' alerta de que el 'trumpismo' ha legitimado a un movimiento violento de extrema derecha hasta acercarlo al corazón del poder estadounidense&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/02/6ae72b33e4d4d8044e8b456d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump afirma que candidato independiente al Senado por Alaska está en paradero desconocido",
+    "summary": "En la candidatura republicana aparecen dos candidatos de nombre muy similar Dan S. Sullivan y el aspirante independiente y desaparecido Daniel J. Sullivan Jr.&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/01/6ae7a6b4e85ece7b5a8b458d.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Los vecinos de Jersón se resignan al regreso de la guerra tras la evacuación pacífica de Oleshky",
+    "summary": "Rusia rechaza la prolongación de la tregua que los ucranianos aseguran haber propuesto&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/01/6ae783e7e85ece7c778b457d.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "China’s top three airlines head for full-year losses as fuel costs weigh",
+    "summary": "The price of jet fuel has more than doubled since the U.S. and Israel launched a military campaign against Iran in late February.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/02/companies/china-airlines-losses-fuel-costs/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "A Cold War blueprint for today’s nuclear dangers",
+    "summary": "U.S. President Donald Trump wants a three-way summit with his Russian and Chinese counterparts to talk about nuclear weapons and denuclearization.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Cyberattacks hit Russia and Ukraine after truce ends",
+    "summary": "Moscow said hackers posted \"false information\" on its emergency warnings app after Ukraine reported a suspected breach of its air raid alert system.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japan-supported Grand Egyptian Museum marks first year of operations",
+    "summary": "The museum has attracted over 5 million visitors despite the deteriorating situation in the Middle East.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/japan/society/grand-egyptian-museum-anniversary/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Honma, astronomer behind black hole image, named for autumn honor",
+    "summary": "Japan's government said Monday that it would award Medals of Honor to 736 people and 25 organizations this fall.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/japan/autumn-honor/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "How Trump’s noncitizen voter lists could affect the midterms",
+    "summary": "Lists the administration of U.S. President Donald Trump has compiled of possible noncitizen voters could be used to contest the results.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/world/trump-noncitizen-voter-lists-midterms/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "The woman breathing life into next generation home-help robots",
+    "summary": "China, which has jumped out to a lead in humanoid robots for factories and warehouses, is now stepping up efforts to lead in the home too.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/02/tech/next-generation-home-help-robots/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "A Lesson From Germany",
     "summary": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
     "timeAgo": "En Guncel (API)",
@@ -691,212 +898,5 @@
     "summary": "Weiterreise in die Ukraine +++ Russland: Zwei Menschen bei Drohnenangriffen ums Leben gekommen +++ US-Außenministerium genehmigt Patriot-Lieferung an Ukraine +++ alle Neuigkeiten im Liveblog",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-belarus-fluechtlinge-aus-oleschky-angekommen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Medien: Khamenei droht Reaktion ohne „geographische Einschränkungen“ an",
-    "summary": "Ägypten warnt vor massiven Folgen einer neuen Eskalation im Irankrieg+++ Polizeivertreter: Jemenitische Huthi-Miliz attackiert Präsidentenpalast in Aden +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-medien-khamenei-droht-reaktion-ohne-geographische-einschraenkungen-an-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Krieg in der Ukraine: Russische Raketen, deutsche Wertarbeit",
-    "summary": "Wenn russische Geschosse Ukrainer töten, helfen Chips von Infineon oft mit. Der Konzern distanziert sich. Doch in den Führungsetagen gibt es offenbar auch heimliche Freude.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/trotz-sanktionen-infineon-chips-in-russischen-raketen-accg-201622974.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Kompromisskandidat: Türkei nominiert OSZE-Chef für Guterres-Nachfolge",
-    "summary": "Der Auswahlprozess für die Nachfolge von UN-Generalsekretär António Guterres ist ins Stocken gekommen. Nun bringt die Erdogan-Regierung einen erfahrenen türkischen Diplomaten in Stellung.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/tuerkei-nominiert-osze-chef-fuer-guterres-nachfolge-accg-201638697.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-    "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-    "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US presidentLake Ontario, the vast body of water that straddles the US-Canada border, has gone by many...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
-    "summary": "BoM predicts hail, damaging winds and possible flash flooding across Victoria, NSW and parts of Queensland into Sunday Get our breaking news email, free app or daily news podcastStorm warnings are in ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-    "summary": " French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’In Germany, a loose alliance of groups called Gen Z regelt (Gen Z is sorting it) has called f...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Postres variados",
-    "summary": "En un menú gastronómico o en unas elecciones como las de Israel, la libertad de elegir importa incluso cuando ninguna opción resulta apetecible",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-27/postres-variados.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Una decena de países europeos comparten pruebas sobre las torturas de Israel a los integrantes de la flotilla",
-    "summary": "España participa en reuniones con otros miembros de la UE para intercambiar información y avanzar en las causas que cada Estado ha abierto por delitos cometidos contra sus ciudadanos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-10-31/una-decena-de-paises-europeos-comparten-pruebas-sobre-las-torturas-de-israel-a-los-integrantes-de-la-flotilla.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Andrea R. Flores: “Los demócratas llevan una década de retraso en su respuesta a Trump”",
-    "summary": "La abogada y experta en inmigración sostiene que la legalización de miles de indocumentados debe ser la prioridad de los demócratas, en vez de reformar el ICE",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/migracion/2026-10-31/andrea-r-flores-los-democratas-llevan-una-decada-de-retraso-en-su-respuesta-a-trump.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Agentes armados, coacciones de Trump y cárcel: los funcionarios electorales se preparan para la jornada más difícil",
-    "summary": "La campaña del presidente para minar las legislativas del próximo martes pone en la diana a los trabajadores encargados de certificar el resultado que salga de las urnas",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-31/agentes-armados-coacciones-de-trump-y-carcel-los-funcionarios-electorales-se-preparan-para-la-jornada-mas-dificil.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Así le hemos contado la campaña de las ‘midterms’ este 30 de octubre",
-    "summary": "El Gobierno de Trump sufre otro revés en su intento por bloquear el conteo de más de 20.000 boletas en California | El presidente vuelve a agendar sus mítines cancelados para el fin de semana en Iowa ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-10-30/las-midterms-2026-en-vivo.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong may raise GDP forecast as growth poised for 5-year high: Paul Chan",
-    "summary": "Hong Kong’s economic growth this year could be the city’s strongest in five years, with potential for further upward revisions after the full-year forecast was previously raised to a range of 3.5 to 4...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong socialite Abby Choi’s remains found in soup pots and fridge, court told",
-    "summary": "Slain Hong Kong socialite Abby Choi Tin-fung’s remains were stored in two soup pots and a refrigerator after her body was dismembered with an electric saw in a rural village flat, a court has heard.\nT...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372814/hong-kong-socialite-abby-chois-remains-found-soup-pots-and-fridge-court-told"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-    "summary": "Delivering on the ambition falls to North American Blue Energy Partners, a little-known firm led by Venezuelan businessman Alejandro Betancourt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/10/31/venezuela-oil-trump-reality/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump administration approves potential Patriot missiles sale to Ukraine",
-    "summary": "The approval comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
-    "summary": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: US-Ministerium genehmigt Verkauf von 500 „Patriot“-Raketen",
-    "summary": "Die Ukraine hat zuletzt das Ausbleiben von Luftabwehrsystemen beklagt. Nun geben die USA grünes Licht – nur der Zeitpunkt der Lieferung beunruhigt Kiew.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-oleschky-patriot-raketen-li.3571967"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid",
-    "summary": "Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the worldGet our daily political email, free app or daily news podcast...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb"
   }
 ]
