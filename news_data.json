@@ -1,5 +1,221 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "How Israel’s Ex-Army Chief Could Oust Netanyahu",
+    "summary": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+    "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+    "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+    "summary": "While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Selenskij kritisiert Klitschko wegen Stromausfällen in Kiew",
+    "summary": "Der ukrainische Präsident wirft Kiews Bürgermeister Versäumnisse bei der Vorbereitung auf die Heizperiode vor. Klitschko bezeichnet die Anschuldigungen als „Manipulation“ und „Lüge“.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-klitschko-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Podcast: „Auf den Punkt“: Hat bei den US-Midterms auch Europa gewonnen?",
+    "summary": "Nach den Midterm-Ergebnissen kann Donald Trump nicht so durchregieren wie bisher. Aber werden wir das auch hier in Deutschland merken?",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/midterms-2026-donald-trump-europa-podcast-li.3575385"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Trump holt den Hardliner an seine Seite",
+    "summary": "Stephen Miller ist der neue Stabschef des US-Präsidenten. Der Aufstieg des Ideologen gilt als beunruhigende Reaktion des Regierungschefs auf das Wahldebakel.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Italiens Außenminister beklagt Angriff russischer Hacker",
+    "summary": "Tajani: Grund ist Haltung zum Ukrainekrieg +++ Moskau greift ukrainische Energieinfrastruktur an +++ Pistorius sieht wenig Hoffnung auf baldige Waffenruhe +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-italiens-aussenminister-tajani-beklagt-angriff-russischer-hacker-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Pistorius will bald über Einsatz in Straße von Hormus entscheiden",
+    "summary": "Verteidigungsminister: Stehen bereit, bei Minenräumung zu helfen +++ USA bieten Millionen Dollar für Informationen über Irans Atomprogramm +++ Eisenkot will Regierung in Israel bilden +++ alle Entwick...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-pistorius-will-bald-ueber-einsatz-in-strasse-von-hormus-entscheiden-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Vance rechnet ab: Ein Traum für Teheran",
+    "summary": "J. D. Vance kennt keine Trump-Treue mehr, sondern nur noch ein Datum: die Präsidentenwahl 2028. Iran kann das amerikanische Schauspiel genießen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-us-midterms-2026-kennt-j-d-vance-keine-treue-zu-trump-mehr-201655465.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
+    "summary": "Los partidos de extrema derecha de la UE pasan de jalear al presidente de Estados Unidos a separar su suerte en vísperas de un superaño electoral",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Claves globales del giro en EE UU: ¿Qué significa para el mundo la humillación trumpista?",
+    "summary": "El presidente mantiene amplios poderes en política exterior, pero la magnitud de la debacle en las ‘midterms’ altera cálculos geopolíticos y políticos a escala mundial",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/elecciones-usa/2026-11-04/claves-globales-del-giro-en-ee-uu-que-significa-para-el-mundo-la-humillacion-trumpista.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Las luces no se apagan en la ciudad sobre la colina",
+    "summary": "La derrota republicana por el coste de la vida y la corrupción exhibe la fuerza de la democracia estadounidense y deja a Trump volcado en el exterior",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-04/efectos-globales-del-declive-trumpista.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+    "summary": "El dirigente ve prioritario colaborar con el bloque judío de oposición para reemplazar a Netanyahu, pese a las diferencias ideológicas. El jefe de Estado encargará previsiblemente este domingo formar ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas",
+    "summary": "El nuevo cargo de Miller, un ferviente admirador y asesor del presidente, augura una etapa aún más radical en materia migratoria en Estados Unidos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-07/el-ascenso-de-stephen-miller-de-escritor-de-discursos-de-trump-a-artifice-de-su-plan-de-deportaciones-masivas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La marea demócrata abre la carrera por la Casa Blanca, con centristas y progresistas reforzados de cara a 2028",
+    "summary": "Los líderes del partido dicen que su prioridad ahora no es ni destituir a Trump ni entrar en guerras culturales, sino aliviar el bolsillo del ciudadano medio",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-07/la-marea-democrata-abre-la-carrera-por-la-casa-blanca-con-centristas-y-progresistas-reforzados-de-cara-a-2028.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump afronta los dos últimos años de mandato como un octogenario desafiante obsesionado con las obras",
+    "summary": "Sin posibilidad de volver a presentarse y con un Congreso hostil, el republicano amenaza con plantar batalla y convertir el final de su presidencia en una guerra política con el nombramiento de Stephe...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-07/trump-afronta-los-dos-ultimos-anos-de-mandato-como-un-octogenario-desafiante-obsesionado-con-las-obras.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Así le hemos contado las elecciones ‘midterms’ del 6 de noviembre",
+    "summary": "Stephen Miller reemplaza a Susie Wiles como jefe de Gabinete de Trump. Es la primera ficha que se mueve en el Gobierno tras la debacle electoral en las ‘midterms’",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-06/las-midterms-2026-en-vivo.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Detienen a un inmigrante irregular venezolano armado cerca de la Casa Blanca con intenciones de matar a Trump",
+    "summary": "Al ser interrogado, el inmigrante dijo que había escuchado voces en su cabeza que le mandaban matar al presidente estadounidense&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/07/6aeed25521efa0484d8b456f.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump confirma nuevos ataques limitados de EEUU contra sistemas antiaéreos de Irán",
+    "summary": "Trump calificó la acción militar de \"menor\", sin precisar cuándo se produjo ni aportar detalles sobre los daños causados&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/07/6aeec8a9e4d4d8f45d8b4592.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "¿Vandalismo o 'guerra híbrida'? El extraño caso de las decenas de amenazas de bomba falsas contra aviones europeos en cuatro días",
+    "summary": "El régimen de Vladimir Putin ha llevado a cabo actos similares, combinando el gamberrismo o la pequeña delincuencia con los objetivos políticos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Ex-husband’s DNA found on hammer allegedly used to kill Abby Choi, prosecution says",
+    "summary": "Warning: graphic content follows.\nSlain Hong Kong socialite Abby Choi Tin-fung could have been fatally struck with a hammer that contained her ex-husband’s DNA when it was seized from a rural village ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373639/ex-husbands-dna-found-hammer-allegedly-used-kill-abby-choi-prosecution-says"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong paediatrician urges parents to vaccinate children as temperatures fall",
+    "summary": "A Hong Kong paediatric expert has called on parents to arrange influenza vaccinations for their children ahead of cooler temperatures next week, warning of a double whammy of overlapping summer and wi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3373635/hong-kong-paediatrician-urges-parents-vaccinate-children-temperatures-fall"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -682,221 +898,5 @@
     "summary": "The Democratic sweep of the elections could also bring about greater scrutiny of U.S. President Donald Trump's Russia policies.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/midterms-hope-ukraine-russia/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
-    "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Trump empfängt Putin-Vertrauten und kündigt Abkommen an",
-    "summary": "Der US-Präsident stellt nach dem Treffen mit Kreml-Unterhändler Dmitrijew ein Abkommen zum Ukraine-Krieg in Aussicht. Italiens Ministerpräsidentin Meloni fordert eine gemeinsame Stimme Europas bei Ver...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-dmitrijew-abkommen-li.3571967"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trumps Debakel: Der Tag, an dem der Führerkult endete",
-    "summary": "Der Verlierer Trump hat bei den Republikanern jetzt nicht mehr viel zu sagen. Die demokratischen Sieger wissen aber auch nicht, wessen Weg zum Ziel führt. Das wird heftig.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-den-us-midterms-2026-stehen-beide-parteien-ohne-fuehrung-da-201650651.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Wieder Angriffe auf Iran? Trump kündigt baldige Entscheidung an",
-    "summary": "Militär bereitet sich auf neue Kämpfe vor +++ Eisenkot ist Favorit für Auftrag zur Regierungsbildung in Israel +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wieder-angriffe-auf-iran-trump-kuendigt-baldige-entscheidung-an-faz-200583539.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-    "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harderGet our daily political email, free app or daily news podcastThe De...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El secretario de Defensa, Pete Hegseth, en el punto de mira de los republicanos por su papel en la guerra de Irán",
-    "summary": "El senador republicano Tom Massie planea llevar adelante un juicio político contra el jefe del Pentágono, aunque Trump insiste en que apoya a su ministro",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-11-05/el-secretario-de-defensa-pete-hegseth-en-el-punto-de-mira-de-republicanos-por-su-papel-en-la-guerra-de-iran.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El poder quebrado de Trump: el tsunami azul pone fin al mito de su invulnerabilidad",
-    "summary": "El castigo a la corrupción y al coste de la vida deja al presidente sin mayorías. Los republicanos constatan que él es el problema y arranca la campaña por su sucesión&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/04/6aeb8f31fdddff8b458b4593.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong privacy watchdog backs tighter rules on access to land records",
-    "summary": "Hong Kong’s privacy watchdog has backed a proposed overhaul of rules to tighten access to land records, warning that journalists have no exemption when collecting data as complaints over information m...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373496/hong-kong-privacy-watchdog-backs-tighter-rules-access-land-records"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "US Democrats’ win could squeeze China; star mathematician leaves US: SCMP’s 7 highlights",
-    "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would l...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/china/article/3373481/us-democrats-win-could-squeeze-china-star-mathematician-leaves-us-scmps-7-highlights"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bank of England raises rates for first time since 2023 and warns more likely",
-    "summary": "Policymakers said the amount of inflation pressure coming down the road after months of high energy prices required a rate rise now.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/11/06/economy/boe-raises-rates/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Bank collapse takes down a president and Trump ally in Paraguay",
-    "summary": "The turmoil marks a tectonic shift for the South American nation after projecting its stability to world leaders and foreign investors for years.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/paraguay-president-collapse/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Pressure mounts on U.S. defense chief after Republican election rout",
-    "summary": "U.S. President Donald Trump and Vice President JD Vance have blamed election losses on the Iran war, for which Hegseth is a key advocate.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/pete-hegseth-election-pressure/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Marco Rubio denies plans to leave post for White House bid",
-    "summary": "Rubio, who also serves as national security adviser, is widely considered a potential successor to U.S. President Donald Trump in the 2028 presidential race.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/marco-rubio-midterms-future/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Eisenkot tipped to seek Israel government with backing of Arab lists",
-    "summary": "Two Arab-majority lists won an unprecedented 19 seats in the Oct. 27 election, and both said they were backing Gadi Eisenkot.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/eisenkot-israel-government/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Honorary JFA President Kozo Tashima to run for FIFA presidency",
-    "summary": "The 68-year-old former Japan forward has served on the FIFA Council since 2015.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/11/06/soccer/kozo-tashima-fifa-presidency/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-    "summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
-    "summary": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
-    "summary": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   }
 ]
