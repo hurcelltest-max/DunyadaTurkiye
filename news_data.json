@@ -1,5 +1,158 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump setzt das Justizministerium auf die Demokraten an",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-beauftragt-justizministerium-mit-untersuchung-gegen-demokraten-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Laut Iran brennen zwei Öltanker in der Straße von Hormus",
+    "summary": "Teheran: Schiffe sind auf Minen aufgelaufen +++ Pistorius drängt auf Entscheidung über Einsatz in Straße von Hormus +++ USA bieten Millionen Dollar für Informationen über Irans Atomprogramm +++ alle E...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-laut-iran-brennen-zwei-oeltanker-in-der-strasse-von-hormus-faz-200583539.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+    "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China fr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
+    "summary": "El presidente de EE UU ha comenzado a dar pistas sobre sus próximos pasos con el nombramiento del radical Stephen Miller como nuevo jefe de Gabinete",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral",
+    "summary": "La elección del radical Stephen Miller como jefe de Gabinete indica que Trump no tolera una reflexión interna sobre el futuro del partido tras la derrota en las ‘midterms’",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Europa ante la debacle trumpista",
+    "summary": "La derrota republicana en las elecciones de medio mandato puede parecer un espejismo si se fijan los ojos en el horizonte electoral de la UE",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-06/europa-ante-la-debacle-trumpista.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El espejo de Narciso se ha roto",
+    "summary": "Quedan dos años de presidencia de Trump. Pero con las elecciones del martes comienza el fin de su era política",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-04/el-espejo-de-narciso-se-ha-roto.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "‘Nóvaya Gazeta’, símbolo del gran periodismo ruso, cierra por el acoso del Kremlin: “Poca gente sabe qué está pasando en Rusia”",
+    "summary": "El diario publicará su último número este lunes tras revelar durante tres décadas crímenes de guerra, asesinatos políticos y corrupción en las altas esferas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Melissa Parke, directora de la campaña internacional para abolir las armas nucleares: \"Si sobrevives a una guerra nuclear, tu vida será corta y miserable\"",
+    "summary": "Lamenta la pérdida de memoria sobre Hiroshima y Nagasaki, defiende el Tratado de Prohibición frente al paraguas de la OTAN y acusa a los líderes mundiales de gobernar de espaldas a la ciudadanía&nbsp;...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/08/6ad9018bfc6c83e97e8b45b2.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Debilitado en casa por las urnas, desatado fuera: \"Trump herido es más peligroso\"",
+    "summary": "En sus dos últimos años en el poder, los presidentes tienden a buscar éxitos en política exterior para cimentar su legado. El Congreso en manos demócratas, puede poner obstáculos, pero no frenarlo tod...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/07/6aef36e9fdddff5d338b4588.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "More funding could be sought if HK$10b university town loan scheme falls short",
+    "summary": "Hong Kong’s education secretary has said she will seek additional funding if a HK$10 billion loan scheme falls short of the needs of institutions setting foot in the Northern Metropolis’ first univers...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3373600/more-funding-could-be-sought-if-hk10b-university-town-loan-scheme-falls-short"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong firms must innovate to compete in mainland China, trade chief says",
+    "summary": "Hong Kong companies can survive intense competition in mainland China by being innovative and maintaining high standards, the head of the city’s trade promotion body has said.\nHong Kong Trade Developm...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373591/hong-kong-firms-must-innovate-compete-mainland-china-trade-chief-says"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Magnitude 5.7 quake injures dozens in central Japan",
+    "summary": "The quake struck at 1:04 am in Shizuoka Prefecture but no tsunami warning was issued.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/08/japan/earthquake-aichi-sunday/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rubio warns top staff against conflicts of interest as U.S. Republicans look to 2028",
+    "summary": "His message comes as leading Republican figures attempt to distance themselves from an increasingly unpopular Trump administration.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/rubio-conflicts-of-interest-2028/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Crypto’s Trump-fueled Washington boom reaches its endgame",
+    "summary": "The industry now faces the challenge of remaining a lasting force in finance as its extraordinary political advantage evaporates.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/08/tech/crypto-trump-washington-boom-end/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump taps UFC boss as press secretary, urges criminal probes into Democrats",
+    "summary": "The posts echoed comments Trump made after a midterm defeat in 2018, when he said his White House would assume \"a war-like posture.\"",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/trump-ufc-press-secretary/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+    "summary": "Israel's president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a new government.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/israel-president-gadi-eisenkot-government/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -745,158 +898,5 @@
     "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-    "summary": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Israel nach der Wahl: Netanjahu macht den Trump",
-    "summary": "Während es dem Herausforderer Gadi Eisenkot gelingt, immer mehr Parteien hinter sich zu versammeln, zieht Israels Premierminister die Wahlergebnisse in Zweifel. Er stützt seine Behauptung auf zwei Vor...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-wahl-netanjahu-opposition-wahlbetrug-li.3575007"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukraine-Abkommen: Kreml dämpft nach Trumps Ankündigung die Erwartungen",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-abkommen-kreml-daempft-nach-trumps-ankuendigung-die-erwartungen-li.3575443"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Midterms: Die Ergebnisse der US-Wahlen in Grafiken",
-    "summary": "Trumps Republikaner erleiden eine deutliche Niederlage. Die Demokraten holen die Mehrheit in Senat und Repräsentantenhaus. Hier finden Sie alle Wahlergebnisse live in der Datenanalyse.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/midterms-2026-usa-wahl-trump-ergebnisse-swing-states-live-e979000/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Dmitrijew in den USA: Trump schluckt Putins Köder",
-    "summary": "Der US-Präsident empfängt den Russen Dmitrijew, der ihn mit Wirtschaftsideen locken soll. Im Anschluss kündigt Trump ein „großes, schönes Abkommen“ an.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/dmitrijew-in-den-usa-trump-schluckt-putins-koeder-accg-201657815.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trumps Debakel: Der Tag, an dem der Führerkult endete",
-    "summary": "Der Verlierer Trump hat bei den Republikanern jetzt nicht mehr viel zu sagen. Die demokratischen Sieger wissen aber auch nicht, wessen Weg zum Ziel führt. Das wird heftig.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-nun-stehen-beide-parteien-ohne-fuehrung-da-201650651.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump macht Oval Office zum „National Monument“",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-macht-oval-office-zum-national-monument-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Kommission: Es ist Sache der EU, über ihre Sicherheit zu entscheiden",
-    "summary": "Sprecherin reagiert auf Trumps Ankündigung eines „großen Abkommens“ +++ Kanzler telefoniert mit US-Präsident +++ Selenskyj bei Böhmermann: US-Wahlausgang kann Ukraine helfen +++ alle Neuigkeiten im Li...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-friedensvereinbarung-muss-konsens-der-nato-partner-haben-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Lieberman will Koalition ohne arabische Parteien ermöglichen",
-    "summary": "Oppositionsvertreter in Israel deutet Kompromissbereitschaft zu Wehrpflicht an +++ Trump kündigt baldige Entscheidung zu Irankrieg an +++ Eisenkot ist Favorit für Auftrag zur Regierungsbildung in Isra...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-lieberman-will-koalition-ohne-arabische-parteien-ermoeglichen-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Fraktur: Lahme Ente? Doch wohl eher wie eine angestochene Sau",
-    "summary": "Wie konnte es nur zu dem Wahldebakel kommen? Donald Trump hätte den Amerikanern eben ein Angebot machen müssen, das man nicht ablehnen kann.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/fraktur/fraktur-trump-ist-keine-lahme-ente-accg-201658515.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Friedensvertrag?: Und schon mauschelt Trump mit Putins Vertrautem",
-    "summary": "Trumps Ankündigung muss in der Ukraine und im übrigen Europa die Alarmglocken schrillen lassen. In den Arm fallen können ihm aber nur die Amerikaner selbst.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/donald-trump-verhandelt-mit-putins-vertrautem-ueber-die-ukraine-201658190.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Haft für Aktivisten: Pekings langer Arm reicht auch nach Macau",
-    "summary": "Der frühere Abgeordnete Au Kam San muss für zwölfeinhalb Jahre in Haft. Verurteilt wurde er im ersten Prozess zur nationalen Sicherheit in Macau.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/demokratieaktivist-au-kam-san-in-macau-zu-haftstrafe-verurteilt-accg-201658240.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Nach den Midterms: Eine iranische Kapitulation bleibt Trumps Traum",
-    "summary": "Der US-Präsident könnte darauf setzen, sein gescheitertes Iran-Abenteuer mit einem großen Knall zu beenden. Das Regime in Teheran würde er aber nicht in die Knie zwingen.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/neue-us-angriffe-auf-iran-werden-das-regime-nicht-stuerzen-201339009.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-    "summary": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and ColoradoDespite the rapid descent into autumn in the northern hemisphere, parts of eastern North America...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-    "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the At...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
-    "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist saysGet our breaking news email, free app or daily news podcastCollision running and...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
-    "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space betwee...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
   }
 ]
