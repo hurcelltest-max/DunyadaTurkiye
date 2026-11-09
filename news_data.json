@@ -3,6 +3,159 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+    "summary": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+    "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+    "summary": "Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Erstes Manöver der Ukraine-Koalition beginnt in Polen – Bundeswehr beteiligt",
+    "summary": "Rund 2800 Soldaten aus Frankreich, Großbritannien, Deutschland und anderen Ländern testen zwei Wochen lang, wie nach Kriegsende ein dauerhafter Frieden gesichert werden kann.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-manoever-polen-koalition-der-willigen-bundeswehr-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Russland kritisiert westliche Militärmanöver",
+    "summary": "Übung der Koalition der Willigen sei „offensiver Natur“ +++ Trump stimmt Ukraine auf territoriale Verluste nach Kriegsende ein +++ Selenskyj nennt Trumps Friedensplan gefährlich +++ alle Neuigkeiten i...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-kritisiert-westliche-militaermanoever-faz-110683325.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+    "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms sw...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "More than 400,000 Russians killed fighting in Ukraine war, leaked data suggests",
+    "summary": "Hacked death records reveal scale of losses since Moscow launched full-scale invasion nearly five years agoUkraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks,...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump reconoce que su política de deportaciones fue “demasiado dura”",
+    "summary": "El mandatario admitió el exceso en una entrevista de televisión grabada antes de nombrar como jefe de gabinete a Stephen Miller, el principal artífice de las expulsiones",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-09/trump-reconoce-que-su-politica-de-deportaciones-fue-demasiado-dura.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El diario ruso ‘Nóvaya Gazeta’ se despide con la promesa de seguir haciendo periodismo: “Encontraremos una nueva oportunidad”",
+    "summary": "El periódico que simbolizó el regreso de la prensa libre a Rusia echa el cierre asfixiado por el Kremlin. Su exdirector Dmitri Murátov reclama una tregua en la guerra",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-09/el-diario-ruso-novaya-gazeta-se-despide-con-la-promesa-de-seguir-haciendo-periodismo-encontraremos-una-nueva-oportunidad.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Los latinos que castigaron con su voto a Trump por sus familiares detenidos por el ICE: “Voté por todos los que no pueden”",
+    "summary": "Ahora la gran pregunta entre muchos latinos es si los demócratas podrán detener las redadas o las deportaciones",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-09/los-latinos-que-castigaron-con-su-voto-a-trump-por-sus-familiares-detenidos-por-el-ice-vote-por-todos-los-que-no-pueden.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump dice ahora que bromeaba al ofrecer su portavocía al presidente de la competición de lucha UFC",
+    "summary": "El presidente de EE UU ha confirmado que White irá a la Casa Blanca este lunes, aunque “por otra razón”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-09/trump-dice-ahora-que-bromeaba-al-ofrecer-su-portavocia-al-presidente-de-la-competicion-de-lucha-ufc.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump defiende que Ucrania tendrá que ceder territorios para alcanzar la paz",
+    "summary": "Moscú y Kiev tienen previsto reanudar las negociaciones este martes en Abu Dabi, aunque los analistas creen que la escalada bélica continuará, al menos hasta el final del invierno&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/09/6af1cc43fdddffa3258b458e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Ucrania informa de cerca de 3.000 bajas rusas en un día, un récord absoluto en esta guerra",
+    "summary": "El anterior récord había sido establecido el 1 de noviembre, cuando los ucranianos neutralizaron a 2.500 militares enemigos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/09/6af16457e9cf4a5f1f8b4587.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+    "summary": "The contradiction is forcing organizations to justify their AI use in carrying out missions to combat climate change or protect natural resources.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/environment/2026/11/09/environmental-groups-ai-data-centers/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "South Korea’s military ambitions get a reality check",
+    "summary": "Lee's decision to push for a timetable to take wartime operational control is a bold but ultimately fraught plan.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/commentary/2026/11/09/world/south-koreas-military-ambitions/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Philippine economic slump worsens on Iran war, bad weather",
+    "summary": "The slowdown is raising questions about the central bank's rate-hike cycle and heaping pressure on President Ferdinand Marcos Jr.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/09/economy/philippines-economy-iran-war-weather/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "G7 allies to assess impact of Trump’s midterm setback at Paris talks",
+    "summary": "Diplomats signaled the results could narrow Trump's room for maneuver but warned against expecting a return to traditional U.S. multilateralism.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/g7-allies-trump-midterm-paris/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
     "summary": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
     "timeAgo": "En Guncel (API)",
@@ -745,158 +898,5 @@
     "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zu Nahost: Eisenkot in Israel mit Regierungsbildung beauftragt",
-    "summary": "Präsident Herzog hat am Abend eine entsprechende Entscheidung getroffen. Bei Konsultationen der Parteidelegationen mit Herzog hatte Eisenkot 67 Empfehlungen für das Amt des Ministerpräsidenten, Amtsin...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-li.3571386"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Nach der Israel-Wahl: Gadi Eisenkot wird mit Regierungsbildung beauftragt",
-    "summary": "Israels Präsident Herzog beauftragt Gadi Eisenkot offiziell mit der Regierungsbildung. Bei der Parlamentswahl hatten weder dessen Oppositionsbündnis noch das Lager des bisherigen Ministerpräsidenten N...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/israel-staatspraesident-herzog-beauftragt-gadi-eisenkot-mit-regierungsbildung-201662006.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trump: Kampfsport-Promoter soll Sprecher des Weißen Hauses werden",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-kampfsport-promoter-als-sprecher-vom-weissen-haus-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Selenskyj nennt Trumps Friedensplan gefährlich",
-    "summary": "Ukraine-Präsident: Es darf kein zweites Jalta geben +++ Italiens Außenminister beklagt russischen Hackerangriff +++ Moskau greift ukrainische Energieinfrastruktur an +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-nennt-trumps-friedensplan-gefaehrlich-faz-110683325.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-    "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuelsListen to the podcast: Chris Bowen on how he’ll r...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Trump ofrece su portavocía al presidente de la competición de lucha UFC, Dana White",
-    "summary": "“Será un jefe de prensa como ningún otro”, ha escrito el presidente, aunque aún no está claro si la oferta es firme o si el deportista la aceptará",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-07/trump-ofrece-su-portavocia-a-un-exluchador-profesional.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El presidente de Israel anuncia que encargará a Gadi Eisenkot la formación del Gobierno",
-    "summary": "El dirigente centrista, que tiene la recomendación de 67 de 120 diputados, afronta un complejo examen de pactos y alianzas&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/07/6aef8495e9cf4a0b2d8b4578.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Trump asegura que ha ofrecido el puesto de portavoz a Dana White, un empresario de artes marciales",
-    "summary": "\"Necesitamos a estas personas para defendernos de la izquierda lunática\", ha afirmado el mandatario&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/07/6aef7c96fdddff1e3e8b4581.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Hong Kong privacy watchdog backs tighter rules on access to land records",
-    "summary": "Hong Kong’s privacy watchdog has backed a proposed overhaul of rules to tighten access to land records, warning that journalists have no exemption when collecting data as complaints over information m...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373496/hong-kong-privacy-watchdog-backs-tighter-rules-access-land-records"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Democrats’ victory could squeeze China; star mathematician leaves US: SCMP’s 7 highlights",
-    "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would l...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/china/article/3373481/us-democrats-win-could-squeeze-china-star-mathematician-leaves-us-scmps-7-highlights"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "How Israel’s Ex-Army Chief Could Oust Netanyahu",
-    "summary": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-    "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-    "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
-    "summary": "While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   }
 ]
