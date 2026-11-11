@@ -3,6 +3,231 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+    "summary": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "They’re in Ukraine. Why Do Their Phones Say They’re in Peru?",
+    "summary": "GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+    "summary": "The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Westjordanland: Israelische Siedler greifen palästinensisches Dorf an",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/westjordanland-israelische-siedler-greifen-palaestinensisches-dorf-an-li.3578914"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Ukraine-Gespräche beendet – Fortsetzung soll folgen",
+    "summary": "Die Gespräche zwischen Russland und der Ukraine sind am zweiten Tag schon nach kurzer Zeit beendet worden. Man habe sich auf einen Gefangenenaustausch geeinigt, in anderen Punkten sei kein Einvernehme...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-beendet-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Cyberangriff in Frankreich: Gehackte Kühlregale: Warum die Franzosen Iran beschuldigen",
+    "summary": "Der Cyberangriff auf die Kühlsysteme von 700 Supermärkten war für das Land ein einschneidendes Erlebnis. Ungewöhnlich früh nennt die Regierung in Paris nun die Namen von Tatverdächtigen. Was folgt dar...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/frankreich-cyberangriffe-gehackte-kuehlregale-supermaerkte-verdaechtige-iran-li.3578676"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Joe Bidens Memoiren: „Wenn da nicht die Politik wäre, wären wir bestimmt gute Freunde“",
+    "summary": "Verwirrende Nettigkeiten von Donald Trump und ein verblüffender Brief: Die Autobiografie des ehemaligen US-Präsidenten scheint davon geprägt zu sein, dass er der Staatschef nach und vor dem Maga-Repub...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/joe-biden-memoiren-promise-me-america-trump-li.3578495"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Newsblog zu Nahost: USA klagt drei mutmaßliche Iran-Helfer wegen Anschlägen an",
+    "summary": "Diese sollen an fast zwanzig Anschlägen und Anschlagsversuchen beteiligt gewesen sein, unter anderem auf jüdische Gemeinden in Europa und den USA.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-anklage-terroranschlaege-li.3571386"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Kennedy-Familie klagt gegen Trump-Triumphbogen",
+    "summary": "Um den Bau des Mammutprojektes zu stoppen, schließen sich neun Familienmitglieder einer laufenden Klage an. Der geplante Bogen würde bestehende Gräber und Denkmäler beschädigen, kritisieren sie – auch...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-washington-li.3578585"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Deutschland Liveblog: Viel mehr sexuelle Belästigung in Bundeswehr als bisher bekannt",
+    "summary": "Pistorius: Dunkelfeldstudie bringt „unerfreuliche Wahrheiten“ ans Licht +++ Mehr Kriegsdienstverweigerer +++ Linken-Bezirksvorstand Neukölln verteidigt Vanessa Emde +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-sexuelle-belaestigung-bei-bundeswehr-viel-haeufiger-als-gemeldet-faz-110093143.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: US-Gesandte reisen zu Treffen mit Putin nach Moskau – auch Gespräch mit Selenskyj geplant",
+    "summary": "Ergebnisse des Abu-Dhabi-Gipfels sollen besprochen werden +++ Russland: Haben uns auf großen Gefangenenaustausch geeinigt +++ Lawrow lehnt Waffenstillstand ab +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-gesandte-reisen-zu-treffen-mit-putin-nach-moskau-auch-gespraech-mit-selenskyj-geplant-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: US-Finanzminister Bessent zieht auf Militärbasis",
+    "summary": "Schritt nach iranischen Drohungen +++ Drei Iraner nach Zwischenfall in Großbritannien angeklagt +++ Trump erklärt Irankrieg militärisch für „effektiv vorüber“ +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-us-finanzminister-bessent-zieht-auf-militaerbasis-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Berliner Linke: Emde bekommt Rückenwind aus Neukölln – aber nicht von allen Abgeordneten",
+    "summary": "Die Neuköllner Linke unterstützt Vanessa Emde demonstrativ. Ein Abgeordneter aus dem Bezirk lässt aber offen, wie er über den Ausschlussantrag abstimmen wird.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/neukoellner-linke-stellt-sich-hinter-vanessa-emde-accg-201671031.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Nach den Midterms: Jetzt redet Trump wie ein Demokrat",
+    "summary": "Der Präsident hält seine eigene Deportationspolitik für zu hart und will sogar Erwerbstätige im Land halten. Wie heilsam Wahlen sein können.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-us-midterms-2026-jetzt-redet-trump-wie-ein-demokrat-201665936.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+    "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its first Indonesian pr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Nissan reduces petrol car production as EV sales boom in China",
+    "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harshBusiness live – latest updatesThe Japanese carmaker Nissan has said it has been caught out by acce...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
+    "summary": "Rights groups oppose law that will let police forcibly enter homes to remove refused asylum seekersBelgium could see ICE-style home raids that echo the US crackdown on immigration, rights campaigners ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
+    "summary": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two monthsNAZA, the award-winning documentary that details Israel’s mass kil...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Un escándalo de espías y seducción en el gigante tecnológico Nvidia compromete a Donald Trump",
+    "summary": "El presidente mantiene una relación de amistad con el fundador del mayor fabricante de chips del mundo. Los servicios secretos le informaron hace un año de las sospechas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-09/un-escandalo-de-espias-y-seduccion-en-el-gigante-tecnologico-nvidia-compromete-a-donald-trump.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "El 'pinchazo' de Trump en las 'midterms' no frena a Le Pen en la carrera hacia el Elíseo",
+    "summary": "La candidata de extrema derecha francesa afianza su liderazgo ante las presidenciales mientras David Lisnard emerge como aspirante moderado&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/09/6af1fe4121efa007188b4597.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "China se prepara para recibir a un Trump debilitado que busca una gran cumbre con Xi y Putin para discutir el fin a la guerra en Irán y la desnuclearización",
+    "summary": "El presidente estadounidense dice que espera reunirse con sus homólogos chino y ruso en Shenzhen para abordar los conflictos internacionales y el desarme nuclear&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/09/6af1997be9cf4a856b8b457f.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "6 girls filmed vaping in Hong Kong school toilet, investigation under way",
+    "summary": "A video showing six schoolgirls puffing on e-cigarettes inside a school toilet cubicle in Hong Kong has gone viral, prompting education authorities to say they are “highly concerned” and contact the s...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3374083/6-girls-filmed-vaping-hong-kong-school-toilet-investigation-under-way"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Japan, eight others get fossil award over leaders skipping climate talks",
+    "summary": "From the Group of Seven countries, British Prime Minister Andy Burnham is the only leader expected to attend the summit.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/climate-talks-fossil-award/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Iran producing 50 missiles per month despite crippled industry",
+    "summary": "The U.S. has said since the early days of the war that Tehran's arsenal, and its ability to reconstitute it, had been thoroughly degraded.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/11/world/iran-50-missiles-month-industry/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Disaster warning systems race to keep pace with galloping climate risks",
+    "summary": "A rock and ice avalanche and flood in Nepal in August that left thousands of people dead, injured or missing showed that all systems have limits.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/environment/2026/11/11/climate-change/disaster-warning-systems-climate/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
     "summary": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
     "timeAgo": "En Guncel (API)",
@@ -673,230 +898,5 @@
     "summary": "Responde así a la iniciativa del republicano Thomas Massie, que introdujo en la Cámara baja una lista de acusaciones contra el secretario de Guerra de Estados Unidos&nbsp;Leer",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/11/10/6af32704fdddff0b3a8b4598.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ciberataques a bancos, hospitales y redes eléctricas: los planes de varios países para resistir las primeras 72 horas",
-    "summary": "Desde Reino Unido hasta Suecia, pasando por Francia y Estados Unidos, se multiplican las guías distribuidas entre la población para hacer frente a apagones, sabotajes e interrupciones de los servicios...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/10/6af30719fdddff76188b457f.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Rusia, Ucrania y EEUU vuelven a sentarse en Abu Dabi en busca de un marco de seguridad para la Europa de posguerra",
-    "summary": "Las conversaciones llegan marcadas por un ataque ruso que dejó 55 muertos y unas expectativas muy bajas de alcanzar un consenso&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/10/6af2e814fc6c8379218b4577.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "AI microdramas cause ‘aesthetic fatigue’, professor tells Macau forum",
-    "summary": "Formulaic AI-generated microdramas risk stifling human creativity and innovation, a Beijing professor has warned at a forum in Macau.\nZhang Lanshan, a professor at the School of Digital Media and Desi...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3373984/ai-microdramas-cause-aesthetic-fatigue-professor-tells-macau-forum"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "In Hong Kong and beyond, employers need to rethink the career ladder",
-    "summary": "For decades, the rules of career success seemed straightforward. Work hard, impress your boss, get promoted and earn more. A bigger title was proof of progress, while turning down a promotion was ofte...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373564/hong-kong-and-beyond-employers-need-rethink-career-ladder"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "The war Putin wanted to keep away is coming home to Russia",
-    "summary": "Air-raid sirens signaling the threat of missile or drone strikes have become a daily occurrence for millions of residents in most of central Russia.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/10/world/society/war-putin-home-russia/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. allies need a plan for a lame-duck Trump",
-    "summary": "Some countries, including Iran and Israel, are concerned about how Trump will react to his defeat.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/commentary/2026/11/10/world/lame-duck-trump-plan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. aircraft evacuated from second U.K. base due to Iran threat, WSJ reports",
-    "summary": "The withdrawal comes weeks after the U.S. removed its bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/10/world/us-uk-base-evacuated-iran/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "‘Pit of hell’: Turkish mother and daughter lead fight against coal mine",
-    "summary": "For nearly a decade, Isik and her daughter have thrown themselves into protesting against mining projects slowly ravaging Mugla province in Turkey.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/environment/2026/11/10/turkish-fight-against-coal-mine/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Fossil fuel emissions fall due to Iran war and renewables, research shows",
-    "summary": "The expected annual drop would be the first since 2020, when the COVID-19 pandemic paralyzed the global economy, trade and transport.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/environment/2026/11/10/energy/fossil-fuel-emissions-fall/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-    "summary": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Who Are the Israeli Hostages Released by Hamas?",
-    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
-    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
-    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zur Bundespolitik: Grünen-Spitze stützt Roth in Antisemitismus-Debatte",
-    "summary": "Die ehemalige grüne Kulturstaatsministerin räumt rückblickend Fehler im Umgang mit Äußerungen zum Gaza-Krieg ein. Das sorgt bei einigen für Empörung. Die Parteichefin verteidigt Roth, kritisiert aber ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-claudia-roth-gruene-antisemitismus-berlinale-li.3568524"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: Republikaner bringt Amtsenthebungsverfahren gegen Hegseth auf den Weg",
-    "summary": "Der scheidende republikanische Abgeordnete Thomas Massie versucht nach den verlorenen Zwischenwahlen, den Verteidigungsminister loszuwerden. US-Präsident Trump zweifelt nun doch die Wahlergebnisse an.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-ergebnis-zweifel-li.3573278"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Sabotage: Frankreich sieht Iran hinter Cyberangriff auf Supermarkt-Kühlanlagen",
-    "summary": "Außenminister Barrot spricht von einer beispiellosen Attacke, Irans Botschafter wird einbestellt. Es soll Sanktionen geben.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/cyberangriff-iran-frankreich-sabotage-revolutionsgarde-kuehlregal-supermarkt-li.3577893"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: Erichs Asche - Meine Suche nach dem letzten deutschen Diktator",
-    "summary": "Erich Honecker wurde nach der Wende erst zur Witz-, dann zur Randfigur der Geschichte. Nicht einmal ein Grab gibt es heute von ihm. Wie kann das sein? Und wo zur Hölle ist die Asche des DDR-Diktators?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/erichs-asche-erich-honecker-asche-podcast-ddr-e961576/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: EU verlängert Militärausbildung für die Ukraine bis 2028",
-    "summary": "Für den Zeitraum stehen knapp 300 Millionen Euro bereit +++ Russland kritisiert westliche Militärmanöver +++ Trump stimmt Ukraine auf territoriale Verluste nach Kriegsende ein +++ alle Neuigkeiten im ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verlaengert-militaerausbildung-fuer-die-ukraine-bis-2028-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Republikaner Massie beantragt Amtsenthebung von Pentagonchef Hegseth",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-republikaner-massie-beantragt-amtsenthebung-von-pentagonchef-hegseth-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Trump erklärt Irankrieg militärisch für „effektiv vorüber“",
-    "summary": "Seeblockade gegen Iran bleibt bestehen +++ Israels Präsident beauftragt Eisenkot mit Regierungsbildung +++ 70.000 Zelte im Gazastreifen laut Autonomiebehörde überschwemmt +++ alle Entwicklungen im Liv...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-erklaert-irankrieg-militaerisch-fuer-effektiv-vorueber-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "G-7-treffen in Paris: Frankreich macht Iran für Angriffe auf Kühlanlagen verantwortlich",
-    "summary": "Außenminister Barrot beschuldigt Iran, den „ersten groß angelegten Cyberangriff zu Sabotagezwecken“ in Frankreich gesteuert zu haben – und kündigt Konsequenzen an.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-macht-iran-fuer-angriffe-auf-kuehlanlagen-verantwortlich-201667272.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Klimakonferenz: Es muss nicht immer der große Wurf sein",
-    "summary": "Die Türkei und Australien eröffnen den Klimagipfel in Antalya. Sie setzen auf Pragmatismus statt große Beschlüsse. Die Pazifikstaaten hoffen indes, dass sie gehört werden.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/un-klimakonferenz-antalya-2026-grosse-politische-signale-streben-sie-nicht-an-201665069.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Miller neuer Stabschef: Trump lässt seinen Pitbull von der Leine",
-    "summary": "Nach der schweren Klatsche für die Republikaner bei den Midterms gibt es nun eine erste personelle Konsequenz in Trumps Machtzirkel: Der rechte Hardliner Stephen Miller wird neuer Stabschef.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-trump-miller-als-neuen-stabschef-will-accg-201660644.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
-    "summary": "Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrificationA global fossil fuel price crisis is “spreading inflation like a cancer” aro...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-    "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-backed group interru...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
   }
 ]
