@@ -3,6 +3,339 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+    "summary": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+    "summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+    "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+    "summary": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Benjamin Netanjahu: Er scheint am Ende zu sein. Wie schon so oft",
+    "summary": "Welche Optionen hat er noch: Erneut Iran angreifen? Die Wahl anfechten? Hass säen? Israels amtierender Premier kämpft mit allen Mitteln um sein Amt.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/benjamin-netanjahu-regierung-israel-wahl-li.3579262"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ukraine-Krieg: Kushner und Witkoff werben bei Putin für Europäer",
+    "summary": "Die US-Amerikaner wollen den Kremlchef überzeugen, dass Europa künftig bei den Gesprächen über die Ukraine dabei sein soll. Anschließend wollen sie den ukrainischen Präsidenten Selenskij informieren.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-putin-kushner-witkoff-russland-krieg-li.3579527"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Politics: Biden: What Trump Did on January 6 ‘Should Follow Him to His Grave’",
+    "summary": "In an excerpt from his forthcoming book, the former president calls on Americans to defend their democracy.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/biden-what-trump-did-on-january-6-should-follow-him-to-his-grave-e724192/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Gewalt gegen Frauen: Ungarn plant Beitritt zur Istanbul-Konvention",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/gewalt-gegen-frauen-ungarn-plant-beitritt-zur-istanbul-konvention-li.3579508"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Naher Osten: Sechs Tote bei israelischem Angriff auf Klinik in Gaza",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/naher-osten-sechs-tote-bei-israelischem-angriff-auf-klinik-in-gaza-li.3579490"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Politics: The Scapegals",
+    "summary": "Most of the top officials President Trump has pushed out have one thing in common.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/the-scapegals-e624276/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ideas: Trump Has Been Corroded by Hate",
+    "summary": "And he has, in turn, also corroded the soul of his party.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/trump-has-been-corroded-by-hate-e745598/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Ideas: Getting Too Close to Trump Was a Mistake",
+    "summary": "For Silicon Valley leaders, cozying up to the Trump administration has led to a series of spectacular failures.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/getting-too-close-to-trump-was-a-mistake-e015137/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Selenskyj: Starshield an der gesamten Front erheblich gestört",
+    "summary": "US-Satellitendienst laut Kiew seit Tagen wieder eingeschränkt +++ Russischer Offizier bei Autoexplosion getötet +++ Witkoff und Kushner in Moskau +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-starshield-an-der-gesamten-front-erheblich-gestoert-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Trump weist Vance zurecht: Aufmerksamkeit nicht auf Iran richten",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-weist-vance-zurecht-aufmerksamkeit-nicht-auf-iran-richten-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Wahlkampf in Frankreich: Mélenchon: „Gegen wen wollt ihr Deutschen Krieg führen?“",
+    "summary": "Beim Weltkriegsgedenken warnt der französische Präsidentschaftskandidat vor der deutschen Aufrüstung. Ende November will er nach Berlin reisen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-im-wahlkampf-gegen-wen-wollt-ihr-deutschen-krieg-fuehren-accg-201674713.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+    "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’Cop31 live – latest updatesChina is leading the world in moving away from fossil fuels, and t...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+    "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China fr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "What’s behind Australia’s surge in teen extremism?",
+    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert saysIn March, Guardian Australia revealed that most people who have been charged with the new fed...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
+    "summary": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sourcesGet our daily political email, free app or daily news ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+    "summary": "Progress of bill to reinstate struck-off doctors hinged on support from far right figure Roberto Vannacci, whose rise is shaping politics before 2027 electionsAntonio Cremasco contracted Covid at a di...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Un bombardeo de Israel mata a seis personas en un hospital de Gaza",
+    "summary": "El ataque, que ha causado además 20 heridos, llega cuando empiezan a remitir las fuertes lluvias que han anegado decenas de miles de tiendas de campañas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-12/un-bombardeo-israeli-mata-a-seis-personas-en-un-hospital-de-gaza.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Representantes demócratas elegidos en las ‘midterms’ demandan una reforma migratoria en el Capitolio",
+    "summary": "Los legisladores, junto con congresistas actuales y empresarios, esperan que la victoria en las urnas les permita llegar a acuerdos con el Gobierno de Trump para poner fin a la ofensiva contra los mig...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-11/representantes-democratas-elegidos-en-las-midterms-demandan-una-reforma-migratoria-en-el-capitolio.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Putin exige a Europa que elija entre la paz y la guerra mientras aborda con Estados Unidos el futuro de Ucrania",
+    "summary": "El presidente ruso rechaza cualquier presencia de tropas extranjeras en territorio ucraniano y propone una operación humanitaria conjunta en Kostiantínivka. Washington intenta incorporar a los europeo...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af5cbc9fdddff95568b45c1.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Bélgica también apunta a Irán por los ataques a los frigoríficos de los supermercados: \"Los servicios de seguridad han detectado vínculos con actores iraníes\"",
+    "summary": "Después de que Francia acusase al Cuerpo de los Guardianes de la Revolución, el ministro de Interior belga señala en la misma dirección y pide \"sanciones europeas contra que llevan a cabo ciberataques...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af5ab74fdddff03488b45a5.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Nuevo varapalo a Donald Trump en las midterms: el demócrata Scott Colom se convierte en el primer senador negro por Misisipi en 145 años",
+    "summary": "El fiscal de distrito de 43 años será también el primer demócrata elegido al Senado por el estado sureño desde 1982, en una continuación de las arrolladoras victorias de la oposición en las elecciones...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af55af5fc6c83993c8b4582.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Muere un coronel ruso en un atentado con dinamita contra su automóvil en San Petersburgo",
+    "summary": "Tras el comienzo de la guerra en Ucrania varios militares rusos, incluyendo oficiales de alto rango, han muerto a consecuencia de atentados con dinamita, atribuidos a los servicios de inteligencia ucr...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af56590e9cf4ae9478b4579.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Irán amenaza con atacar bases de EEUU en Europa si se usan para agredir su territorio",
+    "summary": "El portavoz de la Guardia Revolucionaria advirtió recientemente que el país persa ha levantado el límite de 2.000 kilómetros que había impuesto para sus misiles balísticos&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af56044e85ece61618b4582.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Tai Po fire claims: Hong Kong judiciary urges mediation before court action",
+    "summary": "A potential wave of claims could arise from last year’s deadly Tai Po fire, Hong Kong’s judiciary has warned, urging parties to settle their disputes through mediation or other forms of alternative re...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374233/tai-po-fire-claims-hong-kong-judiciary-urges-mediation-court-action"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "What to look forward to as Hong Kong’s ‘Symphony of Lights’ takes its final bow",
+    "summary": "Hong Kong’s “A Symphony of Lights”, launched in 2004 as the city sought to revive tourism after the Sars outbreak, will take its final bow on November 18, 2026 after 22 years of illuminating Victoria ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374218/what-look-forward-hong-kongs-symphony-lights-takes-its-final-bow"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong arts group urges balance in funding criteria as attendance falls",
+    "summary": "A major Hong Kong performing arts group has urged the government to give greater weight to qualitative measures when setting funding criteria for local organisations, arguing that changing social tren...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3374190/hong-kong-arts-group-urges-balance-funding-criteria-attendance-falls"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
+    "summary": "U.S. President Donald Trump, struggling with an approval rating near the lowest of his career, looms large over the conversation for both parties.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/12/world/vance-buttigieg-us-presidential-hopefuls/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Yen nears key ¥160 level after U.S. inflation data, sparking intervention risk",
+    "summary": "The prospect of tightening by the U.S. Federal Reserve risks widening the U.S.-Japan rate differential and adding to downward pressure on the yen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/12/markets/yen-near-160-renewed-intervention-risks/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
     "summary": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
     "timeAgo": "En Guncel (API)",
@@ -565,338 +898,5 @@
     "summary": "Las fuerzas de Moscú han intensificado los ataques contra mercantes en la región y han extendido sus acciones a los puertos ucranianos del cauce fluvial&nbsp;Leer",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/11/10/6af2e0aee9cf4a67248b4570.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "A fare fight? What Hong Kong’s ride-hailing shake-up means for passengers",
-    "summary": "With eight companies vying for licences to provide ride-hailing services in Hong Kong under the new regulatory regime, industry observers expect a price war that will initially benefit passengers thro...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3373963/fare-fight-what-hong-kongs-ride-hailing-shake-means-passengers"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Microsoft presses Trump to scuttle ban on Chinese data center tech",
-    "summary": "At stake are imports new models of Chinese optical transceivers, which allow data to travel over fiber-optic cables within data centers.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/11/11/tech/microsoft-trump-china-data-center/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. charges three ‘Iranian operatives’ over U.K. air base plot",
-    "summary": "Days after the September incident, the United States withdrew all its B-1 bombers from the base.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/11/world/crime-legal/us-iran-operatives-uk-airbase-plot/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation",
-    "summary": "There is little sign of attacks abating in November, after 37 ships were attacked in October, the highest monthly total since the start of the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/11/world/tankers-burn-middle-east/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "France supermarket hack marks new phase in Iran’s shadow war",
-    "summary": "Cyberattacks hit French supermarkets last month, forcing the disposal of entire inventories of perishable food.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/11/world/crime-legal/france-supermarket-hack-iran-war/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
-    "summary": "Though questions still linger over who can form a government, Gadi Eisenkot's broad left-to-right bloc wasted no time in setting the agenda.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/11/world/politics/eisenkot-netanyahu-israeli-parliament/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
-    "summary": "Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Gaza Floods Kill 4",
-    "summary": "At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "No Good Choices on Iran",
-    "summary": "As top Trump aides clash over a strategy to end the war, the administration is weighing escalation, narrower strikes and diplomacy.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
-    "summary": "The U.S. secretary of state said that American economic pressure is doing sufficient damage to the leadership in Tehran.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-    "summary": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Palestinians Stream Back to Northern Gaza on Foot",
-    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Türkei: Spionage-Vorwurf: Mitarbeiterin der Böll-Stiftung festgenommen",
-    "summary": "Die türkische Justiz hat die Mitarbeiterin zur Vernehmung vor ein Gericht gebracht. Der Frau eines Abgeordneten wird Spionage vorgeworfen. Im Fokus steht die Zusammenarbeit mit einem LGBTQ-Verein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/tuerkei-heinrich-boell-stiftung-spionage-lgbtq-yonca-verdioglu-sik-li.3578548"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zu den Landtagswahlen: Berliner Linken-Fraktion will Emde ausschließen",
-    "summary": "Ein entsprechender Antrag wird jetzt erarbeitet, wie der Fraktionsvorstand nach Angaben eines Sprechers beschloss. Hintergrund sind die Aussagen zum Nahostkonflikt der umstrittenen Abgeordneten.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-ausschluss-li.3540501"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Deutschland Liveblog: Neuköllner Linke wendet sich gegen Ausschluss Emdes",
-    "summary": "„Nicht antisemitisch“ +++ Berliner Fraktionsvorstand will Abgeordnete ausschließen: „Will sich nicht an die Regeln halten“ +++ Siegmund bekommt Gegenkandidatin in Sachsen-Anhalt +++ alle Entwicklungen...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-neukoellner-linke-wendet-sich-gegen-ausschluss-emdes-faz-110093143.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Selenskyj: Wollen über Tausend Kriegsgefangene austauschen",
-    "summary": "Verhandlungen in Abu Dhabi +++ Lawrow lehnt Waffenstillstand ab +++ Merz droht mit Blockade des EU-Haushalts +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-wollen-ueber-tausend-kriegsgefangene-austauschen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Republikaner Jordan zum Minderheitsführer im US-Repräsentantenhaus gewählt",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-republikaner-jordan-zum-minderheitsfuehrer-im-us-repraesentantenhaus-gewaehlt-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Spionage-Vorwurf: Türkei nimmt Mitarbeiterin der Heinrich-Böll-Stiftung fest",
-    "summary": "Die türkische Justiz hat Yonca Verdioglu Sik zur Vernehmung vor ein Gericht gebracht. Im Fokus steht die Zusammenarbeit mit einem LGBTQ-Verein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/tuerkei-nimmt-heinrich-boell-stiftung-mitarbeiterin-wegen-spionage-fest-201671009.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ukraine-gespräche: Putin muss sich bewegen",
-    "summary": "Kriegsmüde dürften alle Parteien sein, die sich in Abu Dhabi eingefunden haben. Das reicht aber nicht für einen Friedensschluss.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/friedensgespraeche-in-abu-dhabi-putin-muss-sich-bewegen-201669660.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Trumps Debakel: Der Tag, an dem der Führerkult endete",
-    "summary": "Der Verlierer Trump hat bei den Republikanern jetzt nicht mehr viel zu sagen. Die demokratischen Sieger wissen aber auch nicht, wessen Weg zum Ziel führt. Das wird heftig.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-nun-stehen-beide-parteien-ohne-fuehrung-da-201650651.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-    "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisati...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-    "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty disputeThe people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
-    "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño eventBanana producers in Latin America are calling for better pay to help cope with the impact of the climate ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-    "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌BeijingNvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reportin...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-    "summary": "Hamish Falconer says UK has ‘not accepted principle’ of linking electricity trade to ‘cohesion fund’ but two sides will discuss issueBritain is willing to discuss paying towards infrastructure schemes...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
-    "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UKRussian naval activity around the UK has increased by 41% in the ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Netanyahu aprovecha la jura del nuevo Parlamento para acusar a los diputados árabes de querer “destruir Israel”",
-    "summary": "El partido del aspirante a primer ministro, Gadi Eisenkot, presenta ya un proyecto de ley para investigar los errores de seguridad en el ataque de Hamás en 2023, pese a carecer aún de coalición de Gob...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-10/netanyahu-aprovecha-la-jura-del-nuevo-parlamento-para-acusar-a-los-diputados-arabes-de-querer-destruir-israel.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Silicon Valley gana la guerra del impuesto a las grandes fortunas",
-    "summary": "El rechazo a la Proposición 40, que imponía un gravamen único del 5% a patrimonios superiores a mil millones de dólares, supone una victoria para los milmillonarios de California, el estado más rico d...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/10/6af36bc921efa0ef228b45ba.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Thomas Massie, el rebelde MAGA que desafía a Trump y ha lanzado el impeachment para tumbar al secretario de Defensa",
-    "summary": "El congresista republicano por Kentucky enemistado con Trump ha lanzado la propuesta de 'juicio político' contra Hegseth&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/10/6af360c0e4d4d8c66d8b45ac.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El Parlamento israelí toma posesión mientras Eisenkot intenta formar Gobierno",
-    "summary": "Una de las primeras propuestas de ley es la creación de una comisión de investigación estatal sobre el fracaso ante el ataque de Hamas del 7-O&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/10/6af355dcfdddff244a8b45ae.html"
-  },
-  {
-    "countryCode": "CN",
-    "flagUrl": "https://flagcdn.com/w40/cn.png",
-    "source": "South China Morning Post",
-    "title": "Chinese-French team celebrates ‘borderless connections’ at Shaw Prize ceremony",
-    "summary": "The Chinese and French winners of the 2026 Shaw Prize in Life Science and Medicine have highlighted the spirit of “borderless connections” and friendship behind their research – which turned a rare fo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3373988/chinese-french-team-celebrates-borderless-connections-shaw-prize-ceremony"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-    "summary": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-    "summary": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israel’s New Parliament Gathers With No Government in Sight",
-    "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
   }
 ]
