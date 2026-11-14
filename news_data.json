@@ -3,6 +3,87 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+    "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: EU fordert ungehinderten Zugang für Helfer in den Gazastreifen",
+    "summary": "Heftige Unwetter im Palästinensergebiet +++ Zwei Öltanker in Straße von Hormus brennen nach Kollision mit Seemine +++ alle Entwicklungen im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eu-fordert-zugang-fuer-helfer-im-gazastreifen-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "„Remigration“: Die AfD will sich nun mal nicht mäßigen",
+    "summary": "Tino Chrupalla warnt davor, dieselben Fehler wie Trump zu machen – und bekommt Gegenwind aus seiner Partei. Dabei geht es um mehr als Migrationspolitik.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/streit-ueber-trump-und-remigration-die-afd-will-sich-nicht-maessigen-201670004.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+    "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red CrescentLewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisati...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "China rules out hosting Cop33 climate summit in 2028",
+    "summary": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, lea...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+    "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environmentGet our daily political email, free app or daily news p...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+    "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for HamasA two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La mesa nuclear de Shenzhen: Trump, Putin y Xi buscan evitar que la IA tenga el poder de lanzar bombas atómicas",
+    "summary": "Washington quiere impulsar un acuerdo de desarme entre las tres potencias, que acumulan más de 11.000 ojivas nucleares, mientras Pekín se resiste a limitar un arsenal que aumenta pero aún es muy infer...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/14/6af84019e9cf4acf528b4595.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La trampa de Putin: negociar la seguridad de Europa antes de detener la guerra de Ucrania",
+    "summary": "El precio de la paz que desea imponer el Kremlin es un continente con menos OTAN y más influencia de Moscú. Los enviados de EEUU están decididos a abordar este debate&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/12/6af6138dfdddff4e608b456d.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
     "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
     "timeAgo": "En Guncel (API)",
@@ -817,86 +898,5 @@
     "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
-    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Newsblog zu Nahost: Trump: Iran-Deal ist unnötig, Vance soll sich um anderes kümmern",
-    "summary": "Die diplomatischen Gespräche stocken, da sagt der US-Präsident, dass eine Übereinkunft mit Teheran eh nicht mehr gebraucht werde. Sein Vize solle sich lieber um Innenpolitik kümmern.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-trump-vance-deal-li.3579157"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Israel: Eisenkot warnt Netanjahu vor „gefährlichen Schritten“",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/israel-eisenkot-warnt-netanjahu-vor-gefaehrlichen-schritten-li.3579630"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Witkoff: Europäer könnten bei nächstem Ukraine-Treffen dabei sein",
-    "summary": "Selenskyj bestätigt: Europäer werden „eine Stimme haben“ +++ US-Gesandter: Haben einen „sehr wichtigen Punkt“ erreicht +++ US-Satellitendienst laut Kiew seit Tagen wieder eingeschränkt +++ alle Neuigk...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-witkoff-europaeer-koennten-bei-naechstem-ukraine-treffen-dabei-sein-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Israel: Einreiseverbot für Linkspolitiker Mélenchon",
-    "summary": "Französischer Präsidentschaftskandidat Mélenchon darf wegen „Völkermord“-Aussagen nicht einreisen +++ Saudi-Arabien meldet Abwehr von Raketen über Mekka +++ Offenbar mindestens vier Tote bei Angriff a...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-israel-einreiseverbot-fuer-linkspolitiker-melenchon-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Sangerhausen: Israelische Rüstungsfirma kommt doch nicht nach Sachsen-Anhalt",
-    "summary": "Das BSW wollte keine „israelische Rüstungsschmiede“ im Harz. AfD-Spitzenkandidat Siegmund dagegen freute sich auf Produkte für die „Abschiebeoffensive“. Jetzt gibt Elbit die Pläne auf.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/elbit-zieht-plaene-fuer-ansiedlung-in-sangerhausen-zurueck-201677034.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ukraine-Gespräche: Putin gibt nichts, bekommt aber wieder etwas von Trump",
-    "summary": "Jetzt soll auch über die Sicherheitsordnung Europas verhandelt werden. Die Europäer müssen dabei sein.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/europas-sicherheitsordnung-warum-europa-bei-den-verhandlungen-dabei-sein-muss-201677106.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ukraine-gespräche: Putin muss sich bewegen",
-    "summary": "Kriegsmüde dürften alle Parteien sein, die sich in Abu Dhabi eingefunden haben. Das reicht aber nicht für einen Friedensschluss.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/friedensgespraeche-in-abu-dhabi-putin-muss-sich-bewegen-201669660.html"
   }
 ]
