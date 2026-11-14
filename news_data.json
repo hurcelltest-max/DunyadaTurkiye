@@ -1,5 +1,140 @@
 [
   {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Gipfel in China: USA kündigen Dreiertreffen Trumps mit Xi und Putin an",
+    "summary": "Das Treffen soll in der kommenden Woche in China stattfinden. Dabei soll es unter anderem um eine mögliche Reduzierung der weltweiten Atomwaffenbestände gehen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/atomwaffen-abruestung-putin-trump-xi-jinping-apec-shenzhen-li.3580363"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Klimakonferenz: Adana versinkt in deutschem Plastikmüll",
+    "summary": "Ein Drittel der Kunststoffabfallexporte der EU geht in die Türkei – zum Schaden der Umwelt. Auf der UN-Klimakonferenz fordern Kritiker einen Importstopp.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/cop31-wie-die-tuerkische-stadt-adana-im-deutschen-plastikmuell-versinkt-accg-201652552.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+    "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+    "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in USUS flight outage – live updatesGet our breaking news email, free app or daily news podcastSome US-bound fli...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+    "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restoredGet our breaking news email, free app or daily news podcastThe Microsoft outage co...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "What’s behind Australia’s surge in teen extremism?",
+    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert saysGet our breaking news email, free app or daily news podcastIn March, Guardian Australia revea...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El patito con fusil que divide Alemania: la tienda de recuerdos de las Fuerzas Armadas se convierte en un éxito y una polémica",
+    "summary": "El local oficial de la Bundeswehr alemana se queda sin existencias horas después de abrir y provoca acusaciones de trivializar la guerra para mejorar la imagen del ejército",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-14/el-patito-con-fusil-que-divide-alemania-la-tienda-de-recuerdos-de-las-fuerzas-armadas-se-convierte-en-un-exito-y-una-polemica.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Entre la alerta y el escepticismo: la nueva amenaza arancelaria cae en un empresariado que duda del pulso de Trump",
+    "summary": "El presidente de EE UU amaga con duplicar las tarifas a su principal socio comercial y enciende las alarmas para más del 80% de las exportaciones mexicanas",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/mexico/economia/2026-11-13/entre-la-alerta-y-el-escepticismo-la-nueva-amenaza-arancelaria-cae-en-un-empresariado-que-duda-del-pulso-de-trump.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Cathay Pacific warns of delays after US ground stop hits Hong Kong-bound flights",
+    "summary": "Two Hong Kong-bound Cathay Pacific flights from the United States have been affected by a nationwide ground stop, with the city’s flag carrier warning of further delays.\nThe US Federal Aviation Admini...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/transport/article/3374424/cathay-pacific-warns-delays-after-us-ground-stop-hits-hong-kong-bound-flights"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong urged to look beyond university rankings to attract international students",
+    "summary": "Leaders of top British universities have urged the city to look beyond institutional rankings in its “Study in Hong Kong” campaign, warning that attracting and keeping top overseas talent requires gov...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3374423/hong-kong-urged-look-beyond-university-rankings-attract-international-students"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Microsoft says consumer products services recovered Friday",
+    "summary": "The firm said that server issues were behind the incident and that it was not aware of any malicious activity and ruled out AI as the cause.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Rubio labels international law a tool of elites, attacks ICC",
+    "summary": "The Secretary of State warned that the U.S. would never submit to the \"sterile vision of radical judges or soulless global bureaucrats.\"",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/rubio-international-law-icc/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Progressive challenge to Democratic Senate chief Schumer opens fight for bolder agenda",
+    "summary": "The challenge escalates a fight inside the Democratic Party over how bold it should be in forcing an end to the Iran war and taking on corporate power.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/progressive-challenge-senate-schumer/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit",
+    "summary": "Trump wants to talk about reducing nuclear arsenals and is also set to bring up his war in Iran — but is not expected to discuss the war in Ukraine.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/"
+  },
+  {
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
@@ -763,140 +898,5 @@
     "summary": "Longtime CFO Colette Kress is taking the job of interim CEO, Nvidia said, and Huang will no longer have ties with the chipmaker.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/nvidia-huang-ousted/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-    "summary": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-    "summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-    "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-    "summary": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Benjamin Netanjahu: Er scheint am Ende zu sein. Wie schon so oft",
-    "summary": "Welche Optionen hat er noch: Erneut Iran angreifen? Die Wahl anfechten? Hass säen? Israels amtierender Premier kämpft mit allen Mitteln um sein Amt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/benjamin-netanjahu-regierung-israel-wahl-li.3579262"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukraine-Krieg: Kushner und Witkoff werben bei Putin für Europäer",
-    "summary": "Die US-Amerikaner wollen den Kremlchef überzeugen, dass Europa künftig bei den Gesprächen über die Ukraine dabei sein soll. Anschließend wollen sie den ukrainischen Präsidenten Selenskij informieren.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-putin-kushner-witkoff-russland-krieg-li.3579527"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Politics: Biden: What Trump Did on January 6 ‘Should Follow Him to His Grave’",
-    "summary": "In an excerpt from his forthcoming book, the former president calls on Americans to defend their democracy.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/biden-what-trump-did-on-january-6-should-follow-him-to-his-grave-e724192/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Gewalt gegen Frauen: Ungarn plant Beitritt zur Istanbul-Konvention",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/gewalt-gegen-frauen-ungarn-plant-beitritt-zur-istanbul-konvention-li.3579508"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Naher Osten: Sechs Tote bei israelischem Angriff auf Klinik in Gaza",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/naher-osten-sechs-tote-bei-israelischem-angriff-auf-klinik-in-gaza-li.3579490"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Politics: The Scapegals",
-    "summary": "Most of the top officials President Trump has pushed out have one thing in common.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/the-scapegals-e624276/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ideas: Trump Has Been Corroded by Hate",
-    "summary": "And he has, in turn, also corroded the soul of his party.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/trump-has-been-corroded-by-hate-e745598/"
   }
 ]
