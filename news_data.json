@@ -3,6 +3,141 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+    "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Putin will an Treffen mit Trump und Xi teilnehmen",
+    "summary": "Laut USA soll es dabei nicht um die Ukraine gehen +++ Selenskyj: USA bringen NATO-Beitritt für Gebietsverzicht ins Spiel +++ US-Senatoren fordern Aufklärung über Starshield-Drosselung +++ alle Neuigke...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-will-an-treffen-mit-trump-und-xi-teilnehmen-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Ukraine-Gespräche: Putin gibt nichts, bekommt aber wieder etwas von Trump",
+    "summary": "Jetzt soll auch über die Sicherheitsordnung Europas verhandelt werden. Die Europäer müssen dabei sein.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/europas-sicherheitsordnung-warum-europa-bei-den-verhandlungen-dabei-sein-muss-201677106.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "World leaders head to Asia for back-to-back diplomatic summits",
+    "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetingsThe global political centre of gravity will be firmly in Asia this week as wor...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+    "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phonesGet our daily political email, free app or daily news podcastAnth...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel asfixia la esperanza en Gaza tras más de un año de bloqueo a la reconstrucción",
+    "summary": "Los palestinos de la Franja narran sus lamentables condiciones, como las recientes inundaciones de miles de sus tiendas de campaña, frente a las promesas de un alto el fuego desvirtuado por Netanyahu",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-15/israel-asfixia-la-esperanza-en-gaza-tras-mas-de-un-ano-bloqueando-la-reconstruccion.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Putin y Trump buscan un cambio de régimen en Europa",
+    "summary": "Ambos dirigentes se proponen que las negociaciones de paz sobre Ucrania empiecen por una renovación de la arquitectura de seguridad europea al gusto de Moscú",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-15/putin-y-trump-buscan-un-cambio-de-regimen-en-europa.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "“El idilio de los medios con Trump ha acabado”: la victoria demócrata cambia las reglas de la prensa de Washington",
+    "summary": "La debilidad del presidente tras el revés de las ‘midterms’ reabre el debate sobre cómo cubrir a un político que se nutre de la atención de una profesión a la que ataca constantemente",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-15/el-idilio-de-los-medios-con-trump-ha-acabado-la-victoria-democrata-cambia-las-reglas-de-la-prensa-de-washington.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "La guerra en Ucrania salpica al este de Polonia con el eco de explosiones, alarmas antiaéreas y evacuaciones",
+    "summary": "Los habitantes de las regiones fronterizas conviven con las alertas por SMS ante ataques rusos y el ruido de aviones de combate",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-15/la-guerra-en-ucrania-salpica-al-este-de-polonia-con-el-eco-de-explosiones-alarmas-antiaereas-y-evacuaciones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Ciberataques contra refrigeradores y falsas bombas: los frentes de la amenaza híbrida en Europa escalan en plena tormenta política",
+    "summary": "Enemigos habituales como Rusia o Irán, pero también agentes no estatales, explotan las vulnerabilidades europeas para desestabilizar",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-15/ciberataques-contra-refrigeradores-y-falsas-bombas-los-frentes-de-la-amenaza-hibrida-en-europa-escalan-en-plena-tormenta-politica.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "La guerra invisible contra Occidente",
+    "summary": "&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/15/6af8584b21efa07f0f8b4586.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "‘Visa of life’ recipient honored for preserving diplomat’s legacy",
+    "summary": "Warsaw-born Smoller and her family escaped Nazi persecution of Jewish people after obtaining visas issued in Lithuania by Sugihara.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/visa-of-life-recipient-honored/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Repair of old copper wiring caused U.S. flight disruption, Trump administration says",
+    "summary": "Friday's nationwide ground stop sparked widespread chaos and left hundreds of thousands of passengers in limbo.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/15/world/copper-wiring-us-flight-disruption/"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "South Sudan’s National Election, Its First, Will Be Delayed",
     "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
     "timeAgo": "En Guncel (API)",
@@ -763,140 +898,5 @@
     "summary": "US-Unterhändler Kushner berichtet in Dublin von der Zustimmung des Kreml. Wer die Europäer bei einem möglichen Treffen zu Ukraine-Friedensgesprächen vertreten soll, ist offen.",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-li.3571967"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: US-Regierung schiebt fast eine halbe Million Menschen in einem Jahr ab",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-regierung-meldet-fast-eine-halbe-million-abschiebungen-in-einem-jahr-faz-19444916.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-    "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its first Indonesian pr...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-    "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of unionGet our breaking news email, free app or daily news podcastA major contractor on a troubled Victo...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Más de 450.000 combatientes del bando ruso han muerto desde el inicio de la guerra, según la base de datos oficial",
-    "summary": "Dos grupos de ‘hackers’ publican por primera vez las cifras de la agencia gubernamental de estadísticas. Entre los fallecidos hay un español y decenas de latinoamericanos",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "‘Trumpazo’ económico, debacle política",
-    "summary": "Los dos factores determinantes del disparo del coste de la vida, aranceles e Irán, han sido voluntarios y premeditados",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-09/trumpazo-economico-debacle-politica.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "U.S. Congress steps up scrutiny of Trump and Nvidia after Huang exit",
-    "summary": "U.S. President Donald Trump was informed of the suspicions surrounding Nvidia CEO Jensen Huang last year, according to The New York Times.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/congress-trump-nvidia-scrutiny/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Kane scores winner on record 126th England appearance",
-    "summary": "It was the Bayern Munich forward's 92nd England goal.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/sports/2026/11/13/soccer/harry-kane-record-appearance/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Israeli strike on Gaza hospital deadliest since election",
-    "summary": "The Israeli military has confirmed the attack, claiming Nasser Hospital was being used as a base by Hamas.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/13/world/israel-gaza-post-election-strike/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Japan considers meeting between Takaichi and ICC president",
-    "summary": "Tomoko Akane and the  International Criminal Court have been targeted by sanctions imposed by the administration of U.S. President Donald Trump.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/politics/icc-akane-takaichi-meeting-plan/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Netanyahu and Eisenkot clash over whether Israel should strike Iran again",
-    "summary": "In a letter this week, Eisenkot told Netanyahu not to make any major national security decisions during the period of political transition.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/netanyahu-eisenkot-iran-strike/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Trump pulls Vance from Iran talks in bet on shaky status quo",
-    "summary": "U.S. President Donald Trump said he told Vice President JD Vance not to negotiate with Iran and suggested the conflict could end without a deal.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/trump-vance-iran-talks/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
-    "summary": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-    "summary": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Palestinians Stream Back to Northern Gaza on Foot",
-    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
   }
 ]
