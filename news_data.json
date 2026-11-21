@@ -1,5 +1,158 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+    "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+    "summary": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Selenskij: Krim-Brücke wird nicht stehen bleiben",
+    "summary": "Die Ukraine hat das Bauwerk in den vergangenen Tagen mehrfach angegriffen. Nun erklärt der ukrainische Präsident: Die von Russland erbaute Brücke hat keine Zukunft.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-angriffe-selenskij-russland-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Angriff auf „Sparta II“: Krieg vor Finnlands Haustür",
+    "summary": "Die Ukraine greift nun russische Schiffe vor Finnland an. Helsinki stellt das vor ein Dilemma. Und die Sorge vor einer Umweltkatastrophe wächst.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Medien: Chefin von Wildberries ist zurückgetreten",
+    "summary": "Tatjana Kim wurde vor wenigen Tagen von der EU sanktioniert +++ Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand +++ Macron bekundet Solidarität mit Polen +++ alle Neuigkeiten im Live...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-medien-wildberries-chefin-ist-zurueckgetreten-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Nahost: Neuer Angriff Israels in Gaza",
+    "summary": "Berichte über vier Tote und mehrere verletzte Menschen +++ Neue Angriffe auf Tanker in Straße von Hormus +++ Irak geht gegen proiranische Miliz vor +++ Iran will US-Seeblockade durchbrechen +++ alle E...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-neuer-angriff-israels-in-gaza-faz-200583539.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Gen-Z-Mafia: Sie nennen sich Daltons – und sind äußerst brutal",
+    "summary": "Türkische Gen-Z-Banden machen Deutschland unsicher. Sie inszenieren ihre Taten in sozialen Medien und lassen sich offenbar auch für politische Sabotage aus Russland rekrutieren.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/inland/gen-z-banden-aus-der-tuerkei-wie-sie-deutschland-bedrohen-accg-201676060.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Krim-Brücke: Ein empfindlicher Treffer gegen Putin",
+    "summary": "Der ukrainische Angriff auf die Krim-Brücke wird den Krieg nicht entscheiden. Aber er macht die Grenzen russischer Macht sichtbar – auch für Trump.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/putin-empfindlich-getroffen-was-der-angriff-auf-die-krim-bruecke-bedeutet-201691161.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situationA bullet-peppered mural of the Haitian striker Emmanuel San...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "China commits to low-carbon electrification and help for others to improve",
+    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy usi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "International UN talks on controlling use of autonomous weapons collapse",
+    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to contro...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "El ejército israelí mata a tres personas al bombardear un vehículo con ayuda humanitaria en Gaza",
+    "summary": "Las Fuerzas Armadas aseguran que las víctimas pertenecían a la Yihad Islámica y llevaban comida a miembros de su organización",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-21/el-ejercito-israeli-mata-a-tres-personas-al-bombardear-un-vehiculo-que-distribuia-ayuda-humanitaria-en-gaza.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Zelenski, después de que Trump se refiriera a Putin como un “amigo”: “Para nosotros es un asesino”",
+    "summary": "El presidente ucranio considera que solo EE UU puede presionar a Rusia y que declaraciones como las del republicano no contribuyen a la resolución del conflicto",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-21/zelenski-despues-de-que-trump-se-refiriera-a-putin-como-un-amigo-para-nosotros-es-un-asesino.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "¿La ‘Nueva Yalta’? Las claves de la primera cumbre de Trump, Putin y Xi",
+    "summary": "El presidente de EE UU asegura que, además del control de armamento e Irán, abordarán la guerra en Ucrania",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-18/la-nueva-yalta-las-claves-de-la-primera-cumbre-de-trump-putin-y-xi.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Zelenski, en medio de los intentos de negociaciones sobre la guerra: \"Ucrania desea encarecidamente estar en la OTAN\"",
+    "summary": "El líder ucraniano se reúne con el secretario de Defensa británico en Kiev. Afirma que Putin \"no quiere detener la guerra\" y busca una escalada&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/21/6b01c184fdddff6b508b4583.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran",
+    "summary": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Countries open path towards ‘killer robots’ pact",
+    "summary": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "FAZ",
@@ -745,158 +898,5 @@
     "summary": "Die obersten Richter der UN halten es für erwiesen, dass das Militär von Myanmar die muslimische Minderheit mit „genozidaler Absicht“  gejagt und verfolgt hat. Das Urteil könnte auch für andere Konfli...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.sueddeutsche.de/politik/myanmar-internationaler-gerichtshof-den-haag-urteil-rohingya-voelkermord-li.3581811"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Podcast: „Auf den Punkt“: Xi-Putin-Trump-Gipfel: Großes Händeschütteln, nichts dahinter?",
-    "summary": "Das erste trilaterale Treffen von China, Russland und den USA wurde tagelang erwartet. Das hat es gebracht.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/dreiergipfel-xi-jinping-wladimir-putin-donald-trump-apec-li.3582936"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Myanmar: Wille zum Völkermord?",
-    "summary": "Das Urteil aus Den Haag ist wegweisend. Die Frage ist, was daraus in der Praxis folgt – für Israel und die Welt.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/urteil-des-igh-gegen-myanmar-wille-zum-voelkermord-201698628.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Trump drängt die Europäer, Putin anzurufen",
-    "summary": "US-Präsident lässt sich zu Treffen der Koalition der Willigen zuschalten +++ Merz: Jalta-Format wird den Frieden nicht bringen +++ Putin: Habe Europäer zu Gesprächen nach Moskau eingeladen +++ alle Ne...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-draengt-die-europaeer-putin-anzurufen-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: US-Senat lehnt Resolution zum Irankrieg ab",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-senat-lehnt-resolution-zum-irankrieg-ab-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Höchster Wolkenkratzer in Riad bei Huthi-Angriff beschädigt",
-    "summary": "Es soll „Sachschäden, aber keine Verletzte“ geben +++ Trotz geltender Waffenruhe: Israelische Armee startet „gezielte Operation“ im Gazastreifen +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wolkenkratzer-in-riad-beschaedigt-nach-huthi-angriff-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Koalition der Willigen: Der Gipfel im Schatten des Gipfels",
-    "summary": "Die „Koalition der Willigen“ setzt in Berlin Zeichen zur Unterstützung Kiews. Dann ruft Trump an und erzählt, Putin wolle wirklich Frieden.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-gipfel-in-berlin-und-dann-laesst-sich-trump-zuschalten-201698553.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Raphael Lemkin: Der Mann, der den Begriff Genozid geschaffen hat",
-    "summary": "Ein polnisch-jüdischer Jurist hat während des Zweiten Weltkriegs in den USA nach einem Begriff gesucht, der den Verbrechen der Nationalsozialisten angemessen war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/raphael-lemkin-der-mann-der-den-begriff-genozid-geschaffen-hat-201697949.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Diplom aberkannt: İmamoğlu kann wohl nicht zur Präsidentenwahl antreten",
-    "summary": "Erst das Politikverbot, jetzt die Aberkennung seines Diploms: Die türkische Justiz will eine Kandidatur des Erdoğan-Rivalen  verhindern. Eine Möglichkeit bleibt ihm noch.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/diplom-aberkannt-ekrem-imamolu-darf-wohl-nicht-bei-tuerkischer-praesidentenwahl-antreten-201698604.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-    "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealt...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-    "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US say they have agreed a peace statement after an unp...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-    "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awakeDonald Trump was, again, accused of falling asleep during a televised event, this time during t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-    "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agendaIt is arguably true, given it was the first such meeting of the leaders of China, Russia and ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-    "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancerGet our daily political email, free app or daily news podcastFormer Liberal MP Sharman Stone has ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
-    "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Merz critica la entente entre Trump, Xi y Putin: “El formato de Yalta solo trae inseguridad y división”",
-    "summary": "Una coalición de casi 40 países se reúne en Berlín para apoyar a Ucrania y exigir que Europa participe en las negociaciones de paz",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-19/merz-critica-la-entente-entre-trump-xi-y-putin-el-formato-de-yalta-solo-trae-inseguridad-y-division.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "\"Un 'formato de Yalta' no traerá la paz\": Europa reclama su silla en la negociación sobre Ucrania",
-    "summary": "La Coalición de los Voluntarios se reúne en Berlín horas después de la cumbre de Trump, Putin y Xi, mientras 2.800 militares ensayan en Polonia el despliegue de posguerra&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/19/6aff4198e85eced6428b459e.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Shenzhen no ha sido la cumbre de Yalta",
-    "summary": "La primera reunión entre Trump, Xi y Putin se salda sin avances en el control nuclear, consolida el protagonismo chino y ofrece un respiro diplomático al Kremlin mientras Europa queda fuera de la mesa...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/19/6afee137e9cf4a424e8b456d.html"
   }
 ]
