@@ -1,5 +1,239 @@
 [
   {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
+    "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Palestinians Stream Back to Northern Gaza on Foot",
+    "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Who Are the Israeli Hostages Released by Hamas?",
+    "summary": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+    "summary": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "Wall Street Journal",
+    "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+    "summary": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Drohnen-Attacke in der Ostsee: „Der Krieg weitet sich auf unsere unmittelbare Nachbarschaft aus“",
+    "summary": "In der Ostsee greifen Drohnen einen russischen Militärlogistik-Frachter an. Finnland vermutet dahinter die Ukraine. Auch in Deutschland löst der Vorfall große Sorgen um die Sicherheit aus.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/schattenflotte-drohnenangriff-ostsee-finnland-ukraine-russland-li.3584239"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Nach Gipfeltreffen in China: Trump nennt Putin erneut „Freund“",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/nach-gipfeltreffen-in-china-trump-nennt-putin-erneut-freund-li.3584393"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Nahost: 150 000 Zelte warten an der Grenze zu Gaza, dürfen aber nicht hinein",
+    "summary": "Der Winter ist da, Zehntausende Palästinenser leiden unter Kälte und Unwettern, viele Unterkünfte sind zerstört oder stehen ständig unter Wasser. Doch trotz Zusagen lässt Israel immer noch zu wenig Hi...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/gaza-israel-unwetter-hilfslieferung-blockade-e962771/"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Libanon: Die Angst vor dem Abzug",
+    "summary": "Auf Druck der Trump-Regierung ziehen die UN-Truppen Ende des Jahres aus Libanon ab. Frieden konnten sie nicht bringen. Aber ohne sie könnte es noch schlimmer werden.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/unifil-libanon-un-friedensmission-israel-hisbollah-li.3583535"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Berlin: FDP-Politikerin bei propalästinensischer Demo attackiert",
+    "summary": "Karoline Preisler wird nach Polizeiangaben geschubst und getreten, dann geht sie zu Boden. Der israelische Außenminister dankt der Politikerin für ihren Mut.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/karoline-preisler-fdp-angriff-demo-berlin-li.3584235"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Nach Drohnenangriff in der Ostsee: Russischer Frachter brannte die ganze Nacht",
+    "summary": "Von der finnischen Küstenwache veröffentlichte Bilder und Videos zeigen mehrere Schiffe, die die „Sparta II“ mit Wasserwerfern besprühten, um die Flammen zu löschen.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-brand-finnland-russland-ostsee-li.3571967"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Trump erhofft sich Gutes von Hackerangriff auf das FBI",
+    "summary": "",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-trump-erhofft-sich-gutes-von-hackerangriff-auf-das-fbi-li.3584268"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Brand auf russischem Frachter vor finnischer Küste dauert an",
+    "summary": "„Sparta II“ bei Drohnenangriff getroffen +++ Selenskyj beklagt Lieferverzögerungen von Flugabwehrraketen +++ Vermisste nach Einschlag russischer Drohne in Kiew +++ alle Neuigkeiten im Liveblog",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Gouverneur von Washington: ICE ist „völlig außer Kontrolle“",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gouverneur-von-washington-ice-ist-voellig-ausser-kontrolle-faz-19444916.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
+    "summary": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineriesGet our daily political email, free ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Cop31 climate talks break down as key deal rejected",
+    "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations• Cop31 live blog: longest climate summit ever faces collapseThe EU, the ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm eventWith their cavernous post-industrial venues, teeth-grinding four-by-four beats and boun...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+    "summary": "As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never beforeIn late 1998, Tony Blair was prime minister of...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "De Yalta a Shenzhen",
+    "summary": "Xi ejerce de anfitrión de una cumbre que pidió Putin para dividir Europa y que Trump aceptó con la vista puesta en el Nobel de la Paz",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-18/de-yalta-a-shenzhen.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Guasave despierta hecha una zona de guerra: “El hospital del IMSS estuvo secuestrado por sicarios y luego llegaron los militares”",
+    "summary": "En el malecón quedaron los restos de camionetas con  cuerpos apilados y sobre la carretera México 15, tráileres y coches carbonizados",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/mexico/2026-11-21/guasave-despierta-hecha-una-zona-de-guerra-el-hospital-del-imss-estuvo-secuestrado-por-sicarios-y-luego-llegaron-militares.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Trump obstaculiza la supervisión de contratos por un Congreso controlado por los demócratas",
+    "summary": "El presidente se prepara para afrontar las investigaciones que los legisladores emprenderán sobre los supuestos abusos y corrupción de su Gobierno",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Radicales israelíes incendian coches de palestinos en Cisjordania",
+    "summary": "Gadi Eisenkot exige al Gobierno y al aparato de de seguridad que usen todos los medios a su alcance para detener a los autores y sancionarlos duramente&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/22/6b02ce3dfc6c8339628b456e.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Café para todos en Berlín; té para tres en Shenzhen",
+    "summary": "La misma jornada en que el G-3 formado por Xi, Trump y Putin se reunía, la capital alemana acogía a los 'primeros espadas' europeos junto a Zelenski&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/22/6b01802ee4d4d838618b4596.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Trump y Xi acuerdan mantener a los humanos al mando de la IA militar",
+    "summary": "El temor a que un error de la IA desencadene una guerra entre las dos superpotencias impulsa un acercamiento en plena carrera por desarrollar armas cada vez más autónomas&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/22/6b016f05fc6c833b4d8b456e.html"
+  },
+  {
+    "countryCode": "JP",
+    "flagUrl": "https://flagcdn.com/w40/jp.png",
+    "source": "The Japan Times",
+    "title": "Myanmar says combating graft in military draft process",
+    "summary": "Myanmar's military is fighting various pro-democracy rebels and ethnic minority factions in a civil war sparked by a 2021 coup.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/myanmar-graft-military-draft/"
+  },
+  {
     "countryCode": "DE",
     "flagUrl": "https://flagcdn.com/w40/de.png",
     "source": "Süddeutsche Zeitung",
@@ -664,239 +898,5 @@
     "summary": "El presidente chino ejerce de anfitrión en una reunión que devuelve al ruso al centro de la diplomacia internacional y ofrece al estadounidense una oportunidad para impulsar su agenda exterior&nbsp;Le...",
     "timeAgo": "En Guncel (API)",
     "link": "https://www.elmundo.es/internacional/2026/11/19/6afe5afa21efa0b2798b457b.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "El \"milagro chino\" que acogió la gran fotografía del poder mundial",
-    "summary": "Xi Jinping exhibe su ambición tecnológica en una ciudad de drones, robots y multimillonarios. Trump y Putin hablan de paz, pero la cumbre termina sin acuerdos relevantes&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/20/6afef7a5e9cf4a463c8b457f.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Takaichi to meet ICC president on Tuesday",
-    "summary": "Takaichi and Akane will meet for the first time since U.S. President Donald Trump added the ICC president to its sanctions list in August.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/takaichi-akane-meeting-tuesday/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-    "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of f...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-    "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-    "summary": "The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-    "summary": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Bagdad: Irakische Kräfte rücken in Hochburg proiranischer Miliz vor",
-    "summary": "",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/bagdad-irakische-kraefte-ruecken-in-hochburg-proiranischer-miliz-vor-li.3583774"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Präsidentschaftswahl in Frankreich: Der Nächste, der Le Pen stoppen will",
-    "summary": "Dominique de Villepin war schon Frankreichs Außen-, Innen- und Premierminister, jetzt möchte er Präsident werden. Angesichts der Polarisierung zwischen Linksradikalen und Rechtsextremen warnt er vor e...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/praesidentschaftswahl-frankreich-2027-dominique-de-villepin-marine-le-pen-li.3583485"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Ukraine-Krieg: Drei russische Flugobjekte in Polen abgestürzt",
-    "summary": "Ministerpräsident Donald Tusk wirft Moskau nach Luftraumverletzung Provokation vor.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-drei-russische-flugobjekte-in-polen-abgestuerzt-li.3583660"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Koalition der Willigen: Die Europäer sind sich einig – dann ruft Trump aus der „Air Force One“ an",
-    "summary": "Bundeskanzler Merz ist es wichtig, das Berliner Ukraine-Treffen als Gegenbild zum Asien-Gipfel von Shenzhen zu präsentieren – inklusive Lästerei über Trump, Putin und Xi. Seine Gäste lassen sich auch ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-europa-donald-trump-jared-kushner-li.3582903"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Ukrainekrieg: Marschflugkörper in Polen abgestürzt",
-    "summary": "Verteidigungsminister spricht von „Provokation“ +++ Pistorius offen für Gespräche +++ Kreml widerspricht Kushner: NATO-Garantien für Kiew unannehmbar +++ alle Neuigkeiten im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tote-und-verletzte-bei-russischen-angriffen-auf-bruecken-in-kiew-faz-110683325.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "USA unter Trump: Trumps Cyberbeauftragter verlässt Posten nach Technik-Pannen",
-    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-cyberbeauftragter-cairncross-verlaesst-posten-nach-technik-pannen-faz-19444916.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Liveblog Nahost: Irak geht gegen  proiranische Miliz vor",
-    "summary": "Einsatz südlich von Bagdad +++ Iran will US-Seeblockade durchbrechen +++ Krieg kostet laut Pentagon schon fast 50 Milliarden Dollar +++ alle Entwicklungen im Liveblog",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-irak-geht-gegen-proiranische-miliz-vor-faz-200583539.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Fraktur: Der Atomkoffer des Kanzlers",
-    "summary": "Als Merz seinen Ranzen holte, knickte Klingbeil ein. Allerdings wird der Kanzler die SPD nie so in der Tasche haben wie Xi Putin und Putin Trump.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/fraktur/fraktur-auch-bundeskanzler-merz-hat-einen-atomkoffer-201701911.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ukraine-Verhandlungen: Europäer bereiten sich auf Gespräche mit Russland vor",
-    "summary": "Die nächste Gesprächsrunde zum Ukrainekrieg könnte in den Emiraten stattfinden. Doch in Paris zweifelt man an Putins Verhandlungsbereitschaft.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-europa-bereitet-sich-auf-gespraeche-mit-russland-vor-accg-201701260.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "mit Tankerkonvoi: Iran will ein Ende der Seeblockade erzwingen",
-    "summary": "Teheran stellt Trump vor die Wahl: Krieg oder Verhandlungen. In Amerika dürfte man das als Beleg werten, dass Teheran das Wasser bis zum Hals steht.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/iran-will-ende-der-seeblockade-erzwingen-accg-201701027.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Knesset-Sprecher: Das ist noch nicht der Durchbruch für Eisenkot",
-    "summary": "Die Opposition in Israel setzt einen neuen Parlamentspräsidenten durch. Mit ihr stimmen die arabischen Parteien. Aber eine Regierungsmehrheit ist das noch nicht.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ausland/gadi-eisenkot-setzt-knessetpraesidenten-durch-doch-reicht-es-fuer-mehr-201694887.html"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Migrantifa: Der Pakt von Neukölln",
-    "summary": "Der Triumph der Linken bei der Berlin-Wahl war auch Ergebnis eines abenteuerlichen Pakts: extreme Linke und migrantische Islamisten Seit an Seit. Droht ihnen jetzt der jähe Absturz?",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/inland/der-berliner-pakt-zwischen-linksextremen-und-hamas-unterstuetzern-accg-201648148.html"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "California’s coastal communities on alert as biggest waves in years hit state",
-    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-    "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, inclu...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-    "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it to release funds to ...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Race to be next UN secretary general exposes divisions among world powers",
-    "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive moment on Friday wh...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
-    "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build outBusiness live – latest updatesAnthropic’s shares slumped at the start of trading on Frida...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
-    "summary": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in AustraliaGet our breaking news email, free app or...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-    "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UKSenior correspondent\n \n \n Making today’s reset deal contingent on a further agreement on the l...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
-  },
-  {
-    "countryCode": "UK",
-    "flagUrl": "https://flagcdn.com/w40/gb.png",
-    "source": "The Guardian",
-    "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
-    "summary": "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for yearsUK-EU summit live: latest news updatesKemi Badenoch has been advised by her team t...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives"
   }
 ]
