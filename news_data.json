@@ -3,6 +3,204 @@
     "countryCode": "US",
     "flagUrl": "https://flagcdn.com/w40/us.png",
     "source": "The New York Times",
+    "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+    "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
+    "title": "Trump Administration Pauses Joint Operations With Ecuador",
+    "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "USA: Medien: Trump plant wohl neue Zölle gegen die EU, China und weitere Länder",
+    "summary": "Damit wolle die Trump-Regierung die Zölle ersetzen, die zuvor vom Supreme Court gekippt worden waren, heißt es.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-zoelle-trump-china-eu-li.3578585"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Trumps Erbe: Der Richtungsstreit bei den Republikanern beginnt",
+    "summary": "Die vernichtende Niederlage bei den Midterms stellt die Republikanische Partei vor die Frage, wie sie sich zum US-Präsidenten und seiner Maga-Bewegung verhalten soll. Die Basis ist gespalten.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/vance-rubio-trump-midterms-niederlage-maga-trumpismus-arbeiter-umfrage-li.3584846"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "Süddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Magyar will Ungarn wieder der Ukraine annähern",
+    "summary": "Erstmals als Ungarns Regierungschef trifft Peter Magyar Präsident Selenskij – anders als Vorgänger Viktor Orban bezeichnet er Russland als Aggressor des Kriegs mit der Ukraine.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-friedensschluss-russland-lukaschenko-ungarn-li.3585810"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Liveblog Ukrainekrieg: Selenskyj: Lukaschenkos Begleitschutz-Angebot ist unseriös",
+    "summary": "Lukaschenko möchte Selenskyj nach Moskau begleiten +++ Ukraine: Zwei Tote bei russischem Angriff auf Region Odessa +++ Papst Leo XIV. gratuliert russischem Patriarchen Kyrill I. +++ alle Neuigkeiten i...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-lukaschenkos-begleitschutz-angebot-ist-unserioes-faz-110683325.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "USA unter Trump: Hackerangriff auf US-Geheimdienst CIA laut Medien",
+    "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hackerangriff-auf-us-geheimdienst-cia-laut-medien-faz-19444916.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Moskaus Kriegstote: Putin ist eine tödliche Gefahr für Russen",
+    "summary": "Mehr als 700.000 russische Soldaten sind wohl bisher im Angriffskrieg gegen die Ukraine gefallen. Diese Zahl ist ein Indiz für Putins Entschlossenheit.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/ukraine/an-russlands-700-000-kriegstoten-traegt-putin-die-schuld-201712906.html"
+  },
+  {
+    "countryCode": "DE",
+    "flagUrl": "https://flagcdn.com/w40/de.png",
+    "source": "FAZ",
+    "title": "Nächster Präsident: Auf Trump kommt es immer weniger an",
+    "summary": "Trump bringt seinen neuen Stabschef als potentiellen Nachfolger ins Gespräch. Aber für die Republikaner stellt sich eine andere Frage.",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/naechster-praesident-warum-trump-stephen-miller-ins-spiel-bringt-201706506.html"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of ...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "California’s coastal communities on alert as biggest waves in years hit state",
+    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+    "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García has left the United States of his own volition, his...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australian politics live: ‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
+    "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a ‘zero-sum game’Weighing into the gigantic debate that is AI companies wanting to sc...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+    "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifiesFollow our Australia politics live blog for latest...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures"
+  },
+  {
+    "countryCode": "UK",
+    "flagUrl": "https://flagcdn.com/w40/gb.png",
+    "source": "The Guardian",
+    "title": "The Russian army’s secret death toll – podcast",
+    "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@th...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Israel destruye las condiciones para concebir nuevas vidas en Gaza: “Lo he perdido todo, hasta la esperanza”",
+    "summary": "Amnistía Internacional documenta en un informe el daño desproporcionado que la guerra ha infligido a las mujeres y niñas, que representan más del 30% de las víctimas mortales",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-25/israel-destruye-las-condiciones-para-concebir-nuevas-vidas-en-gaza-lo-he-perdido-todo-hasta-la-esperanza.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Putin y Trump buscan un cambio de régimen en Europa",
+    "summary": "Ambos dirigentes se proponen que las negociaciones de paz sobre Ucrania empiecen por una renovación de la arquitectura de seguridad europea al gusto de Moscú",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-15/putin-y-trump-buscan-un-cambio-de-regimen-en-europa.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Libia se convierte en el nuevo frente entre Ucrania y Rusia",
+    "summary": "Moscú se alía con Egipto y Emiratos Árabes Unidos frente a Turquía y Qatar en la pugna por el control de un país estratégico y rico en hidrocarburos",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/internacional/2026-11-25/libia-se-convierte-en-el-nuevo-frente-entre-ucrania-y-rusia.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El País",
+    "title": "Una derrota “demasiado grande para manipularla”: por qué Trump no cumplió sus amenazas de subvertir las elecciones",
+    "summary": "El Gobierno desiste de su demanda en Alaska y pone fin a su campaña para influir en las ‘midterms’, fracasada por la magnitud de la victoria demócrata y la resistencia de funcionarios y jueces",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://elpais.com/us/2026-11-24/una-derrota-demasiado-grande-para-manipularla-por-que-trump-no-cumplio-sus-amenazas-de-subvertir-las-elecciones.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Narva, de ciudad puente con Rusia a callejón sin salida: \"Poco a poco, la guerra ha llegado a nuestra puerta\"",
+    "summary": "Estonia suspenderá los cruces el 1 de diciembre para frenar los sabotajes y obligará a las familias a viajar por terceros países&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/25/6b05d8d5e85eced2248b4577.html"
+  },
+  {
+    "countryCode": "ES",
+    "flagUrl": "https://flagcdn.com/w40/es.png",
+    "source": "El Mundo",
+    "title": "Kilmar Ábrego, el salvadoreño que se enfrentó a Trump para no ser deportado a las cárceles de Bukele y se convirtió en un símbolo, tira la toalla y se va a España",
+    "summary": "Viajará a nuestro país ante el temor a ser deportado a Liberia o Uganda después de que el Departamento de Justicia haya buscado vengarse de que impugnara su expulsión en 2025&nbsp;Leer",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.elmundo.es/internacional/2026/11/25/6b061c55fdddff330d8b4595.html"
+  },
+  {
+    "countryCode": "CN",
+    "flagUrl": "https://flagcdn.com/w40/cn.png",
+    "source": "South China Morning Post",
+    "title": "Hong Kong to take ‘risk-based approach’ to monitoring Tai Po fire memorials",
+    "summary": "Hong Kong’s security chief has said authorities will take a “risk-based approach” to monitoring memorial events marking the first anniversary of the deadly Wang Fuk Court blaze on Thursday, warning th...",
+    "timeAgo": "En Guncel (API)",
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3375699/hong-kong-take-risk-based-approach-monitoring-tai-po-fire-memorials"
+  },
+  {
+    "countryCode": "US",
+    "flagUrl": "https://flagcdn.com/w40/us.png",
+    "source": "The New York Times",
     "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
     "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
     "timeAgo": "En Guncel (API)",
@@ -700,203 +898,5 @@
     "summary": "La caída del Chapo Isidro certifica la intensa colaboración de las agencias del Gobierno de Trump y rompe definitivamente con la política de reticencia y rechazo de López Obrador",
     "timeAgo": "En Guncel (API)",
     "link": "https://elpais.com/mexico/2026-11-23/mexico-consolida-el-apoyo-en-inteligencia-de-estados-unidos-contra-el-narco.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "El triunvirato de Shenzhen y la rebelión del resto del mundo",
-    "summary": "Xi, Trump y Putin envían un mensaje de convergencia y rechazo a un orden que les pueda constreñir. Los demás países harán bien en tomárselo en serio",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-19/el-triunvirato-de-shenzhen-y-la-rebelion-del-resto-del-mundo.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Qué sigue para el futuro político de Cuba: ¿ataque de Trump antes de fin de año o giro demócrata?",
-    "summary": "Washington no ha logrado que el Gobierno cubano ceda en una negociación y el castrismo no está haciendo más que apostar por el factor tiempo",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/us/2026-11-23/que-sigue-para-el-futuro-politico-de-cuba-ataque-de-trump-antes-de-fin-de-ano-o-giro-democrata.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Irán flagela con 74 latigazos a la cantante Parastoo Ahmadi por cantar sin velo en YouTube",
-    "summary": "Cuatro miembros de su grupo musical, acusados también de difundir “contenido inmoral” por ese concierto, han sufrido ese mismo castigo, considerado una forma de tortura",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-23/iran-flagela-con-74-latigazos-a-la-cantante-parastoo-ahmadi-por-cantar-sin-velo-en-youtube.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Ucrania golpea a la Armada rusa en Libia, a 2.000 kilómetros de la línea de frente",
-    "summary": "El presidente ucranio, Volodímir Zelenski, afirma que un ataque con siete drones navales hundió un barco de guerra de Moscú",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El País",
-    "title": "Armenia y Estados Unidos empiezan las obras de la Ruta Trump, el corredor que unirá Azerbaiyán con su enclave de Najicheván",
-    "summary": "Irán asegura que el Gobierno armenio le ha garantizado que no habrá fuerzas militares junto a su frontera",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://elpais.com/internacional/2026-11-23/armenia-y-estados-unidos-empiezan-las-obras-de-la-ruta-trump-el-corredor-que-unira-azerbaiyan-con-su-enclave-de-najichevan.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Los drones a reacción trasladan la guerra al oeste de Ucrania",
-    "summary": "Rusia intensifica los ataques en las regiones que se consideraban la retaguardia, que acoge a cientos de miles de desplazados y entidades que huyeron del este del país&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/24/6b0432efe9cf4a96248b4583.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ya no hay mar seguro para Putin: Ucrania lleva su guerra naval al Báltico y al Mediterráneo",
-    "summary": "Sin una flota de guerra propia, Kiev ha hundido una corbeta rusa en Libia y ataca buques a más de 2.000 kilómetros del frente con drones marítimos y aéreos&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/23/6b046a87e4d4d852258b4587.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Ucrania hunde una corbeta rusa en Libia y la guerra cruza el Mediterráneo",
-    "summary": "El ataque con drones se produce a más de 1.600 kilómetros del frente, alimentando el temor a una expansión geográfica del conflicto&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/23/6b03ddfde9cf4a5f188b4574.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
-    "summary": "El ataque a la Merkury abre un nuevo frente naval en Libia y expone a buques, puertos y costas europeas a los riesgos del conflicto&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/23/6b04850bfdddffd4538b457f.html"
-  },
-  {
-    "countryCode": "ES",
-    "flagUrl": "https://flagcdn.com/w40/es.png",
-    "source": "El Mundo",
-    "title": "Demócratas aseguran un récord de 258 escaños en la Cámara de Representantes",
-    "summary": "Los demócratas no descartan el tercer juicio político contra Trump e investigarlo por sus negocios financieros&nbsp;Leer",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.elmundo.es/internacional/2026/11/23/6b042540e4d4d858798b4580.html"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Nvidia rehires Huang in stunning reversal after Trump push",
-    "summary": "President Donald Trump had pressed for the move, and the board cited the U.S. government's input when making the announcement.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/business/2026/11/24/tech/nvidia-huang-trump-push/"
-  },
-  {
-    "countryCode": "JP",
-    "flagUrl": "https://flagcdn.com/w40/jp.png",
-    "source": "The Japan Times",
-    "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
-    "summary": "Zelenskyy said Monday ​morning that Ukraine used seven naval drones in Sunday's attack.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.japantimes.co.jp/news/2026/11/23/world/libya-drone-attack-russian-ship-ukraine/"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
-    "summary": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
-    "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "The New York Times",
-    "title": "Is Mexico Stepping Up in the War on Drugs?",
-    "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-    "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-    "summary": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-    "summary": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
-  },
-  {
-    "countryCode": "US",
-    "flagUrl": "https://flagcdn.com/w40/us.png",
-    "source": "Wall Street Journal",
-    "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-    "summary": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "Wettrüsten im All: Planet der Waffen",
-    "summary": "Auf der Erde reden die USA, China und Russland davon, Atomwaffen zu reduzieren – da steht die nukleare Aufrüstung im Orbit offenbar unmittelbar bevor.  Wird der nächste Krieg im Weltall entschieden? E...",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/satelliten-weltraum-russland-china-atomwaffen-aufruestung-usa-bundeswehr-iss-e003573/"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "Süddeutsche Zeitung",
-    "title": "USA: US-Demokraten erringen im Repräsentantenhaus größte Mehrheit seit Jahrzehnten",
-    "summary": "Ab Januar werden mindestens 258 Demokraten in der Kongresskammer sitzen – und Präsident Trump das Regieren erschweren. In vier Wahlkreisen stehen die Ergebnisse noch aus.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kongress-repraesentantenhaus-demokraten-senatswahl-li.3578585"
-  },
-  {
-    "countryCode": "DE",
-    "flagUrl": "https://flagcdn.com/w40/de.png",
-    "source": "FAZ",
-    "title": "Ostflanke: Eine schwierige Abwägung für die NATO",
-    "summary": "Die vergangenen Tage zeigen, dass der Ukrainekrieg zu einer immer größeren Herausforderung wird – auch für die Unterstützer Kiews.",
-    "timeAgo": "En Guncel (API)",
-    "link": "https://www.faz.net/aktuell/politik/ukraine/nato-vor-schwieriger-abwaegung-drei-vorfaelle-ein-dilemma-201706520.html"
   }
 ]
